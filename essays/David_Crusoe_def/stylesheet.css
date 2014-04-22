@@ -1,0 +1,158 @@
+.block {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: list-item;
+    line-height: 1.2;
+    margin-left: 18pt
+    }
+.block3 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block4 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0 36.6pt
+    }
+.block5 {
+    display: block;
+    font-style: italic;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.15;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.15;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre5 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre6 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: always
+    }
+.calibre7 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre8 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.list {
+    display: block;
+    list-style-type: disc;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin: 0
+    }
+.noteref {
+    font-size: 0.77778em;
+    line-height: normal;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    margin: 1em 0
+    }
+.notes-header {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-before: always;
+    padding: 0;
+    margin: 0
+    }
+.text {
+    color: #000;
+    line-height: 1.2
+    }
+.text1 {
+    color: #00F;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.text2 {
+    color: #000;
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.text3 {
+    color: #00F;
+    line-height: 1.2
+    }
+.text4 {
+    color: #000;
+    font-style: italic;
+    line-height: 1.2
+    }

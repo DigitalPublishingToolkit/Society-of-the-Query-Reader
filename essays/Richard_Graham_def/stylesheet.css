@@ -1,0 +1,168 @@
+.block {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    background-color: #FF0;
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block4 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0 42.6pt
+    }
+.block5 {
+    color: #000;
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    line-height: 1.2;
+    text-indent: -28.4pt;
+    padding: 0;
+    margin: 0 0 0 28.4pt
+    }
+.block8 {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 21.8pt;
+    padding: 0;
+    margin: 0 0 0 14.2pt
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre3 {
+    text-decoration: none
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre5 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre6 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: always
+    }
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.noteref {
+    font-size: 0.77778em;
+    line-height: normal;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    margin: 1em 0
+    }
+.notes-header {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-before: always;
+    padding: 0;
+    margin: 0
+    }
+.text {
+    color: black;
+    line-height: 1.2
+    }
+.text1 {
+    color: #000;
+    line-height: 1.2
+    }
+.text2 {
+    color: black;
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.text3 {
+    color: black;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text4 {
+    color: #000;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text5 {
+    color: black
+    }
+.text6 {
+    color: black;
+    font-style: italic
+    }
+.text7 {
+    color: #000
+    }
+.text8 {
+    color: #000;
+    font-style: italic
+    }

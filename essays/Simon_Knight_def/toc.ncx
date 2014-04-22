@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e14707f9-9d6f-4697-93b6-ce2c951fe617" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>(Untitled)</text>
+      </navLabel>
+      <content src="index.html#toc_id_1"/>
+      <navPoint class="chapter" id="num_2" playOrder="2">
+        <navLabel>
+          <text>Researching Search</text>
+        </navLabel>
+        <content src="index.html#toc_id_2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>Search Engines as Informants</text>
+        </navLabel>
+        <content src="index.html#toc_id_3"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>Search as an Epistemic Tool – More of What You Want</text>
+        </navLabel>
+        <content src="index.html#toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>Testimonial Expertise</text>
+        </navLabel>
+        <content src="index.html#toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>When No Answer Is Answer Enough</text>
+        </navLabel>
+        <content src="index.html#toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>Diversity Aware Search</text>
+        </navLabel>
+        <content src="index.html#toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>(Untitled)</text>
+      </navLabel>
+      <content src="index.html#toc_id_8"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Conclusions</text>
+      </navLabel>
+      <content src="index.html#toc_id_9"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>References</text>
+      </navLabel>
+      <content src="index.html#toc_id_10"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="index.html#toc_id_11"/>
+    </navPoint>
+  </navMap>
+</ncx>

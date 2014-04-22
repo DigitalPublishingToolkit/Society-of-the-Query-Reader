@@ -1,0 +1,143 @@
+.block {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    display: list-item;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 28.8pt;
+    margin-top: 0
+    }
+.block4 {
+    display: list-item;
+    line-height: 1.2;
+    margin: 0 0 0 18pt
+    }
+.block5 {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0 -0.65pt
+    }
+.block6 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    display: block;
+    font-size: 0.58333em;
+    page-break-before: always;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre4 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre7 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre8 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: always
+    }
+.calibre9 {
+    font-style: italic
+    }
+.calibre10 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.list {
+    display: block;
+    list-style-type: none;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin: 0
+    }
+.list1 {
+    display: block;
+    list-style-type: disc;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin: 0
+    }
+.noteref {
+    font-size: 0.77778em;
+    line-height: normal;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    margin: 1em 0
+    }
