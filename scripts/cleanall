@@ -1,0 +1,12 @@
+#!/bin/bash -x
+
+for i in `ls essays/`
+do
+doc=essays/$i/index.html
+echo $doc
+cat $doc | \
+  python scripts/cleanhtml.py | \
+  python scripts/prettyprintxml.py > \
+  $doc.new
+mv $doc.new $doc
+done
