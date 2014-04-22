@@ -47,7 +47,6 @@ def stripemptytags (src, method="xml", empty=lambda x: x.replace("&nbsp;", " ").
     only the tag itself is removed as elt.text gets unwrapped from the element
     """
     t = html5lib.parse(src, namespaceHTMLElements=False)
-    log("stripemptypage")
     for parent, prev, elt in iterparentandprev(t):
         if elt.tag in EMPTY_TAGS and len(elt) == 0:
             # log(u"check {0}|{1}|{2}".format(elt.tag, elt.text, empty(elt.text)))

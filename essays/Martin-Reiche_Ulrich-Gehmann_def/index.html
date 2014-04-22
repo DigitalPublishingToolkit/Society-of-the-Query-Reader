@@ -1,234 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Towards an anthropology of location-based recommendation and search</title>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"></meta>
-    <link href="stylesheet.css" rel="stylesheet" type="text/css">
-    <link href="page_styles.css" rel="stylesheet" type="text/css">
-  </head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
   <body class="calibre">
-    <p class="block">Towards an Anthropology of Location-Based Recommendation and Search</p>
-    <p class="block">Martin Reiche and Ulrich Gehmann</p>
-    <p class="block1"></p>
-    <p class="block1">With the increase and advance of software for mobile devices, the paradigm of <i class="calibre1">relevance</i> for the user has experienced a major shift. Functionality that was earlier heavily bound to software on stand-alone machines such as mainframes is now available for citizens with sufficient spare change wherever they are located in the world. Cell phones have advanced to smart phones and so increased in complexity, computational power, and practicability. However, an even more important change has taken place: computers are no longer bound to a specific place, but rather can be easily carried in a person&#8217;s pocket and are therefore as mobile as their owner. This new mobile freedom and independence is of course also applicable to the software on the phone,<sup class="calibre2">
-        <sup class="noteref" id="back_note_1">
-          <a class="calibre3" href="#note_1" title="1">1</a>
-        </sup>
-      </sup> which by now enables the user to use the phone in almost any way that a software developer envisions and that hardware allows.</p>
-    <p class="block1"></p>
-    <p class="block1">Thus, software itself has become mobile, and this new mobility leads inarguably to a paradigm shift: through the hardware of the mobile device, software becomes aware of its own mobility and can leverage the new kinds of information it acquires: location, acceleration, proximity to other devices,<sup class="calibre2">
-        <sup class="noteref" id="back_note_2">
-          <a class="calibre3" href="#note_2" title="2">2</a>
-        </sup>
-      </sup> and access to local infrastructure through Wi-Fi. These new parameters address the user&#8217;s notion of space, place, and relevance drastically, as these terms now have to be defined not only through the eyes of the user, but also through the &#8216;eyes&#8217; of the software. The software can no longer be seen as independent from the user but is intertwined with some of his properties in physical space. This paradigm shift will be the focus of this article.</p>
-    <p class="block1"></p>
-    <p class="block">Relevance</p>
-    <p class="block1">We all have a deep understanding of what is relevant for us in our life. Although understanding what is relevant might be very subjective, the idea that some things are more relevant than others is part of our cultural heritage. When it comes to breaking down a definition of relevance though, we can argue with the <i class="calibre1">conditio humana</i>: the basic notion of the human being, i.e. what makes us human after all. If we accept that relevance is what serves this basic notion of the <i class="calibre1">conditio humana</i>, then relevance is subjective. If relevance is subjective from the very start of its definition, we have to question whether a definition of relevance that has its roots in computer science and mathematics &#8211; domains that are precise and, as an effect, computable &#8211; is an adequate definition of relevance for a human being.</p>
-    <p class="block1"></p>
-    <p class="block1">At this point, there are two aspects of general importance pertaining to discussions of the <i class="calibre1">conditio humana</i>. Even if it is true that the human condition embodies a subjective concept, there are conditions that serve as a framework within which these subjectivities remain embedded. First of all, it was a specific sociocultural and economic context that gave rise to an unprecedented use of technology, and, in its wake, our dependence on technological devices to such a degree that our very conceptions of the self (and hence of the human condition) became strongly influenced by it. First of all, our daily life worlds became technologized to such a degree that living without technology turns out to be almost impossible. To provide an example, at the onset of a third wave of modernization shortly after World War II, Schelsky notes our increasing dependence on &#8216;automatization&#8217; (as he terms it), with respective social consequences.<sup class="calibre2">
-        <sup class="noteref" id="back_note_3">
-          <a class="calibre3" href="#note_3" title="3">3</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block1"></p>
-    <p class="block1">This dependence was the case long before the arrival of the internet. The technological condition became an intrinsic part of the human condition; this effect shouldn&#8217;t be forgotten when discussing its continuous accelerations manifested in the paradigm shift toward mobile devices mentioned in the beginning. We have been technologically determined for a long while (as Schelsky wrote in 1957), and in such an overall environment, which has been characterized as a <i class="calibre1">technogene</i> space,<sup class="calibre2">
-        <sup class="noteref" id="back_note_4">
-          <a class="calibre3" href="#note_4" title="4">4</a>
-        </sup>
-      </sup> we encounter not only new paradigms but also ontologies. Seen against the background of a continuous generation of non-places<sup class="calibre2">
-        <sup class="noteref" id="back_note_5">
-          <a class="calibre3" href="#note_5" title="5">5</a>
-        </sup>
-      </sup> associated with that technogene space, that paradigm shift &#8211; or more precisely, the ontology it announces &#8211; perfectly fits with a scenario of generating a literal utopia (that is, a non-place).</p>
-    <p class="block1"></p>
-    <p class="block1">Second, when considering possible determinants of the present human condition, we should look back at the long history of discussions occurring under the aegis of technology-driven modernity. Any discussion about a new ontological status (expressed in the paradigm shift) must consider all the past shocks related to the <i class="calibre1">conditio humana</i>, from 19th century metropolization onwards to the present state.<sup class="calibre2">
-        <sup class="noteref" id="back_note_6">
-          <a class="calibre3" href="#note_6" title="6">6</a>
-        </sup>
-      </sup> We must consider these shocks in order to take a broader perspective of the phenomena discussed as they deserve, and for them to be understood at all.</p>
-    <p class="block1"></p>
-    <p class="block1">
-      <b class="calibre4">Location-Based Recommendation and Search</b>
-      <br class="calibre5">Location-based recommendation is a concept from mathematics and computer science that has made a great impact on our experience of the web, especially in the last decade. Almost every online shop offers some sort of recommendation to its users: either they recommend products based on what they learn about the user&#180;s previous interests or based on what other users have bought independently of each other. Sometimes recommendations appear completely random to outsiders. Location-based recommendation can formally be seen as a mathematical function that puts an entity in space in relation to other entities in (the same or another) space by utilizing a common space called <i class="calibre1">feature space.</i>
-      <sup class="calibre2">
-        <sup class="noteref" id="back_note_7">
-          <a class="calibre3" href="#note_7" title="7">7</a>
-        </sup>
-      </sup> Thus, in order to compute relations, the entities are processed and reduced to <i class="calibre1">features</i> that resemble the entity. It must be clear that this reduction is intentionally done by the designer of the recommender system and that the designer&#8217;s beliefs about <i class="calibre1">what makes an entity to be the entity it is</i> might be highly subjective. Taking into account that every next step of the recommendation is first and foremost based on this reductive step, it is obvious that the designer&#8217;s subjective beliefs about the world are subsequently affecting every user of the system.</p>
-    <p class="block1"></p>
-    <p class="block1">Like the <i class="calibre1">conditio humana</i>, the problem of reduction has a long modern history as well, one aligned with the dominance of technogene spaces addressed earlier. A space generated by technology has to be reductive <i class="calibre1">eo ipso</i> since the essence of the technical approach to reality is to functionalize things. The question &#8216;what makes an entity to be the entity it is&#8217; has to be interpreted in these terms, too, because we are discussing functionalities. And functionality <i class="calibre1">is</i> reductive, otherwise it wouldn&#8217;t work. Based on these fundamental relations that cannot be overcome, a functionalized entity is a reduced entity, and the feature space that is made of functionalized entities is reductive, too, by necessity. </p>
-    <p class="block1"></p>
-    <p class="block1">With regards to <i class="calibre1">relevance</i>, an additional aspect comes into play. For functionalized features, only functions are relevant at the proverbial end of the day, whether technical functions enabling performance and the use of apps (a point to come), economic functions sustaining the technical ones, or last but not least, social &#8216;functions&#8217; as the result of all of this, since social functions are one of the main <i class="calibre1">applications</i>
-      <span class="calibre6"> of the former. So, the relevant world becomes the world of the functional, that is, the world of functions.  </span>
-    </p>
-    <p class="block1"></p>
-    <p class="block1">By reducing the world to features, location-based recommendation algorithms calculate the relevance of every entity in relation to another entity. This other entity does not have to be of the same kind as the entity that will be recommended; it might just be the location of the user, that is a recommendation could respond to the relation of the user&#8217;s current location to a set of night clubs (based on proximity) as well as a night club&#8217;s relation to other night clubs (based on e.g. music genre and proximity). Note that this notion of location-based recommendation already includes the concept of location-based search. While search delivers information to its user based on a query and thus can be seen as a reactive way to present information (&#8216;search results&#8217;), recommendation provides results without requiring the user to execute a concrete query. The effects of search and recommendation for the user, though, remain the same, which is why in the course of this article we will use these two terms synonymously. In the case of location-based recommendation algorithms, we will from now on assume that the user&#8217;s proximity to the recommended entities plays an important role in the calculation process of the recommendation.</p>
-    <p class="block1"></p>
-    <p class="block1">Besides the problem that already emerges from processes of reduction, a problem occurs in the calculation of the results. At this stage all entities are already reduced to a set of features, and the calculation involves the computation of distance between these feature sets. While there is extensive literature on metrics that can be used in order to compute these distances,<sup class="calibre2">
-        <sup class="noteref" id="back_note_8">
-          <a class="calibre3" href="#note_8" title="8">8</a>
-        </sup>
-      </sup> modern recommender systems usually try to learn users&#8217; habits and interests, then apply this knowledge to the recommendation process by using <i class="calibre1">weighted metrics</i>. These weighted metrics deploy different factors of influence for each feature in the calculation process in order to resemble the information the system has already learned about the user.<sup class="calibre2">
-        <sup class="noteref" id="back_note_9">
-          <a class="calibre3" href="#note_9" title="9">9</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block1"></p>
-    <p class="block1">Finally, the results of the recommendation might consist of entities nearby, entities that match the user&#8217;s interests to a high degree, as well as entities that increase the chance of serendipity as they are drawn from a number of other entities, and the system is not sure whether they are of interest to the user or not.<sup class="calibre2">
-        <sup class="noteref" id="back_note_10">
-          <a class="calibre3" href="#note_10" title="10">10</a>
-        </sup>
-      </sup> These results all have in common that their relevance to the user has been mathematically calculated, and that this calculation has followed a model of the world that has been created by people who might have different beliefs about the world than the user. This means that all recommender systems not only resemble the user&#8217;s spatial properties or interests but also the designer&#8217;s very own notion of relevance on all the levels of calculation.</p>
-    <p class="block1"></p>
-    <p class="block">The World as a Set of Apps and the New Spatiality</p>
-    <p class="block1">Taking into account the perspective of a smart phone user, we should think over a few more problems arising from the conception of relevance that are deeply intertwined with the idea of the <i class="calibre1">app</i>. The basic idea of an app is to encapsulate one functionality into a single piece of software and to distribute this software worldwide. This concept concentrates the efforts of a single piece of software into the optimization of its functionality, eventually reaching the point where the piece of software becomes the de facto standard for the solution to a specific problem.<sup class="calibre2">
-        <sup class="noteref" id="back_note_11">
-          <a class="calibre3" href="#note_11" title="11">11</a>
-        </sup>
-      </sup> This single task&#8217;s degree of perfection is one of the key benefits of the app and a big reason for its success story.<sup class="calibre2">
-        <sup class="noteref" id="back_note_12">
-          <a class="calibre3" href="#note_12" title="12">12</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block1"></p>
-    <p class="block1">However, providing one functionality per software piece also produces a variety of problems. First of all, basic functionalities such as textual communication are duplicated over a multitude of apps; the average smart phone today has at least one app for standard text, one for Facebook messages, and one for Twitter, not to mention the number of apps for taking pictures or writing notes. All these apps have their rightful purpose as they offer a certain approach towards one functionality and therefore might serve a user better than an app with the same functionality but a different approach. This in itself is not yet a problem, but it starts to become a problem (for example for communication) when the existing systems cannot communicate with each other, or users cannot communicate across these platforms. You can refer to this problem as the <i class="calibre1">lock-in effect.</i>
-      <sup class="calibre2">
-        <sup class="noteref" id="back_note_13">
-          <a class="calibre3" href="#note_13" title="13">13</a>
-        </sup>
-      </sup> Ultimately it forces users to work with a variety of apps that all provide the same functionality, thus effectively undermining the whole idea of the app.</p>
-    <p class="block1"></p>
-    <p class="block1">The information that can be used to make a recommendation must be gathered by the apps themselves, which means that every app can only supply recommendations on the basis of its own investigations about the user, and this significantly affects the quality of the recommendation. If the recommendation calculation itself can only be done on the basis of the information gathered by the single app, then important information might be missing when recommending entities. Even more, self-learning recommender systems will learn only a small subset of the variety of the user&#8217;s interests (as they can only learn interests that have to do with the functionality of the app itself) and therefore will optimize their algorithms in a direction that no longer fully resembles the user&#8217;s interests, so that the relevance of the recommended entities decreases.</p>
-    <p class="block1"></p>
-    <p class="block1">At the same time, the relevance of the recommended entities of each app increases in the mathematical model of the app (which simply results in the app optimizing its recommendations based on a model and the learned characteristics and interests of the user). What then happens is that each app develops its own optimized model of the world and offers this view to the user, and the world gets functionally segmented based on the optimizations of each app on the phone. Instead of showing the user the relevant world, smart phone apps show the user a world that is optimized based on her location and interests for each specific functionality, each represented by a different app. The user becomes the inhabitant of a functionally segmented environment, meaning that the relevant world around the user cannot be modeled based on the concept of the app.<sup class="calibre2">
-        <sup class="noteref" id="back_note_14">
-          <a class="calibre3" href="#note_14" title="14">14</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block1"></p>
-    <p class="block1">If you turn from the single app and allow data acquired from functions of different apps to merge into one single user profile, as with a Google or Amazon account, then the recommendation quality may increase again as the functional segmentation might not take place in such a drastic way. However, new problems arise regarding a major concern with all recommender systems: in order to work the way they are supposed to, recommender systems create profiles from an extensive collection of data acquired from users&#8217; behavioral patterns, leading to very understandable privacy concerns. In essence, to get rid of the problems of functional segmentation, user profiles must be created that are shared among several (not necessarily all) apps, giving away this potentially valuable data to the third party that is maintaining the profile. In order to avoid the functional segmentation, we have to give our data away.</p>
-    <p class="block1"></p>
-    <p class="block">New Spatial Relevance</p>
-    <p class="block1">One can still argue that the models of the world that are generated by smart phones and apps are not intrinsically affecting the world of the user, but as we have shown in earlier publications,<sup class="calibre2">
-        <sup class="noteref" id="back_note_15">
-          <a class="calibre3" href="#note_15" title="15">15</a>
-        </sup>
-      </sup> there is reasonable suspicion that this functional segmentation, as well as the system designer&#8217;s beliefs about the world, influence the users&#8217; notion of relevance and also the users&#8217; behavior. In addition, there is an economic reason why the apps work in such a way: the recommendation creates <i class="calibre1">a personalized experience</i> that might greatly differ from your experience without the app (unwanted people can be blocked, conflicting thoughts can get filtered out, etc.<sup class="calibre2">
-        <sup class="noteref" id="back_note_16">
-          <a class="calibre3" href="#note_16" title="16">16</a>
-        </sup>
-      </sup>) and that thus gives you a more enjoyable user experience, resulting in an increase in the usage of specific apps and lowering the inhibition threshold to pay for extra services or advanced versions of the software itself.</p>
-    <p class="block1"></p>
-    <p class="block1">Optimization of different functionalities through apps thus creates a new spatial relevance. The idea that the sum of the apps on a mobile device describes your world (at least the one reachable through the device) to a certain extent simply stems from the experience that these apps are being developed for almost all functionalities in life that can be converted into an app (be it sport, gaming, dating, communication, or work). It therefore is important to address the problems of relevance in this anthropological context.</p>
-    <p class="block1"></p>
-    <p class="block" id="id_GoBack">Conclusion</p>
-    <p class="block1">Mobile devices show us a world that is highly optimized for every function that is transferable to the concept of an app. We have outlined how apps are able to optimize their functionality through recommendation by learning about the user&#8217;s interests and characteristics, and we have shown how this leads to a paradigm shift in the notion of (spatial) relevance. <i class="calibre1">Relevant for the user</i> becomes an algorithmic mixture of the subjective world view of the system designer, the user&#8217;s interests that have been learned by the app, as well as the lack of information that results from the encapsulation of functionality in each app. This new notion of relevance simultaneously becomes a new viewpoint of the world due to the duty of the mobile device to become our personal assistant and our gateway to parts of the world that are not immediately accessible to us. At the same time, the personalized experience that the mobile device is offering us is compelling, which makes it easy for us to sell away our very own notion of relevance for the notion(s) of relevance created by the apps on the devices &#8211; and these foremost address a notion of relevance based on the pragmatic idea of increased user interaction resulting in more sales.</p>
-    <p class="block1"></p>
-    <p class="block">References</p>
-    <p class="block2">Aug&#233;, Marc<i class="calibre7">. Non-Places: Introduction to an Anthropology of Supermodernity</i>, London/New York: Verso, 1995.</p>
-    <p class="block2"></p>
-    <p class="block2">Deza, Eleza and Michelle Marie Deza. <i class="calibre7">Encyclopedia of Distances</i>, Heidelberg: Springer, 2009.</p>
-    <p class="block2"></p>
-    <p class="block2">Gehmann, Ulrich and Martin Reiche. &#8216;Virtual Urbanity&#8217;, Hybrid City II Conference, Athens, 2013, in press.</p>
-    <p class="block2"></p>
-    <p class="block3">
-      <span class="text">Oetzel, </span>
-      <span class="text1">G&#252;nther.</span>
-      <span class="text"> &#8216;On Technotopian Spaces&#8217;, in: Ulrich Gehmann (ed) </span>
-      <span class="text2">Virtuelle und ideale Welten</span>
-      <span class="text"> [Virtual and Ideal Worlds], Karlsruhe: KIT Publishing, 2012.</span>
-    </p>
-    <p class="block2"></p>
-    <p class="block2">Liebowitz, S. J. and Stepehn E. Margolis. &#8216;Path Dependence, Lock-in and History&#8217;,  11 (1995): 205-226.<i class="calibre7">Journal of Law, Economics, and Organization</i>
-    </p>
-    <p class="block2"></p>
-    <p class="block2">Reiche, Martin and Ulrich Gehmann. &#8216;How Virtual Spaces Re-Render the Perception of Reality Through Playful Augmentation&#8217;, in Proceedings of ACM International Conference on Cyberworlds, Darmstadt, 2012.</p>
-    <p class="block2"></p>
-    <p class="block2">Schelsky, Helmut. &#8216;About the Social Consequences of Automatization&#8217;, <i class="calibre7">Auf der Suche nach Wirklichkeit</i> [On the Search for Reality], 1979, Munich, Goldmann, pp. 118-147.</p>
-    <p class="block2"></p>
-    <p class="block2">Weisberg, Jacob. &#8216;Bubble Trouble, Is Web Personalization Turning Us Into Solipsistic Twits?&#8217; Slate, 10 June 2011, http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html. </p>
-    <p class="block"></p>
-    <p class="block1"></p>
-    <h1 class="notes-header" id="toc_id_1">Notes</h1>
-    <dl class="notes">
-      <dt class="calibre9" id="note_1">[<a class="calibre10" href="#back_note_1" title="1">&#8592;1</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> Of course not completely independent of location, as smart phones still need access to power supply regularly and wireless connectivity for many of its main functions to work.</p>
-      </dd>
-      <dt class="calibre9" id="note_2">[<a class="calibre10" href="#back_note_2" title="2">&#8592;2</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4">
-          <sup class="calibre12">  </sup>E.g. through GPS, accelerometers, and near-field communication sensors.</p>
-      </dd>
-      <dt class="calibre9" id="note_3">[<a class="calibre10" href="#back_note_3" title="3">&#8592;3</a>]</dt>
-      <dd class="calibre11">
-        <p class="block5"> Helmut Schelsky, &#8216;About the Social Consequences of Automatization&#8217;, <i class="calibre7">Auf der Suche nach Wirklichkeit</i> [On the Search for Reality], 1979, Munich, Goldmann, pp. 118-147.</p>
-      </dd>
-      <dt class="calibre9" id="note_4">[<a class="calibre10" href="#back_note_4" title="4">&#8592;4</a>]</dt>
-      <dd class="calibre11">
-        <p class="block6">
-          <span class="text1">G&#252;nther </span>
-          <span class="text">Oetzel, &#8216;On Technotopian Spaces&#8217;, in: Ulrich Gehmann (ed.), </span>
-          <span class="text2">Virtuelle und ideale Welten</span>
-          <span class="text"> [Virtual and Ideal Worlds], Karlsruhe: KIT Publishing, 2012, pp. 65-83 (73-76 on the </span>
-          <span class="text2">technogene</span>
-          <span class="text"> space in particular).</span>
-        </p>
-      </dd>
-      <dt class="calibre9" id="note_5">[<a class="calibre10" href="#back_note_5" title="5">&#8592;5</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> Marc Aug&#233;, <i class="calibre7">Non-Places: Introduction to an Anthropology of Supermodernity</i>, London/New York: Verso, 1995.</p>
-      </dd>
-      <dt class="calibre9" id="note_6">[<a class="calibre10" href="#back_note_6" title="6">&#8592;6</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> See for instance Helmuth Plessner, <i class="calibre7">Conditio Humana</i>, 2003, Frankfurt: Suhrkamp.</p>
-      </dd>
-      <dt class="calibre9" id="note_7">[<a class="calibre10" href="#back_note_7" title="7">&#8592;7</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> A feature space is an abstract space whose dimensions are properties of the entities. How the dimensions are chosen and what the dimensions resemble is highly dependent on the entities themselves. A text document for example could have the number of occurrences of words as dimensions, while a car could have the dimensions make, model, color, gearing, etc.</p>
-      </dd>
-      <dt class="calibre9" id="note_8">[<a class="calibre10" href="#back_note_8" title="8">&#8592;8</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> Eleza Deza and Michelle Marie Deza, <i class="calibre7">Encyclopedia of Distances</i>, Heidelberg: Springer, 2009, p. 3f.</p>
-      </dd>
-      <dt class="calibre9" id="note_9">[<a class="calibre10" href="#back_note_9" title="9">&#8592;9</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> For example if the user is in close physical proximity to some of the best techno night clubs in town but the system has learned that the user anticipates other genres, it might reflect this information when computing the recommendations, maybe resulting in some very close techno night clubs nearby as well as other clubs further away that better resemble the user&#8217;s interests. That way, spatial as well as learned information have been taken into account in the computational process of the recommender system.</p>
-      </dd>
-      <dt class="calibre9" id="note_10">[<a class="calibre10" href="#back_note_10" title="10">&#8592;10</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> And by this, the system is able to learn more about the user as it can extract information about the behavior towards these unforeseen results.</p>
-      </dd>
-      <dt class="calibre9" id="note_11">[<a class="calibre10" href="#back_note_11" title="11">&#8592;11</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> As is Facebook for the wider social network of many of its users.</p>
-      </dd>
-      <dt class="calibre9" id="note_12">[<a class="calibre10" href="#back_note_12" title="12">&#8592;12</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> At this time, we see a multitude of app stores from many different companies and service providers, such as Apple, Google, Amazon, Intel, and much more. </p>
-        <p class="block7"></p>
-      </dd>
-      <dt class="calibre9" id="note_13">[<a class="calibre10" href="#back_note_13" title="13">&#8592;13</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> S. J. Liebowitz and Stephen E. Margolis, &#8216;Path Dependence, Lock-in and History&#8217;,  11 (1995): 205-226.<i class="calibre7">Journal of Law, Economics, and Organization</i>
-        </p>
-      </dd>
-      <dt class="calibre9" id="note_14">[<a class="calibre10" href="#back_note_14" title="14">&#8592;14</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> Ulrich Gehmann and Martin Reiche, &#8216;Virtual Urbanity&#8217;, Hybrid City II Conference, Athens, 2013.</p>
-      </dd>
-      <dt class="calibre9" id="note_15">[<a class="calibre10" href="#back_note_15" title="15">&#8592;15</a>]</dt>
-      <dd class="calibre11">
-        <p class="block4"> Martin Reiche and Ulrich Gehmann, &#8216;How Virtual Spaces Re-Render the Perception of Reality Through Playful Augmentation&#8217;, in Proceedings of ACM International Conference on Cyberworlds, Darmstadt, 2012.</p>
-      </dd>
-      <dt class="calibre9" id="note_16">[<a class="calibre10" href="#back_note_16" title="16">&#8592;16</a>]</dt>
-      <dd class="calibre14">
-        <p class="block4"> Jacob Weisberg, 'Bubble Trouble, Is Web Personalization Turning Us Into Solipsistic Twits?&#8217;, Slate, 10<i class="calibre7"> </i>June 2011, http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html. </p>
-      </dd>
-    </dl>
-  </body>
-</html>
+	<p class="block">Towards an Anthropology of Location-Based Recommendation and Search</p>
+	<p class="block">Martin Reiche and Ulrich Gehmann</p>
+	<p class="block1"></p>
+	<p class="block1">With the increase and advance of software for mobile devices, the paradigm of <i class="calibre1">relevance</i> for the user has experienced a major shift. Functionality that was earlier heavily bound to software on stand-alone machines such as mainframes is now available for citizens with sufficient spare change wherever they are located in the world. Cell phones have advanced to smart phones and so increased in complexity, computational power, and practicability. However, an even more important change has taken place: computers are no longer bound to a specific place, but rather can be easily carried in a person’s pocket and are therefore as mobile as their owner. This new mobile freedom and independence is of course also applicable to the software on the phone,<sup class="calibre2"><sup id="back_note_1" class="noteref"><a href="#note_1" title="1" class="calibre3">1</a></sup></sup> which by now enables the user to use the phone in almost any way that a software developer envisions and that hardware allows.</p>
+	<p class="block1"></p>
+	<p class="block1">Thus, software itself has become mobile, and this new mobility leads inarguably to a paradigm shift: through the hardware of the mobile device, software becomes aware of its own mobility and can leverage the new kinds of information it acquires: location, acceleration, proximity to other devices,<sup class="calibre2"><sup id="back_note_2" class="noteref"><a href="#note_2" title="2" class="calibre3">2</a></sup></sup> and access to local infrastructure through Wi-Fi. These new parameters address the user’s notion of space, place, and relevance drastically, as these terms now have to be defined not only through the eyes of the user, but also through the ‘eyes’ of the software. The software can no longer be seen as independent from the user but is intertwined with some of his properties in physical space. This paradigm shift will be the focus of this article.</p>
+	<p class="block1"></p>
+	<p class="block">Relevance</p>
+	<p class="block1">We all have a deep understanding of what is relevant for us in our life. Although understanding what is relevant might be very subjective, the idea that some things are more relevant than others is part of our cultural heritage. When it comes to breaking down a definition of relevance though, we can argue with the <i class="calibre1">conditio humana</i>: the basic notion of the human being, i.e. what makes us human after all. If we accept that relevance is what serves this basic notion of the <i class="calibre1">conditio humana</i>, then relevance is subjective. If relevance is subjective from the very start of its definition, we have to question whether a definition of relevance that has its roots in computer science and mathematics – domains that are precise and, as an effect, computable – is an adequate definition of relevance for a human being.</p>
+	<p class="block1"></p>
+	<p class="block1">At this point, there are two aspects of general importance pertaining to discussions of the <i class="calibre1">conditio humana</i>. Even if it is true that the human condition embodies a subjective concept, there are conditions that serve as a framework within which these subjectivities remain embedded. First of all, it was a specific sociocultural and economic context that gave rise to an unprecedented use of technology, and, in its wake, our dependence on technological devices to such a degree that our very conceptions of the self (and hence of the human condition) became strongly influenced by it. First of all, our daily life worlds became technologized to such a degree that living without technology turns out to be almost impossible. To provide an example, at the onset of a third wave of modernization shortly after World War II, Schelsky notes our increasing dependence on ‘automatization’ (as he terms it), with respective social consequences.<sup class="calibre2"><sup id="back_note_3" class="noteref"><a href="#note_3" title="3" class="calibre3">3</a></sup></sup> </p>
+	<p class="block1"></p>
+	<p class="block1">This dependence was the case long before the arrival of the internet. The technological condition became an intrinsic part of the human condition; this effect shouldn’t be forgotten when discussing its continuous accelerations manifested in the paradigm shift toward mobile devices mentioned in the beginning. We have been technologically determined for a long while (as Schelsky wrote in 1957), and in such an overall environment, which has been characterized as a <i class="calibre1">technogene</i> space,<sup class="calibre2"><sup id="back_note_4" class="noteref"><a href="#note_4" title="4" class="calibre3">4</a></sup></sup> we encounter not only new paradigms but also ontologies. Seen against the background of a continuous generation of non-places<sup class="calibre2"><sup id="back_note_5" class="noteref"><a href="#note_5" title="5" class="calibre3">5</a></sup></sup> associated with that technogene space, that paradigm shift – or more precisely, the ontology it announces – perfectly fits with a scenario of generating a literal utopia (that is, a non-place).</p>
+	<p class="block1"></p>
+	<p class="block1">Second, when considering possible determinants of the present human condition, we should look back at the long history of discussions occurring under the aegis of technology-driven modernity. Any discussion about a new ontological status (expressed in the paradigm shift) must consider all the past shocks related to the <i class="calibre1">conditio humana</i>, from 19th century metropolization onwards to the present state.<sup class="calibre2"><sup id="back_note_6" class="noteref"><a href="#note_6" title="6" class="calibre3">6</a></sup></sup> We must consider these shocks in order to take a broader perspective of the phenomena discussed as they deserve, and for them to be understood at all.</p>
+	<p class="block1"></p>
+	<p class="block1"><b class="calibre4">Location-Based Recommendation and Search</b><br class="calibre5"/>Location-based recommendation is a concept from mathematics and computer science that has made a great impact on our experience of the web, especially in the last decade. Almost every online shop offers some sort of recommendation to its users: either they recommend products based on what they learn about the user´s previous interests or based on what other users have bought independently of each other. Sometimes recommendations appear completely random to outsiders. Location-based recommendation can formally be seen as a mathematical function that puts an entity in space in relation to other entities in (the same or another) space by utilizing a common space called <i class="calibre1">feature space.</i><sup class="calibre2"><sup id="back_note_7" class="noteref"><a href="#note_7" title="7" class="calibre3">7</a></sup></sup> Thus, in order to compute relations, the entities are processed and reduced to <i class="calibre1">features</i> that resemble the entity. It must be clear that this reduction is intentionally done by the designer of the recommender system and that the designer’s beliefs about <i class="calibre1">what makes an entity to be the entity it is</i> might be highly subjective. Taking into account that every next step of the recommendation is first and foremost based on this reductive step, it is obvious that the designer’s subjective beliefs about the world are subsequently affecting every user of the system.</p>
+	<p class="block1"></p>
+	<p class="block1">Like the <i class="calibre1">conditio humana</i>, the problem of reduction has a long modern history as well, one aligned with the dominance of technogene spaces addressed earlier. A space generated by technology has to be reductive <i class="calibre1">eo ipso</i> since the essence of the technical approach to reality is to functionalize things. The question ‘what makes an entity to be the entity it is’ has to be interpreted in these terms, too, because we are discussing functionalities. And functionality <i class="calibre1">is</i> reductive, otherwise it wouldn’t work. Based on these fundamental relations that cannot be overcome, a functionalized entity is a reduced entity, and the feature space that is made of functionalized entities is reductive, too, by necessity. </p>
+	<p class="block1"></p>
+	<p class="block1">With regards to <i class="calibre1">relevance</i>, an additional aspect comes into play. For functionalized features, only functions are relevant at the proverbial end of the day, whether technical functions enabling performance and the use of apps (a point to come), economic functions sustaining the technical ones, or last but not least, social ‘functions’ as the result of all of this, since social functions are one of the main <i class="calibre1">applications</i><span class="calibre6"> of the former. So, the relevant world becomes the world of the functional, that is, the world of functions.  </span></p>
+	<p class="block1"></p>
+	<p class="block1">By reducing the world to features, location-based recommendation algorithms calculate the relevance of every entity in relation to another entity. This other entity does not have to be of the same kind as the entity that will be recommended; it might just be the location of the user, that is a recommendation could respond to the relation of the user’s current location to a set of night clubs (based on proximity) as well as a night club’s relation to other night clubs (based on e.g. music genre and proximity). Note that this notion of location-based recommendation already includes the concept of location-based search. While search delivers information to its user based on a query and thus can be seen as a reactive way to present information (‘search results’), recommendation provides results without requiring the user to execute a concrete query. The effects of search and recommendation for the user, though, remain the same, which is why in the course of this article we will use these two terms synonymously. In the case of location-based recommendation algorithms, we will from now on assume that the user’s proximity to the recommended entities plays an important role in the calculation process of the recommendation.</p>
+	<p class="block1"></p>
+	<p class="block1">Besides the problem that already emerges from processes of reduction, a problem occurs in the calculation of the results. At this stage all entities are already reduced to a set of features, and the calculation involves the computation of distance between these feature sets. While there is extensive literature on metrics that can be used in order to compute these distances,<sup class="calibre2"><sup id="back_note_8" class="noteref"><a href="#note_8" title="8" class="calibre3">8</a></sup></sup> modern recommender systems usually try to learn users’ habits and interests, then apply this knowledge to the recommendation process by using <i class="calibre1">weighted metrics</i>. These weighted metrics deploy different factors of influence for each feature in the calculation process in order to resemble the information the system has already learned about the user.<sup class="calibre2"><sup id="back_note_9" class="noteref"><a href="#note_9" title="9" class="calibre3">9</a></sup></sup></p>
+	<p class="block1"></p>
+	<p class="block1">Finally, the results of the recommendation might consist of entities nearby, entities that match the user’s interests to a high degree, as well as entities that increase the chance of serendipity as they are drawn from a number of other entities, and the system is not sure whether they are of interest to the user or not.<sup class="calibre2"><sup id="back_note_10" class="noteref"><a href="#note_10" title="10" class="calibre3">10</a></sup></sup> These results all have in common that their relevance to the user has been mathematically calculated, and that this calculation has followed a model of the world that has been created by people who might have different beliefs about the world than the user. This means that all recommender systems not only resemble the user’s spatial properties or interests but also the designer’s very own notion of relevance on all the levels of calculation.</p>
+	<p class="block1"></p>
+	<p class="block">The World as a Set of Apps and the New Spatiality</p>
+	<p class="block1">Taking into account the perspective of a smart phone user, we should think over a few more problems arising from the conception of relevance that are deeply intertwined with the idea of the <i class="calibre1">app</i>. The basic idea of an app is to encapsulate one functionality into a single piece of software and to distribute this software worldwide. This concept concentrates the efforts of a single piece of software into the optimization of its functionality, eventually reaching the point where the piece of software becomes the de facto standard for the solution to a specific problem.<sup class="calibre2"><sup id="back_note_11" class="noteref"><a href="#note_11" title="11" class="calibre3">11</a></sup></sup> This single task’s degree of perfection is one of the key benefits of the app and a big reason for its success story.<sup class="calibre2"><sup id="back_note_12" class="noteref"><a href="#note_12" title="12" class="calibre3">12</a></sup></sup></p>
+	<p class="block1"></p>
+	<p class="block1">However, providing one functionality per software piece also produces a variety of problems. First of all, basic functionalities such as textual communication are duplicated over a multitude of apps; the average smart phone today has at least one app for standard text, one for Facebook messages, and one for Twitter, not to mention the number of apps for taking pictures or writing notes. All these apps have their rightful purpose as they offer a certain approach towards one functionality and therefore might serve a user better than an app with the same functionality but a different approach. This in itself is not yet a problem, but it starts to become a problem (for example for communication) when the existing systems cannot communicate with each other, or users cannot communicate across these platforms. You can refer to this problem as the <i class="calibre1">lock-in effect.</i><sup class="calibre2"><sup id="back_note_13" class="noteref"><a href="#note_13" title="13" class="calibre3">13</a></sup></sup><i class="calibre1"> </i>Ultimately it forces users to work with a variety of apps that all provide the same functionality, thus effectively undermining the whole idea of the app.</p>
+	<p class="block1"></p>
+	<p class="block1">The information that can be used to make a recommendation must be gathered by the apps themselves, which means that every app can only supply recommendations on the basis of its own investigations about the user, and this significantly affects the quality of the recommendation. If the recommendation calculation itself can only be done on the basis of the information gathered by the single app, then important information might be missing when recommending entities. Even more, self-learning recommender systems will learn only a small subset of the variety of the user’s interests (as they can only learn interests that have to do with the functionality of the app itself) and therefore will optimize their algorithms in a direction that no longer fully resembles the user’s interests, so that the relevance of the recommended entities decreases.</p>
+	<p class="block1"></p>
+	<p class="block1">At the same time, the relevance of the recommended entities of each app increases in the mathematical model of the app (which simply results in the app optimizing its recommendations based on a model and the learned characteristics and interests of the user). What then happens is that each app develops its own optimized model of the world and offers this view to the user, and the world gets functionally segmented based on the optimizations of each app on the phone. Instead of showing the user the relevant world, smart phone apps show the user a world that is optimized based on her location and interests for each specific functionality, each represented by a different app. The user becomes the inhabitant of a functionally segmented environment, meaning that the relevant world around the user cannot be modeled based on the concept of the app.<sup class="calibre2"><sup id="back_note_14" class="noteref"><a href="#note_14" title="14" class="calibre3">14</a></sup></sup></p>
+	<p class="block1"></p>
+	<p class="block1">If you turn from the single app and allow data acquired from functions of different apps to merge into one single user profile, as with a Google or Amazon account, then the recommendation quality may increase again as the functional segmentation might not take place in such a drastic way. However, new problems arise regarding a major concern with all recommender systems: in order to work the way they are supposed to, recommender systems create profiles from an extensive collection of data acquired from users’ behavioral patterns, leading to very understandable privacy concerns. In essence, to get rid of the problems of functional segmentation, user profiles must be created that are shared among several (not necessarily all) apps, giving away this potentially valuable data to the third party that is maintaining the profile. In order to avoid the functional segmentation, we have to give our data away.</p>
+	<p class="block1"></p>
+	<p class="block">New Spatial Relevance</p>
+	<p class="block1">One can still argue that the models of the world that are generated by smart phones and apps are not intrinsically affecting the world of the user, but as we have shown in earlier publications,<sup class="calibre2"><sup id="back_note_15" class="noteref"><a href="#note_15" title="15" class="calibre3">15</a></sup></sup> there is reasonable suspicion that this functional segmentation, as well as the system designer’s beliefs about the world, influence the users’ notion of relevance and also the users’ behavior. In addition, there is an economic reason why the apps work in such a way: the recommendation creates <i class="calibre1">a personalized experience</i> that might greatly differ from your experience without the app (unwanted people can be blocked, conflicting thoughts can get filtered out, etc.<sup class="calibre2"><sup id="back_note_16" class="noteref"><a href="#note_16" title="16" class="calibre3">16</a></sup></sup>) and that thus gives you a more enjoyable user experience, resulting in an increase in the usage of specific apps and lowering the inhibition threshold to pay for extra services or advanced versions of the software itself.</p>
+	<p class="block1"></p>
+	<p class="block1">Optimization of different functionalities through apps thus creates a new spatial relevance. The idea that the sum of the apps on a mobile device describes your world (at least the one reachable through the device) to a certain extent simply stems from the experience that these apps are being developed for almost all functionalities in life that can be converted into an app (be it sport, gaming, dating, communication, or work). It therefore is important to address the problems of relevance in this anthropological context.</p>
+	<p class="block1"></p>
+	<p id="id_GoBack" class="block">Conclusion</p>
+	<p class="block1">Mobile devices show us a world that is highly optimized for every function that is transferable to the concept of an app. We have outlined how apps are able to optimize their functionality through recommendation by learning about the user’s interests and characteristics, and we have shown how this leads to a paradigm shift in the notion of (spatial) relevance. <i class="calibre1">Relevant for the user</i> becomes an algorithmic mixture of the subjective world view of the system designer, the user’s interests that have been learned by the app, as well as the lack of information that results from the encapsulation of functionality in each app. This new notion of relevance simultaneously becomes a new viewpoint of the world due to the duty of the mobile device to become our personal assistant and our gateway to parts of the world that are not immediately accessible to us. At the same time, the personalized experience that the mobile device is offering us is compelling, which makes it easy for us to sell away our very own notion of relevance for the notion(s) of relevance created by the apps on the devices – and these foremost address a notion of relevance based on the pragmatic idea of increased user interaction resulting in more sales.</p>
+	<p class="block1"></p>
+	<p class="block">References</p>
+	<p class="block2">Augé, Marc<i class="calibre7">. Non-Places: Introduction to an Anthropology of Supermodernity</i>, London/New York: Verso, 1995.</p>
+	<p class="block2"></p>
+	<p class="block2">Deza, Eleza and Michelle Marie Deza. <i class="calibre7">Encyclopedia of Distances</i>, Heidelberg: Springer, 2009.</p>
+	<p class="block2"></p>
+	<p class="block2">Gehmann, Ulrich and Martin Reiche. ‘Virtual Urbanity’, Hybrid City II Conference, Athens, 2013, in press.</p>
+	<p class="block2"></p>
+	<p class="block3"><span class="text">Oetzel, </span><span class="text1">Günther.</span><span class="text"> ‘On Technotopian Spaces’, in: Ulrich Gehmann (ed) </span><span class="text2">Virtuelle und ideale Welten</span><span class="text"> [Virtual and Ideal Worlds], Karlsruhe: KIT Publishing, 2012.</span></p>
+	<p class="block2"></p>
+	<p class="block2">Liebowitz, S. J. and Stepehn E. Margolis. ‘Path Dependence, Lock-in and History’, <i class="calibre7">Journal of Law, Economics, and Organization</i><b class="calibre8"> </b>11 (1995): 205-226.</p>
+	<p class="block2"></p>
+	<p class="block2">Reiche, Martin and Ulrich Gehmann. ‘How Virtual Spaces Re-Render the Perception of Reality Through Playful Augmentation’, in Proceedings of ACM International Conference on Cyberworlds, Darmstadt, 2012.</p>
+	<p class="block2"></p>
+	<p class="block2">Schelsky, Helmut. ‘About the Social Consequences of Automatization’, <i class="calibre7">Auf der Suche nach Wirklichkeit</i> [On the Search for Reality], 1979, Munich, Goldmann, pp. 118-147.</p>
+	<p class="block2"></p>
+	<p class="block2">Weisberg, Jacob. ‘Bubble Trouble, Is Web Personalization Turning Us Into Solipsistic Twits?’ Slate, 10<i class="calibre7"> </i>June 2011, http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html. </p>
+	<p class="block"></p>
+	<p class="block1"></p>
+	<h1 class="notes-header" id="toc_id_1">Notes</h1>
+	<dl class="notes"><dt id="note_1" class="calibre9">[<a href="#back_note_1" title="1" class="calibre10">←1</a>]</dt><dd class="calibre11"><p class="block4"> Of course not completely independent of location, as smart phones still need access to power supply regularly and wireless connectivity for many of its main functions to work.</p></dd><dt id="note_2" class="calibre9">[<a href="#back_note_2" title="2" class="calibre10">←2</a>]</dt><dd class="calibre11"><p class="block4"><sup class="calibre12"><span class="calibre13">  </span></sup>E.g. through GPS, accelerometers, and near-field communication sensors.</p></dd><dt id="note_3" class="calibre9">[<a href="#back_note_3" title="3" class="calibre10">←3</a>]</dt><dd class="calibre11"><p class="block5"> Helmut Schelsky, ‘About the Social Consequences of Automatization’, <i class="calibre7">Auf der Suche nach Wirklichkeit</i> [On the Search for Reality], 1979, Munich, Goldmann, pp. 118-147.</p></dd><dt id="note_4" class="calibre9">[<a href="#back_note_4" title="4" class="calibre10">←4</a>]</dt><dd class="calibre11"><p class="block6"><span class="text"> </span><span class="text1">Günther </span><span class="text">Oetzel, ‘On Technotopian Spaces’, in: Ulrich Gehmann (ed.), </span><span class="text2">Virtuelle und ideale Welten</span><span class="text"> [Virtual and Ideal Worlds], Karlsruhe: KIT Publishing, 2012, pp. 65-83 (73-76 on the </span><span class="text2">technogene</span><span class="text"> space in particular).</span></p></dd><dt id="note_5" class="calibre9">[<a href="#back_note_5" title="5" class="calibre10">←5</a>]</dt><dd class="calibre11"><p class="block4"> Marc Augé, <i class="calibre7">Non-Places: Introduction to an Anthropology of Supermodernity</i>, London/New York: Verso, 1995.</p></dd><dt id="note_6" class="calibre9">[<a href="#back_note_6" title="6" class="calibre10">←6</a>]</dt><dd class="calibre11"><p class="block4"> See for instance Helmuth Plessner, <i class="calibre7">Conditio Humana</i>, 2003, Frankfurt: Suhrkamp.</p></dd><dt id="note_7" class="calibre9">[<a href="#back_note_7" title="7" class="calibre10">←7</a>]</dt><dd class="calibre11"><p class="block4"> A feature space is an abstract space whose dimensions are properties of the entities. How the dimensions are chosen and what the dimensions resemble is highly dependent on the entities themselves. A text document for example could have the number of occurrences of words as dimensions, while a car could have the dimensions make, model, color, gearing, etc.</p></dd><dt id="note_8" class="calibre9">[<a href="#back_note_8" title="8" class="calibre10">←8</a>]</dt><dd class="calibre11"><p class="block4"> Eleza Deza and Michelle Marie Deza, <i class="calibre7">Encyclopedia of Distances</i>, Heidelberg: Springer, 2009, p. 3f.</p></dd><dt id="note_9" class="calibre9">[<a href="#back_note_9" title="9" class="calibre10">←9</a>]</dt><dd class="calibre11"><p class="block4"> For example if the user is in close physical proximity to some of the best techno night clubs in town but the system has learned that the user anticipates other genres, it might reflect this information when computing the recommendations, maybe resulting in some very close techno night clubs nearby as well as other clubs further away that better resemble the user’s interests. That way, spatial as well as learned information have been taken into account in the computational process of the recommender system.</p></dd><dt id="note_10" class="calibre9">[<a href="#back_note_10" title="10" class="calibre10">←10</a>]</dt><dd class="calibre11"><p class="block4"> And by this, the system is able to learn more about the user as it can extract information about the behavior towards these unforeseen results.</p></dd><dt id="note_11" class="calibre9">[<a href="#back_note_11" title="11" class="calibre10">←11</a>]</dt><dd class="calibre11"><p class="block4"> As is Facebook for the wider social network of many of its users.</p></dd><dt id="note_12" class="calibre9">[<a href="#back_note_12" title="12" class="calibre10">←12</a>]</dt><dd class="calibre11"><p class="block4"> At this time, we see a multitude of app stores from many different companies and service providers, such as Apple, Google, Amazon, Intel, and much more. </p><p class="block7"></p></dd><dt id="note_13" class="calibre9">[<a href="#back_note_13" title="13" class="calibre10">←13</a>]</dt><dd class="calibre11"><p class="block4"> S. J. Liebowitz and Stephen E. Margolis, ‘Path Dependence, Lock-in and History’, <i class="calibre7">Journal of Law, Economics, and Organization</i><b class="calibre8"> </b>11 (1995): 205-226.</p></dd><dt id="note_14" class="calibre9">[<a href="#back_note_14" title="14" class="calibre10">←14</a>]</dt><dd class="calibre11"><p class="block4"> Ulrich Gehmann and Martin Reiche, ‘Virtual Urbanity’, Hybrid City II Conference, Athens, 2013.</p></dd><dt id="note_15" class="calibre9">[<a href="#back_note_15" title="15" class="calibre10">←15</a>]</dt><dd class="calibre11"><p class="block4"> Martin Reiche and Ulrich Gehmann, ‘How Virtual Spaces Re-Render the Perception of Reality Through Playful Augmentation’, in Proceedings of ACM International Conference on Cyberworlds, Darmstadt, 2012.</p></dd><dt id="note_16" class="calibre9">[<a href="#back_note_16" title="16" class="calibre10">←16</a>]</dt><dd class="calibre14"><p class="block4"> Jacob Weisberg, 'Bubble Trouble, Is Web Personalization Turning Us Into Solipsistic Twits?’, Slate,<i class="calibre7"> </i>10<i class="calibre7"> </i>June 2011, http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html. </p></dd></dl>
 
+</body></html>
