@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -rf index
+mkdir index
+python scripts/init_index.py
+python scripts/index_documents.py
+python scripts/index_images.py
