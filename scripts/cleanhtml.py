@@ -36,17 +36,26 @@ def remove_with_tail (parent, prev, elt):
             parent.text = (parent.text or "") + elt.tail
     parent.remove(elt)
 
+def log(msg):
+    print(msg.encode("utf-8"), file=sys.stderr)
+
 # ? generalize to striptags with strip_p predicate?
-def stripemptytags (src, method="xml", empty=lambda x: x.replace("&#160;", " ").strip() == ""):
+EMPTY_TAGS = set(["p", "span", "div"])
+def stripemptytags (src, method="xml", empty=lambda x: x.replace("&nbsp;", " ").replace("&#160;", " ").strip() == ""):
     """ applies the empty predicate to each element, and removes the element when empty is true;
     NB: This function preserves whitespace and other wrapped textual content,
     only the tag itself is removed as elt.text gets unwrapped from the element
     """
     t = html5lib.parse(src, namespaceHTMLElements=False)
+    log("stripemptypage")
     for parent, prev, elt in iterparentandprev(t):
-        if elt.text != None and len(elt) == 0:
-            if empty(elt.text):
-                # log(u"removing empty tag {0}".format(ET.tostring(elt, method=method)))
+        if elt.tag in EMPTY_TAGS and len(elt) == 0:
+            # log(u"check {0}|{1}|{2}".format(elt.tag, elt.text, empty(elt.text)))
+            if elt.text == None:
+                log(u"removing empty tag {0}".format(ET.tostring(elt, method=method)))
+                remove_with_tail(parent, prev, elt)
+            elif empty(elt.text):
+                log(u"removing empty tag {0}".format(ET.tostring(elt, method=method)))
                 elt.tail = elt.text + (elt.tail or "")
                 remove_with_tail(parent, prev, elt)
     return ET.tostring(t, method=method)
