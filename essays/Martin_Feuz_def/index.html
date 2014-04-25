@@ -1,471 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title>Unknown</title>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"></meta>
-    <link href="stylesheet.css" rel="stylesheet" type="text/css">
-    <link href="page_styles.css" rel="stylesheet" type="text/css">
-  </head>
-  <body class="calibre">
-    <p class="block">Exploratory Search and Extended Cognition in Health Information Interaction</p>
-    <p class="block1">Martin Feuz</p>
-    <p class="block2">While researching expert Tetris players, cognitive scientists David Kirsh and Paul Maglio made the following interesting observation: these players typically rely on rotating the falling objects to more easily identify their shape or moving them to the far right to determine and set up their exact position for high-drops. The researchers name these moves <i class="calibre1">epistemic action</i>, as their interpretation of such actions in the world is that they improve cognition. &#8216;Certain cognitive and perceptual problems are more quickly, easily, and reliably solved by performing actions in the world than by performing computational actions in the head alone.&#8217;<sup class="calibre2">
-        <sup class="noteref" id="back_note_1">
-          <a class="calibre3" href="#note_1" title="1">1</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">What does epistemic action have to do with search interaction, you may ask? Actually, a lot! Search for health information is conducted in high volumes and affects people&#8217;s decision-making processes, so we should take it seriously. Health search interactions are of an exploratory nature and different in kind from other searches. Current black-boxed search engine mechanisms may do more harm than good in these exploratory search interactions. More profoundly, supporting exploratory health search interactions effectively requires shifting models of interactivity and cognitive processes from an information processing model of mind towards understanding cognition as extending into and performing through the artifactual and social environment. </p>
-    <p class="block1">The Context: Health Search and Search Engines</p>
-    <p class="block2">According to Pew Research from June 2009, 57 percent of adults turn to the internet as a source of health information; for 60 percent, information found online influenced their decision-making process regarding treatment options.<sup class="calibre2">
-        <sup class="noteref" id="back_note_2">
-          <a class="calibre3" href="#note_2" title="2">2</a>
-        </sup>
-      </sup> By the end of 2010, Pew reports that &#8216;searching for health information, an activity that was once the primary domain of older adults, is now the third most popular online activity for all internet users 18 and older&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_3">
-          <a class="calibre3" href="#note_3" title="3">3</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block3">Before we dive into specific ways in which search engines play a substantial role in health information search, a bit of contextualization is needed. This context will help illustrate how the development of search engines and interactions with them in the context of health information search is problematic.</p>
-    <p class="block2">Search engines have played a vital role since the early days of the web. This is mainly due to the fact that the web lacks an inherent indexing and categorizing mechanism. While some organizations have tried to compile a directory using human experts, this approach quickly runs into deep problems. On the one hand this method simply can&#8217;t cope with the rapid growth of the web and thus runs the risk of becoming incomplete. On the other hand the complexity and dynamics of the web lead to ontological problems with categorizing the information found. Subsequent search engine providers started to build automated indexing and ranking mechanisms. The index is the part of a search engine that search crawlers continuously update by scanning the web for new websites and new content on those indexed websites. Ranking, on the other hand, is concerned with matching a user's search query with the index and, based on a set of rules, presenting the user with a selection of search results. At the core of ranking lies the trade-off between precision and recall. Precision is concerned with the accuracy of the match between search query and retrieved search results, while recall is concerned with the number of relevant search results produced. When the precision of the match between search query and results is increased, recall is reduced and vice versa. We will see that this tension is of ongoing concern in the development and improvement of search engines. </p>
-    <p class="block2">While better suited to cope with the enormous growth of the web, early automated search engines nevertheless suffered from a number of problems. Key among the issues was that their ranking mechanism chiefly relied on a relatively crude statistical keyword matching process between search query and indexed webpages. With the growth of content on the web, this produced enormous amounts of search results (recall). More often than not, it was a strenuous effort to find useful, relevant search results. </p>
-    <p class="block2">While the front end of most search engines has not seemed to change much in recent years<sup class="calibre2">
-        <sup class="noteref" id="back_note_4">
-          <a class="calibre3" href="#note_4" title="4">4</a>
-        </sup>
-      </sup>, the back end has changed substantially. Search results for a given search query are nowadays automatically filtered by a number of variables that remain hidden from immediate user interaction. The goal of this filtering is to further increase the relevancy of search results. Among others, search results are typically filtered based on the search user&#8217;s geo-location derived from her IP (Internet Protocol) address. Thus, if a user enters &#8216;restaurant&#8217; as a search query on Google, the search engine assumes that the user is looking for a restaurant within the city she currently accesses the internet from. This geographic sensitivity may obviously be useful in some cases but largely depends on context. However, a more substantial and unidentifiable change to the ranking mechanism began some time ago when Google, among others, began personalizing users&#180; search results, promising to deliver more relevant results to the user whose query is now contextualized by her search history and other data previously compiled into a personal profile. In order to produce this context, vast amounts of personal information need to be collected, organized, and made actionable. Within the quickly receding limitations of storage space and computing power, profiles can never be too comprehensive, detailed, or up-to-date. Google for example, compiles personal profiles in three dimensions: the knowledge person (what an individual is interested in, based on search and click-stream histories), the social person (whom an individual is connected to, via e-mail, social networks, and other communication tools), and the embodied person (where an individual is located in physical space and the states of the body).<sup class="calibre2">
-        <sup class="noteref" id="back_note_5">
-          <a class="calibre3" href="#note_5" title="5">5</a>
-        </sup>
-      </sup> Together, these three profiles promise to provide a detailed, comprehensive, up-to-date context for each search query with the potential to deliver precise results that reflect not only the information &#8216;out-there&#8217;, but also the unique interest a user has at any given moment. Personalized search does not simply aim to provide a view of existing reality, which is problematic enough.<sup class="calibre2">
-        <sup class="noteref" id="back_note_6">
-          <a class="calibre3" href="#note_6" title="6">6</a>
-        </sup>
-      </sup> Rather, personalized search promises an &#8216;augmented reality&#8217; in which machine intelligence interprets the user&#8217;s individual relationship to reality and then selects what&#8217;s good for that relationship. As a result, it has become highly unlikely that two users see the same search results for a particular search query even when accessed from the same IP address.<sup class="calibre2">
-        <sup class="noteref" id="back_note_7">
-          <a class="calibre3" href="#note_7" title="7">7</a>
-        </sup>
-      </sup> Unfortunately, many search engine users do not seem to be aware of this development.<sup class="calibre2">
-        <sup class="noteref" id="back_note_8">
-          <a class="calibre3" href="#note_8" title="8">8</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">To fully understand the implications of search personalization, it is necessary to take a more nuanced focus in light of different types of search interactions and today&#8217;s typical search engine interface. Andrei Broder suggests differentiating between three types of search interactions, which, while crude, is a useful taxonomy for our purposes here.<sup class="calibre2">
-        <sup class="noteref" id="back_note_9">
-          <a class="calibre3" href="#note_9" title="9">9</a>
-        </sup>
-      </sup> First, navigational search queries are used when users want to find the URL for a specific website. Second, transactional search queries, such as checking flight prices, can be performed on a number of different but nevertheless specific websites. Third, informational search queries may find information on multiple websites and are useful when the search goal may not always be clear at the beginning but could emerge through the search process itself. Thus, with this type of search activity, people are typically trying to learn aspects about a topic of interest and exploring new knowledge domains. This kind of search could include anything from school or university research for an essay, to a person thinking of moving into a new professional domain or learning more about a health issue, as is the focus of this text. From such a perspective it starts to become clear that search results personalization, with its self-referential mechanisms &#8211; termed by some an echo chamber<sup class="calibre2">
-        <sup class="noteref" id="back_note_10">
-          <a class="calibre3" href="#note_10" title="10">10</a>
-        </sup>
-      </sup> or filter bubble<sup class="calibre2">
-        <sup class="noteref" id="back_note_11">
-          <a class="calibre3" href="#note_11" title="11">11</a>
-        </sup>
-      </sup>
-      <sup class="calibre2">  </sup>&#8211; is especially problematic for informational search queries. This is because it is precisely the user's intention to move beyond already familiar knowledge and explore novel terrain. Thus, the analysis and argument I develop will focus on this type of search interaction.</p>
-    <p class="block1">Exploratory Search</p>
-    <p class="block2">Recently researchers have developed and characterized the notion of informational search as &#8216;exploratory search&#8217;,<sup class="calibre2">
-        <sup class="noteref" id="back_note_12">
-          <a class="calibre3" href="#note_12" title="12">12</a>
-        </sup>
-      </sup> which is the term I will use from now on.</p>
-    <p class="block4">
-      <br class="calibre5">Exploratory search can be used to describe an information-seeking problem context that is open-ended, persistent, and multi-faceted; and to describe information-seeking processes that are opportunistic, iterative, and multi-tactical. In the first sense, exploratory search is commonly used in scientific discovery, learning, and decision-making contexts. In the second sense, exploratory tactics are used in all manner of information seeking and reflect seeker preferences and experience as much as the goal.<sup class="calibre2">
-        <sup class="noteref" id="back_note_13">
-          <a class="calibre3" href="#note_13" title="13">13</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">Exploratory search interactions are characterized by a number of typical features. To start with, very often there is a complex information problem at hand and a desire to learn about it. Also, people engaging in exploratory search may be unfamiliar with the knowledge domain their search goal relates to, including a lack of understanding of dominant and peripheral actors within that domain. Furthermore, people may not have good knowledge about relevant keywords, concepts, and information sources that might be relevant to formulate search queries and evaluate search results. Lastly, it is also possible that exploratory searchers might not have a specific search goal in mind initially. The goal may only evolve and become clearer through a process of learning about a specific knowledge domain, its concepts, and actors within it. Given these characteristics, the exploratory search process typically develops over the course of multiple sessions, which may last days, weeks, or month.</p>
-    <p class="block1">The Interface and Models of Interaction</p>
-    <p class="block2">Many search engine interfaces are typically built on a &#8216;commonly accepted&#8217; set of action grammars and handles suggested by the Human Computer Interaction (HCI) domain.<sup class="calibre2">
-        <sup class="noteref" id="back_note_14">
-          <a class="calibre3" href="#note_14" title="14">14</a>
-        </sup>
-      </sup> The action grammar applied more often than not aims to describe a context-free meta syntax and thereby suggests universal applicability and usability. In the case of universal search engines such as Google or Bing, the interface is typically made of a single search box with a search button on an otherwise almost empty page. A user enters her search query, clicks on the search button, and is then presented with the most relevant search results for that search query. Typically, the user then has a few general refinement options available to further narrow the search. What remains hidden are the numerous assumptions at work that lead to the ranking of the most relevant search results, mentioned above. This approach arguably works well for simple navigational tasks in web search. While there have been a number of useful attempts to change the dominant search interaction paradigm, sadly these ventures have died after some time. I can only speculate on the reasons why they weren&#8217;t successful, but a key determining factor seems much less related to the interaction paradigm than to index comprehensiveness, explained earlier. The computation-intensive processes for approaching comprehensiveness and accuracy require Google and other popular universal search engine providers to invest massively in hardware and human expertise. This appears to be an increasingly high entry barrier for potential competitors entering the global search engine sector (see Dirk Lewandowski&#180;s text in this reader). Danny Hillis, a well-known supercomputing pioneer and founder of the Long Now Foundation, has argued in <i class="calibre1">The New York Times</i> that &#8216;Google has constructed the biggest computer in the world, and it&#8217;s a hidden asset&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_15">
-          <a class="calibre3" href="#note_15" title="15">15</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">The core of the problem of why today&#8217;s search engine interfaces don&#8217;t support exploratory search well lies in both a specific perspective on the model of interaction as well as the model of cognitive processes assumed by search interaction designers. Today&#8217;s search engine interfaces can be described as relying on a few core assumptions that resonate strongly with an information-processing model of the mind. Cognition is typically represented and described as a purely mental process consisting of &#8216;identifying an information need, followed by the activities of query specification, examination of retrieval results, and if needed, reformulation of the query, repeating the cycle until a satisfactory result set is found&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_16">
-          <a class="calibre3" href="#note_16" title="16">16</a>
-        </sup>
-      </sup> Alternate models of the search process, such as Marcia Bates&#8217; berrypicking, have made very useful contributions to a more interactive style of search by including iterative aspects of the process, including learning and shifting focus and goals. </p>
-    <p class="block2">[IMG1]</p>
-    <p class="block2">Fig. 1 &#8211; Berrypicking Model (Bates). Source: Peter Morville, http://www.flickr.com/photos/morville/2314377945/sizes/o/in/photostream/.</p>
-    <p class="block2">While the model itself seems a bit formal, Bates more recently clarified her perspective by stating: &#8216;In my view, our understanding of information seeking is not complete as long as we exclude the biological and anthropological from our study.&#8217;<sup class="calibre2">
-        <sup class="noteref" id="back_note_17">
-          <a class="calibre3" href="#note_17" title="17">17</a>
-        </sup>
-      </sup> Unfortunately, such an understanding has not yet been adopted by the information seeking research community.<sup class="calibre2">
-        <sup class="noteref" id="back_note_18">
-          <a class="calibre3" href="#note_18" title="18">18</a>
-        </sup>
-      </sup> Further arguments about why models with a more embodied understanding and style of interactivity are particularly desirable in the realms of health search interaction will be developed in the next section.</p>
-    <p class="block1">Methods and Issues of Evidence-Based Medicine</p>
-    <p class="block2">In order to appreciate why a lack of supporting exploratory types of search interaction is particularly problematic when searching for health and medical information, we need to briefly unpack the methods on which such knowledge is produced and some of the issues this generates.</p>
-    <p class="block2">For the past four decades, Evidence-Based Medicine (EBM) has slowly but increasingly become dominant as a knowledge paradigm and clinical practice approach in Western medicine. This paradigm is evident in the forms of new institutions such as the Cochrane Collaboration and the National Institute for Clinical Excellence in the U.K., new journals, recurring editorials in leading medical journals, as well as the adoption of EBM-methods, such as randomized controlled trials in mainstream medical research.<sup class="calibre2">
-        <sup class="noteref" id="back_note_19">
-          <a class="calibre3" href="#note_19" title="19">19</a>
-        </sup>
-      </sup> Greenhalgh and Donald define Evidence-Based Medicine as follows:</p>
-    <p class="block4">The use of mathematical estimates of the risk of benefit and harm, derived from high-quality research on population samples, to inform clinical decision-making in the diagnosis, investigation or management of individual patients.<sup class="calibre2">
-        <sup class="noteref" id="back_note_20">
-          <a class="calibre3" href="#note_20" title="20">20</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">This sounds all good and well; however, as research transpires through the growing body of systematic reviews, the scientific robustness of medical evidence increasingly reveals some of the problematic foundations and processes whereby medical knowledge has been and continues to be generated and distributed. Ben Goldacre, a physician and EBM researcher, has framed these issues as the &#8216;broken information architecture of Medicine&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_21">
-          <a class="calibre3" href="#note_21" title="21">21</a>
-        </sup>
-      </sup> This phrase refers to his analysis, which exposes the fact that there is a fundamental gap in the publishing of negative trial results.<sup class="calibre2">
-        <sup class="noteref" id="back_note_22">
-          <a class="calibre3" href="#note_22" title="22">22</a>
-        </sup>
-      </sup> Put differently, the structural bias towards publishing mostly positive trial results leads to an overstatement of the benefits of treatments. To understand why, it is useful to consider the recent research by John Ioannidis, a leading meta-analytic medical researcher with an interest in the quality of medical research. In his study &#8216;Contradicted and Initially Stronger Effects in Highly Cited Clinical Research&#8217;, he analyzed actual medical publication patterns and how initial research findings were only slowly corrected over time.<sup class="calibre2">
-        <sup class="noteref" id="back_note_23">
-          <a class="calibre3" href="#note_23" title="23">23</a>
-        </sup>
-      </sup> For this, he studied 49 of the most important published research findings that were influential in popularizing treatments, &#8216;such as the use of hormone-replacement therapy for menopausal women, vitamin E to reduce the risk of heart disease, coronary stents to ward off heart attacks&#8217;. What he found was that &#8216;41% of these findings had been convincingly shown to be wrong or significantly exaggerated&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_24">
-          <a class="calibre3" href="#note_24" title="24">24</a>
-        </sup>
-      </sup> This problem may be explained to a large extent by selective reporting of research results and publication bias. The former is the choice of data that scientists document, whereas the latter is the &#8216;tendency of scientists and scientific journals to prefer positive data over null results&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_25">
-          <a class="calibre3" href="#note_25" title="25">25</a>
-        </sup>
-      </sup> While in some cases this choice merely means an ineffective treatment for some patients, in others it has grave consequences by actually increasing morbidity.<sup class="calibre2">
-        <sup class="noteref" id="back_note_26">
-          <a class="calibre3" href="#note_26" title="26">26</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">From our previous discussion on search interaction models, it is becoming evident that such issues in evidence-based medicine may not be easily identified or explored with either navigational or transactional search interaction approaches nor with the tools search engines provide to assess the relevancy of search results and their sources of authority. This is because these types of search interactions presume the search user to fully understand the knowledge domain at the outset and thus to be able to identify relevant information via the mere listing of search results. Instead, an exploratory model of search interaction would, for example, support the identification of central and peripheral actors in a knowledge domain and thus provide multifarious means of assessing contextual relevancy. </p>
-    <p class="block1">Cognitive Conceptions of Human Decision-Making </p>
-    <p class="block2">Having briefly reflected on the methods and issues underlying contemporary evidence-based medicine, I posit that a more open-ended and exploratory form of health information interaction is strongly desirable. Desirable on the one hand due to the inherent question of the kinds of lives that are deemed valuable and desirable to live,<sup class="calibre2">
-        <sup class="noteref" id="back_note_27">
-          <a class="calibre3" href="#note_27" title="27">27</a>
-        </sup>
-      </sup> and on the other hand for allowing more engaged patient participation. Decision-making, and the ways in which it can be supported, thus figures as a core element within interactivity. We can turn to shared decision-making (SDM) processes<sup class="calibre2">
-        <sup class="noteref" id="back_note_28">
-          <a class="calibre3" href="#note_28" title="28">28</a>
-        </sup>
-      </sup> that aim to support exploratory interaction and decision-making. This approach will also allow us to illustrate the cognitive assumptions underlying the design of decision support provisioning, which also informs much contemporary human computer interaction design.</p>
-    <p class="block2">Shared decision-making processes often make use of different kinds of decision aids. Typically these are pamphlets that present information about treatment options for a specific illness in a structured format. For example the pamphlets incorporate if-then scenarios for when deciding on a certain treatment option and the probable health implications, including potential side effects. Where available, such information is augmented by quantitative probabilities, which aim to support the decision-making process by trading off the probabilities of different treatment options along with healing or side effects prospects.</p>
-    <p class="block2">Decision aids belong to the larger field of decision support systems and span across academic disciplines such as economics, psychology, statistics, and computer sciences. A decision support system (DSS) can be defined as a formal system designed to support the evaluation of decision alternatives and assess the likely consequences following each course of action; it thereby aids at arriving at optimal decisions.</p>
-    <p class="block2">Two aspects from the above definition of DSS require attending to: the &#8216;formal&#8217; and the &#8216;optimal&#8217;, both of which resonate strongly with some of the earliest work on decision-making in administrative organizations by Herbert Simon, an economist and highly influential researcher in the field of decision-making processes. The &#8216;formal&#8217; is related to the positivism-oriented style of Simon&#8217;s work, focused on &#8216;scientific authority by means of reproducibility&#8217;. &#8216;Optimal&#8217;, in the spirit of his book, is to be understood normatively, as he makes clear that his (developing) theory of administrative behavior is not a &#8216;description of how administrators decide so much as a description of how good administrators decide&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_29">
-          <a class="calibre3" href="#note_29" title="29">29</a>
-        </sup>
-      </sup> Coupled with such normative formalisms are his conceptions of rationality, which in this context he sees as means-ends chains &#8216;concerned with the selection of preferred behaviour alternatives in terms of some system of values whereby the consequences of behaviour can be evaluated&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_30">
-          <a class="calibre3" href="#note_30" title="30">30</a>
-        </sup>
-      </sup> He proposes the concept of bounded rationality: instead of maximizing strategies in light of pre-given sets of choices, human individual decision-makers follow satisficing strategies. Characteristic of bounded rationality for him is when decision-makers employ heuristics, or rules of thumb decisions in the &#8216;face of the limits of human knowledge and reasoning&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_31">
-          <a class="calibre3" href="#note_31" title="31">31</a>
-        </sup>
-      </sup> For example, one such heuristic that seems to be readily applied by doctors today is &#8216;err on the safe side&#8217;, by which is meant, in case of doubt recommend medical intervention. As the literature suggests, the logic behind this heuristic is mainly a way to avoid being taken to court in case a patient does fall ill.<sup class="calibre2">
-        <sup class="noteref" id="back_note_32">
-          <a class="calibre3" href="#note_32" title="32">32</a>
-        </sup>
-      </sup> To sustain his arguments for bounded rationality, Simon points to four decades of progress in psychology research to describe &#8216;difficult problem-solving and decision-making in terms of basic symbol-manipulating processes&#8217;<sup class="calibre2">
-        <sup class="noteref" id="back_note_33">
-          <a class="calibre3" href="#note_33" title="33">33</a>
-        </sup>
-      </sup> and also what has come to be called an information processing theory of the mind. </p>
-    <p class="block2">While Simon aimed to differentiate his view on rational decision-making from those of game theoretic approaches to strategic decision-making, his concept of bounded rationality nevertheless remains within very strong theoretical boundaries concerning cognitive processes. For his concept of bounded rationality, the environment within which decision-making takes place, as well as, more importantly, the cognitive capacities and mechanisms of individuals, introduce significant constraints that need to be recognized in order to fully understand and successfully design for decision-making strategies.</p>
-    <p class="block2">Secondly and more fundamentally, bounded rationality operates within the confines of a cognitive theory that follows an information processing model of cognition and mind, also known as cognitivism. This model of cognition assumes that knowledge, understanding, and sensations operate as clear mental representations upon which cognitive processes then perform mental changes. Importantly, cognitive processes are conceptualized as symbolic computations, including semantic meaning. Cognitivism, as a theoretical framework within psychology, developed as a reaction to, and yet largely an extension of behaviorism, the dominant psychological approach for much of the early 20th century. In contrast to behaviorism, which reduced all thinking to behavior that could in various ways be conditioned by stimuli, cognitivism holds that thinking influences behavior and cannot thus be behavior itself. Nevertheless, cognitivism shares behaviorism's positivist orientation by assuming that cognition can be fully explained by following the scientific method and experimentation. Furthermore, typically the brain is conceptualized as a machine-like device that is the sole and sufficient locus of human cognition.<sup class="calibre2">
-        <sup class="noteref" id="back_note_34">
-          <a class="calibre3" href="#note_34" title="34">34</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block1">Rethinking Cognition in Exploratory Healthcare Information Interaction</p>
-    <p class="block2">Crucially, and in contrast to classic cognitive theories discussed above, from the perspective of the Extended Mind Thesis (EMT) cognition is not delimited by processes that occur within our skin and skull, but extends into and operates through the social and artifactual environment. As evidence suggests such artifactual and social ecologies play a productive and significant role in cognitive processes, as well as in human development and evolution more fundamentally. The thesis of the Extended Mind for Andy Clark and David Chalmers, who first formulated it, is that &#8216;when parts of the environment are coupled to the brain in the right way, they become parts of the mind&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_35">
-          <a class="calibre3" href="#note_35" title="35">35</a>
-        </sup>
-      </sup> At the heart of such considerations, and in relation to EMT, lies the insight that meaningful interaction with the world seems to rely profoundly on intentional interactivity facilitated by various means and channels of perception in action. </p>
-    <p class="block2">I can usefully illustrate the role of the artifactual environment in cognition for EMT in its simplest form with the example of Tetris players. Epistemic action from within the cognitive sciences field is an area relevant to exploratory health search interaction. As Kirsh and Maglio argue, epistemic actions &#8216;are actions performed to uncover information that is hidden or hard to compute mentally&#8217; as differentiated from pragmatic actions &#8216;performed to bring one physically closer to a goal&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_36">
-          <a class="calibre3" href="#note_36" title="36">36</a>
-        </sup>
-      </sup> Kirsh and Maglio observed players of Tetris, an interactive video game for which the player must arrange objects of various shapes in order to fill in rows at the bottom of the screen. Whenever a row is fully filled, it disappears and makes space available. When rows cannot be fully filled, they will build up, creating less space to maneuver the falling objects. While the objects fall from the top of the screen, the player can either rotate or move them from left to right. What Kirsh and Maglio observed was that &#8216;certain cognitive and perceptual problems are more quickly, easily, and reliably solved by performing actions in the world than by performing computational actions in the head alone&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_37">
-          <a class="calibre3" href="#note_37" title="37">37</a>
-        </sup>
-      </sup> The authors&#8217; interpretation of such actions in the world is that they improve cognition. Exemplary epistemic action, as mentioned in the beginning, occurred when users turned objects to more easily identify their shape or moved them to the far right to determine the exact position for a high drop. From their study, the authors conclude that standard information processing models of Tetris cognition are unable to explain many of the actions performed by the players and also make them seem unmotivated and superfluous. Furthermore, they find that such 'traditional accounts are limited because they regard action as having a single function: to change the world. By recognizing a second function of action &#8211; an epistemic function &#8211; we can explain many of the actions that a traditional model cannot.&#8217;<sup class="calibre2">
-        <sup class="noteref" id="back_note_38">
-          <a class="calibre3" href="#note_38" title="38">38</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">Similar types of epistemic action can easily be imagined as useful interactions in the context of exploratory search &#8211; for example, the ability to explore the sources of authority a given search result entry enjoys, or its dominance as a search result on a timeline.<sup class="calibre2">4</sup> Such epistemic actions would provide multifarious means to make sense of search results and assess their contextual relevancy, or, as Venturini puts it, to gain a second-degree objectivity.<sup class="calibre2">
-        <sup class="noteref" id="back_note_39">
-          <a class="calibre3" href="#note_39" title="39">39</a>
-        </sup>
-      </sup>
-    </p>
-    <p class="block2">The field of behavioral economics has also recognized and come to exploit opportunistically the ways in which human cognition operates through and participates in artifactual ecologies. The field has been popularized by Richard Thaler, an economist and behavioral scientist, and Cass Sunstein, a legal scholar and behavioral economist, as a suitable means to address &#8216;solving&#8217; contemporary social and health related issues. Interventions following this approach are based on the idea that the artifactual environment can be designed to &#8216;nudge&#8217; people to behave in ways thought to be more beneficial for them than others. For example, healthy foods could be placed at the beginning of a long array of food displays in a school canteen rather than at the end. This tactic, it is believed by proponents of behavioral economics, will make it more likely that students will choose healthy foods than otherwise. Such an approach also goes by the term &#8216;choice-architecture&#8217;.<sup class="calibre2">
-        <sup class="noteref" id="back_note_40">
-          <a class="calibre3" href="#note_40" title="40">40</a>
-        </sup>
-      </sup> Typically, evidence for the performance of such an approach is experimental. Indeed, as Gigerenzer, a psychologist, and Berg, an economist, argue, the evidence base is rather thin because rather than researching how people actually make decisions, it only looks at what decisions they make and then generalizes from such experimental evidence.<sup class="calibre2">
-        <sup class="noteref" id="back_note_41">
-          <a class="calibre3" href="#note_41" title="41">41</a>
-        </sup>
-      </sup> From a more political perspective, one critique is that &#8216;nudge&#8217; interventions are seen as &#8216;liberal paternalism&#8217; because they are designed and imposed top-down. Due to their nebulous presence, nudge tactics also do not invite participation, reflection, and thus do not incite learning and long-term behavioral change.</p>
-    <p class="block2">As this and other diverse research projects have come to suggest and support,<sup class="calibre2">
-        <sup class="noteref" id="back_note_42">
-          <a class="calibre3" href="#note_42" title="42">42</a>
-        </sup>
-      </sup> cognition emerges out of a much more complex entanglement of internal and external processes, involving perception, attention, memory, and the material and cultural environment.<sup class="calibre2">
-        <sup class="noteref" id="back_note_43">
-          <a class="calibre3" href="#note_43" title="43">43</a>
-        </sup>
-      </sup> Such a perspective makes clear that black-boxing parts of the assumptions that underlie the design of interactions comes at the cost of people's ability to make sense of them contextually.</p>
-    <p class="block2">The Extended Mind Thesis thus provides an interesting and potentially productive perspective for rethinking and engaging with the issues identified above, such as the ways in which search results are filtered, ranked, and presented in a black-boxed way. Rethinking interactivity in these areas with EMT in mind reopens problem- and design-spaces and raises interesting questions about the relationship of action to cognition in these specific areas, along with how we might approach the challenge to redesign interfaces that match the potential for the web&#8217;s complexity.<sup class="calibre2">
-        <sup class="noteref" id="back_note_44">
-          <a class="calibre3" href="#note_44" title="44">44</a>
-        </sup>
-      </sup>
-      <br class="calibre5">
-    </p>
-    <p class="block1">References</p>
-    <p class="block2">Bates, Marcia J. &#8216;Toward an Integrated Model of Information Seeking and Searching&#8217;, <i class="calibre1">The New Review of Information Behaviour Research</i> 3 (2002): 1-15.</p>
-    <p class="block2">Broder, Andrei. &#8216;A Taxonomy of Web Search&#8217;, <i class="calibre1">ACM SIGIR Forum</i> 36.2 (2002): 3-10.</p>
-    <p class="block2">Castiglione, Chris. 'Matthew Fuller: Search Engine Alternatives', Institute of Network Cultures blog, 14 November 2009, http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/.</p>
-    <p class="block2">Clark, Andy. <i class="calibre1">Supersizing the Mind: Embodiment, Action, and Cognitive Extension</i>, Oxford: Oxford University Press, 2008.</p>
-    <p class="block2">Feuz, Martin, Matthew Fuller and Felix Stalder. &#8216;Personal Web Searching in the Age of Semantic Capitalism: Diagnosing the Mechanisms of Personalisation&#8217;, <i class="calibre1">First Monday</i> 16.2 (2011).</p>
-    <p class="block2">Fox, Susannah and Sydney Jones. The Social Life of Health Information, Pew Research Center, 2009. </p>
-    <p class="block2">Freedman, David H. &#8216;Lies, Damned Lies, and Medical Science&#8217;, <i class="calibre1">The Atlantic</i>, November 2010, http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/.</p>
-    <p class="block2">Goldacre, Ben. &#8216;The Information Architecture of Medicine is Broken&#8217;, 29 February 2012, http://www.youtube.com/watch?v=AK_EUKJyusg.</p>
-    <p class="block2">_____. <i class="calibre1">Bad Pharma. How Drug Companies Mislead Doctors and Harm Patients</i>, London: Fourth Estate Harper Collins, 2012.</p>
-    <p class="block2">Greenhalgh, Trisha. <i class="calibre1">How to Read a Paper: The Basics of Evidence-Based Medicine</i>, Oxford: Blackwell, 2010.</p>
-    <p class="block2">Harford, Tim. &#8216;Why We Do What We Do&#8216;, <i class="calibre1">Financial Times</i>, 28 January 2011, http://www.ft.com/cms/s/2/76e593a6-28eb-11e0-aa18-00144feab49a.html#axzz1lAG3KbL5.</p>
-    <p class="block2">Harnish, Robert M. and Denise D. Cummins. <i class="calibre1">Minds, Brains, and Computers: A Historical Introduction to the Foundations of Cognitive Science</i>, Oxford: Blackwell Publishers, 2000. </p>
-    <p class="block2">Hearst, Marti A.<i class="calibre1"> Search User Interfaces</i>, Cambridge: Cambridge University Press, 2009.</p>
-    <p class="block2">Hollan, James, Edwin Hutchins, and David Kirsh. &#8216;Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research&#8217;, <i class="calibre1">ACM Transactions on Computer-Human Interaction </i>7.2 (2000): 174-196.</p>
-    <p class="block2">Introna, Lucas and Helen Nissenbaum. &#8216;Shaping the Web: Why the Politics of Search Engines Matters&#8217;, <i class="calibre1">The Information Society </i>16.3 (2000): 169-180.</p>
-    <p class="block2">
-      <span class="calibre6">Ioannidis, John P.  &#8216;Contradicted and Initially Stronger Effects in Highly Cited Clinical Research&#8217;, </span>
-      <i class="calibre1">JAMA</i>, 294.2 (2005): 218-228.</p>
-    <p class="block2">Kirsh, David and Paul Maglio. &#8216;On Distinguishing Epistemic from Pragmatic Action&#8217;, <i class="calibre1">Cognitive Science</i> 18 (1994): 513-549.</p>
-    <p class="block2">Lehrer, Jonah. &#8216;The Truth Wears Off&#8217;, <i class="calibre1">The New Yorker</i>, 13 December 2010, http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer.</p>
-    <p class="block2">Marchionini, Gary and Ryen White. &#8216;Find What You Need, Understand What You Find&#8217;, <i class="calibre1">International Journal of Human Computer Interaction</i> 23.3 (2007): 205-237.</p>
-    <p class="block2">Markoff, John and Saul Hansell. 'Hiding in Plain Sight, Google Seeks More Power', <i class="calibre1">New York Times,</i> 14 June 2006, http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&amp;_r=1.</p>
-    <p class="block2">McPherson, Klim, John E. Wennberg, Ole B. Hovind, and Peter Clifford. &#8216;Small-Area Variations in the Use of Common Surgical Procedures: An International Comparison of New England, England, and Norway&#8217;, <i class="calibre1">The New England journal of medicine</i> 307.21 (1982): 1310-4.</p>
-    <p class="block2">No&#235;, Alva.<i class="calibre1"> Out of Our Heads</i>, New York: Farrar, Straus and Giroux, 2009.</p>
-    <p class="block2">Pan, Bing, Helen Hembrooke, Thorsten Joachims, Lori Lorigo, Gery Gay, Laura Granka. &#8216;In Google We Trust: Users&#8217; Decisions on Rank, Position, and Relevance&#8217;, <i class="calibre1">Journal of Computer Mediated Communication</i> 12.3 (2007): 801-823.</p>
-    <p class="block2">Pariser, Eli. <i class="calibre1">The Filter Bubble: What the Internet is Hiding From You</i>, London: Penguin UK, 2011.</p>
-    <p class="block2">Pratt, Craig M. and Lemuel A. Moye. &#8216;The Cardiac Arrhythmia Suppression Trial: Background, Interim Results and Implications&#8217;, <i class="calibre1">The American journal of cardiology</i>, 65.4 (1990): 20-29, http://circ.ahajournals.org/content/91/1/245.short.</p>
-    <p class="block2">Rogers, Richard. <i class="calibre1">Digital Methods</i>, Cambridge: MIT Press, 2013.</p>
-    <p class="block2">Rose, Nikolas. <i class="calibre1">Politics of Life Itself</i>, Woodstock: Princeton University Press, 2006.</p>
-    <p class="block2">
-      <span class="calibre6">Simon, Herbert A.  </span>
-      <i class="calibre1">Administrative Behavior</i>, New York: Free Press, 1976.</p>
-    <p class="block2">Spink, Amanda and Michael Zimmer. <i class="calibre1">Web Search: Multidisciplinary Perspectives</i>, Berlin: Springer-Verlag, 2010. </p>
-    <p class="block2">Sunstein, Cass. <i class="calibre1">Echo Chambers: Bush v. Gore, Impeachment, and Beyond</i>, Princeton: Princeton University Press, 2001.</p>
-    <p class="block2">Stalder, Felix and Christine Mayer. &#8216;The Second Index. Search Engines, Personalization and Surveillance&#8217;, in: K. Becker and F. Stalder (eds) <i class="calibre1">Deep Search: The Politics of Search Beyond Google,</i> Vienna: Studienverlag, 2009.</p>
-    <p class="block2">Studdert, David M., et al. &#8216;Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment&#8217;, <i class="calibre1">JAMA</i>, 293.21 (2005): 2609-2617. </p>
-    <p class="block2">Thaler, Richard H. and Cass R. Sunstein. <i class="calibre1">Nudge: Improving Decisions about Health, Wealth, and Happiness</i>, London: Penguin Books, 2009.</p>
-    <p class="block2">Timmermans, Stefan and Marc Berg. <i class="calibre1">The Gold Standard: The Challenge of Evidence-Based Medicine and Standardization in Health Care,</i> Philadelphia: Temple University Press, 2003.</p>
-    <p class="block2">Venturini, Tommaso. &#8216;What Is Second-Degree Objectivity and How Could it Be Represented&#8217; http://www.medialab.sciences-po.fr/publications/Venturini-Second_Degree_Objectivity_draft1.pdf.</p>
-    <p class="block2">
-      <span class="calibre6">White, Ryen W.  and Resa A. Roth. &#8216;Exploratory search: Beyond the Query-Response Paradigm&#8217;, </span>
-      <i class="calibre1">Synthesis Lectures on Information Concepts, Retrieval, and Services</i> 1.1 (2009): 1-98.</p>
-    <p class="block2">Zickuhr, Kathryn.<i class="calibre1"> Generations 2010</i>, Pew Research Center, 16 December 2010.</p>
-    <h1 class="notes-header" id="toc_id_1">Notes</h1>
-    <dl class="notes">
-      <dt class="calibre7" id="note_1">[<a class="calibre8" href="#back_note_1" title="1">&#8592;1</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> David Kirsh and Paul Maglio, &#8216;On Distinguishing Epistemic from Pragmatic Action&#8217;, <i class="calibre10">Cognitive science</i> 18 (1994): 513-549.</p>
-      </dd>
-      <dt class="calibre7" id="note_2">[<a class="calibre8" href="#back_note_2" title="2">&#8592;2</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Susannah Fox, and Sydney Jones, <i class="calibre10">The Social Life of Health Information</i>, Pew Research Center, 11 June 2009.</p>
-      </dd>
-      <dt class="calibre7" id="note_3">[<a class="calibre8" href="#back_note_3" title="3">&#8592;3</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Kathryn Zickuhr,<i class="calibre10"> Generations 2010</i>, Pew Research Center, 16 December 2010.</p>
-      </dd>
-      <dt class="calibre7" id="note_4">[<a class="calibre8" href="#back_note_4" title="4">&#8592;4</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Richard Rogers, <i class="calibre10">Digital Methods</i>, Cambridge: MIT Press, 2013.</p>
-      </dd>
-      <dt class="calibre7" id="note_5">[<a class="calibre8" href="#back_note_5" title="5">&#8592;5</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Felix Stalder and Christine Mayer, &#8216;The Second Index. Search Engines, Personalization and Surveillance&#8217;, in: Konrad Becker and Felix Stalder (eds) <i class="calibre10">Deep Search: The Politics of Search Beyond Google,</i> Vienna: Studienverlag, 2009.</p>
-      </dd>
-      <dt class="calibre7" id="note_6">[<a class="calibre8" href="#back_note_6" title="6">&#8592;6</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Lucas Introna and Helen Nissenbaum, &#8216;Shaping the Web: Why the Politics of Search Engines Matters&#8217;, <i class="calibre10">The Information Society </i>16.3 (2000): 169-180.</p>
-      </dd>
-      <dt class="calibre7" id="note_7">[<a class="calibre8" href="#back_note_7" title="7">&#8592;7</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Martin Feuz, Matthew Fuller and Felix Stalder &#8216;Personal Web Searching in the Age of Semantic Capitalism: Diagnosing the Mechanisms of Personalisation&#8217;, <i class="calibre10">First Monday</i> 16.2 (2011).</p>
-      </dd>
-      <dt class="calibre7" id="note_8">[<a class="calibre8" href="#back_note_8" title="8">&#8592;8</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5">
-          <span class="text1"> Bing Pan, </span>
-          <span class="text2">Helene Hembrooke, Thorsten Joachims, Lori Lorigo, Geri Gay, Laura Granka,</span>
-          <span class="text1"> &#8216;In Google We Trust: Users&#8217; Decisions on Rank, Position, and Relevance&#8217;, </span>
-          <span class="text3">Journal of Computer Mediated Communication</span>
-          <span class="text1"> 12.3 (2007): 801-823.</span>
-        </p>
-      </dd>
-      <dt class="calibre7" id="note_9">[<a class="calibre8" href="#back_note_9" title="9">&#8592;9</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Andrei Broder, &#8216;A Taxonomy of Web Search&#8217;, <i class="calibre10">ACM SIGIR Forum</i> 36.2 (2002): 3-10.</p>
-      </dd>
-      <dt class="calibre7" id="note_10">[<a class="calibre8" href="#back_note_10" title="10">&#8592;10</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Cass Sunstein, <i class="calibre10">Echo Chambers: Bush v. Gore, Impeachment, and Beyond</i>, Princeton: Princeton University Press, 2001.</p>
-      </dd>
-      <dt class="calibre7" id="note_11">[<a class="calibre8" href="#back_note_11" title="11">&#8592;11</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Eli Pariser, <i class="calibre10">The Filter Bubble: What the Internet is Hiding from You</i>, London: Penguin UK, 2011.</p>
-      </dd>
-      <dt class="calibre7" id="note_12">[<a class="calibre8" href="#back_note_12" title="12">&#8592;12</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Ryen W. White and Resa A. Roth, &#8216;Exploratory Search: Beyond the Query-Response Paradigm&#8217;, <i class="calibre10">Synthesis Lectures on Information Concepts, Retrieval, and Services</i> 1.1 (2009): 1-98.</p>
-      </dd>
-      <dt class="calibre7" id="note_13">[<a class="calibre8" href="#back_note_13" title="13">&#8592;13</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Gary Marchionini and Ryen White, &#8216;Find What You Need, Understand What You Find&#8217;, <i class="calibre10">International Journal of Human Computer Interaction</i> 23.3 (2007): 205-237.</p>
-      </dd>
-      <dt class="calibre7" id="note_14">[<a class="calibre8" href="#back_note_14" title="14">&#8592;14</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Action grammar and handles refer to the standardized styles and design metaphors suggested by the professional Human Computer Interaction domain.</p>
-      </dd>
-      <dt class="calibre7" id="note_15">[<a class="calibre8" href="#back_note_15" title="15">&#8592;15</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> John Markoff and Saul Hansell., 'Hiding in Plain Site, Google Seeks More Power', <i class="calibre10">New York Times</i>, 14 June 2006, http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&amp;_r=1.</p>
-      </dd>
-      <dt class="calibre7" id="note_16">[<a class="calibre8" href="#back_note_16" title="16">&#8592;16</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Marti A. Hearst,<i class="calibre10"> Search User Interfaces</i>, Cambridge: Cambridge University Press, 2009.</p>
-      </dd>
-      <dt class="calibre7" id="note_17">[<a class="calibre8" href="#back_note_17" title="17">&#8592;17</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Marcia J. Bates, &#8216;Toward an Integrated Model of Information Seeking and Searching&#8217;, <i class="calibre10">The New Review of Information Behaviour Research</i> 3 (2002): 1-15.</p>
-      </dd>
-      <dt class="calibre7" id="note_18">[<a class="calibre8" href="#back_note_18" title="18">&#8592;18</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Amanda Spink and Michael Zimmer, <i class="calibre10">Web Search: Multidisciplinary Perspectives</i>, Berlin: Springer-Verlag, 2010. </p>
-      </dd>
-      <dt class="calibre7" id="note_19">[<a class="calibre8" href="#back_note_19" title="19">&#8592;19</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Stefan Timmermans and Marc Berg, <i class="calibre10">The Gold Standard: The Challenge of Evidence-Based Medicine and Standardization in Health Care,</i> Philadelphia: Temple University Press, 2003.</p>
-      </dd>
-      <dt class="calibre7" id="note_20">[<a class="calibre8" href="#back_note_20" title="20">&#8592;20</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Trisha Greenhalgh, <i class="calibre10">How to Read a Paper: The Basics of Evidence-Based Medicine</i>, Oxford: Blackwell, 2010.</p>
-      </dd>
-      <dt class="calibre7" id="note_21">[<a class="calibre8" href="#back_note_21" title="21">&#8592;21</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Ben Goldacre &#8216;The Information Architecture of Medicine is Broken&#8217;, 29 February 2012, http://www.youtube.com/watch?v=AK_EUKJyusg.</p>
-      </dd>
-      <dt class="calibre7" id="note_22">[<a class="calibre8" href="#back_note_22" title="22">&#8592;22</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Ben Goldacre, <i class="calibre10">Bad Pharma. How Drug Companies Mislead Doctors and Harm Patients</i>, London: Fourth Estate Harper Collins, 2012.</p>
-      </dd>
-      <dt class="calibre7" id="note_23">[<a class="calibre8" href="#back_note_23" title="23">&#8592;23</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> John P. Ioannidis, &#8216;Contradicted and Initially Stronger Effects in Highly Cited Clinical Research&#8217;, <i class="calibre10">JAMA</i>, 294.2 (2005): 218-228.</p>
-      </dd>
-      <dt class="calibre7" id="note_24">[<a class="calibre8" href="#back_note_24" title="24">&#8592;24</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> David H. Freedman, &#8216;Lies, Damned Lies, and Medical Science&#8217;, <i class="calibre10">The Atlantic</i>, November 2010, http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/.</p>
-      </dd>
-      <dt class="calibre7" id="note_25">[<a class="calibre8" href="#back_note_25" title="25">&#8592;25</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Jonah Lehrer, &#8216;The Truth Wears Off&#8217;, <i class="calibre10">The New Yorker</i>, 13 December 2010, http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer.</p>
-      </dd>
-      <dt class="calibre7" id="note_26">[<a class="calibre8" href="#back_note_26" title="26">&#8592;26</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Craig M. Pratt and Lemuel A. Moye, &#8216;The Cardiac Arrhythmia Suppression Trial: Background, Interim Results and Implications&#8217; <i class="calibre10">The American journal of cardiology</i>, 65.4 (1990): 20-29, http://circ.ahajournals.org/content/91/1/245.short.</p>
-      </dd>
-      <dt class="calibre7" id="note_27">[<a class="calibre8" href="#back_note_27" title="27">&#8592;27</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Nikolas Rose, <i class="calibre10">Politics of Life itself</i>, Woodstock: Princeton University Press, 2006.</p>
-      </dd>
-      <dt class="calibre7" id="note_28">[<a class="calibre8" href="#back_note_28" title="28">&#8592;28</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Klim McPherson, John E. Wennberg, Ole B. Hovind, and Peter Clifford, &#8216;Small-Area Variations in the Use of Common Surgical Procedures: An International Comparison of New England, England, and Norway&#8217;, <i class="calibre10">The New England Journal of Medicine</i>, 307.21 (1982): 1310.</p>
-      </dd>
-      <dt class="calibre7" id="note_29">[<a class="calibre8" href="#back_note_29" title="29">&#8592;29</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Herbert A. Simon, <i class="calibre10">Administrative Behavior</i>, New York: Free Press, 1976.</p>
-      </dd>
-      <dt class="calibre7" id="note_30">[<a class="calibre8" href="#back_note_30" title="30">&#8592;30</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Simon, <i class="calibre10">Administrative Behavior</i>.</p>
-      </dd>
-      <dt class="calibre7" id="note_31">[<a class="calibre8" href="#back_note_31" title="31">&#8592;31</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Simon, <i class="calibre10">Administrative Behavior</i>.</p>
-      </dd>
-      <dt class="calibre7" id="note_32">[<a class="calibre8" href="#back_note_32" title="32">&#8592;32</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Studdert et al., &#8216;Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment&#8217;, <i class="calibre10">JAMA</i> 293.21 (2005): 2609-2617. </p>
-      </dd>
-      <dt class="calibre7" id="note_33">[<a class="calibre8" href="#back_note_33" title="33">&#8592;33</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Simon, <i class="calibre10">Administrative Behavior</i>.</p>
-      </dd>
-      <dt class="calibre7" id="note_34">[<a class="calibre8" href="#back_note_34" title="34">&#8592;34</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Robert M. Harnish and Denise D. Cummins, <i class="calibre10">Minds, Brains, and Computers: A Historical Introduction to the Foundations of Cognitive Science</i>, Oxford: Blackwell Publishers, 2000. </p>
-      </dd>
-      <dt class="calibre7" id="note_35">[<a class="calibre8" href="#back_note_35" title="35">&#8592;35</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Andy Clark, <i class="calibre10">Supersizing the Mind: Embodiment, Action, and Cognitive Extension</i>, Oxford: Oxford University Press, 2008.</p>
-      </dd>
-      <dt class="calibre7" id="note_36">[<a class="calibre8" href="#back_note_36" title="36">&#8592;36</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> David Kirsh and Paul Maglio, &#8216;On Distinguishing Epistemic from Pragmatic Action&#8217;, <i class="calibre10">Cognitive science</i> 18 (1994): 513-549.</p>
-      </dd>
-      <dt class="calibre7" id="note_37">[<a class="calibre8" href="#back_note_37" title="37">&#8592;37</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Kirsh and Maglio, &#8216;On Distinguishing Epistemic from Pragmatic Action&#8217;.</p>
-      </dd>
-      <dt class="calibre7" id="note_38">[<a class="calibre8" href="#back_note_38" title="38">&#8592;38</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Kirsh and Maglio, &#8216;On Distinguishing Epistemic from Pragmatic Action&#8217;.</p>
-      </dd>
-      <dt class="calibre7" id="note_39">[<a class="calibre8" href="#back_note_39" title="39">&#8592;39</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Tommaso Venturini, &#8216;What is Second-Degree Objectivity and How Could It Be Represented&#8217;, http://www.medialab.sciences-po.fr/publications/Venturini-Second_Degree_Objectivity_draft1.pdf.</p>
-      </dd>
-      <dt class="calibre7" id="note_40">[<a class="calibre8" href="#back_note_40" title="40">&#8592;40</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Richard H. Thaler and Cass R. Sunstein, <i class="calibre10">Nudge: Improving Decisions about Health, Wealth, and Happyiess</i>, London: Penguin Books, 2009.</p>
-      </dd>
-      <dt class="calibre7" id="note_41">[<a class="calibre8" href="#back_note_41" title="41">&#8592;41</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Tim Harford, &#8216;Why We Do What We Do&#8216;, <i class="calibre10">Financial Times</i>, 28 January 2011. http://www.ft.com/cms/s/2/76e593a6-28eb-11e0-aa18-00144feab49a.html#axzz1lAG3KbL5.</p>
-      </dd>
-      <dt class="calibre7" id="note_42">[<a class="calibre8" href="#back_note_42" title="42">&#8592;42</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> Alva No&#235;, <i class="calibre10">Out of our Heads</i>, New York: Farrar, Straus and Giroux, 2009.</p>
-      </dd>
-      <dt class="calibre7" id="note_43">[<a class="calibre8" href="#back_note_43" title="43">&#8592;43</a>]</dt>
-      <dd class="calibre9">
-        <p class="block5"> James Hollan, Edwin Hutchins, and David Kirsh, &#8216;Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research&#8217;, <i class="calibre10">ACM Transactions on Computer-Human Interaction </i>7.2 (2000), 174-196.</p>
-      </dd>
-      <dt class="calibre7" id="note_44">[<a class="calibre8" href="#back_note_44" title="44">&#8592;44</a>]</dt>
-      <dd class="calibre11">
-        <p class="block5"> See Matthew Fuller's presentation at Society of the Query Conference 2009. Chris Castiglione, 'Matthew Fuller: Search Engine Alternatives', Institute of Network Cultures blog, 14 November 2009, http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/. </p>
-      </dd>
-    </dl>
-  </body>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+</head>
+<body>
+<p>Exploratory Search and Extended Cognition in Health Information Interaction</p>
+<p>Martin Feuz</p>
+<p>While researching expert Tetris players, cognitive scientists David Kirsh and Paul Maglio made the following interesting observation: these players typically rely on rotating the falling objects to more easily identify their shape or moving them to the far right to determine and set up their exact position for high-drops. The researchers name these moves <em>epistemic action</em>, as their interpretation of such actions in the world is that they improve cognition. ‘Certain cognitive and perceptual problems are more quickly, easily, and reliably solved by performing actions in the world than by performing computational actions in the head alone.’<sup><a href="#fn1" class="footnoteRef" id="fnref1">1</a></sup></p>
+<p>What does epistemic action have to do with search interaction, you may ask? Actually, a lot! Search for health information is conducted in high volumes and affects people’s decision-making processes, so we should take it seriously. Health search interactions are of an exploratory nature and different in kind from other searches. Current black-boxed search engine mechanisms may do more harm than good in these exploratory search interactions. More profoundly, supporting exploratory health search interactions effectively requires shifting models of interactivity and cognitive processes from an information processing model of mind towards understanding cognition as extending into and performing through the artifactual and social environment.</p>
+<p>The Context: Health Search and Search Engines</p>
+<p>According to Pew Research from June 2009, 57 percent of adults turn to the internet as a source of health information; for 60 percent, information found online influenced their decision-making process regarding treatment options.<sup><a href="#fn2" class="footnoteRef" id="fnref2">2</a></sup> By the end of 2010, Pew reports that ‘searching for health information, an activity that was once the primary domain of older adults, is now the third most popular online activity for all internet users 18 and older’.<sup><a href="#fn3" class="footnoteRef" id="fnref3">3</a></sup></p>
+<p>Before we dive into specific ways in which search engines play a substantial role in health information search, a bit of contextualization is needed. This context will help illustrate how the development of search engines and interactions with them in the context of health information search is problematic.</p>
+<p>Search engines have played a vital role since the early days of the web. This is mainly due to the fact that the web lacks an inherent indexing and categorizing mechanism. While some organizations have tried to compile a directory using human experts, this approach quickly runs into deep problems. On the one hand this method simply can’t cope with the rapid growth of the web and thus runs the risk of becoming incomplete. On the other hand the complexity and dynamics of the web lead to ontological problems with categorizing the information found. Subsequent search engine providers started to build automated indexing and ranking mechanisms. The index is the part of a search engine that search crawlers continuously update by scanning the web for new websites and new content on those indexed websites. Ranking, on the other hand, is concerned with matching a user's search query with the index and, based on a set of rules, presenting the user with a selection of search results. At the core of ranking lies the trade-off between precision and recall. Precision is concerned with the accuracy of the match between search query and retrieved search results, while recall is concerned with the number of relevant search results produced. When the precision of the match between search query and results is increased, recall is reduced and vice versa. We will see that this tension is of ongoing concern in the development and improvement of search engines.</p>
+<p>While better suited to cope with the enormous growth of the web, early automated search engines nevertheless suffered from a number of problems. Key among the issues was that their ranking mechanism chiefly relied on a relatively crude statistical keyword matching process between search query and indexed webpages. With the growth of content on the web, this produced enormous amounts of search results (recall). More often than not, it was a strenuous effort to find useful, relevant search results.</p>
+<p>While the front end of most search engines has not seemed to change much in recent years<sup><a href="#fn4" class="footnoteRef" id="fnref4">4</a></sup>, the back end has changed substantially. Search results for a given search query are nowadays automatically filtered by a number of variables that remain hidden from immediate user interaction. The goal of this filtering is to further increase the relevancy of search results. Among others, search results are typically filtered based on the search user’s geo-location derived from her IP (Internet Protocol) address. Thus, if a user enters ‘restaurant’ as a search query on Google, the search engine assumes that the user is looking for a restaurant within the city she currently accesses the internet from. This geographic sensitivity may obviously be useful in some cases but largely depends on context. However, a more substantial and unidentifiable change to the ranking mechanism began some time ago when Google, among others, began personalizing users´ search results, promising to deliver more relevant results to the user whose query is now contextualized by her search history and other data previously compiled into a personal profile. In order to produce this context, vast amounts of personal information need to be collected, organized, and made actionable. Within the quickly receding limitations of storage space and computing power, profiles can never be too comprehensive, detailed, or up-to-date. Google for example, compiles personal profiles in three dimensions: the knowledge person (what an individual is interested in, based on search and click-stream histories), the social person (whom an individual is connected to, via e-mail, social networks, and other communication tools), and the embodied person (where an individual is located in physical space and the states of the body).<sup><a href="#fn5" class="footnoteRef" id="fnref5">5</a></sup> Together, these three profiles promise to provide a detailed, comprehensive, up-to-date context for each search query with the potential to deliver precise results that reflect not only the information ‘out-there’, but also the unique interest a user has at any given moment. Personalized search does not simply aim to provide a view of existing reality, which is problematic enough.<sup><a href="#fn6" class="footnoteRef" id="fnref6">6</a></sup> Rather, personalized search promises an ‘augmented reality’ in which machine intelligence interprets the user’s individual relationship to reality and then selects what’s good for that relationship. As a result, it has become highly unlikely that two users see the same search results for a particular search query even when accessed from the same IP address.<sup><a href="#fn7" class="footnoteRef" id="fnref7">7</a></sup> Unfortunately, many search engine users do not seem to be aware of this development.<sup><a href="#fn8" class="footnoteRef" id="fnref8">8</a></sup></p>
+<p>To fully understand the implications of search personalization, it is necessary to take a more nuanced focus in light of different types of search interactions and today’s typical search engine interface. Andrei Broder suggests differentiating between three types of search interactions, which, while crude, is a useful taxonomy for our purposes here.<sup><a href="#fn9" class="footnoteRef" id="fnref9">9</a></sup> First, navigational search queries are used when users want to find the URL for a specific website. Second, transactional search queries, such as checking flight prices, can be performed on a number of different but nevertheless specific websites. Third, informational search queries may find information on multiple websites and are useful when the search goal may not always be clear at the beginning but could emerge through the search process itself. Thus, with this type of search activity, people are typically trying to learn aspects about a topic of interest and exploring new knowledge domains. This kind of search could include anything from school or university research for an essay, to a person thinking of moving into a new professional domain or learning more about a health issue, as is the focus of this text. From such a perspective it starts to become clear that search results personalization, with its self-referential mechanisms – termed by some an echo chamber<sup><a href="#fn10" class="footnoteRef" id="fnref10">10</a></sup> or filter bubble<sup><a href="#fn11" class="footnoteRef" id="fnref11">11</a></sup> ^^– is especially problematic for informational search queries. This is because it is precisely the user's intention to move beyond already familiar knowledge and explore novel terrain. Thus, the analysis and argument I develop will focus on this type of search interaction.</p>
+<p>Exploratory Search</p>
+<p>Recently researchers have developed and characterized the notion of informational search as ‘exploratory search’,<sup><a href="#fn12" class="footnoteRef" id="fnref12">12</a></sup> which is the term I will use from now on.</p>
+<p><br />Exploratory search can be used to describe an information-seeking problem context that is open-ended, persistent, and multi-faceted; and to describe information-seeking processes that are opportunistic, iterative, and multi-tactical. In the first sense, exploratory search is commonly used in scientific discovery, learning, and decision-making contexts. In the second sense, exploratory tactics are used in all manner of information seeking and reflect seeker preferences and experience as much as the goal.<sup><a href="#fn13" class="footnoteRef" id="fnref13">13</a></sup></p>
+<p>Exploratory search interactions are characterized by a number of typical features. To start with, very often there is a complex information problem at hand and a desire to learn about it. Also, people engaging in exploratory search may be unfamiliar with the knowledge domain their search goal relates to, including a lack of understanding of dominant and peripheral actors within that domain. Furthermore, people may not have good knowledge about relevant keywords, concepts, and information sources that might be relevant to formulate search queries and evaluate search results. Lastly, it is also possible that exploratory searchers might not have a specific search goal in mind initially. The goal may only evolve and become clearer through a process of learning about a specific knowledge domain, its concepts, and actors within it. Given these characteristics, the exploratory search process typically develops over the course of multiple sessions, which may last days, weeks, or month.</p>
+<p>The Interface and Models of Interaction</p>
+<p>Many search engine interfaces are typically built on a ‘commonly accepted’ set of action grammars and handles suggested by the Human Computer Interaction (HCI) domain.<sup><a href="#fn14" class="footnoteRef" id="fnref14">14</a></sup> The action grammar applied more often than not aims to describe a context-free meta syntax and thereby suggests universal applicability and usability. In the case of universal search engines such as Google or Bing, the interface is typically made of a single search box with a search button on an otherwise almost empty page. A user enters her search query, clicks on the search button, and is then presented with the most relevant search results for that search query. Typically, the user then has a few general refinement options available to further narrow the search. What remains hidden are the numerous assumptions at work that lead to the ranking of the most relevant search results, mentioned above. This approach arguably works well for simple navigational tasks in web search. While there have been a number of useful attempts to change the dominant search interaction paradigm, sadly these ventures have died after some time. I can only speculate on the reasons why they weren’t successful, but a key determining factor seems much less related to the interaction paradigm than to index comprehensiveness, explained earlier. The computation-intensive processes for approaching comprehensiveness and accuracy require Google and other popular universal search engine providers to invest massively in hardware and human expertise. This appears to be an increasingly high entry barrier for potential competitors entering the global search engine sector (see Dirk Lewandowski´s text in this reader). Danny Hillis, a well-known supercomputing pioneer and founder of the Long Now Foundation, has argued in <em>The New York Times</em> that ‘Google has constructed the biggest computer in the world, and it’s a hidden asset’.<sup><a href="#fn15" class="footnoteRef" id="fnref15">15</a></sup></p>
+<p>The core of the problem of why today’s search engine interfaces don’t support exploratory search well lies in both a specific perspective on the model of interaction as well as the model of cognitive processes assumed by search interaction designers. Today’s search engine interfaces can be described as relying on a few core assumptions that resonate strongly with an information-processing model of the mind. Cognition is typically represented and described as a purely mental process consisting of ‘identifying an information need, followed by the activities of query specification, examination of retrieval results, and if needed, reformulation of the query, repeating the cycle until a satisfactory result set is found’.<sup><a href="#fn16" class="footnoteRef" id="fnref16">16</a></sup> Alternate models of the search process, such as Marcia Bates’ berrypicking, have made very useful contributions to a more interactive style of search by including iterative aspects of the process, including learning and shifting focus and goals.</p>
+<p>[IMG1]</p>
+<p>Fig. 1 – Berrypicking Model (Bates). Source: Peter Morville, http://www.flickr.com/photos/morville/2314377945/sizes/o/in/photostream/.</p>
+<p>While the model itself seems a bit formal, Bates more recently clarified her perspective by stating: ‘In my view, our understanding of information seeking is not complete as long as we exclude the biological and anthropological from our study.’<sup><a href="#fn17" class="footnoteRef" id="fnref17">17</a></sup> Unfortunately, such an understanding has not yet been adopted by the information seeking research community.<sup><a href="#fn18" class="footnoteRef" id="fnref18">18</a></sup> Further arguments about why models with a more embodied understanding and style of interactivity are particularly desirable in the realms of health search interaction will be developed in the next section.</p>
+<p>Methods and Issues of Evidence-Based Medicine</p>
+<p>In order to appreciate why a lack of supporting exploratory types of search interaction is particularly problematic when searching for health and medical information, we need to briefly unpack the methods on which such knowledge is produced and some of the issues this generates.</p>
+<p>For the past four decades, Evidence-Based Medicine (EBM) has slowly but increasingly become dominant as a knowledge paradigm and clinical practice approach in Western medicine. This paradigm is evident in the forms of new institutions such as the Cochrane Collaboration and the National Institute for Clinical Excellence in the U.K., new journals, recurring editorials in leading medical journals, as well as the adoption of EBM-methods, such as randomized controlled trials in mainstream medical research.<sup><a href="#fn19" class="footnoteRef" id="fnref19">19</a></sup> Greenhalgh and Donald define Evidence-Based Medicine as follows:</p>
+<p>The use of mathematical estimates of the risk of benefit and harm, derived from high-quality research on population samples, to inform clinical decision-making in the diagnosis, investigation or management of individual patients.<sup><a href="#fn20" class="footnoteRef" id="fnref20">20</a></sup></p>
+<p>This sounds all good and well; however, as research transpires through the growing body of systematic reviews, the scientific robustness of medical evidence increasingly reveals some of the problematic foundations and processes whereby medical knowledge has been and continues to be generated and distributed. Ben Goldacre, a physician and EBM researcher, has framed these issues as the ‘broken information architecture of Medicine’.<sup><a href="#fn21" class="footnoteRef" id="fnref21">21</a></sup> This phrase refers to his analysis, which exposes the fact that there is a fundamental gap in the publishing of negative trial results.<sup><a href="#fn22" class="footnoteRef" id="fnref22">22</a></sup> Put differently, the structural bias towards publishing mostly positive trial results leads to an overstatement of the benefits of treatments. To understand why, it is useful to consider the recent research by John Ioannidis, a leading meta-analytic medical researcher with an interest in the quality of medical research. In his study ‘Contradicted and Initially Stronger Effects in Highly Cited Clinical Research’, he analyzed actual medical publication patterns and how initial research findings were only slowly corrected over time.<sup><a href="#fn23" class="footnoteRef" id="fnref23">23</a></sup> For this, he studied 49 of the most important published research findings that were influential in popularizing treatments, ‘such as the use of hormone-replacement therapy for menopausal women, vitamin E to reduce the risk of heart disease, coronary stents to ward off heart attacks’. What he found was that ‘41% of these findings had been convincingly shown to be wrong or significantly exaggerated’.<sup><a href="#fn24" class="footnoteRef" id="fnref24">24</a></sup> This problem may be explained to a large extent by selective reporting of research results and publication bias. The former is the choice of data that scientists document, whereas the latter is the ‘tendency of scientists and scientific journals to prefer positive data over null results’.<sup><a href="#fn25" class="footnoteRef" id="fnref25">25</a></sup> While in some cases this choice merely means an ineffective treatment for some patients, in others it has grave consequences by actually increasing morbidity.<sup><a href="#fn26" class="footnoteRef" id="fnref26">26</a></sup></p>
+<p>From our previous discussion on search interaction models, it is becoming evident that such issues in evidence-based medicine may not be easily identified or explored with either navigational or transactional search interaction approaches nor with the tools search engines provide to assess the relevancy of search results and their sources of authority. This is because these types of search interactions presume the search user to fully understand the knowledge domain at the outset and thus to be able to identify relevant information via the mere listing of search results. Instead, an exploratory model of search interaction would, for example, support the identification of central and peripheral actors in a knowledge domain and thus provide multifarious means of assessing contextual relevancy.</p>
+<p>Cognitive Conceptions of Human Decision-Making</p>
+<p>Having briefly reflected on the methods and issues underlying contemporary evidence-based medicine, I posit that a more open-ended and exploratory form of health information interaction is strongly desirable. Desirable on the one hand due to the inherent question of the kinds of lives that are deemed valuable and desirable to live,<sup><a href="#fn27" class="footnoteRef" id="fnref27">27</a></sup> and on the other hand for allowing more engaged patient participation. Decision-making, and the ways in which it can be supported, thus figures as a core element within interactivity. We can turn to shared decision-making (SDM) processes<sup><a href="#fn28" class="footnoteRef" id="fnref28">28</a></sup> that aim to support exploratory interaction and decision-making. This approach will also allow us to illustrate the cognitive assumptions underlying the design of decision support provisioning, which also informs much contemporary human computer interaction design.</p>
+<p>Shared decision-making processes often make use of different kinds of decision aids. Typically these are pamphlets that present information about treatment options for a specific illness in a structured format. For example the pamphlets incorporate if-then scenarios for when deciding on a certain treatment option and the probable health implications, including potential side effects. Where available, such information is augmented by quantitative probabilities, which aim to support the decision-making process by trading off the probabilities of different treatment options along with healing or side effects prospects.</p>
+<p>Decision aids belong to the larger field of decision support systems and span across academic disciplines such as economics, psychology, statistics, and computer sciences. A decision support system (DSS) can be defined as a formal system designed to support the evaluation of decision alternatives and assess the likely consequences following each course of action; it thereby aids at arriving at optimal decisions.</p>
+<p>Two aspects from the above definition of DSS require attending to: the ‘formal’ and the ‘optimal’, both of which resonate strongly with some of the earliest work on decision-making in administrative organizations by Herbert Simon, an economist and highly influential researcher in the field of decision-making processes. The ‘formal’ is related to the positivism-oriented style of Simon’s work, focused on ‘scientific authority by means of reproducibility’. ‘Optimal’, in the spirit of his book, is to be understood normatively, as he makes clear that his (developing) theory of administrative behavior is not a ‘description of how administrators decide so much as a description of how good administrators decide’.<sup><a href="#fn29" class="footnoteRef" id="fnref29">29</a></sup> Coupled with such normative formalisms are his conceptions of rationality, which in this context he sees as means-ends chains ‘concerned with the selection of preferred behaviour alternatives in terms of some system of values whereby the consequences of behaviour can be evaluated’.<sup><a href="#fn30" class="footnoteRef" id="fnref30">30</a></sup> He proposes the concept of bounded rationality: instead of maximizing strategies in light of pre-given sets of choices, human individual decision-makers follow satisficing strategies. Characteristic of bounded rationality for him is when decision-makers employ heuristics, or rules of thumb decisions in the ‘face of the limits of human knowledge and reasoning’.<sup><a href="#fn31" class="footnoteRef" id="fnref31">31</a></sup> For example, one such heuristic that seems to be readily applied by doctors today is ‘err on the safe side’, by which is meant, in case of doubt recommend medical intervention. As the literature suggests, the logic behind this heuristic is mainly a way to avoid being taken to court in case a patient does fall ill.<sup><a href="#fn32" class="footnoteRef" id="fnref32">32</a></sup> To sustain his arguments for bounded rationality, Simon points to four decades of progress in psychology research to describe ‘difficult problem-solving and decision-making in terms of basic symbol-manipulating processes’<sup><a href="#fn33" class="footnoteRef" id="fnref33">33</a></sup> and also what has come to be called an information processing theory of the mind.</p>
+<p>While Simon aimed to differentiate his view on rational decision-making from those of game theoretic approaches to strategic decision-making, his concept of bounded rationality nevertheless remains within very strong theoretical boundaries concerning cognitive processes. For his concept of bounded rationality, the environment within which decision-making takes place, as well as, more importantly, the cognitive capacities and mechanisms of individuals, introduce significant constraints that need to be recognized in order to fully understand and successfully design for decision-making strategies.</p>
+<p>Secondly and more fundamentally, bounded rationality operates within the confines of a cognitive theory that follows an information processing model of cognition and mind, also known as cognitivism. This model of cognition assumes that knowledge, understanding, and sensations operate as clear mental representations upon which cognitive processes then perform mental changes. Importantly, cognitive processes are conceptualized as symbolic computations, including semantic meaning. Cognitivism, as a theoretical framework within psychology, developed as a reaction to, and yet largely an extension of behaviorism, the dominant psychological approach for much of the early 20th century. In contrast to behaviorism, which reduced all thinking to behavior that could in various ways be conditioned by stimuli, cognitivism holds that thinking influences behavior and cannot thus be behavior itself. Nevertheless, cognitivism shares behaviorism's positivist orientation by assuming that cognition can be fully explained by following the scientific method and experimentation. Furthermore, typically the brain is conceptualized as a machine-like device that is the sole and sufficient locus of human cognition.<sup><a href="#fn34" class="footnoteRef" id="fnref34">34</a></sup></p>
+<p>Rethinking Cognition in Exploratory Healthcare Information Interaction</p>
+<p>Crucially, and in contrast to classic cognitive theories discussed above, from the perspective of the Extended Mind Thesis (EMT) cognition is not delimited by processes that occur within our skin and skull, but extends into and operates through the social and artifactual environment. As evidence suggests such artifactual and social ecologies play a productive and significant role in cognitive processes, as well as in human development and evolution more fundamentally. The thesis of the Extended Mind for Andy Clark and David Chalmers, who first formulated it, is that ‘when parts of the environment are coupled to the brain in the right way, they become parts of the mind’.<sup><a href="#fn35" class="footnoteRef" id="fnref35">35</a></sup> At the heart of such considerations, and in relation to EMT, lies the insight that meaningful interaction with the world seems to rely profoundly on intentional interactivity facilitated by various means and channels of perception in action.</p>
+<p>I can usefully illustrate the role of the artifactual environment in cognition for EMT in its simplest form with the example of Tetris players. Epistemic action from within the cognitive sciences field is an area relevant to exploratory health search interaction. As Kirsh and Maglio argue, epistemic actions ‘are actions performed to uncover information that is hidden or hard to compute mentally’ as differentiated from pragmatic actions ‘performed to bring one physically closer to a goal’.<sup><a href="#fn36" class="footnoteRef" id="fnref36">36</a></sup> Kirsh and Maglio observed players of Tetris, an interactive video game for which the player must arrange objects of various shapes in order to fill in rows at the bottom of the screen. Whenever a row is fully filled, it disappears and makes space available. When rows cannot be fully filled, they will build up, creating less space to maneuver the falling objects. While the objects fall from the top of the screen, the player can either rotate or move them from left to right. What Kirsh and Maglio observed was that ‘certain cognitive and perceptual problems are more quickly, easily, and reliably solved by performing actions in the world than by performing computational actions in the head alone’.<sup><a href="#fn37" class="footnoteRef" id="fnref37">37</a></sup> The authors’ interpretation of such actions in the world is that they improve cognition. Exemplary epistemic action, as mentioned in the beginning, occurred when users turned objects to more easily identify their shape or moved them to the far right to determine the exact position for a high drop. From their study, the authors conclude that standard information processing models of Tetris cognition are unable to explain many of the actions performed by the players and also make them seem unmotivated and superfluous. Furthermore, they find that such 'traditional accounts are limited because they regard action as having a single function: to change the world. By recognizing a second function of action – an epistemic function – we can explain many of the actions that a traditional model cannot.’<sup><a href="#fn38" class="footnoteRef" id="fnref38">38</a></sup></p>
+<p>Similar types of epistemic action can easily be imagined as useful interactions in the context of exploratory search – for example, the ability to explore the sources of authority a given search result entry enjoys, or its dominance as a search result on a timeline.<sup>4</sup> Such epistemic actions would provide multifarious means to make sense of search results and assess their contextual relevancy, or, as Venturini puts it, to gain a second-degree objectivity.<sup><a href="#fn39" class="footnoteRef" id="fnref39">39</a></sup></p>
+<p>The field of behavioral economics has also recognized and come to exploit opportunistically the ways in which human cognition operates through and participates in artifactual ecologies. The field has been popularized by Richard Thaler, an economist and behavioral scientist, and Cass Sunstein, a legal scholar and behavioral economist, as a suitable means to address ‘solving’ contemporary social and health related issues. Interventions following this approach are based on the idea that the artifactual environment can be designed to ‘nudge’ people to behave in ways thought to be more beneficial for them than others. For example, healthy foods could be placed at the beginning of a long array of food displays in a school canteen rather than at the end. This tactic, it is believed by proponents of behavioral economics, will make it more likely that students will choose healthy foods than otherwise. Such an approach also goes by the term ‘choice-architecture’.<sup><a href="#fn40" class="footnoteRef" id="fnref40">40</a></sup> Typically, evidence for the performance of such an approach is experimental. Indeed, as Gigerenzer, a psychologist, and Berg, an economist, argue, the evidence base is rather thin because rather than researching how people actually make decisions, it only looks at what decisions they make and then generalizes from such experimental evidence.<sup><a href="#fn41" class="footnoteRef" id="fnref41">41</a></sup> From a more political perspective, one critique is that ‘nudge’ interventions are seen as ‘liberal paternalism’ because they are designed and imposed top-down. Due to their nebulous presence, nudge tactics also do not invite participation, reflection, and thus do not incite learning and long-term behavioral change.</p>
+<p>As this and other diverse research projects have come to suggest and support,<sup><a href="#fn42" class="footnoteRef" id="fnref42">42</a></sup> cognition emerges out of a much more complex entanglement of internal and external processes, involving perception, attention, memory, and the material and cultural environment.<sup><a href="#fn43" class="footnoteRef" id="fnref43">43</a></sup> Such a perspective makes clear that black-boxing parts of the assumptions that underlie the design of interactions comes at the cost of people's ability to make sense of them contextually.</p>
+<p>The Extended Mind Thesis thus provides an interesting and potentially productive perspective for rethinking and engaging with the issues identified above, such as the ways in which search results are filtered, ranked, and presented in a black-boxed way. Rethinking interactivity in these areas with EMT in mind reopens problem- and design-spaces and raises interesting questions about the relationship of action to cognition in these specific areas, along with how we might approach the challenge to redesign interfaces that match the potential for the web’s complexity.<sup><a href="#fn44" class="footnoteRef" id="fnref44">44</a></sup> <br /> References</p>
+<p>Bates, Marcia J. ‘Toward an Integrated Model of Information Seeking and Searching’, <em>The New Review of Information Behaviour Research</em> 3 (2002): 1-15.</p>
+<p>Broder, Andrei. ‘A Taxonomy of Web Search’, <em>ACM SIGIR Forum</em> 36.2 (2002): 3-10.</p>
+<p>Castiglione, Chris. 'Matthew Fuller: Search Engine Alternatives', Institute of Network Cultures blog, 14 November 2009, http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/.</p>
+<p>Clark, Andy. <em>Supersizing the Mind: Embodiment, Action, and Cognitive Extension</em>, Oxford: Oxford University Press, 2008.</p>
+<p>Feuz, Martin, Matthew Fuller and Felix Stalder. ‘Personal Web Searching in the Age of Semantic Capitalism: Diagnosing the Mechanisms of Personalisation’, <em>First Monday</em> 16.2 (2011).</p>
+<p>Fox, Susannah and Sydney Jones. The Social Life of Health Information, Pew Research Center, 2009.</p>
+<p>Freedman, David H. ‘Lies, Damned Lies, and Medical Science’, <em>The Atlantic</em>, November 2010, http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/.</p>
+<p>Goldacre, Ben. ‘The Information Architecture of Medicine is Broken’, 29 February 2012, http://www.youtube.com/watch?v=AK_EUKJyusg.</p>
+<p>_____. <em>Bad Pharma. How Drug Companies Mislead Doctors and Harm Patients</em>, London: Fourth Estate Harper Collins, 2012.</p>
+<p>Greenhalgh, Trisha. <em>How to Read a Paper: The Basics of Evidence-Based Medicine</em>, Oxford: Blackwell, 2010.</p>
+<p>Harford, Tim. ‘Why We Do What We Do‘, <em>Financial Times</em>, 28 January 2011, http://www.ft.com/cms/s/2/76e593a6-28eb-11e0-aa18-00144feab49a.html#axzz1lAG3KbL5.</p>
+<p>Harnish, Robert M. and Denise D. Cummins. <em>Minds, Brains, and Computers: A Historical Introduction to the Foundations of Cognitive Science</em>, Oxford: Blackwell Publishers, 2000.</p>
+<p>Hearst, Marti A.<em>Search User Interfaces</em>, Cambridge: Cambridge University Press, 2009.</p>
+<p>Hollan, James, Edwin Hutchins, and David Kirsh. ‘Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research’, <em>ACM Transactions on Computer-Human Interaction</em>7.2 (2000): 174-196.</p>
+<p>Introna, Lucas and Helen Nissenbaum. ‘Shaping the Web: Why the Politics of Search Engines Matters’, <em>The Information Society</em>16.3 (2000): 169-180.</p>
+<p>Ioannidis, John P. ‘Contradicted and Initially Stronger Effects in Highly Cited Clinical Research’, <em>JAMA</em>, 294.2 (2005): 218-228.</p>
+<p>Kirsh, David and Paul Maglio. ‘On Distinguishing Epistemic from Pragmatic Action’, <em>Cognitive Science</em> 18 (1994): 513-549.</p>
+<p>Lehrer, Jonah. ‘The Truth Wears Off’, <em>The New Yorker</em>, 13 December 2010, http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer.</p>
+<p>Marchionini, Gary and Ryen White. ‘Find What You Need, Understand What You Find’, <em>International Journal of Human Computer Interaction</em> 23.3 (2007): 205-237.</p>
+<p>Markoff, John and Saul Hansell. 'Hiding in Plain Sight, Google Seeks More Power', <em>New York Times,</em> 14 June 2006, http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&amp;_r=1.</p>
+<p>McPherson, Klim, John E. Wennberg, Ole B. Hovind, and Peter Clifford. ‘Small-Area Variations in the Use of Common Surgical Procedures: An International Comparison of New England, England, and Norway’, <em>The New England journal of medicine</em> 307.21 (1982): 1310-4.</p>
+<p>Noë, Alva.<em>Out of Our Heads</em>, New York: Farrar, Straus and Giroux, 2009.</p>
+<p>Pan, Bing, Helen Hembrooke, Thorsten Joachims, Lori Lorigo, Gery Gay, Laura Granka. ‘In Google We Trust: Users’ Decisions on Rank, Position, and Relevance’, <em>Journal of Computer Mediated Communication</em> 12.3 (2007): 801-823.</p>
+<p>Pariser, Eli. <em>The Filter Bubble: What the Internet is Hiding From You</em>, London: Penguin UK, 2011.</p>
+<p>Pratt, Craig M. and Lemuel A. Moye. ‘The Cardiac Arrhythmia Suppression Trial: Background, Interim Results and Implications’, <em>The American journal of cardiology</em>, 65.4 (1990): 20-29, http://circ.ahajournals.org/content/91/1/245.short.</p>
+<p>Rogers, Richard. <em>Digital Methods</em>, Cambridge: MIT Press, 2013.</p>
+<p>Rose, Nikolas. <em>Politics of Life Itself</em>, Woodstock: Princeton University Press, 2006.</p>
+<p>Simon, Herbert A. <em>Administrative Behavior</em>, New York: Free Press, 1976.</p>
+<p>Spink, Amanda and Michael Zimmer. <em>Web Search: Multidisciplinary Perspectives</em>, Berlin: Springer-Verlag, 2010.</p>
+<p>Sunstein, Cass. <em>Echo Chambers: Bush v. Gore, Impeachment, and Beyond</em>, Princeton: Princeton University Press, 2001.</p>
+<p>Stalder, Felix and Christine Mayer. ‘The Second Index. Search Engines, Personalization and Surveillance’, in: K. Becker and F. Stalder (eds) <em>Deep Search: The Politics of Search Beyond Google,</em> Vienna: Studienverlag, 2009.</p>
+<p>Studdert, David M., et al. ‘Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment’, <em>JAMA</em>, 293.21 (2005): 2609-2617.</p>
+<p>Thaler, Richard H. and Cass R. Sunstein. <em>Nudge: Improving Decisions about Health, Wealth, and Happiness</em>, London: Penguin Books, 2009.</p>
+<p>Timmermans, Stefan and Marc Berg. <em>The Gold Standard: The Challenge of Evidence-Based Medicine and Standardization in Health Care,</em> Philadelphia: Temple University Press, 2003.</p>
+<p>Venturini, Tommaso. ‘What Is Second-Degree Objectivity and How Could it Be Represented’ http://www.medialab.sciences-po.fr/publications/Venturini-Second_Degree_Objectivity_draft1.pdf.</p>
+<p>White, Ryen W. and Resa A. Roth. ‘Exploratory search: Beyond the Query-Response Paradigm’, <em>Synthesis Lectures on Information Concepts, Retrieval, and Services</em> 1.1 (2009): 1-98.</p>
+<p>Zickuhr, Kathryn.<em>Generations 2010</em>, Pew Research Center, 16 December 2010.</p>
+<h1 id="notes">Notes</h1>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>David Kirsh and Paul Maglio, ‘On Distinguishing Epistemic from Pragmatic Action’, <em>Cognitive science</em> 18 (1994): 513-549.<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>Susannah Fox, and Sydney Jones, <em>The Social Life of Health Information</em>, Pew Research Center, 11 June 2009.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Kathryn Zickuhr,<em>Generations 2010</em>, Pew Research Center, 16 December 2010.<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>Richard Rogers, <em>Digital Methods</em>, Cambridge: MIT Press, 2013.<a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p>Felix Stalder and Christine Mayer, ‘The Second Index. Search Engines, Personalization and Surveillance’, in: Konrad Becker and Felix Stalder (eds) <em>Deep Search: The Politics of Search Beyond Google,</em> Vienna: Studienverlag, 2009.<a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p>Lucas Introna and Helen Nissenbaum, ‘Shaping the Web: Why the Politics of Search Engines Matters’, <em>The Information Society</em>16.3 (2000): 169-180.<a href="#fnref6">↩</a></p></li>
+<li id="fn7"><p>Martin Feuz, Matthew Fuller and Felix Stalder ‘Personal Web Searching in the Age of Semantic Capitalism: Diagnosing the Mechanisms of Personalisation’, <em>First Monday</em> 16.2 (2011).<a href="#fnref7">↩</a></p></li>
+<li id="fn8"><p>Bing Pan, Helene Hembrooke, Thorsten Joachims, Lori Lorigo, Geri Gay, Laura Granka, ‘In Google We Trust: Users’ Decisions on Rank, Position, and Relevance’, Journal of Computer Mediated Communication 12.3 (2007): 801-823.<a href="#fnref8">↩</a></p></li>
+<li id="fn9"><p>Andrei Broder, ‘A Taxonomy of Web Search’, <em>ACM SIGIR Forum</em> 36.2 (2002): 3-10.<a href="#fnref9">↩</a></p></li>
+<li id="fn10"><p>Cass Sunstein, <em>Echo Chambers: Bush v. Gore, Impeachment, and Beyond</em>, Princeton: Princeton University Press, 2001.<a href="#fnref10">↩</a></p></li>
+<li id="fn11"><p>Eli Pariser, <em>The Filter Bubble: What the Internet is Hiding from You</em>, London: Penguin UK, 2011.<a href="#fnref11">↩</a></p></li>
+<li id="fn12"><p>Ryen W. White and Resa A. Roth, ‘Exploratory Search: Beyond the Query-Response Paradigm’, <em>Synthesis Lectures on Information Concepts, Retrieval, and Services</em> 1.1 (2009): 1-98.<a href="#fnref12">↩</a></p></li>
+<li id="fn13"><p>Gary Marchionini and Ryen White, ‘Find What You Need, Understand What You Find’, <em>International Journal of Human Computer Interaction</em> 23.3 (2007): 205-237.<a href="#fnref13">↩</a></p></li>
+<li id="fn14"><p>Action grammar and handles refer to the standardized styles and design metaphors suggested by the professional Human Computer Interaction domain.<a href="#fnref14">↩</a></p></li>
+<li id="fn15"><p>John Markoff and Saul Hansell., 'Hiding in Plain Site, Google Seeks More Power', <em>New York Times</em>, 14 June 2006, http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&amp;_r=1.<a href="#fnref15">↩</a></p></li>
+<li id="fn16"><p>Marti A. Hearst,<em>Search User Interfaces</em>, Cambridge: Cambridge University Press, 2009.<a href="#fnref16">↩</a></p></li>
+<li id="fn17"><p>Marcia J. Bates, ‘Toward an Integrated Model of Information Seeking and Searching’, <em>The New Review of Information Behaviour Research</em> 3 (2002): 1-15.<a href="#fnref17">↩</a></p></li>
+<li id="fn18"><p>Amanda Spink and Michael Zimmer, <em>Web Search: Multidisciplinary Perspectives</em>, Berlin: Springer-Verlag, 2010.<a href="#fnref18">↩</a></p></li>
+<li id="fn19"><p>Stefan Timmermans and Marc Berg, <em>The Gold Standard: The Challenge of Evidence-Based Medicine and Standardization in Health Care,</em> Philadelphia: Temple University Press, 2003.<a href="#fnref19">↩</a></p></li>
+<li id="fn20"><p>Trisha Greenhalgh, <em>How to Read a Paper: The Basics of Evidence-Based Medicine</em>, Oxford: Blackwell, 2010.<a href="#fnref20">↩</a></p></li>
+<li id="fn21"><p>Ben Goldacre ‘The Information Architecture of Medicine is Broken’, 29 February 2012, http://www.youtube.com/watch?v=AK_EUKJyusg.<a href="#fnref21">↩</a></p></li>
+<li id="fn22"><p>Ben Goldacre, <em>Bad Pharma. How Drug Companies Mislead Doctors and Harm Patients</em>, London: Fourth Estate Harper Collins, 2012.<a href="#fnref22">↩</a></p></li>
+<li id="fn23"><p>John P. Ioannidis, ‘Contradicted and Initially Stronger Effects in Highly Cited Clinical Research’, <em>JAMA</em>, 294.2 (2005): 218-228.<a href="#fnref23">↩</a></p></li>
+<li id="fn24"><p>David H. Freedman, ‘Lies, Damned Lies, and Medical Science’, <em>The Atlantic</em>, November 2010, http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/.<a href="#fnref24">↩</a></p></li>
+<li id="fn25"><p>Jonah Lehrer, ‘The Truth Wears Off’, <em>The New Yorker</em>, 13 December 2010, http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer.<a href="#fnref25">↩</a></p></li>
+<li id="fn26"><p>Craig M. Pratt and Lemuel A. Moye, ‘The Cardiac Arrhythmia Suppression Trial: Background, Interim Results and Implications’ <em>The American journal of cardiology</em>, 65.4 (1990): 20-29, http://circ.ahajournals.org/content/91/1/245.short.<a href="#fnref26">↩</a></p></li>
+<li id="fn27"><p>Nikolas Rose, <em>Politics of Life itself</em>, Woodstock: Princeton University Press, 2006.<a href="#fnref27">↩</a></p></li>
+<li id="fn28"><p>Klim McPherson, John E. Wennberg, Ole B. Hovind, and Peter Clifford, ‘Small-Area Variations in the Use of Common Surgical Procedures: An International Comparison of New England, England, and Norway’, <em>The New England Journal of Medicine</em>, 307.21 (1982): 1310.<a href="#fnref28">↩</a></p></li>
+<li id="fn29"><p>Herbert A. Simon, <em>Administrative Behavior</em>, New York: Free Press, 1976.<a href="#fnref29">↩</a></p></li>
+<li id="fn30"><p>Simon, <em>Administrative Behavior</em>.<a href="#fnref30">↩</a></p></li>
+<li id="fn31"><p>Simon, <em>Administrative Behavior</em>.<a href="#fnref31">↩</a></p></li>
+<li id="fn32"><p>Studdert et al., ‘Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment’, <em>JAMA</em> 293.21 (2005): 2609-2617.<a href="#fnref32">↩</a></p></li>
+<li id="fn33"><p>Simon, <em>Administrative Behavior</em>.<a href="#fnref33">↩</a></p></li>
+<li id="fn34"><p>Robert M. Harnish and Denise D. Cummins, <em>Minds, Brains, and Computers: A Historical Introduction to the Foundations of Cognitive Science</em>, Oxford: Blackwell Publishers, 2000.<a href="#fnref34">↩</a></p></li>
+<li id="fn35"><p>Andy Clark, <em>Supersizing the Mind: Embodiment, Action, and Cognitive Extension</em>, Oxford: Oxford University Press, 2008.<a href="#fnref35">↩</a></p></li>
+<li id="fn36"><p>David Kirsh and Paul Maglio, ‘On Distinguishing Epistemic from Pragmatic Action’, <em>Cognitive science</em> 18 (1994): 513-549.<a href="#fnref36">↩</a></p></li>
+<li id="fn37"><p>Kirsh and Maglio, ‘On Distinguishing Epistemic from Pragmatic Action’.<a href="#fnref37">↩</a></p></li>
+<li id="fn38"><p>Kirsh and Maglio, ‘On Distinguishing Epistemic from Pragmatic Action’.<a href="#fnref38">↩</a></p></li>
+<li id="fn39"><p>Tommaso Venturini, ‘What is Second-Degree Objectivity and How Could It Be Represented’, http://www.medialab.sciences-po.fr/publications/Venturini-Second_Degree_Objectivity_draft1.pdf.<a href="#fnref39">↩</a></p></li>
+<li id="fn40"><p>Richard H. Thaler and Cass R. Sunstein, <em>Nudge: Improving Decisions about Health, Wealth, and Happyiess</em>, London: Penguin Books, 2009.<a href="#fnref40">↩</a></p></li>
+<li id="fn41"><p>Tim Harford, ‘Why We Do What We Do‘, <em>Financial Times</em>, 28 January 2011. http://www.ft.com/cms/s/2/76e593a6-28eb-11e0-aa18-00144feab49a.html#axzz1lAG3KbL5.<a href="#fnref41">↩</a></p></li>
+<li id="fn42"><p>Alva Noë, <em>Out of our Heads</em>, New York: Farrar, Straus and Giroux, 2009.<a href="#fnref42">↩</a></p></li>
+<li id="fn43"><p>James Hollan, Edwin Hutchins, and David Kirsh, ‘Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research’, <em>ACM Transactions on Computer-Human Interaction</em>7.2 (2000), 174-196.<a href="#fnref43">↩</a></p></li>
+<li id="fn44"><p>See Matthew Fuller's presentation at Society of the Query Conference 2009. Chris Castiglione, 'Matthew Fuller: Search Engine Alternatives', Institute of Network Cultures blog, 14 November 2009, http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/.<a href="#fnref44">↩</a></p></li>
+</ol>
+</div>
+</body>
 </html>
-
