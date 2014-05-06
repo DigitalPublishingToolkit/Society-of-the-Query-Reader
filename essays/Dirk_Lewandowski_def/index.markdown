@@ -1,7 +1,6 @@
-Why We Need An Independent Index Of The Web
-===========================================
+**Why We Need an Independent Index of the Web**
 
-Dirk Lewandowski
+**Dirk Lewandowski**
 
 Search engine indexes function as a ‘local copy of the
 web’[^1], forming the foundation of every search engine.
@@ -78,8 +77,8 @@ One can of course view the decision to use the Google search engine as a
 personal choice and ask what’s so bad about the fact that one search
 engine is used almost exclusively. The simple answer is that, much in
 the same way we require more than just a single newspaper to ensure a
-diverse range of opinions are represented in the media, we need more
-than one search engine to ensure that a broad range of opinions are
+diverse range of opinions is represented in the media, we need more
+than one search engine to ensure that a broad range of opinions is
 represented in the search market.
 
 The comparison with the media becomes somewhat less applicable when one
@@ -109,7 +108,7 @@ the merits of an independent index that is accessible to everyone and
 show that the lack of such an index can be viewed as a disincentive for
 investing in search.
 
-1.  2.  **Alternative Search Engine Indexes**
+***Alternative Search Engine Indexes***
 
 There are only a handful of search engines that operate their own
 indexes. Particularly among new search engine startups, it can
@@ -174,7 +173,7 @@ the more search result page ads are served. Consequently, large search
 engines with a comprehensive advertising network have an inherent
 advantage.[^11]
 
-1.  **Access to Search Engine Indexes**
+***Access to Search Engine Indexes***
 
 The large search engine indexes can be accessed by means of what are
 known as application programming interfaces (APIs). The API allows
@@ -225,10 +224,10 @@ purpose of internet searching and analysis and more by whether or not it
 succeeds in generating awareness for the topic of publicly available web
 indexes.
 
-1.  **Alternative Search Engines**
+***Alternative Search Engines***
 
 There have been efforts in the past to establish alternative search
-engines. But consensus was lacking on what constitutes an ‘alternative’.
+engines. But consensus is lacking on what constitutes an ‘alternative’.
 One might consider all search engines that are not Google as
 alternatives. This would include all the search engines that have been
 heralded as the next ‘Google killer’, but never manage to succeed over
@@ -263,7 +262,7 @@ to agreement, however, the project was split into two parts, Quaero (the
 French part) and Theseus (the German part). The French team developed
 technologies for multimedia searching. Theseus concentrated on semantic
 technologies for business-to-business applications (without focusing
-exclusively on search). ‘Real alternatives,’ on the other hand, would be
+exclusively on search). ‘Real alternatives’, on the other hand, would be
 defined as search engines that pursue a different approach than the
 conventional web search engines. Conceivable services might include
 semantic search engines and alternative approaches to gathering web
@@ -311,7 +310,7 @@ not the search engine market is shared by two, three, or four
 participants. Only by establishing a considerable number of search
 engines can true diversity be achieved.
 
-1.  **The Solution**
+***The Solution***
 
 The path to greater diversity, as we have seen, cannot be achieved by
 merely hoping for a new search engine (a Google killer), nor will
@@ -413,26 +412,26 @@ by everyone, ensures that the electrical grid is available to all, and
 generates and disseminates geodata. Making web data available is no
 different from these other public services.
 
-References
+**References**
 
-Bharat, Krishna, and Andrei Broder, ‘A Technique For Measuring the
+Bharat, Krishna and Andrei Broder. ‘A Technique For Measuring the
 Relative Size and Overlap of Public Web Search Engines’, *Computer
-Networks and ISDN Systems* 30*.*1-7 (1998): 379-388.
+Networks and ISDN Systems* 30.1-7 (1998): 379-388.
 
 Dominikowski, Thomas. ‘Zur Geschichte der Websuchmaschinen in
 Deutschland’ in Dirk Lewandowski (ed.) *Handbuch Internet-Suchmaschinen
 3: Suchmaschinen zwischen Technik und Gesellschaft,* Berlin: Akademische
 Verlagsgesellschaft AKA, 2013, pp. 3-34.
 
-Eimeren, Birgit van, and Beate Frees, 'ARD/ZDF-Onlinestudie 2012: 76
+Eimeren, Birgit van and Beate Frees. 'ARD/ZDF-Onlinestudie 2012: 76
 Prozent der Deutschen online – neue Nutzungssituationen durch mobile
 Endgeräte', *Media Perspektiven* 7-8 (2012): 362-379.
 
-Gulli, Antonio, and Alessio Signorini, 'The Indexable Web is More Than
+Gulli, Antonio and Alessio Signorini. 'The Indexable Web is More Than
 11.5 Billion Pages’, *14th International Conference on World Wide Web,*
 2005, pp. 902-903.
 
-Lawrence, Steve, and C. Lee Giles, ‘Accessibility of Information on the
+Lawrence, Steve, and C. Lee Giles. ‘Accessibility of Information on the
 Web’, *Nature* 400 (8 July 1998): 107-109.
 
 \_\_\_\_\_. ‘Searching the World Wide Web’ *Science* 280 (3 April 1998):
@@ -451,30 +450,29 @@ und Dokumentation,* 6, Ausgabe. Berlin: De Gruyter, 2013, pp. 495-508.
 Internet-Suchmaschinen 3: Suchmaschinen zwischen Technik und
 Gesellschaft,* Berlin: Akademische Verlagsgesellschaft AKA, 2013.
 
-\_\_\_\_\_. ‘A Three-Year Study On The Freshness Of Web Search Engine
+\_\_\_\_\_. ‘A Three-Year Study on the Freshness of Web Search Engine
 Databases’, *Journal of Information Science*, 34 (2008): 817-831.
 
-Lunapark, 'Suchmaschinen-Marktanteile', Lunapark, 2013, retrieved from
+Lunapark. 'Suchmaschinen-Marktanteile', Lunapark, 2013, retrieved from
 http://www.luna-park.de/blog/1175-suchmaschinen-marktanteile/.
 
-Ntoulas, Alexander, Junghoo Cho, and Christopher Olston, ‘What’s New On
-The Web?: The Evolution Of The Web From A Search Engine Perspective’,
+Ntoulas, Alexander, Junghoo Cho, and Christopher Olston. ‘What’s New on
+the Web?: The Evolution of the Web from a Search Engine Perspective’,
 *Proceedings of the 13th International Conference on World Wide Web*
 2004, pp. 1-12.
 
-Purcell, Kristen, Joanna Brenner, and Lee Raine, *Search Engine Use
+Purcell, Kristen, Joanna Brenner, and Lee Raine. *Search Engine Use
 2012,* Pew Internet & American Life Project, 2012,
 http://pewinternet.org/\~/media/Files/Reports/2012/PIP\_Search\_Engine\_Use\_2012.pdf.
 
-Risvik, Knut Magne, and Rolfe Michelsen, ‘Search Engines and Web
-Dynamics’, *Computer Networks* *39.*3 (2002): 289-302.
+Risvik, Knut Magne, and Rolfe Michelsen. ‘Search Engines and Web
+Dynamics’, *Computer Networks* 39.3 (2002): 289-302.
 
 Schmidt, Holger. 'Googles Marktanteil steigt auf 96 Prozent in
 Deutschland', *Focus Online*, 12 March 2012,
 http://www.focus.de/digital/internet/netzoekonomie-blog/suchmaschinen-googles-marktanteil-steigt-auf-96-prozent-in-deutschland\_aid\_723240.html.
 
-Notes
-=====
+**Notes**
 
 [^1]: Knut Magne Risvik and Rolfe Michelsen, ‘Search Engines and Web
     Dynamics’, *Computer Networks* 39*.*3 (2002): 289-302.
@@ -487,15 +485,15 @@ Notes
 [^3]: Dirk Lewandowski, ‘A Three-Year Study on the Freshness of Web Search
     Engine Databases’, *Journal of Information Science*, 34 (2008):
     817-831; Alexander Ntoulas, Junghoo Cho, and Christopher Olston,
-    ‘What’s New On The Web?: The Evolution Of The Web From A Search
+    ‘What’s New on the Web?: The Evolution of the Web from a Search
     Engine Perspective’, *Proceedings of the 13th International
-    Conference on World Wide Web,* 2004, pp. 1-12.
+    Conference on World Wide Web*, 2004, pp. 1-12.
 
 [^4]: Studies show that search engines do not come close to achieving a
     comprehensive index and that different search engines do not always
     find the same documents. Although there is no current research on
     the comprehensiveness of search engines, from older research
-    (Krishna Bharat, and Andrei Broder, ‘A Technique for Measuring the
+    (Krishna Bharat and Andrei Broder, ‘A Technique for Measuring the
     Relative Size and Overlap of Public Web Search Engines’, *Computer
     Networks and ISDN Systems* 30*.*1-7 (1998): 379-388; Steve Lawrence
     and C. Lee Giles, ‘Searching the World Wide Web’, *Science* 280 (3
@@ -503,7 +501,7 @@ Notes
     of Information on the Web’ *Nature* 400 (8 July 1998): 107-109;
     Antonio Gulli and Alessio Signorini, 'The Indexable Web is More Than
     11.5 Billion Pages’, *14th International Conference on World Wide
-    Web,* 2005, pp. 902-903.) We can however assume that even when
+    Web,* 2005, pp. 902-903) we can however assume that even when
     taking into consideration recent technological advances, the
     coverage of the web is likely to be far from complete.
 
@@ -536,8 +534,7 @@ Notes
 
 [^9]: The largest share of the costs involved in providing a search engine
     service goes towards deploying the search engine (development costs
-    and building and maintaining the index). The costs involved in the
-    processing the individual search requests play only a very minor
+    and building and maintaining the index). The costs involved in processing the individual search requests play only a very minor
     role.
 
 [^10]: Dirk Lewandowski, ‘Suchmaschinenindices’, in Dirk Lewandowski (ed.)
