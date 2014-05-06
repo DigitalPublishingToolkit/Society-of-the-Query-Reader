@@ -1,10 +1,8 @@
-Dialectic of Google
-===================
+**Dialectic of Google**
 
-Andrea Miconi
+**Andrea Miconi**
 
-Premise
--------
+***Premise***
 
 Let’s be honest: we don’t know exactly how Google works. However, we all
 use Google to get information, probably because everybody else does. And
@@ -52,8 +50,7 @@ free of charge tool, likely to enable people to look for almost
 everything they want. But what is the secret of Google’s success,
 information for information’s sake, or something more complicated?
 
-The Kingdom of (Apparent) Neutrality
-------------------------------------
+***The Kingdom of (Apparent) Neutrality***
 
 Apparent neutrality: this could be a good definition for this search
 engine’s industrial strategies. In other words, Google’s lack of
@@ -153,10 +150,10 @@ of previous tendencies. According to Jansen and Spink, web users are
 still show a 'low tolerance of viewing any results past the first
 page'.[^18] Statistical data released by Bing in 2013
 show that 50 percent of users simply click the top result, while only
-“4-6 percent click the third result”.[^19] On the
+'4-6 percent click the third result'.[^19] On the
 other hand, Keane, O’Brien and Smyth provided an empirical test by
 simulating a Google interface able to reverse the order of results, thus
-showing how people’s search is “partially biased”, even though users are
+showing how people’s search is 'partially biased', even though users are
 sometimes able to detect the most relevant page even at the bottom of
 the list. [^20] In other words, the degree to which
 the use of search engines is biased is still to be proved. The bias,
@@ -170,6 +167,8 @@ they suggest? Simply and sadly, that often people do not see any reason
 to challenge search engines, or question their reliability and
 transparency. If we consider that people now limit their consumption to
 *one* search engine, the problem suddenly becomes evident.
+
+***Google as Social Pattern***
 
 I said earlier that people use only Google and so do I, but is this
 happening by accident or design? The reason why everybody uses Google
@@ -230,8 +229,7 @@ between ‘vertical’ and ‘horizontal’ media does not provide a serious
 understanding of power as it is now taking place within the new digital
 platforms.
 
-The Bubble Will Have You
-------------------------
+***The Bubble Will Have You***
 
 PageRank is simply the first stage in Google’s strategy. The second is
 characterized by the customization strategies through the use of
@@ -325,8 +323,7 @@ introduces some elements of the so-called ‘semantic web’;
 [^33] and Google Now, a service expected to provide
 you with the right information ‘before you even ask’, through the
 implementation of geo-locative technologies. [^34] In
-short, Google combines many different services and tools, but I will
-here consider only two of them – PageRank and the use of cookies – which
+short, Google combines many different services and tools, but I here consider only two of them – PageRank and the use of cookies – which
 seem to produce the most interesting effects. While the PageRank
 algorithm tends to favor the most linked pages, thus building a kind of
 homogenized agenda of knowledge and information, the use of cookies on
@@ -338,8 +335,7 @@ detected. Google’s action is therefore splitting into two different and
 almost opposite tendencies: the maximum degrees of standardization and
 individualization, which becomes quite a challenge for social studies.
 
-Dialectic of Google
--------------------
+***Dialectic of Google***
 
 I’ve said the maximum degrees of standardization and individualization
 coexist in the same device. This seems to confirm Geert Lovink’s idea
@@ -379,7 +375,7 @@ books and geographical maps, social circles and e-mail services, and so
 on. Two opposite and *dynamic* tendencies that nonetheless cooperate to
 produce a *static* result: the ‘inherently conservative’ nature of
 Google’s cultural processes by which, as discussed by Eli Pariser and
-Siva Vaidyanathan, anyone will basically find what he or she is inclined
+Siva Vaidhyanathan, anyone will basically find what he or she is inclined
 to look for, and will eventually know what he or she already knows. The
 bubble, in this sense, is the ultimate technical version of a long-term
 process by which the individual has become a predictable part of a
@@ -443,14 +439,14 @@ turn to give new transformation a place. Perhaps we could define this
 phenomenon with Hegel’s words: the ‘negation of negation’.
 
 I will stop here, as I have attempted, in a half serious way, to apply
-Friedrich Engel’s laws of dialectics to Google’s cultural
+Friedrich Engels' laws of dialectics to Google’s cultural
 system.[^41] *Serious*, because I think that current
 technological innovation does require a strong theoretical investigation
 rather than a merely quantitative analysis usually operated through
 crawlers (which, in a sort of vicious circle, provide a further
 legitimation of commercial software as the only valuable cultural
-platform, and so on). *Half* not *serious*, because I am not actually
-sure that the traditional forms of thought – such as Engel’s dialectics,
+platform, and so on). *Half* not serious, because I am not actually
+sure that the traditional forms of thought – such as Engels' dialectics,
 or Bourdieu’s view of social practice – are the most suitable ones for
 the current needs of critical theory.
 
@@ -463,13 +459,12 @@ customization of digital marketing? Put in different terms: cookies
 collect data in a cultural ecosystem where, for good or for bad, such
 things as violence, pornography, multiple names, anonymity (in a word,
 *dissonance*) have been banned. In this context, the individual is a
-consumer, tracked with any moves he or she makes, and living in a
+consumer, tracked with any move he or she makes, and living in a
 digital market where there is no room for conflict. What a powerful
 device, and what an ideal habitus for the world order of late
 capitalism.
 
-References
-----------
+**References**
 
 Adorno, Theodor and Max Horkheimer. *Dialectic of Enlightenment* (1944),
 London: Verso, 1997.
@@ -518,7 +513,7 @@ Jansen, Bernard, Amanda Spink, and Tefko Saracevic. ‘Real Life, Real
 Users, and Real Needs: A Study and Analysis of User Queries on the Web’,
 *Information Processing and Management* 36.3 (2000): 207-227.
 
-Keane, Mark, O’Brien, Maeve, and Smyth, Barry Smyth. ‘Are People Biased
+Keane, Mark, Maeve O’Brien, Barry and Smyth. ‘Are People Biased
 in Their Use of Search Engines?’, *Communications of the ACM* 51.2
 (2008): 49-52.
 
@@ -544,7 +539,7 @@ Webology 1 (2004), [www.webology.ir](http://www.webology.ir/) .
 Terranova,**Tiziana. 'Attention, Economy and the Brain', *Culture
 Machine* 13 (2012): 1-19.
 
-Vaidhyanathan, Siva. *The Googlization of Everything (and Why We Should
+Vaidhyanathan, Siva. *The Googlization of Everything (And Why We Should
 Worry)*, Berkeley and Los Angeles: University of California Press, 2011.
 
 Vise, David, and Mark Malseed. *The Google Story*, New York: Random
@@ -556,14 +551,13 @@ Information Science and Technology* 54.8 (2003): 743-758.
 
 Weinberger, David. *Too Big to Know*, New York: Basic Books, 2011.
 
-Notes
------
+**Notes**
 
 [^1]: Data available at www.comscore.com.
 
 [^2]: Data available at www.fullplan.it.
 
-[^3]: Siva Vaidhyanathan, *The Googlization of Everything (and Why We
+[^3]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
     Should Worry)*, Berkeley and Los Angeles: University of California
     Press, 2011, p. 144.
 
@@ -588,7 +582,7 @@ Notes
     *Information Processing and Management* 42 (2006): 252-256; see also
     Peiling Wang, Michael Berry, and Yiheng Yang, ‘Mining Longitudinal
     Web Queries: Trends and Patterns’, *Journal of the American Society
-    for Information Science and Technology* 54. 8 (2003): 743-758.
+    for Information Science and Technology* 54.8 (2003): 743-758.
 
 [^9]: Bernard Jansen, Amanda Spink, and Tefko Saracevic, ‘Real Life, Real
     Users, and Real Needs: A Study and Analysis of User Queries on the
@@ -606,7 +600,7 @@ Notes
     Hypertextual Web Search Engine’, Seventh International World Wide
     Conference, Brisbane, 1998, http://ilpubs.stanforde.edu:8090/361/.
 
-[^13]: See Craig Silverstein, Monica Henzinger, Hannes Marais and Michael
+[^13]: See Craig Silverstein, Monica Henzinger, Hannes Marais, and Michael
     Moricz, 'Analysis of a Very Large AltaVista Query Log', *Newsletter
     ACM SIGIR Forum* 33.1 (1999): 6-12.
 
@@ -619,7 +613,7 @@ Notes
 [^16]: Jansen and Spink, 'How We Are Searching the World Wide Web?', pp.
     257-258.
 
-[^17]: Jansen, Spink and Pedersen, 'A Temporal Comparison of AltaVista Web
+[^17]: Jansen, Spink, and Pedersen, 'A Temporal Comparison of AltaVista Web
     Searching', p.**563.
 
 [^18]: Jansen and Spink, 'How Are We Searching the World Wide Web?' p. 260.
