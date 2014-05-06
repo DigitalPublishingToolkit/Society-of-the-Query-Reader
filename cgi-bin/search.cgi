@@ -18,7 +18,7 @@ print u"""<!DOCTYPE html>
 <head>
 <title>society of the query</title>
 <link rel="stylesheet" type="text/css" href="/styles.css" />
-<script src="/lib/jquery-1.4.3.min.js"></script>
+<script src="/lib/jquery/jquery-1.4.3.min.js"></script>
 <script src="/lib/fancybox/jquery.fancybox-1.3.4.js"></script>
 <script>
 $(document).ready(function () {{

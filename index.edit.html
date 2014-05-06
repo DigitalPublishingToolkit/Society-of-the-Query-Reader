@@ -52,6 +52,11 @@ body {
 </style>
 <script src="/lib/jquery/jquery-1.10.2.min.js"></script>
 <script src="/lib/editor.js"></script>
+
+<link rel="stylesheet" href="/lib/medium-editor/css/medium-editor.css"> <!-- Core -->
+<link rel="stylesheet" href="/lib/medium-editor/css/themes/default.css"> <!-- or any other theme -->
+<script src="/lib/medium-editor/js/medium-editor.js"></script>
+
 </head>
 <body>
     <div id="toolbar">
@@ -61,7 +66,7 @@ body {
             <button id="next">next</button>
             <button id="edit">edit</button>
             <button id="save">save</button>
-            <button id="cancel">cancel</button>
+            <button id="revert">revert</button>
         </div>
     <div class="status"></div>
     </div>
@@ -75,7 +80,7 @@ body {
     Stylesheets: <input type="text" class="title" value="" />
     Links: <input type="text" class="title" value="" />
 </div>
-<div id="document" ><iframe src=""></iframe></div>
+<div id="document" ><iframe src="" class="editable"></iframe></div>
 <div id="sources" style="display: none">
     <a href="essays/Intro_v_1_1/index.html"></a>
     <a href="essays/Kylie-Jarrett_def/index.html"></a>
