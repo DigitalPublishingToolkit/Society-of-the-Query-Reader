@@ -1,10 +1,10 @@
-The Dark Side of Google: Pre-Afterword – Social Media Times
+**The Dark Side of Google: Pre-Afterword – Social Media Times**
 
-Theory on Demand \#13, 2007/2013
+**Ippolita**
 
-Ippolita
+The following text is the new forword to the translation by Patrice Riemens of Ippolita's *The Dark Side of Google*, Amsterdam: Instititute of Network Cultures, 2013.**
 
-Performance Societies in the Clouds
+***Performance Societies in the Clouds***
 
 Many years have passed since Ippolita first addressed the need to
 distinguish between the Free Software movement and the Open Source
@@ -113,11 +113,10 @@ the devices are getting smaller and less capacious, it is easy to
 predict that an explosion of the storage of online personal data will
 soon take place.
 
-From the File to the Cloud
+***From the File to the Cloud***
 
-If we want things to stay as they are, things will have to change.
-
-*-*Il Gattopardo, *The Leopard* [^3]
+>If we want things to stay as they are, things will have to change.
+>Tomasi di Lamedusa [^3]
 
 Today web applications are able to replace almost all software created
 for the computer. The very idea of a personal computer has ceased to
@@ -168,7 +167,7 @@ necessary to download audio files through P2P networks (thereby avoiding
 ‘cybercrime’), because applications now offer us everything we want to
 listen to directly on the internet. Libraries and their content are all
 available without many limits, so there is no need anymore for files
-that are actually stored and catalogued on your device. Examples of
+that are actually stored and cataloged on your device. Examples of
 these online audio libraries are Spotify and Grooveshark.
 
 This loss of ‘stored’ files in online audio libraries also extends to
@@ -192,7 +191,7 @@ usual suspects: Google first and foremost, and also Amazon.
 However, besides making use of cloud computing*,*Google has also entered
 competition with mobile devices. The advent of smartphones and tablets
 with internet access has revolutionized the mobile market, and it gave
-birth to a new mass ritual, namely, ‘Connectivity everywhere’, and the
+birth to a new mass ritual, namely, ‘Connectivity Everywhere’, and the
 mantra ‘Always On!’ The smartphone has become a status symbol to the
 point of unleashing wars for the hegemony of the market. Together with
 iOS, Google’s Android has emerged as one of the major competitors.
@@ -242,7 +241,7 @@ contrast to other web languages, JavaScript describes the ‘logic’ of
 sites and applications. The better its performance, the greater the
 speed of execution of the service we are using.
 
-HTML5, W3C: Standards, Architectural Dominance and Control Methods
+***HTML5, W3C: Standards, Architectural Dominance, and Control Methods***
 
 In the highly complex world that is the internet, some elements need to
 be shared in as universal a manner as possible. In order to make
@@ -287,14 +286,14 @@ easy to understand how browsers and HTML are of primary importance for
 building a worldwide computing hegemony – both from an economic and
 political point of view.
 
-Open Is Not Free, and Published Is Not Public
+***Open Is Not Free, and Published Is Not Public***
 
 And here we are today. Unlike the times in which Ippolita was one of the
 few shouting about how we don’t have to put everything on Google –
 because the delegation of our data and trust (even if semi-unconscious)
 marks the beginning of domination (in this case, technocratic) – today
 many voices have been raised against the social networks and the whole
-web 2.0 tale, accusing them of violating the privacy of
+Web 2.0 tale, accusing them of violating the privacy of
 users.[^4]
 
 The techno-enthusiasm is dismissed as a false revolutionary ideology,
@@ -316,11 +315,10 @@ point of view: so far no one has shown that social media have
 contributed to selling customized products through personal
 advertising.[^7] In the meantime, various scholars have
 accomplished more extensive pieces of analysis and criticism. We
-remember Siva Vaidhyanathan's thorough *The Googlization of Everything –
-and Why We Should Worry*.[^8] Evgeny Morozov’s *To Save
+remember Siva Vaidhyanathan's thorough *The Googlization of Everything (And Why We Should Worry)*.[^8] Evgeny Morozov’s *To Save
 Everything, Click Here*has rightly focused the debate on solutionism and
 internet-centrism, fideistic acceptances of the so-called inevitable
-‘technological revolutions’ taking place*.* [^9] These
+‘technological revolutions’ taking place.[^9] These
 attitudes described by Morozov claim to be scientific and objective, but
 instead are highly ideological, endemically spreading now in too many
 private and public speeches. But Morozov lacks a broader theoretical
@@ -362,15 +360,15 @@ the other hand, which we expect to deliver consistently despite a lot of
 interplanetary gossip, has a political connotation that is clearly
 reactionary. Facebook works because more than a billion people are on
 it, an incredible power, but to do what? We still don't really know.
-(Ippolita wrote extensively about Facebook in Nell’acquario di Facebook,
-to be translated and published in English as In the Facebook Aquarium.)
+(Ippolita wrote extensively about Facebook in *Nell’acquario di Facebook*,
+to be translated and published in English as *In the Facebook Aquarium*.)
 [^10]
 
 Of course we should not forget that networks have played an important
 role in the 2008 revolt in Iran and in the uprisings of most countries
 in North Africa, as well as in Asian dictatorships and the Arab world in
 general. Facebook has been very helpful for the Indignados, and Twitter
-and FourSquare for Occupy Wall Street. These and other private
+and Foursquare for Occupy Wall Street. These and other private
 instruments will probably be used again in revolts for freedom that are
 yet to come, and we hope that these will be more and more numerous.
 However, this is not a good reason to link social networks to democracy,
@@ -424,7 +422,7 @@ are not technical matters: the better algorithms will not automagically
 create better societies, and radical transparency is a totalitarian
 nightmare.
 
-Participation Myth Corollaries: We Are the 99 Percent
+***Participation Myth Corollaries: We Are the 99 Percent***
 
 Digital activism could be framed as an interesting corollary to the
 online mass participation myth, and the claim that 'social networks
@@ -438,9 +436,9 @@ the ‘digital networks connected us’ rhetoric.
 
 Ippolita shares the idea that
 
-[s]ocial media have been chiefly responsible for the construction of a
-*choreography of assembly*as a process of symbolic construction of
-public space which facilitates and guides the physical assembling of a
+>[s]ocial media have been chiefly responsible for the construction of a
+*choreography of assembly* as a process of symbolic construction of
+public space which facilitates and guides the physical *assembling* of a
 highly dispersed and individualized constituency.[^11]
 
 The key question is how these media were used to ‘get physical’. How, in
@@ -462,9 +460,8 @@ on Liquid Feedback**tools of interaction.
 We are certainly not the only ones to proclaim the notion that ‘what is
 true today, was true yesterday’. You must be able to imagine your future
 in order to understand the present. We need to be more contemporary to
-our times, that is to say *untimely,*or in the words of Agamben,
-‘Contemporary is the one who receives in the face the beam of darkness
-that comes from her time’.[^12] By recalling the past
+our times, that is to say *untimely*, or in the words of Agamben,
+‘contemporary is the one whose eyes are struck by the beam of darkness that comes from his own time’.[^12] By recalling the past
 and creating a collective story (since memory is a collective tool),
 nothing is ever repeated. However, the differences are similar, and the
 insipid soup of yesterday, a little pimped up, may be dished out as the
@@ -493,7 +490,7 @@ domination’.[^14] The method that has been built
 (cartographic, interdisciplinary) is necessarily partial and sometimes
 lax, but at the same time it has allowed for problems with the
 technocratic delegation to emerge, long before it became obvious.
-Jamaican slaves used the saying, ‘Pull a straight lick with a crooked
+Jamaican slaves used the saying, ‘pull a straight lick with a crooked
 stick’. We like to imagine escape routes, then try to sell them; we
 imagine and build appropriate tools to achieve our desires. We should
 make them available to an audience that is made up of people, instead of
@@ -578,14 +575,16 @@ info@ippolita.net 
 
 September, 2013
 
-Per una corretta autopoiesi (For a proper autopoiesis)
+*Per una corretta autopoiesi (For a proper autopoiesis)*
 
-References
+Download *The Dark Side of Google* for free from http://networkcultures.org/publications.
+
+**References**
 
 Agamben, Giorgio. 'What Is the Contemporary', in *What is an Apparatus?
 and Other Essays,* Stanford: Stanford University Press, 2009, pp. 39-56.
 
-boyd, danah. ‘Facebook and Radical Transparency: a Rant’, 14 May 2011,
+boyd, danah. ‘Facebook and Radical Transparency: A Rant’, 14 May 2011,
 http://www.zephoria.org/thoughts/archives/2010/05/14/facebook-and-radical-transparency-a-rant.html.
 
 Braidotti, Rosi. Metamorphoses: Towards a Materialist Theory of
@@ -631,8 +630,7 @@ Loneliness*, New York: Prometheus Book, 2012.
 Vaidhyanathan, Siva. *The Googlization of Everything (And Why We Should
 Worry),* Berkeley: University of California Press, 2011.
 
-Notes
-=====
+**Notes**
 
 [^1]: Ippolita, *Open Non è Free: Comunità Digitali tra Etica Hacker e
     Mercato Global,*Milano: Elèuthera, 2005.
@@ -652,7 +650,7 @@ Notes
     Loneliness*, New York, Prometheus Book, 2012. See chapter three in
     *The Dark Side of Google*: 'Trusting Machines'.
 
-[^5]: danah boyd, ‘Facebook and Radical Transparency: a Rant’, 14 May
+[^5]: danah boyd, ‘Facebook and Radical Transparency: A Rant’, 14 May
     2011,
     http://www.zephoria.org/thoughts/archives/2010/05/14/facebook-and-radical-transparency-a-rant.html.
 
@@ -665,7 +663,7 @@ Notes
     blog, 23 March 2010,
     http://blogs.hbr.org/2010/03/the-social-media-bubble/.
 
-[^8]: Siva Vaidhyanathan, *The Googlization of Everything (and Why We
+[^8]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
     Should Worry),* Berkeley: University of California Press, 2011.
 
 [^9]: Evgeny Morozov, *To Save Everything, Click Here,*New York: Public
@@ -679,7 +677,7 @@ Notes
 [^11]: Paolo Gerbaudo, *Tweets and the Streets*, London: Pluto Press, 2012.
 
 [^12]: Giorgio Agamben, 'What Is the Contemporary', in *What Is an
-    Apparatus? And Other Essays,* Stanford : Stanford University Press,
+    Apparatus? And Other Essays,* Stanford: Stanford University Press,
     2009, p. 45.
 
 [^13]: Ippolita, *The Dark Side of Google,* Amsterdam: Institute of Network
