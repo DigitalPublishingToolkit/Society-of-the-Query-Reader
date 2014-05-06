@@ -1,7 +1,7 @@
-A ‘History’ of Search Engines: Mapping Technologies of Memory, Learning,
-and Discovery
+**A ‘History’ of Search Engines: Mapping Technologies of Memory, Learning,
+and Discovery**
 
-Richard Graham
+**Richard Graham**
 
 Can we draw a timeline onto which search engines fit? This is at once an
 ordinary and odd question. We constantly contextualize technology,
@@ -117,8 +117,8 @@ definitions, which in turn mould our behavior.
 
 [IMG1]
 
-Fig 1. An ad-hoc constellation of associations for technologies relating
-to remembering, learning and discovering (by the author).
+("")Fig. 1. An ad-hoc constellation of associations for technologies relating
+to remembering, learning and discovering (by the author).")
 
 Figure 1 shows a number of ideas, institutions, and technologies that
 relate to search engines. I could add more points of reference in the
@@ -155,10 +155,10 @@ set of connections to other technologies and also hopefully to shift
 some of the conceptions regarding the newness and exceptional nature of
 web search engines.
 
-Remembering, (or More Accurately, Forgetting)
+***Remembering, (or More Accurately, Forgetting)***
 
-Knowledge is of two kinds. We know a subject ourselves, or we know where
-we can find information upon it*.* [^1]
+>Knowledge is of two kinds. We know a subject ourselves, or we know where
+we can find information upon it. [^1]
 
 My use of the term *remembering* constitutes the use of search engines
 for jogging one's memory for things we would otherwise say we knew –
@@ -166,7 +166,7 @@ sentiments crystallized by phrases such as ‘Who was that guy in that
 film? You know, *that* guy!’ and, ‘It's on their second album, whatever
 it’s called’. We often rely on these kinds of mental placeholders,
 however empty, because we know that correct searches will remind us of
-certain facts. As psychologist Stephen Kosslyn puts it, ‘Once I look up
+certain facts. As psychologist Stephen Kosslyn puts it: ‘Once I look up
 something on the internet, I don’t need to retain all the details for
 future use – I know where to find that information again and can quickly
 and easily do so. More generally, the internet functions as if it were
@@ -177,7 +177,7 @@ his 2008 article for *The Atlantic,* ‘Is Google Making Us Stupid?’, uses
 a metaphor that can usefully stand in for the frequently voiced opinion
 that the internet has fundamentally changed the way we think:
 
-What the Net seems to be doing is chipping away my capacity for
+>What the Net seems to be doing is chipping away my capacity for
 concentration and contemplation. My mind now expects to take in
 information the way the Net distributes it: in a swiftly moving stream
 of particles. Once I was a scuba diver in the sea of words. Now I zip
@@ -187,8 +187,7 @@ Carr’s metaphor reflects an entire mentality about the internet: the
 feeling of a profound sense of distance between the time before search
 engines, hyperlinking, and the web, and our wholly futuristic
 contemporary situation. It is as if we have passed one of, if not *the*,
-major technological watersheds. Carr goes on to describe how, 'The
-Internet, an immeasurably powerful computing system, is subsuming most
+major technological watersheds. Carr goes on to describe how the internet, 'an immeasurably powerful computing system, is subsuming most
 of our other intellectual technologies. It’s becoming our map and our
 clock, our printing press and our typewriter, our calculator and our
 telephone, and our radio and TV.'[^4]
@@ -200,8 +199,8 @@ also replaces ones we are familiar with, underpins the belief that there
 is no going back to the good old time of simplicity and authenticity. To
 return to Kosslyn’s description of new post-internet behaviors and
 provide a more positive counterbalance to Carr’s provocative arguments,
-Kosslyn reinforces the concept that, 'Constant connectivity has posed
-various trade-offs; nothing is without a price. But in this case – on
+Kosslyn reinforces the concept that, 'constant connectivity has posed
+various tradeoffs; nothing is without a price. But in this case – on
 balance – it’s a small price. I’m a better thinker now than I was before
 I integrated the internet into my mental and emotional processing.'^^
 [^5]
@@ -252,14 +251,13 @@ To elaborate on the question of memory, I will now introduce a very old
 and culturally specific technology, the Quipu.
 
 [IMG2]
-
-An Inca quipu, from the Larco Museum in Lima (source: Wikipedia).
+("Fig. 2. An Inca quipu, from the Larco Museum in Lima (source: Wikipedia).")
 
 In ancient Andean South America, a particular technology called a Quipu
 was used in a number of different regions. This device, often described
-as talking knots ,
+as talking knots,
 
-consisted of a thick cord from which a number of strings were suspended
+>consisted of a thick cord from which a number of strings were suspended
 in the manner of a fringe. These strings were of different colors,
 according to the nature of the object each represented: for example,
 yellow stood for gold, red for the army, white for peace. The colors,
@@ -310,7 +308,7 @@ Ruth Shady, have argued that the earliest discovered examples are around
 4500 years old.[^10] Anthropologist Gary Urton has
 shown through written archival evidence that there are
 
-descriptions of the khipus contained in documents written at the time of
+>descriptions of the khipus contained in documents written at the time of
 the Spanish conquest (beginning in 1532) [which] reveal that the Inkas
 used khipus to record quantitative data (e.g., censuses and tribute
 records) as well as songs, genealogies, and other narrative forms
@@ -345,7 +343,7 @@ possibilities of combinations of strings and ties. This flexibility
 allowed at all times the possibility that each Quipu message was
 transmitting or helping different users remember more or less
 information. This ambiguity doubles the difficulty of ascertaining the
-device's precise usage from a 21^st^ century perspective. Not only can
+device's precise usage from a 21st century perspective. Not only can
 scholars not fully understand Quipus because of a lack of translated
 rules, etiquette, and application, but also it is entirely possible that
 Quipucamayus had so many different ways in which the personal and
@@ -380,7 +378,7 @@ own, but only because of the unspoken search behaviors of strangers.
 Often counterintuitive to an individual’s attempted use of search
 engines as memory devices is that we must negotiate the combined
 personal mnemonic patterns of others. In my initial constellation (see
-figure 1) of associated technologies, I grouped Quipus under the heading
+Figure 1) of associated technologies, I grouped Quipus under the heading
 of *memory*. However, as this example shows, the collaborative contexts
 from which Quipus and other memory media are inextricable complicate the
 idealistic notion that technologies can be used simply to *remember*.
@@ -391,7 +389,7 @@ discovering.
 The media archaeologist Jussi Parikka, paraphrasing the German media
 theorist Friedich Kittler, describes the situation by arguing that:
 
-Media determine our situation and are already inside our heads, inside
+>Media determine our situation and are already inside our heads, inside
 our capacities of understanding and writing, our theoretical concepts,
 memories and such, yet these perspectives of a media-archaeological kind
 elaborate the wider intermedial fields in which the human body is
@@ -406,9 +404,9 @@ individual use and development of certain capacities, both in isolated
 and social contexts. With the Quipus we can see that the constellation
 of *remembering* undermines itself.
 
-Learning, (or Searching for Details)
+***Learning, (or Searching for Details)***
 
-At any point in history, institutions attempt to legitimate the current
+>At any point in history, institutions attempt to legitimate the current
 version of knowledge and truth by controlling the manner in which texts
 are ordered with respect to each other.[^14]
 
@@ -430,7 +428,7 @@ however, when they speak of *the future of the book* in such a general
 way refers back to what historian Peter Burke describes as an
 ‘intellectual tripod composed of curricula, libraries and
 encyclopaedias’.[^15] Burke describes how, in the
-15th^th^ century, due to the uniform way knowledge was structured and
+15th century, due to the uniform way knowledge was structured and
 taught (through the linear and sequential systems of the trivium and
 quadrivium), each of these components reinforced one another. ‘The order
 of books would reproduce the order of the university
@@ -467,7 +465,7 @@ Dewey Decimal Classification (DDC) system in 1876. The system provided
 libraries with a more fluid way in which books could interact, while at
 the same time reinforcing older hierarchies and divisions. When
 demarcating constellation relationships on our map of associations
-(figure 1), it might be beneficial to juxtapose the process and mindsets
+(Figure 1), it might be beneficial to juxtapose the process and mindsets
 involved in using search engines to the changing relationship users had
 to books within libraries in the late 19th century. Before the DDC,
 library catalogs were usually arranged in the ‘alphabetico-classed
@@ -497,7 +495,7 @@ book’s location. There are several problems with this system. First,
 libraries did not allow browsing to the same extent that they do today;
 the major categories were too wide to allow for semi-serendipitous
 research behaviors. Disciplinary knowledge was needed for both
-cataloguing and retrieval, and this forced the process of acquiring new
+cataloging and retrieval, and this forced the process of acquiring new
 knowledge into traditional patterns, restricting new ways of thinking.
 Secondly, the written indexes were time-consuming to use and maintain;
 if a mistake was made in cataloging a book, it would effectively be lost
@@ -552,9 +550,9 @@ technologies are required to strike between knowledge prerequisites for
 learning and open-ended discovery has been part of a much larger
 technological history than our modern search engine dilemmas.
 
-Discovery (or Study Without End or Reason)
+***Discovery (or Study Without End or Reason)***
 
-Man would no longer need documentation if he were assimilated into an
+>Man would no longer need documentation if he were assimilated into an
 omniscient being – as with God himself. […] Everything in the universe,
 and everything of man, would be registered at a distance as it was
 produced. In this way a moving image of the world will be established, a
@@ -585,7 +583,7 @@ although previous technologies have been implemented to an extent, it is
 perhaps more productive to compare the intentions of particular
 technologies. As Eric Kluitenberg argues:
 
-More often than not, the expectations contained in such imaginaries far
+>More often than not, the expectations contained in such imaginaries far
 exceed what actual media machines are actually capable of doing.
 However, the actual media machines are themselves inflicted with
 impossible desires that are ascribed to, or are projected onto them, by
@@ -611,7 +609,7 @@ functioned in an unfinished state for a time (hence the ambiguity
 between actual and imaginary), was planned to house all the world's
 knowledge. Otlet described it in 1914:
 
-These collections are conceived as parts of one universal body of
+>These collections are conceived as parts of one universal body of
 documentation, as an encyclopaedic survey of human knowledge, as an
 enormous intellectual warehouse of books, documents, catalogues and
 scientific objects. Established according to standardized methods, they
@@ -643,15 +641,13 @@ conclusions inside’.[^23]
 Akin to search engines, the staff at the Mundaneum would answer queries
 with quotations, photographs, and film footage extracted from their
 original work but with sufficient references to place it in context. The
-Mundaneum was constructed by analysing books and other materials,
+Mundaneum was constructed by analyzing books and other materials,
 selecting the most important conclusions, and translating that
 information onto index cards to be used as facts for any number of
 different contexts. At its height the Mundaneum contained over ‘12
 million individual index cards and documents’[^24] and
 employed full time operators who could answer questions, provide
-information, and work for anyone on an individual inquiry basis.
-
-During the Nazi invasion of Belgium in 1940, the Mundaneum was stripped
+information, and work for anyone on an individual inquiry basis. During the Nazi invasion of Belgium in 1940, the Mundaneum was stripped
 and replaced with an exhibition of Third Reich art. Its legacy lives on,
 and in the late 90s many of its remains were found and have been
 reconstructed as a modern museum in the city of Mons.
@@ -695,7 +691,7 @@ decontextualize our technologies in order to see familiar ones in a new
 light. If search engines themselves do not respect traditional
 boundaries, then when we study them, why should we either?
 
-References
+**References**
 
 Baudin, Louis. A Socialist Empire: The Incas of Peru , New Jersey: D.
 Van Nostrand Company, 1961.
@@ -712,7 +708,7 @@ http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/3
 
 Comaromi, John. ‘Knowledge Organized is Knowledge Kept: The Dewey
 Decimal Classification, 1873-1976’, *The Quarterly Journal of the
-Library of Congress,* vol. 33, (1976): 17-31.
+Library of Congress*, 33 (1976): 17-31.
 
 Google Mission Statement. www.google.com/about/.
 
@@ -727,14 +723,14 @@ Kosslyn, Stephen M. ‘Social Prosthetic Systems’, in John Brockman (ed.)
 *Is the Internet Changing the Way You Think?* New York: Edge Foundation,
 2011.
 
-Mann, Charles C. ‘Unraveling Khipu’s Secrets’, *Science* Vol. 309 (12
+Mann, Charles C. ‘Unraveling Khipu’s Secrets’, *Science* 309 (12
 August 2005): 1008-9.
 
 McLuhan, Marshall.*Understanding Media: The Extensions of Man*, New
 York: McGraw-Hill, 1964.
 
 Otlet, Paul. Monde: Essaie d'Universalisme , Trans. Anthony Judge,
-Brussels: Editions du Mundaneum, 1935, pp. 390-391.
+Brussels: Editions du Mundaneum, 1935.
 
 Parikka, Jussi. *What Is Media Archeology*,**Cambridge: Polity Press,
 2013.
@@ -748,13 +744,12 @@ Rayward, W. Boyd. 'Visions of Xanadu: Paul Otlet and Hypertext' , JASIS
 
 Urton, Gary ‘ From Knots to Narratives: Reconstructing the Art of
 Historical Record Keeping in the Andes from Spanish Transcriptions of
-Inka Khipus’ , Ethnohistory , vol. 45, no. 3 (summer, 1998): 409-438.
+Inka Khipus’, *Ethnohistory* 45.3 (Summer, 1998): 409-438.
 
 Wright, Alex. *Glut: Mastering Information through the Ages*, New York:
 Cornell University Press, 2007.
 
-Notes
-=====
+**Notes**
 
 [^1]: James Boswell, *The Life of Samuel Johnson Volume II*,**New York:
     Penguin, 1986 (1791), p. 257.
@@ -788,8 +783,7 @@ Notes
 
 [^11]: Gary Urton, ‘ From Knots to Narratives: Reconstructing the Art of
     Historical Record Keeping in the Andes from Spanish Transcriptions
-    of Inka Khipus’, Ethnohistory, vol. 45, no. 3 (Summer 1998), pp.
-    409-410.
+    of Inka Khipus’, *Ethnohistory* 45.3 (Summer 1998): 409-410.
 
 [^12]: Urton, ‘ From Knots to Narratives’ , p. 411.
 
@@ -803,11 +797,11 @@ Notes
 [^15]: Peter Burke, *A Social History of Knowledge: From Gutenberg to
     Diderot*,**Malden, Mass.: Polity Press, 2000, p. 87.
 
-[^16]: Burke, *A Social History of Knowledge*’, p. 92.
+[^16]: Burke, *A Social History of Knowledge*, p. 92.
 
 [^17]: John Comaromi, ‘Knowledge Organized is Knowledge Kept: The Dewey
     Decimal Classification, 1873-1976’, *The Quarterly Journal of the
-    Library of Congress,* vol. 33 (1976), p. 3.
+    Library of Congress* 33 (1976): 3.
 
 [^18]: Comaromi, ‘Knowledge Organized is Knowledge Kept’, p. 311.
 
@@ -822,7 +816,7 @@ Notes
     Press, p. 48.
 
 [^22]: Paul Otlet, ‘1914 Advertising Pamphlet Qtd’, in W. Boyd Rayward,
-    'Visions of Xanadu: Paul Otlet and Hypertext' , JASIS 45 (1994), p.
+    'Visions of Xanadu: Paul Otlet and Hypertext', *JASIS* 45 (1994):
     240.
 
 [^23]: Alex Wright, *Glut: Mastering Information through the Ages,* New
