@@ -1,6 +1,6 @@
-Frictionless Sharing: The Rise of Automatic Criticism
+**Frictionless Sharing: The Rise of Automatic Criticism**
 
-Vito Campanelli
+**Vito Campanelli**
 
 In recent months, revelations about the existence of the surveillance
 program called PRISM and the consequent scandal (the ‘datagate’) that
@@ -114,7 +114,7 @@ been specifically designed for us. This trend provokes great alarm,
 because it ends up affecting our ability to choose how we want to spend
 our life.[^10]
 
-Right to Say No
+***Right to Say No***
 
 From the perspective of cultural critique, the problematic relationship
 of humans with machines that have the capacity to filter cultural
@@ -125,8 +125,8 @@ personal computers in the 80s) observes with great concern the
 consolidation of a tendency to escape the responsibility of critical
 consciousness and instead delegate every decision-making process to
 machines. This passage threatens to deprive humans of the critical role
-of essences who make decisions, [^11] which spells
-'the end of freedom'. [^12] It is also not possible to
+of *essences who make decisions*, [^11] which spells
+'the end of freedom'[^12]. It is also not possible to
 consider it an expression of freedom when deciding whether to press one
 key or another; instead, the decision is based on prescripts and,
 ultimately, is a 'programmed freedom' (a choice between prescribed
@@ -149,9 +149,9 @@ information is not discarded but heavily transmitted over digital
 networks. The Facebook timeline, for example, proposes the experience of
 continuously redundant content, that is, content that is endlessly
 repeated to induce users to conform to them. Moreover, as noted by Bob
-Hanke, 'Since Flusser's time, we have seen the rise of a myth of user
+Hanke, '[s]ince Flusser's time, we have seen the rise of a myth of user
 agency and interactivity, the digital lock-down of culture, and the
-enclosure of the information commons'. [^14]
+enclosure of the information commons.'[^14]
 
 Beyond this aspect, Flusser believes that even in the case of automatic
 apparatuses (which have become automatic critics), human beings retain a
@@ -163,7 +163,7 @@ decisions, at the same time it opens the doors to the fundamental
 freedom whereby we can say no to telematics itself.
 [^15]
 
-Freedom to Program
+***Freedom to Program***
 
 Flusser's interrogation into the opportunity to reject telematics and
 reassert human intelligence over artificial ones is particularly
@@ -172,7 +172,7 @@ struggling to affirm our freedom ('positive freedom') to control the
 fate of information (especially information about ourselves), while our
 agency is restricted by 'the “black boxing” of technologies, their
 networks, and intellectual property regimes'.[^16] For
-Flussser, to avoid being programmed by the apparatuses, it is necessary
+Flusser, to avoid being programmed by the apparatuses, it is necessary
 to devote oneself to their reconfiguration and programming. In other
 words it is necessary to say, 'I want to have my program so that I won’t
 be subject to anyone else’s'. In a society dominated by 'unidirectional
@@ -190,9 +190,9 @@ fundamental is having the 'programs of others' in order to edit (remix)
 them and subsequently offer them back.[^17]
 
 In this regard, the popular media theorist Douglas Rushkoff, in his
-decalogue Program or Be Programmed, writes that 'Programming is the
+decalogue *Program or Be Programmed*, writes that '[p]rogramming is the
 sweet spot, the high leverage point in a digital society. If we don’t
-learn to program, we risk being programmed ourselves'.
+learn to program, we risk being programmed ourselves.'
 [^18] The media theorist notes that if in an earlier
 time there were no differences between using a computer and programming
 it, today we are confronted with a totally different scenario, and the
@@ -235,14 +235,14 @@ technologies that represent 'black boxes' known only to those who
 program (and whose good faith we are forced to accept on trust).
 [^25] As Rushkoff writes:
 
-Digital technologies are [...] not just objects, but systems embedded
+>Digital technologies are [...] not just objects, but systems embedded
 with purpose. They act with intention. If we don’t know how they work,
 we won’t even know what they want. The less involved and aware we are of
 the way our technologies are programmed and program themselves, the more
 narrow our choices will become. [^26]
 
-Ruskoff arrives at a place similar to Flusser's: for both is it clear
-that 'the less we will able to envision alternatives to the pathways
+Rushkoff arrives at a place similar to Flusser's: for both is it clear
+that 'the less we will be able to envision alternatives to the pathways
 described by our programs […] the more our lives and experiences will be
 dictated by their biases'. [^27] Moreover, as
 emphasized by Manovich, in a world dominated by software, it is not our
@@ -291,10 +291,10 @@ critic is condemned to remain an illusion until it is possible again to
 look inside our apparatuses, to understand how they work, and to share
 such knowledge. [^32]
 
-References
+**References**
 
 Becker, Konrad and Felix Stalder (eds). Deep Search: The Politics of
-Search beyond Google, Innsbruck: Studien Verlag, 2009.
+Search beyond Google, Innsbruck: Studienverlag, 2009.
 
 Campanelli, Vito. InfoWar: La battaglia per il controllo e la libertà
 della rete , Milano: Egea, 2013.
@@ -348,8 +348,7 @@ Randomness , Princeton: Princeton University Press, 1999.
 \_\_\_\_\_. Six Degrees: The Science of a Connected Age , New York:
 Norton, 2003.
 
-Notes
-=====
+**Notes**
 
 [^1]: Zuckerberg's expression was the following: 'real-time serendipity in
     a friction-less experience'. See Sheila Shayon, 'Facebook Unveils
@@ -387,11 +386,11 @@ Notes
 [^10]: Eli Pariser, *The Filter Bubble: What The Internet Is Hiding From
     You*, London and New York: Penguin, 2011.
 
-[^11]: It's useful to remember that for Flusser: 'freedom is essentially
+[^11]: It's useful to remember that for Flusser 'freedom is essentially
     the difference between that which is redundant and that which is
     actually information, and the free person is the one who is
     competent to decide'. Vilém Flusser, *Ins Universum der technischen
-    Bilder*, Gottingen: European Photography, 1985, trans. *Into the
+    Bilder*, Göttingen: European Photography, 1985, trans. *Into the
     Universe of Technical Images*, Minneapolis and London: University of
     Minnesota Press, 2011, p. 111.
 
@@ -421,9 +420,9 @@ Notes
 [^21]: For a critical analysis of the role of search engines in current
     society and, in particular, of their ability to affect access to
     culture and information, see Konrad Becker and Felix Stalder (eds)
-    *Deep Search: The Politics of Search beyond Google,* Innsbruck:
-    Studien Verlag, 2009, and Siva Vaidhyanathan, *The Googlization of
-    Everything (And Why We Should Worry)*, Los**Angeles: University of
+    *Deep Search: The Politics of Search beyond Google*, Innsbruck:
+    Studienverlag, 2009, and Siva Vaidhyanathan, *The Googlization of
+    Everything (And Why We Should Worry)*, Los Angeles: University of
     California Press, 2011.
 
 [^22]: The statistical analysis company comScore recently documented the
