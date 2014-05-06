@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Reflect and Act! Introduction to the Society of the Query Reader**
 
 **René König and Miriam Rasch**
@@ -34,6 +35,284 @@ Starting with theorizing web search, the foundations of this technology are crit
     http://www.slate.com/blogs/xx\_factor/2014/01/21/parents\_ask\_google\_is\_my\_son\_gifted\_and\_is\_my\_daughter\_overweight.html.
 
 [^3]: ^^ William Gibson, ‚Google’s Earth’, *The New York Times*, 31 August 2010,
+=======
+Society of the Query Reader
+
+Title **: Introduction to the Society of the Query Reader**
+
+Motto?
+
+In only a few years search engines such as Google and Bing have become a
+central infrastructure-like element of the web. Within milliseconds they
+give answers to pretty much all our questions, providing a remarkably
+effective access point to the ever-growing ocean of information online.
+As usual for infrastructures, there is a harsh contrast between the
+importance they have for our daily lives and the attention we pay to
+them. Just as we expect water running from the tap, electricity coming
+from the plug and roads to drive on, we take for granted that there are
+search engines giving us the information we need.
+
+Search engines are becoming invisible, thereby increasing their implicit
+power. To encounter this tendency, we need to design visibility
+campaigns to exemplify their influence. This is the main aim of Society
+of Query and similar initiatives such as Deep Search. Integrated in
+smart phone interfaces, browsers, apps and platforms such YouTube, we
+are already take for granted that there is a search bar in close range.
+Within a remarkably short time range we have familiarized ourselves with
+the search logic: type, select, click and move on. The ever-increasing
+speed in which we search has created a collective ‘techno-unconscious’
+from which we have to wake up. This INC Reader is a modest step in this
+direction. But first we need to analyze, develop critical concepts and
+create awareness campaigns, before we can question monopoly of certain
+corporations who understand how to monetize our techno-unconscious
+behavior.
+
+The rise of mobile devices and connections has increased the
+infrastructural significance of search engines even further, with a deep
+impact on our cultures and societies. We carry search technology with us
+all the time, using it for factual questions like an extended memory
+(what was the name again of the author playing Julian Assange in that
+2013 biopic? And while we’re at it, what year did Wikileaks start
+again?), feeding them with our existential fears and doubts (‘my
+daughter is overweight’; ‘my son is a genius’ – what should I
+do?[^1]). But we do not grasp their workings or question
+the answers they give. We’re not in control of our search practices –
+search engines are in control of us and we readily agree, though mostly
+unconsciously, to this domination. ‘We’re citizens, but without
+rights’[^2] in the Society of the Query.
+
+It is of the greatest importance to critically understand that search
+engine infrastructures are mostly commercial operations, in contrast to
+the state-owned or at least state-regulated electricity and water
+infrastructures or road systems. Web search is not just about providing
+users with the information they are looking for in the most efficient
+way possible; search engine companies are also driven by the desire to
+make a profit, and to increase this profit by penetrating into ever more
+areas of our lives and social relationships, predicting our behavior and
+(information) needs.
+
+With the revelations about how user data flow almost directly from
+companies such as Google to the NSA we seem to be at a crossroads.
+Public awareness is raised, leading to a demand for insightful and
+critical information about the workings of digital technologies such as
+web search. At the same time there is an increasing interest for this
+subject in fields outside of traditional computer studies – like
+humanities, history, social sciences, legal sciences and so on. The time
+is right to tear apart our common sense of search engines – how to
+exactly do that remains difficult, however. Just like we don’t really
+know where the water from our taps and the electricity from our plugs
+come from, and hardly notice the street until is cut off, we usually do
+not have many insights into the functionality of web search. It is a
+black-boxed technology which means operating it doesn’t really require
+any further knowledge of the technology itself. While previous
+information systems often demanded a certain level of expertise, modern
+search engines rather follow the Silicon Valley mantra ‘the user is
+always right’. Since most search engine providing companies are lead by
+commercial interests, they aim at attracting as many users as possible
+by keeping the entry barriers low. Everyone must be able to use the
+technology and when the technology fails to meet the demands of the
+user, then the technology must be amended.
+
+In practice, this leads to user interfaces such as Google’s, which is as
+‘neutral’ and clean as possible. The user still is required to enter a
+query in the search bar – at the moment this is still the core of the
+interaction between users and search engines. But already today,
+autocomplete features try to predict what the users want to know before
+they actually formulate their queries. Services like Google Now even
+bypass user queries by giving information before you’ve asked for it:
+‘From knowing the weather before you start your day, to planning the
+best route to avoid traffic, or even checking your favorite team’s score
+while they’re playing’ as the website asserts.[^3]
+Increasing localization and personalization, with the help of
+encompassing data gained from mobile devices, allow and speed up this
+development.
+
+The website lmgtfy.com (‘Let me google that for you’) performs searches
+on Google in a video sequence that can be sent to others. The idea:
+‘LMGTFY is for all those people who find it more convenient to bother
+you with their question rather than google it for
+themselves.’[^4] Googling is not just a word that made
+it to a number of dictionaries; it has become a social norm. We are not
+only enabled but also *expected* to use the search engine, in school, at
+home, and at social gatherings. Search engines are more and more
+intertwined in our lives, while the control we have over them doesn’t
+increase accordingly – rather the opposite. At the same time, much of
+the internet-related public interest has gone out to social media. Only
+with the revelations by Edward Snowden can we see a heightened awareness
+of the power of media monopolies including Google. However, we also seem
+to be lost and tired; where can we turn without these platforms? How to
+find our way on the net (or on the streets without Google Maps, for that
+matter)? Isn’t it too late to change these infrastructures, which seems
+as solid as a brick road?
+
+On the other hand, the impact of search engines seems underestimated.
+Whether Facebook and Twitter are believed to fuel revolutions or are
+accused for supporting state surveillance and oppression – hardly anyone
+will deny their massive societal impact. But search engines – let’s face
+it – are unsexy. They are old (in the pace of internet technology),
+their appearance is unremarkable, their core is inaccessible and they
+are taken for granted. But the same characteristics can be taken as
+arguments why search engines *should be* in the center of our attention:
+Their age and the fact they survived all other short-term internet
+trends proves their significance, while the bland surface and hidden
+complexity evoke important questions about the problem of lacking
+transparency. Their status of being so taken for granted that we never
+question them in our daily routines, makes a deeper understanding of
+their functionality and their impact even more important.
+
+Social media – most notably Facebook – have only partly overtaken the
+predominance of search engines as the ‘Age of Internet Empires’ map
+provided by Mark Graham and Stefano De Sabbata
+shows.[^5] It pictures the world’s top sites (based on
+the rankings by Alexa.com in August 2013) in different countries. While
+Facebook has gained a considerable share especially in the Arab world,
+Google still clearly dominates the West. Graham and De Sabbata explain:
+
+The countries where Google is the most visited website account for half
+of the entire Internet population, with over one billion people [...]
+Thanks to the large Internet population of China and South Korea, Baidu
+is second in this rank, as these two countries account for more than
+half a billion Internet users, whereas the 50 countries where Facebook
+is the most visited website account for only about 280 million users,
+placing the social network website in third position.
+
+Search engines are not only still a backbone of the present internet but
+the common equation of search engines with Google is justified in most
+parts of the world – with striking regional exceptions.
+
+Obviously, that does not mean that we should agree with this equation on
+any other level than this banal acknowledgement of the factual status
+quo. ‘Search engine’ does not equal ‘Google’ – not in the past, and
+probably – or hopefully – not in the future. Alternatives are possible
+and must be pursued. A crucial dilemma that any critical analysis of the
+current situation of web search has to face is the balance between
+acknowledging the reality of Google’s predominance and at the same time
+not focusing on it too much, because that would miss all opportunities
+for alternative and fresh thinking, while re-enforcing the criticized
+situation by reproducing its logic. Fortunately, we are not starting at
+zero. There have been a number of intellectually stimulating debates,
+revealing crucial problems of the Society of the Query. It seems
+necessary and fruitful to sum up some of the central findings in this
+field of the last decade or two:
+
+1.  *Search engines are not neutral:*Although search engine developers
+    often insist on only providing a neutral tool, it is obvious by now
+    that their products are much more than that. Search engines function
+    as gatekeepers, channeling information by exclusion and inclusion as
+    well as hierarchization. Their algorithms determine which part of
+    the web we get to see and their omnipresence fundamentally shapes
+    our thinking and access to the world. Whatever their bias may look
+    like, it is obvious that man-made decisions are inscribed into the
+    algorithms, leading unavoidably to a favoring of certain types of
+    information while discriminating others. Eli Pariser’s depiction of
+    the ‘filter bubble’[^6] is slowly becoming part of
+    our common knowledge and is now being experimentally tested in
+    different academic environments. Whether the filter bubble is as
+    closed and personalized a bubble as Pariser argues, remains to be
+    seen.[^7] However, it is clear by now that search
+    results are to some degree subject to personalization, localization,
+    and selection, which leaves neutrality or objectivity to be an
+    illusion.\
+2.  *Googlization is real and it is a problem:* The highly concentrated
+    (and often even monopoly-like) search engine market intensifies the
+    already significant societal and cultural impact of search
+    technology. The field is in the barely regulated hands of one of the
+    most powerful corporations in the world and its few competitors can
+    hardly challenge Google’s overarching supremacy. The tempting offer
+    of seemingly gratis services has apparently led to a point of no
+    return: Google effectively controls the access to an unthinkable
+    ocean of data (way beyond its original core competence of search)
+    which is to a good extent crucial for all kinds of aspects of our
+    lives. While we shouldn’t forget the pains of searching the web
+    before Google, it is yet another thing to trade our private data for
+    the wealth of this treasure, without really thinking about it. As
+    Siva Vaidhyanathan, author of *The Googlization of Everything (and
+    Why We Should Worry)* stated: ‘For last decade we have
+    systematically outsourced our sense of judgment to this one company,
+    we’ve let this company decide for us what’s important and what’s
+    true for a large number of questions in our
+    lives.’[^8] \
+3.  *Search engines pose a serious threat on our privacy:*Unavoidably,
+    every query we type into a search engine reveals something about
+    ourselves. In contrast to the mostly intentionally shared
+    information on social media platforms, the gained data from search
+    engines provides a much more comprehensive profile of its users,
+    including what they don’t want to share with anybody. Even the
+    queries typed in the search bar and then deleted again without
+    actually hitting enter, are recorded (as is the case on Facebook,
+    too). Modern search engines are multi-purposed rather than specific,
+    so they may gain insights into anything from embarrassing knowledge
+    gaps to secret sexual desires and diseases we may fear to have. Now
+    that the Snowden revelations have shown that this confidential data
+    is not save in the hands of search engine providers, the threat of
+    it being passed on and misused is all too real – for example to
+    insurance companies or law enforcement. \
+4.  *We don’t know how to handle search engines:* While most users feel
+    confident with search engines (simply because they use them every
+    day), they usually don’t know much about how they actually function
+    and how to operate them efficiently. There are also rarely any
+    attempts to educate users about this specific form of information
+    retrieval in schools or higher education. But also on a professional
+    and procedural level a certain helplessness in regard to search
+    technology is observable: teachers refer to Google as an educational
+    tool without controlling the information their students find and
+    use, judges struggle to apply the often outdated and unsuitable laws
+    on the various legal issues caused, from copyright and personal
+    rights to competition law. Governmental control is difficult, given
+    the international character of the search market. Attempts coming
+    from the political side to build a search engine have all failed
+    accordingly.\
+5.  *Search engines are a boost to creative energy and responses*: Let’s
+    face it, search engines may not be sexy, but they do give us a lot
+    of joy, knowledge, and spark ideas, research and great art that
+    wouldn’t have been possible just ten, fifteen years ago.
+
+Although a number of these findings have been intensively discussed,
+countless open questions on web search and its impact remain. We hope
+the Society of the Query Reader will shed light on some of them. This
+volume of essays follows the successful event held in Amsterdam on 7-8
+November 2013. The Society of the Query \#2 conference brought together
+an international group of researchers and artists to reflect on web
+search and discuss alternatives, art, activism, and to interact with the
+public.[^9] Many of the speakers are represented in this
+collection and the themes roughly follow those of the event. Starting
+with the politics of search engine architectures, the often-overlooked
+ideological implications of technological workings is foregrounded.
+Presenting a technology as neutral and objective has a political meaning
+in and of itself. Alternative search engines usually are more clear
+about their ideology, as is argued in the next section. It would be
+ideal to have an ‘independent index of the web’, so as to oppose
+monopolization and allow for more or less ideologically colored
+alternatives. In the third section we take a step back to look at the
+history of search. Already centuries ago people used ‘search engines’ –
+be they human, a tool, or made of paper. There is a world beyond Google,
+not only historically speaking, but also geographically. Globalization
+goes hand in hand with localization. In the fourth section for example,
+we look into the situation in China, where almost state-owned market
+leading search engine Baidu provides a whole other picture. The Society
+of the Query Reader wants to bring awareness about the ubiquity and
+ideological and epistemological workings of web search engines, also
+from an educational and research perspective, which is addressed in the
+fifth section. We close this collection with three examples of artistic
+and associative reflections, which take search as an inspiration and
+thus reveals the unprecedented wealth and treasure lying at our
+fingertips.
+
+René König and Miriam Rasch
+
+Karlsruhe and Amsterdam, February 2014
+
+ 
+
+Notes
+=====
+
+[^1]: ^^ Amanda Marcotte, ‘Parents Ask Google If Their Sons Are Geniuses
+    and If Their Daughters Are Fat’, Slate 21 January 2014,
+    http://www.slate.com/blogs/xx\_factor/2014/01/21/parents\_ask\_google\_is\_my\_son\_gifted\_and\_is\_my\_daughter\_overweight.html.
+
+[^2]: ^^ William Gibson, ‚Google’s Earth’, New York Times 31 August 2010,
+>>>>>>> FETCH_HEAD
     http://www.nytimes.com/2010/09/01/opinion/01gibson.html?ref=todayspaper&\_r=0.
     The quote begins with: 'In Google, we are at once the surveilled and
     the individual retinal cells of the surveillant, however many
@@ -43,6 +322,7 @@ Starting with theorizing web search, the foundations of this technology are crit
     and strategy. But we do not participate in Google on that level.
     We’re citizens, but without rights.’
 
+<<<<<<< HEAD
 [^4]: ^^ See, http://www.google.com/landing/now/\#whatisit.
 
 [^5]: ^^ See, http://en.lmgtfy.com.
@@ -62,6 +342,28 @@ Starting with theorizing web search, the foundations of this technology are crit
     the Query \#2, 8 November 2013, http://vimeo.com/82099408.
 
 [^10]: ^^ The conference program can be found as an appendix to this book. All talks and blogposts are available through
+=======
+[^3]: ^^ See, http://www.google.com/landing/now/\#whatisit.
+
+[^4]: ^^ See, http://en.lmgtfy.com.
+
+[^5]: ^^ See, http://geography.oii.ox.ac.uk/\#age-of-internet-empires.
+
+[^6]: ^^ Eli Pariser, *The Filter Bubble. What the Internet Is Hiding from
+    You*, New York: Penguin, 2011.
+
+[^7]: ^^ See for example Pascal Jürgens’ talk ‘Measuring Personalization:
+    An Experimental Framework for Testing Technological Black Boxes’ in
+    which he claims that ‘the filter bubble does not exist’, Society of
+    the Query \#2, 8 November 2013,
+    http://networkcultures.org/wpmu/query/2013/11/12/measuring-personalization-an-experimental-framework-for-testing-technological-black-boxes-pascal-jurgens/.
+
+[^8]: ^^ 'Short interview with Siva Vaidhyanathan’, recorded at Society of
+    the Query \#2, 8 November 2013, http://vimeo.com/82099408.
+
+[^9]: ^^ The conference program can be found as an appendix from page XX
+    onwards. All talks and blogs are available through
+>>>>>>> FETCH_HEAD
     http://networkcultures.org/query.
 
 
