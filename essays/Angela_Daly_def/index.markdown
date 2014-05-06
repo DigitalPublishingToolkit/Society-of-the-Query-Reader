@@ -1,7 +1,6 @@
-Dominating Search: Google Before the Law
-========================================
+**Dominating Search: Google Before the Law**
 
-Angela Daly
+**Angela Daly**
 
 For many, particularly in the Anglophone world and Western Europe, it
 may be obvious that Google has a monopoly over online search and
@@ -27,8 +26,7 @@ Google’s business model rests, at least partially, on them – especially
 the data collected about them. If they stop using Google, then Google is
 nothing.
 
-The Case Against Google
------------------------
+***The Case Against Google***
 
 Google has been challenged on both sides of the northern Atlantic
 through competition investigations into the operation of its online
@@ -47,7 +45,7 @@ the ‘Quality Score’ of competitors’ sponsored links. This practice would
 make users more likely to click on Google’s services rather than its
 competitors’ vertical search services.
 
-### Google’s Dominance
+****Google’s Dominance****
 
 Google is certainly the most prominent of the search engines in Europe
 and the US; it is the market leader in the overall European market for
@@ -65,7 +63,7 @@ However, Google does have competition from other general search engines
 offered by Bing and Yahoo, as well as subject-specific vertical search
 engines. Google itself likes to claim when on the defensive from
 allegations that it operates an abusive monopoly, that its competitors
-are only a click away. While the search engine market in the US and
+are only a click away. While the search engine market in the U.S. and
 Europe was competitive in the 1990s and into the early 2000s, it is now
 massively more consolidated and concentrated around Google.
 
@@ -92,7 +90,7 @@ addition, Google has built up a portfolio of related products and
 services from which it also harvests user data for its search business.
 [^7]
 
-### The Competition Investigations
+****The Competition Investigations****
 
 The European Commission opened its investigation into Google in November
 2010 for an alleged abuse of its dominant position contrary to Art 102
@@ -219,8 +217,8 @@ results will be displayed will be selected via the auction mechanism.
 
 [IMG1]
 
-Fig. 1: Google’s specialized Shopping service. Source: European
-Commission.
+("Fig. 1. Google’s specialized Shopping service. Source: European
+Commission.")
 
 This would go further towards the ‘parity of appearance and placement’
 that the Fairsearch-commission consumer research found increased
@@ -240,7 +238,7 @@ selected using Google’s general search algorithm.
 
 [IMG2]
 
-Fig. 2: Google’s Local Search service. Source: European Commission.
+("Fig. 2. Google’s Local Search service. Source: European Commission.")
 
 Here, the layout is somewhat different, with the rivals’ results placed
 at the top of the page but in a much smaller shaded area than Google’s
@@ -285,9 +283,9 @@ consumers, not competitors, and that this proposal strikes the right
 balance between allowing Google to improve its services and giving users
 a ‘real choice between different options’.[^19]
 
-### Federal Trade Commission (FTC)
+****Federal Trade Commission (FTC)*****
 
-In the US, the Federal Trade Commission (FTC) also conducted an
+In the U.S., the Federal Trade Commission (FTC) also conducted an
 antitrust investigation into Google and came to a very different
 conclusion to that of the European Commission; it found that Google had
 adopted design changes for its search results page (it displayed its own
@@ -304,7 +302,7 @@ its results or otherwise change the operation or format of its search
 results page.
 
 Indeed, the FTC may also have found it legally difficult to insist on
-such changes. Certain constitutional rights in the US are also enjoyed
+such changes. Certain constitutional rights in the U.S. are also enjoyed
 by ‘legal persons’ such as corporations as well as ‘natural persons’
 (i.e. real individual people), including the right to freedom of
 expression under the First Amendment, as can be seen in the highly
@@ -318,7 +316,7 @@ the way in which it is presented.[^22] If the FTC had
 tried to impose regulations in this way, then Google may claim that it
 would be unconstitutional and thus illegal for them to do so.
 
-### The Users’ Perspective
+****The Users’ Perspective****
 
 In any event, aside from how users might see and act on information in
 Google’s search results pages, the perspective of users vis-à-vis a
@@ -358,18 +356,17 @@ American context as exacerbated by concentrated search markets, since
 consumers are left without meaningful choices given few or no
 competitors.[^27]
 
-Competition Law: Could Do Better?
----------------------------------
+***Competition Law: Could Do Better?***
 
 The result of the two investigations has been that in Europe, Google
 seems to have abused its dominant position regarding how it displays
 search results (although there is no official finding of wrongdoing),
-while in the US Google’s same conduct was found to be within the bounds
+while in the U.S. Google’s same conduct was found to be within the bounds
 of the law and, as mentioned above, possibly protected by First
 Amendment rights.
 
 Indeed, it is actually unclear whether Google was acting
-anticompetitively and abusing its dominant position in the EU. Aside
+anticompetitively and abusing its dominant position in the E.U.. Aside
 from Google’s incentives to come to an agreement with the Commission,
 the Commission may have been motivated to settle with Google for the
 reason that if it conducted a full investigation, it may not have come
@@ -419,11 +416,11 @@ been important for users as well as Google’s competitors since they
 would have a lot more understanding of the hitherto secret way in which
 Google operates.
 
-In comparison, the US FTC did not force Google to make any changes to
+In comparison, the U.S. FTC did not force Google to make any changes to
 its search results page, since it did not find that Google had acted
 anticompetitively or abused its dominant position. Instead, the FTC
 found Google’s design changes had improved its search function for
-consumers. This follows a line of US case law including Kodak
+consumers. This follows a line of U.S. case law including Kodak
 [^31] and IBM , [^32] which suggest
 that new and innovative products from the dominant entity that
 disadvantage competitors do not necessarily constitute abuses of the
@@ -439,7 +436,7 @@ to flow from a concentrated market, and even when it would seem that
 more competition may solve or at least lessen the problem.
 
 First, contemporary competition law’s basis in neoclassical economics –
-due to the influence of the Chicago School of Economics in the US since
+due to the influence of the Chicago School of Economics in the U.S. since
 the 1970s and the subsequent move in the E.U. towards the ‘more economic
 approach’ in competition law and policy – has produced a legal regime
 that is concerned with the idea of competition as efficiency, with the
@@ -452,13 +449,13 @@ zero, as this is believed to be in their best interests. Indeed, as
 mentioned above, the European Commission’s head of competition
 emphasized that he was operating within this precise approach when he
 described his mission as protecting competition for the benefit of
-consumers, not competitors. For some time in both E.U. and US law, it
+consumers, not competitors. For some time in both E.U. and U.S. law, it
 has been established that the ‘mere’ accumulation of market power even
 up to the situation of monopoly is not in itself illegal. This can be
 contrasted with the past, when competition law was open to other public
 policy considerations that come about from the accumulation of private
 power, such as the effect it might have on the democratic process, a
-concern both of the German ordoliberals and US antitrust law before the
+concern both of the German ordoliberals and U.S. antitrust law before the
 Second World War.
 
 Second, and related to its current neoclassical incarnation, is the
@@ -508,7 +505,7 @@ not seem to accord with an approach minimalizing intervention in markets
 that neoliberalism promotes. Indeed, it seems that the Commission may
 have gone beyond what is ‘necessary’ or the bare minimum to address
 competition concerns. While neoliberal thought has been a dominant
-political current in the US and UK at least since the 1980s, and has
+political current in the U.S. and U.K. at least since the 1980s, and has
 made inroads into the rest of the European Union, it would seem that the
 Commission’s conduct here cannot wholly be attributed to it, and may
 possibly be due to factors such as European protectionism when faced
@@ -519,8 +516,7 @@ they perceive as a monopoly. Nevertheless, it is clear that the
 Commission has not been overly ‘invasive’ of Google’s business
 practices, and particularly those which hold the most concern for users.
 
-Can Other Areas of Law Help?
-----------------------------
+***Can Other Areas of Law Help?***
 
 Although competition law seems inadequate for properly addressing the
 issues created by Google’s dominant position for users, there are other
@@ -534,10 +530,10 @@ its existing business, becoming the object of the Commission’s
 investigation of Google for abusing its dominant position. However the
 practice of the American and European merger authorities, especially
 when it comes to vertical or conglomerate mergers, has not been
-particularly circumspect. The US merger authorities have been
+particularly circumspect. The U.S. merger authorities have been
 specifically criticized for being too lenient with this kind of merger
 as well as the resulting concentrations in technology and communications
-markets. [^38] ^^The European Commission’s
+markets. [^38] The European Commission’s
 non-horizontal merger guidelines from 2008 have also been termed
 ‘hospitable’ to non-horizontal concentrations.[^39]
 Buch-Hansen and Wigger singled out European merger control in particular
@@ -555,7 +551,7 @@ include an obligation by companies to obtain the affirmative consent of
 individual users before profiling them. However there has been a great
 amount of resistance from online industry groups towards including such
 a term, with Google named as one of the companies lobbying against
-it.[^40] Although in the US there is growing
+it.[^40] Although in the U.S. there is growing
 regulatory activism around privacy and data protection, the approach
 taken is largely self-regulatory, with privacy activists actually
 appealing to the antitrust regime to intervene when dominant entities
@@ -566,17 +562,17 @@ legal authority in this area, Pasquale has also identified the
 conceptual limits of competition law (at least in the US) to govern
 ‘dominant’ search engines, such as the fact that economics-based,
 consumer welfare-oriented competition analysis cannot deal properly with
-*inter alia*privacy concerns.[^41]
+*inter alia* privacy concerns.[^41]
 
 With regards to information access and privacy more generally and the
 role search engines play, the human/constitutional rights legal regimes
 could be called on to aid users. However, the protection of free
 expression (sometimes encompassing access to information as well) in
-Europe and the US contained in the European Convention on Human Rights
+Europe and the U.S. contained in the European Convention on Human Rights
 (ECHR) and the First Amendment to the Constitution, respectively, are
 usually enforceable as rights against the government and public bodies,
 though not against private entities such as corporations. Indeed, as
-mentioned earlier, in the US corporations such as Google actually enjoy
+mentioned earlier, in the U.S. corporations such as Google actually enjoy
 the protection of the First Amendment themselves. Human/constitutional
 rights mainly operate to prohibit government interference with citizens’
 rights but are largely impotent against infringements by companies or
@@ -627,7 +623,7 @@ value. However, as mentioned above, Member States so far have not acted
 on this recommendation, and as it stands the recommendation is also
 non-binding.
 
-In the US context, specifically given the limits of competition law to
+In the U.S. context, specifically given the limits of competition law to
 deal with privacy concerns, Pasquale argues that search engines should
 instead be thought of as an ‘essential cultural and political facility’
 and regulated accordingly, using tools beyond competition
@@ -678,7 +674,7 @@ deal with Google’s dominance, given the imperfect solutions offered (at
 most) by competition law, there has been no attempt to implement any of
 them.
 
-This inaction may be explained by the regulatory climate in the US and
+This inaction may be explained by the regulatory climate in the U.S. and
 Europe. The regulation of communications in both jurisdictions operates
 according to a mostly ‘market-based’ approach, which, as mentioned
 above, has reflected the ascendancy of neoliberalism and its
@@ -701,8 +697,7 @@ issue remains: the time it takes for law and regulation to be discussed,
 enacted, then implemented, which is at odds with the high speed of new
 technological markets that govern online search and advertising.
 
-Extra-Legal Solutions
----------------------
+***Extra-Legal Solutions***
 
 Since the law and regulation, for various reasons listed above, seem
 inadequate, extra-legal solutions may be the most appropriate for
@@ -741,22 +736,21 @@ to that, these search engines cannot constantly update the quality of
 search by accessing data to improve their results as Google does, so
 their results are likely to be less ‘accurate’ or ‘relevant’.
 
-References
-----------
+**References**
 
 Almunia, Joaquin. ‘Statement on the Google investigation’ European
 Commission SPEECH/14/93, 5 February 2014.
 
 Berkley Photo v Eastman Kodak, 444 US 1093 (1980).
 
-Buch-Hansen, Hubert and Wigger, Angela Wigger. *The Politics of European
+Buch-Hansen, Hubert and Angela Wigger. *The Politics of European
 Competition Regulation: A Critical Political Economy Perspective*,
 Abingdon and New York: Routledge, 2011.
 
 California Computer Products v International Business Machines, 613 F.2d
 727 (1979).
 
-Cave, Martin and Williams, Howard Peter Williams. ‘Google and European
+Cave, Martin and Howard Peter Williams. ‘Google and European
 Competition Law’, TPRC The 39th Research Conference on Communication,
 Information and Internet Policy, Arlington VA, 23-25 September 2011,
 http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1992974.
@@ -768,7 +762,7 @@ Ministers to Member States on the Protection of Human Rights with Regard
 to Search Engines’, 4 April 2012,
 https://wcd.coe.int/ViewDoc.jsp?id=1929429&Site=CM.
 
-Crandall, Robert W. and Winston, Clifford. ‘Does Antitrust Policy
+Crandall, Robert W. and Clifford Winston. ‘Does Antitrust Policy
 Improve Consumer Welfare? Assessing the Evidence’, *Journal of Economic
 Perspectives* 17 (.4) (2003): 3-26.
 
@@ -804,7 +798,7 @@ American Bar Association Antitrust Section Spring Meeting, Washington
 DC, 30 March 2012,
 http://www.americanbar.org/calendar/2012/03/antitrust\_law\_2012springmeeting.html.
 
-Franklyn, David J. and Hyman, David A. ‘Review of the Likely Effects of
+Franklyn, David J. and David A. Hyman. ‘Review of the Likely Effects of
 Google’s Proposed Commitments Dated October 21, 2013’, 9 December 2013,
 http://www.fairsearch.org/wp-content/uploads/2013/12/FairSearch-Hyman\_Franklyn-Study.pdf.
 
@@ -831,18 +825,18 @@ http://www.i-comp.org/blog/2014/icomp-response-commissions-announcement-google-a
 
 Pasquale, Frank A. ‘Beyond Innovation and Competition: The Need for
 Qualified Transparency in Internet Intermediaries’, *Northwestern
-University Law Review* 104(.1) (2010): 105-173.
+University Law Review* 104.1 (2010): 105-173.
 
 \_\_\_\_\_. ‘Dominant Search Engines: An Essential Cultural & Political
-Facility’, in Berin Szoka and Adam Marcus (eds), *The Next Digital
-Decade, Essays on the Future of the Internet,*Washington DC:
+Facility’, in Berin Szoka and Adam Marcus (eds) *The Next Digital
+Decade, Essays on the Future of the Internet*, Washington DC:
 TechFreedom, 2010, pp 401-417.
 
 \_\_\_\_\_. ‘Privacy, Antitrust and Power’, *George Mason Law Review*20
 (.4) (2013): 1009-1024.
 
 Rushe, Dominic. ‘Bing Censoring Chinese Language Search Results for
-Users in the US’, The Guardian, 12 February 2014,
+Users in the US’, *The Guardian*, 12 February 2014,
 http://www.theguardian.com/technology/2014/feb/11/bing-censors-chinese-language-search-results.
 
 Simpson, John M. ‘Consumer Groups on Both Sides of the Atlantic Oppose
@@ -851,7 +845,7 @@ http://www.consumerwatchdog.org/newsrelease/consumer-groups-both-sides-atlantic-
 
 Spink, Amanda, Bernard J. Jansen, Dietmar Wolfram, and Tefko Saracevic,
 ‘From E-Sex to E-Commerce: Web Search Changes’, *IEEE
-Computer,*35(*3):*.3**(2002): 107-109.
+Computer*, 35.3 (2002): 107-109.
 
 StatCounter, ‘Global Stats Top 5 Search Engines in Europe from Feb 2013
 to Jan 2014’,
@@ -892,12 +886,9 @@ Volokh, Eugene and Falk, Donald, M. ‘First Amendment Protection for
 Search Engine Search Results’, Google White Paper, 20 April 2012,
 http://www.volokh.com/wp-content/uploads/2012/05/SearchEngineFirstAmendment.pdf.
 
- 
+**Notes**
 
-Notes
------
-
-[^1]: ‘Antitrust’ is the US term, whereas ‘competition’ is used in most
+[^1]: ‘Antitrust’ is the U.S. term, whereas ‘competition’ is used in most
     other jurisdictions, including the United Kingdom and European
     Union, to refer to the same area of law. In this essay, I will use
     ‘competition’ except when referring specifically to the American
@@ -968,7 +959,7 @@ Notes
     Comparable Display of Specialised Search Rivals – Frequently Asked
     Questions’, MEMO/14/87, 5 February 2014.
 
-[^17]: Franklyn and Hyman ‘Review of the Likely Effects’, pp. 10-11.
+[^17]: Franklyn and Hyman, ‘Review of the Likely Effects’, pp. 10-11.
 
 [^18]: ICOMP Response to Commission’s Announcement on the Google Antitrust
     Case, 5 February 2014,
@@ -989,7 +980,7 @@ Notes
 
 [^23]: Amanda Spink, Bernard J. Jansen, Dietmar Wolfram, and Tefko
     Saracevic, ‘From E-Sex To E-Commerce: Web Search Changes’, IEEE
-    Computer, 35(3) (2002): 107.
+    Computer, 35.3 (2002): 107.
 
 [^24]: Indeed, there are allegations that Microsoft’s Bing, one of Google’s
     competitors has been actively engaged in censoring results for
@@ -1062,20 +1053,20 @@ Notes
     regard to search engines’, 4 April 2012,
     https://wcd.coe.int/ViewDoc.jsp?id=1929429&Site=CM.
 
-[^43]: Frank A Pasquale, ‘Dominant Search Engines: An Essential Cultural &
+[^43]: Frank A. Pasquale, ‘Dominant Search Engines: An Essential Cultural &
     Political Facility’, in Berin Szoka and Adam Marcus (eds) The Next
     Digital Decade, Essays on the Future of the Internet, Washington DC:
     TechFreedom, 2010, pp. 401-417.
 
-[^44]: Frank A Pasquale, ‘Beyond Innovation and Competition: The Need for
+[^44]: Frank A. Pasquale, ‘Beyond Innovation and Competition: The Need for
     Qualified Transparency in Internet Intermediaries’, Northwestern
-    University Law Review 104(1) (2010).
+    University Law Review 104.1 (2010).
 
-[^45]: Christian Fuchs, ‘Google Capitalism’, *tripleC* 10 (1) (2012):
+[^45]: Christian Fuchs, ‘Google Capitalism’, *tripleC* 10.1 (2012):
     47-48.
 
 [^46]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
-    Should Worry),*Berkeley:**University of California Press, 2011.
+    Should Worry)*, Berkeley: University of California Press, 2011.
 
 [^47]: Mayo Fuster Morrell, ‘The Unethics of Sharing: Wikiwashing’,
     *International Review of Information Ethics* 15: 10.
