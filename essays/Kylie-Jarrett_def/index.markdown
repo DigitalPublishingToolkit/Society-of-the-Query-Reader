@@ -1,6 +1,6 @@
-A Database of Intention?
+**A Database of Intention?**
 
-Kylie Jarrett
+**Kylie Jarrett**
 
 In his 2005 study of Google, industry analyst John Battelle describes
 the company’s technology as a ‘database of intentions’, ‘a massive
@@ -21,7 +21,7 @@ sold to advertisers to generate the bulk of the company’s revenues. It
 is also a worrying feature of the cultural surveillance machinery of the
 contemporary geopolitical moment and its ongoing ‘war on terror’. As
 John Battelle says of Google’s database, this ‘living artifact of
-immense power […] is holding the world by its
+immense power [...] is holding the world by its
 thoughts’.[^2]
 
 But defining Google as a ‘database of intention’ raises a series of
@@ -37,7 +37,7 @@ database of intention. The interrelated vignettes seek to explore some
 of the tensions of Google’s data-mapping in order to complicate our
 picture of the political economy of search.
 
-Vignette One: Intention and Alienation
+***Vignette One: Intention and Alienation***
 
 When U.S. National Security Agency employee Edward Snowden bravely
 released information about the U.S. government clandestine surveillance
@@ -48,8 +48,8 @@ also that the company had provided a ‘back door’ to its databases,
 allowing carte blanche access to unmediated user data. Senior executives
 made robust denials. Google CEO Larry Page and Chief Legal Officer David
 Drummond posted on the company’s official blog, ‘First, we have not
-joined any program that would give the U.S. government—or any other
-government—direct access to our servers. Indeed, the U.S. government
+joined any program that would give the U.S. government &ndash; or any other
+government &ndash; direct access to our servers. Indeed, the U.S. government
 does not have direct access or a “back door” to the information stored
 in our data centers. We had not heard of a program called PRISM until
 yesterday.’[^3] With a variety of other high technology
@@ -176,7 +176,7 @@ intention. Its quotidian functioning as a mechanism for generating and
 perpetuating alienation is no less ideological and is as implicated in
 inequitable power dynamics, and it should concern us just as much.
 
-Vignette Two: The Intentional Fallacy
+***Vignette Two: The Intentional Fallacy***
 
 As part of a discussion on issues of censorship and in an attempt to
 demonstrate the capacities of algorithms to dictate information
@@ -184,7 +184,7 @@ retrieval, I recently conducted a search for the term ‘abortion’ using
 search engines from three countries with differing social and legal
 contexts for abortion: Australia, Ireland, and the U.S.. The study was
 not in any way systematic, and the results were fundamentally skewed by
-the search term being entered from a particular geographically located
+the search term being entered from particular geographically located
 IP addresses. Nevertheless, the results usefully demonstrated for a
 diverse, generally non-technical audience how different versions of the
 same story appear for the same search term when different algorithmic
@@ -299,7 +299,7 @@ capture the meaningful, inalienable aspects of my intention. These
 cannot be alienated from me. They cannot be expropriated from me. And
 that is a source of comfort.
 
-Vignette Three: Pre-empting Intention
+***Vignette Three: Preempting Intention***
 
 The austerity of Google’s home search page is often commended. The
 simplicity of the page speaks to the infinite potential of the web and
@@ -392,7 +392,7 @@ capture the affective desires that animate our searches, but the logic
 of its algorithms can become so entwined with how we articulate those
 into intentions that the distinction becomes null and void.
 
-Vignette Four: Intentional Subjects
+***Vignette Four: Intentional Subjects***
 
 In the vast architecture of Google’s collection of data is an
 ever-changing entity that is effectively ‘Me’. This is the version of
@@ -408,22 +408,20 @@ passively, that is attributed to the IP addresses and profiles that
 constitute the entity Google recognizes as Kylie
 Jarrett.[^18]
 
-This is the database subject that in 1995 Mark Poster warned would come
+>This is the database subject that in 1995 Mark Poster warned would come
 to dominate in the *Second Media Age*. Long before the ascendancy of
 search and the emergence of the social media network sites into which we
 pour various kinds of personal information, Poster raised concerns about
 the digital profiles being built from credit card use, marketing
 surveys, insurance information, electoral registers, and government
 institutional systems. He argued that the portraits of consumers built
-up in the relational databases of these institutions
-
-become additional social identities as each individual is constituted
+up in the relational databases of these institutions become additional social identities as each individual is constituted
 for the computer, depending on the database in question, as a social
 agent. Without referring the database back to its owner and his or her
 interests or forward to the individual in question as a model of its
 adequacy or accuracy, we comprehend the database as a discursive
 production which inscribes positionalities of subjects according to its
-rules of formation.^^ [^19]
+rules of formation.[^19]
 
 Like Poster’s database subjectivities, the person Google believes me to
 be lacks subtlety and is reductive and incomplete, and the intentions
@@ -458,7 +456,7 @@ profoundly shaped by assumptions that I am this subject, how much does
 it matter that the affective logic of my searching escapes capture,
 remains inalienable and immanently resistant? In the brutal logic of an
 algorithmic world, how do I elude the shadow of my digital
-*doppelgänger*? What will it mean if I cannot?
+doppelgänger? What will it mean if I cannot?
 
 In mobilizing a subject marked with ascribed and inscribed intent,
 Google is exerting what Parisi and Goodman describe as preemptive
@@ -545,7 +543,7 @@ liberal politics, removed from civil discourse via the proprietary
 nature of many algorithms’ that these database subjects exemplify that
 should perhaps be giving us greatest pause.[^26]
 
-A Database in Tension
+***A Database in Tension***
 
 To pull the various threads of these reflections together is not simple.
 Each vignette informs the other, but there is an inherent contradiction
@@ -598,7 +596,7 @@ The tension at the heart of Google’s database opens a space not only for
 the passive resistance produced by affective excessiveness, but for
 mobilization and organization to ensure these databases and their
 algorithms are serving meaningful ends. While we may never want, or be
-capable of, producing a database that can actually capture intention and
+capable of producing, a database that can actually capture intention and
 thus allow us better representation in technologically mediated systems,
 we may be able to work towards technological, social, and economic
 models that reduce the capacity of the reductive subjects of search to
@@ -609,7 +607,7 @@ reform the algorithmic logic of powerful mediators such as Google. This
 type of intervention should be an intentional goal of our interrogation
 of search.
 
-References
+**References**
 
 Battelle, John. *The Search: How Google and Its Rivals Rewrote the Rules
 of Business and Transformed Our Culture*, New York: Penguin, 2005.
@@ -626,7 +624,7 @@ the Modulation of Control’, *Theory, Culture and Society* 28.6 (2011):
 164-181.
 
 Clough, Patricia Ticiento, Greg Goldberg, Rachel Schiff, Aaron Weeks and
-Craig Willse. ‘Notes towards a theory of affect itself’, *Ephemera* 7.1
+Craig Willse. ‘Notes Towards a Theory of Affect Itself’, *Ephemera* 7.1
 (2007): 60-77.
 
 Fuchs, Christian. *Internet and Society: Social Theory in the
@@ -637,25 +635,21 @@ Gillespie, Pablo Boczkowski, and Kirsten Foot (eds) *Media
 Technologies*, Cambridge, MA: MIT Press, forthcoming,\
 http://www.academia.edu/2257984/The\_Relevance\_of\_Algorithms\_forthcoming\_in\_Tarleton\_Gillespie\_Pablo\_Boczkowski\_Kirsten\_Foot\_eds.\_Media\_Technologies\_MIT\_Press\_2013\_.
 
-1.  Koetsier, John. ‘The full PRISM letter Google, Yahoo, Apple,
-    Facebook, and Microsoft are sending congress’, *Venture Beat*, 18
+Koetsier, John. ‘The Full PRISM Letter Google, Yahoo, Apple,
+    Facebook, and Microsoft Are Sending Congress’, *Venture Beat*, 18
     July 2013,
     http://venturebeat.com/2013/07/18/the-full-prism-letter-google-yahoo-apple-facebook-and-microsoft-are-sending-congress/.
-2.  
 
-1.  Mager, Astrid. ‘Algorithmic Ideology’, *Information, Communication &
+Mager, Astrid. ‘Algorithmic Ideology’, *Information, Communication &
     Society* 15.5 (2012): 769-787.
-
-1.  
 
 Marx, Karl. *Capital: A New Abridgement*, ed. David McLellan, Oxford:
 Oxford University Press, 2008.
 
-1.  2.  Massumi, Brian. *Parables for the Virtual: Movement, Affect,
+Massumi, Brian. *Parables for the Virtual: Movement, Affect,
     Sensation*, Durham and London: Duke University Press, 2002.
-3.  
 
-Page, Larry and David Drummond. ‘What the…?’ Google Official blog, 7
+Page, Larry and David Drummond. ‘What the...?’ Google Official blog, 7
 June 2013, http://googleblog.blogspot.ie/2013/06/what.html.
 
 Parisi, Luciana and Steve Goodman. ‘The Affect of Nanoterror’, *Culture
@@ -665,14 +659,14 @@ http://www.culturemachine.net/index.php/cm/article/viewArticle/29/36.
 Pasquinelli, Matteo. ‘Google’s PageRank: Diagram of the Collective
 Capitalism and Rentier of the Common Intellect’, in Konrad Becker and
 Felix Stalder (eds) *Deep Search: The Politics of Search Beyond Google*,
-Innsbruck: Studienverlag, 2009, p. 152-162.
+Innsbruck: Studienverlag, 2009, 152-162.
 
 Poster, Mark. *The Second Media Age*, Cambridge: Polity Press, 1995.
 
 Röhle, Theo. ‘Dissecting the Gatekeepers: Relational Perspectives on the
 Power of Search Engines’, in Konrad Becker and Felix Stalder (eds) *Deep
 Search: The Politics of Search Beyond Google*, Innsbruck: Studienverlag,
-2009, p. 117-132.
+2009, 117-132.
 
 Solove, Daniel J. *The Digital Person: Technology and Privacy in the
 Information Age*, New York: New York University Press, 2004.
@@ -680,15 +674,14 @@ Information Age*, New York: New York University Press, 2004.
 Stalder, Felix and Christine Mayer. ‘The Second Index: Search engines,
 personalisation and surveillance’, in Konrad Becker and Felix Stalder
 (eds) *Deep Search: The Politics of Search Beyond Google*, Innsbruck:
-Studienverlag, 2009, p. 98-115.
+Studienverlag, 2009, 98-115.
 
 Van Couvering, Elizabeth. ‘The History of the Internet Search Engine:
 Navigational Media and the Traffic Commodity’, in Amanda Spink and
-Michael Zimmer (ed) *Web Search: Multidisciplinary Perspectives*.
-Berlin: Springer-Verlag, 2008, p. 177-206.
+Michael Zimmer (ed.) *Web Search: Multidisciplinary Perspectives*.
+Berlin: Springer-Verlag, 2008, 177-206.
 
-Notes
-=====
+**Notes**
 
 [^1]: John Battelle, *The Search: How Google and Its Rivals Rewrote the
     Rules of Business and Transformed Our Culture*, New York: Penguin,
@@ -696,7 +689,7 @@ Notes
 
 [^2]: Battelle, *The Search*, pp. 2-3.
 
-[^3]: Larry Page and David Drummond, ‘What the…?’, *Google Official Blog*,
+[^3]: Larry Page and David Drummond, ‘What the...?’, Google Official blog,
     7 June 2013, http://googleblog.blogspot.ie/2013/06/what.html.
 
 [^4]: John Koetsier, ‘The Full PRISM Letter Google, Yahoo, Apple,
@@ -706,7 +699,7 @@ Notes
 
 [^5]: Sergey Brin and Larry Page, ‘The Anatomy of a Large-Scale
     Hypertextual Web Search Engine’, *Computer Networks and ISDN
-    Systems* 30 (1998): pp. 107-117,
+    Systems* 30 (1998): 107-117,
     http://ilpubs.stanford.edu:8090/361/.
 
 [^6]: Daniel J. Solove, *The Digital Person: Technology and Privacy in the
@@ -741,7 +734,7 @@ Notes
     Technologies*, Cambridge, MA: MIT Press, forthcoming.\
     http://www.academia.edu/2257984/The\_Relevance\_of\_Algorithms\_forthcoming\_in\_Tarleton\_Gillespie\_Pablo\_Boczkowski\_Kirsten\_Foot\_eds.\_Media\_Technologies\_MIT\_Press\_2013\_.
 
-[^14]: Massumi, *Parables*.
+[^14]: Massumi, *Parables for the Virtual*.
 
 [^15]: Patricia Ticiento Clough, Greg Goldberg, Rachel Schiff, Aaron Weeks
     and Craig Willse, ‘Notes Towards a Theory of Affect Itself’,
