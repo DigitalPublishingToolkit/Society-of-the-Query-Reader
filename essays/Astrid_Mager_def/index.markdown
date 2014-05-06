@@ -1,6 +1,6 @@
-Is Small Really Beautiful? Big Search and Its Alternatives
+**Is Small Really Beautiful? Big Search and Its Alternatives**
 
-Astrid Mager
+**Astrid Mager**
 
 Google is big in many ways. The company offers a myriad of services and
 products ranging from basic keyword search to futuristic glass
@@ -40,7 +40,7 @@ about green search engines? Can peer-to-peer search engines such as YaCy
 be interpreted as communist search engines? Could search be seen as a
 scientific endeavor as Wolfram|Alpha suggests?
 
-Big Search and Its Algorithmic Ideology
+***Big Search and Its Algorithmic Ideology***
 
 In my previous work,[^3] I argue that algorithms, like
 all other technologies, should not be understood as merely technical,
@@ -120,7 +120,7 @@ stronger role in the regulation of search technology, limits would be
 set regarding the collection and use of personal data, and also business
 practices and advertising schemes. First steps towards a renegotiation
 of search engines are seen on various levels. A new data protection law
-is currently being negotiated in the E.U.. More critical media debates
+is currently being negotiated in the E.U. More critical media debates
 on Google, Facebook, Amazon, and other IT companies are seen due to the
 increase of tracking methods, privacy violations, illicit practices of
 scraping WiFi data, and possible collaborations with secret services.
@@ -132,7 +132,7 @@ experts, is because there are no real alternatives. But is that actually
 the case? What about all the other search projects trying to challenge
 Google and provide an alternative style of search?
 
-Small Search and Its Ideological Inner Life
+***Small Search and Its Ideological Inner Life***
 
 There are a number of so-called alternative search engines that are not
 as big as Google, Bing, or Yahoo! and that lead their lives at the
@@ -160,13 +160,13 @@ technical level or whether their search results are better than those of
 their bigger relatives can only partly be answered since this would go
 beyond the scope of this article.
 
-Privacy First
+****Privacy First****
 
-1.  The first search engine in the analysis is DuckDuckGo, because it
+The first search engine in the analysis is DuckDuckGo, because it
     claims to be a privacy-concerned search engine. DuckDuckGo was
     founded by the entrepreneur Gabriel Weinberg, and its developers
-    **‘**believe in better search and real privacy at the same
-    time**’**.[^12] Its website further explains that
+    ‘believe in better search and real privacy at the same
+    time’.[^12] Its website further explains that
     DuckDuckGo does not track, filter bubble, or share data with third
     parties, and it goes on with a lengthy discussion of privacy issues
     and a visual explanation of what it actually means to be tracked,
@@ -182,7 +182,8 @@ Privacy First
     process of IT technologies to enable ‘value-sensitive
     innovation’.[^13] But can privacy be seen as their
     ideological framework?
-2.  3.  Privacy is a moral concept, no doubt, and a central component of
+
+Privacy is a moral concept, no doubt, and a central component of
     human rights, one codified in international agreements and law
     including the U.N.’s Universal Declaration of Human Rights and the
     E.U.’s Charter of Fundamental Rights. More specifically, privacy is
@@ -204,8 +205,9 @@ Privacy First
     of increasing privacy violations and scandals, as shown by the
     record traffic on DuckDuckGo following the news coverage of Google’s
     possible collaboration with the NSA.[^16]
-4.  5.  So can this become a success story of David against Goliath? In
-    terms of data protection it probably can. When looked more closely,
+
+So can this become a success story of David against Goliath? In
+    terms of data protection it probably can. When looked at more closely,
     however, DuckDuckGo is troubled with cosmetic flaws. Even though it
     does not sell personal data to gain profit it does provide
     contextual advertising on its site. Its ads are provided by Bing Ads
@@ -225,7 +227,8 @@ Privacy First
     sources, it partly depends on for-profit search engines such as
     Bing, which does track users and sells personal data to third
     parties.
-6.  7.  So even if DuckDuckGo provides encrypted search and does not
+
+So even if DuckDuckGo provides encrypted search and does not
     sell user data to third parties itself, it does make use of big
     players and their business practices. That DuckDuckGo is in alliance
     with commercial players and their tracking methods, I would say,
@@ -239,8 +242,9 @@ Privacy First
     saving users’ IP addresses or passing on personal information, they
     still would not be able to exist without their data-collecting
     counterparts.
-8.  9.  *Green Search*
-10. Another model of ideological search is green search. Green search
+
+****Green Search****
+Another model of ideological search is green search. Green search
     engines offer the possibility to support ecological projects
     financially by using their search services. Ecosia, for instance,
     helps plant trees, as it states most prominently on its
@@ -252,7 +256,7 @@ Privacy First
     of revenue generated from these ads. Ecosia's own servers run on
     green power. However, Ecosia's search results come from Bing, which
     does not use green energy. This is an example of what Dirk
-    Lewandowski coins the 'partner-index model'.[^22]
+    Lewandowski coins the 'partner index model'.[^22]
     Ecosia uses Bing’s partner index, and, in turn, the advertising
     revenue is split between Yahoo! (partnering with Bing) and Ecosia
     (donating 80 percent to the rain forest). Since online searches are
@@ -262,9 +266,10 @@ Privacy First
     physicist).[^23] To compensate for the CO2
     emission generated by the Bing searches, Ecosia supports a project
     in Madagascar.[^24]
-11. 12. When looking at its initiatives, Ecosia clearly follows a green
+
+When looking at its initiatives, Ecosia clearly follows a green
     agenda. Contrary to search engines such as the Green Planet Search
-    that help to find ecological information,[^25]
+    that help find ecological information,[^25]
     Ecosia enables users to take action. Since environmentalism is
     increasingly embedded in everyday routines and situated in
     objects,[^26] green search engines can function as
@@ -273,14 +278,15 @@ Privacy First
     a materialization of civic engagement and political action.
     According to Noortje Marres such objects ‘[…] have the capacity to
     turn everyday material activities into forms of engagement with the
-    environment […]’[^27] Green search engines may
+    environment […]’[^27]. Green search engines may
     hence be interpreted as ‘technologies of
     participation’[^28] that make involvement easy
     since they do not require any significant change in the practice
     itself (compared to green devices that would require crucial
     material, social, and technical
     transformations).[^29]
-13. 14. Similar to privacy-concerned search engines, Ecosia's green
+
+Similar to privacy-concerned search engines, Ecosia's green
     ideology is endangered by its dependence on big search for both
     search results and advertising revenue – a threat not only in an
     ideological but also a very practical sense if we look at the
@@ -293,7 +299,8 @@ Privacy First
     Google’s AdSense policy, which prohibits the compensation of third
     parties through the promise of performed
     searches’.[^31]
-15. 16. Their fate hence exemplifies the difficulty that comes with
+
+Their fate hence exemplifies the difficulty that comes with
     depending on a single search engine. Big players simply can stop
     supporting small projects if they no longer harmonize with their own
     advertising policy. Besides, green search engines actively support
@@ -308,17 +315,18 @@ Privacy First
     ‘Informational capitalism’[^32] is the captain
     steering the green ship through the rough sea of online search after
     all.
-17. 18. *The Commons*
+
+****The Commons****
 
 Aside from search engines with a centralized web index, there are projects that try to provide decentralized search, following the principle of file-sharing networks such as the PirateBay. The most popular proponent of such decentralized search projects is the peer-to-peer network YaCy, created by the German free software enthusiast Michael Christen. While reading through the YaCy website, the major goal and ideological ambition of the search engine jumps out at you right away: ‘We want to achieve freedom of information through a free, distributed web search which is powered by the world's users.’[^33] The image that is displayed in their 'About Us' section clearly shows that the search engine characterizes itself as a true alternative to centralized search engines such as Google or Bing and their capitalist ideology:
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [IMG1]
 
-Fig 1. YaCy homepage, about YaCy
---------------------------------
+("Fig. 1. YaCy homepage, about YaCy")
 
-1.  2.  Freedom and independence are put first. Rather than relying on
+
+
+Freedom and independence are put first. Rather than relying on
     big search engines, YaCy provides users with the possibility to run
     a search technology on their own computers and/or participate in a
     private computer network that is not controlled by a single company
@@ -330,7 +338,8 @@ Fig 1. YaCy homepage, about YaCy
     a web crawler expands the index, which has gained more and more
     importance over the last years. When users do a global search, the
     index of all peers that are currently online is searched.
-3.  4.  This means that everyone can see how information is obtained by
+
+This means that everyone can see how information is obtained by
     the search engine and displayed to the user. YaCy is open-source,
     free software that is completely transparent, as its website claims.
     No collaboration with big search engines is
@@ -344,7 +353,8 @@ Fig 1. YaCy homepage, about YaCy
     and helps to green the web because only users’ computers are needed
     and no additional data centers with enormous power consumption are
     required.
-5.  6.  From an ideological standpoint YaCy may be interpreted as
+
+From an ideological standpoint YaCy may be interpreted as
     devoting itself to ‘commons-based peer production’, a term coined by
     Yochai Benkler. ‘The salient characteristic of commons, as opposed
     to property, is that no single person has exclusive control over the
@@ -352,41 +362,45 @@ Fig 1. YaCy homepage, about YaCy
     commons.’[^36] Michael Hardt even goes further by
     arguing that the commons are able to create not only new goods, but
     also new humanity:
-7.  8.  Communism should be defined not only by the abolition of
+
+>Communism should be defined not only by the abolition of
     property but also by the affirmation of the common – the affirmation
     of open and autonomous production of subjectivity, social relations,
     and the forms of life; the self-governed continuous creation of new
     humanity.[^37]
-9.  10. The communist manifesto is not on the list of references that
+
+The communist manifesto is not on the list of references that
     YaCy provides on its website. It does, however, reference and
     support manifestos by the Free Software Foundation Europe, the Chaos
-    Computer Club, the German Pirate Party, or the Charter of Civil
+    Computer Club, the German Pirate Party, and the Charter of Civil
     Rights for a Sustainable Knowledge Society. This alliance shows that
     the free software movement and commons-based peer production are
     central pillars of YaCy’s ideological framework. Following Hardt’s
     argumentation YaCy may even be seen as closer to the communist
     spirit than to capitalist ideology.
-11. 12. *Knowledge Engines*
-13. Finally, to round off the picture, knowledge engines are worth
+
+****Knowledge Engines****
+
+Finally, to round off the picture, knowledge engines are worth
     mentioning in terms of alternative search projects. Knowledge
     engines claim to provide users with new knowledge. Rather than
     pointing users to information available already, they aim at
     providing users with new answers to their questions.
-    Wolfram|Alpha**is well-known for this style of search.
-    Wolfram|Alpha**is a search tool, or rather software, developed by
+    Wolfram|Alpha is well-known for this style of search.
+    Wolfram|Alpha is a search tool, or rather software, developed by
     Stephen Wolfram, a British physicist and mathematician. Wolfram
     built the software Mathematica, which integrates computer algebra,
     symbolic and numerical computation, visualization, and statistics.
     Wolfram’s profession tells us a lot about the ideological
     underpinning of his software product. On its website,
-    Wolfram|Alpha**is described as a scientific tool that provides
+    Wolfram|Alpha is described as a scientific tool that provides
     answers to factual queries by computing materials from external
     sources: ‘Our goal is to build on the achievements of science and
     other systematizations of knowledge to provide a single source that
     can be relied on by everyone for definitive answers to factual
     queries.’[^38] Rather than offering users sources
     and websites that may contain answers to their questions,
-    Wolfram|Alpha**wants to provide users with straight answers in a
+    Wolfram|Alpha wants to provide users with straight answers in a
     scientific manner. The software favors ‘expert-level knowledge’,
     facts, and figures and hence clearly dedicates itself to the
     scientific paradigm. The attempt to offer knowledge rather than
@@ -399,38 +413,41 @@ Fig 1. YaCy homepage, about YaCy
     knowledge. Technically it contains a natural language interpreter at
     the front-end and a number of key data sources, which have been
     captured and standardized by Wolfram staff, at the back-end (e.g.
-    Wikipedia, Encyclop**æ**dia Britannica, or newspapers).
+    Wikipedia, Encyclopædia Britannica, and newspapers).
 
-1.  Another, yet more metaphysical knowledge engine is YossarianLives!.
-    **Its algorithm uses metaphors to return image results that are
-    conceptually related to search terms**.**These results should enable
+Another, yet more metaphysical knowledge engine is YossarianLives!.
+    Its algorithm uses metaphors to return image results that are
+    conceptually related to search terms. These results should enable
     users to see problems in a new way rather than provide users with
-    more of the same information;** [^40] they should
+    more of the same information; [^40] they should
     further help to circumvent the filter bubble.[^41]
     Even though YossarianLives! is constituted as a company, it does not
     seem to have a proper business model yet. In contrast, Wolfram|Alpha
     has developed a sophisticated business strategy.
-2.  3.  Similar to Google, Wolfram|Alpha incorporated the capitalist
+
+Similar to Google, Wolfram|Alpha incorporated the capitalist
     ideology into its scientific endeavor. Unlike big search, though,
     the company does not only count on advertising. Besides its free,
-    advertising-based search tool, Wolfram|Alpha**offers a Pro version
+    advertising-based search tool, Wolfram|Alpha offers a Pro version
     that includes additional features for a monthly subscription fee of
     \$5 and that does not display advertising. It further makes money
     with sponsoring contracts and licensing partnerships. This
-    underlines the fact that Wolfram|Alpha**is a software product rather
+    underlines the fact that Wolfram|Alpha is a software product rather
     than a search tool. The Infoworld journalist Neil McAllister argues
-    that Wolfram|Alpha**even goes beyond conventional software companies
+    that Wolfram|Alpha even goes beyond conventional software companies
     in terms of copyright questions.[^42] When reading
     through Wolfram|Alpha’s terms of use, one can see that the software
     does not only claim ownership for the software itself, but also for
     its output. This is the exact phrasing:
-4.  5.  In many cases the data you are shown never existed before in
+
+>In many cases the data you are shown never existed before in
     exactly that way until you asked for it, so its provenance traces
     back both to underlying data sources and to the algorithms and
     knowledge built into the Wolfram|Alpha computational system. As
     such, the results you get from Wolfram|Alpha are correctly
-    attributed to Wolfram|Alpha itself.[^43] **
-6.  7.  Taking this seriously would mean that Wolfram|Alpha**holds a
+    attributed to Wolfram|Alpha itself.[^43]
+
+Taking this seriously would mean that Wolfram|Alpha**holds a
     copyright of all users’ search queries. Moreover, open data are
     closed down when being processed by the software that aims to ‘bring
     broad, deep, expert-level knowledge to everyone’, as it claims on
@@ -442,7 +459,7 @@ Fig 1. YaCy homepage, about YaCy
     be entitled to credit for their calculations, as the free software
     activist Richard Stallman argues.[^44]
 
-Conclusions
+***Conclusions***
 
 When considering alternative search projects in the limelight of
 ideology, we can see that the capitalist spirit is by far not the only
@@ -469,7 +486,7 @@ carried out on the surface; e.g. their user interfaces, encryption
 techniques, and donation models. In contrast, Wolfram|Alpha chose to be
 independent on an algorithmic level, but ended up as a commercial
 product too. The only exception is YaCy. The peer-to-peer network is the
-only search tool discussed in the article that provides a true
+only search tool discussed that provides a true
 alternative to corporate search engines; it is the most radical
 alternative to proprietary search and expresses its values on the level
 of infrastructure, software, and content. YaCy's ideology is deeply
@@ -519,17 +536,17 @@ search engines in the future, this article has shown that there are
 still certain barriers to be conquered on the road towards alternative
 search both in terms of technology and ideology.
 
-Acknowledgements
+***Acknowledgements***
 
 The analysis of alternative search engines was conducted as part of the
-research project “GLOCAL SEARCH. Search technology at the intersection
-of global capitalism and local socio-political cultures” (funded by the
+research project 'GLOCAL SEARCH. Search technology at the intersection
+of global capitalism and local socio-political cultures' (funded by the
 Jubiläumsfonds of the Oesterreichische Nationalbank (OeNB), project
-number 14702). I would like to thank the Society of the Query 2\#
+number 14702). I would like to thank the Society of the Query #2
 conference participants and the editors of this volume for their helpful
 comments and feedback.
 
-References
+**References**
 
 Allhutter, Doris and Roswitha Hoffmann. ‘Deconstructive Design as an
 Approach for Opening Trading Zones’, in Jordi Vallverdú (ed.) *Thinking
@@ -552,17 +569,15 @@ Heidelberg, London, New York: Springer, 2011, pp. 139-171.
 Castells, Manuel. *The Rise of the Network Society. The Information Age:
 Economy, Society and Culture*, *Volume 1*, Malden: Blackwell, 2000.
 
-DuckDuckGo, 'Sources', https://dukgo.com/help/en\_US/results/sources.
+DuckDuckGo. 'Sources', https://dukgo.com/help/en\_US/results/sources.
 
 Eklöf, Jenny and Astrid Mager. ‘Technoscientific Promotion and Biofuel
 Policy: How the Press and Search Engines Stage the Biofuel Controversy’,
-*Media, Culture & Society*35.4 (2013): 454-471*.*
+*Media, Culture & Society* 35.4 (2013): 454-471.
 
 Fuchs, Christian. ‘A Contribution to the Critique of the Political
-Economy of Google’,
-
-*Fast Capitalism* 8.1 (2011),
-http://www.uta.edu/huma/agger/fastcapitalism/8\_1/fuchs8\_1.html
+Economy of Google’, *Fast Capitalism* 8.1 (2011),
+http://www.uta.edu/huma/agger/fastcapitalism/8\_1/fuchs8\_1.html.
 
 Haider, Jutta. ‘ The Environment on Holidays or How a Recycling Bin
 Informs Us on the Environment ’, Journal of Documentation 67.5 (2011):
@@ -580,9 +595,11 @@ Johnson, Nathania. 'Google Says “No” to Ecocho', Search Engine Watch, 23
 April 2008,
 http://searchenginewatch.com/article/2054343/Google-Says-No-to-Ecocho.
 
-Latour, Bruno. ‘Technology Is Society Made Durable ’, in John Law (ed.)
+Latour, Bruno. ‘Technology Is Society Made Durable’, in John Law (ed.)
 *A Sociology of Monsters: Essays on Power, Technology and Domination*,
 New York and London: Routledge, 1991, pp. 103-131.
+
+Lewandowksi, Dirk. 'Why We Need and Independent Index of the Web', in René König and Miriam Rasch, *Society of the Query Reader: Reflections on Web Search*, Amsterdam: Institute of Network Cultures, 2014.
 
 Mager, Astrid. ‘Algorithmic Ideology: How Capitalist Society Shapes
 Search Engines’, *Information, Communication & Society*15.5 (2012*a):*
@@ -633,8 +650,7 @@ http://www.telegraph.co.uk/technology/google/4217055/Two-Google-searches-produce
 Thrift, Nigel. *Non-Representational Theory. Space, Politics, Affect*,
 London: Routledge, 2008.
 
-Notes
------
+**Notes**
 
 [^1]: ^^For more information on accused collaborations between the NSA and
     IT companies leaked by Edward Snowden see, for example: Glenn
@@ -647,8 +663,8 @@ Notes
     Domination*, New York and London: Routledge, 1991, pp. 103-131.
 
 [^3]: ^^Astrid Mager, ‘Algorithmic Ideology: How Capitalist Society Shapes
-    Search**Engines’, *Information, Communication & Society*15.5
-    (2012a): pp. 1-19.
+    Search**Engines’, *Information, Communication & Society* 15.5
+    (2012a): 1-19.
 
 [^4]: Between October 2010 and February 2011 I conducted 17 expert
     interviews, both personally and via Skype. My interview partners
@@ -670,7 +686,7 @@ Notes
 [^7]: Boltanski and Chiapello, *The New Spirit of Capitalism*, p. 355
     (italics in original).
 
-[^8]: Matteo Pasquinelli, ‘Google’s PageRank algorithm: a Diagram of
+[^8]: Matteo Pasquinelli, ‘Google’s PageRank algorithm: A Diagram of
     Cognitive Capitalism and the Rentier of the Common Intellect’, in
     Konrad Becker and Felix Stalder (eds) *Deep Search: The Politics of
     Search Engines Beyond Google*, Innsbruck: Studienverlag, 2009, pp.
@@ -716,7 +732,7 @@ Notes
 [^17]: See, DuckDuckGo, 'Sources',
     https://dukgo.com/help/en\_US/results/sources.
 
-[^18]: See also Dirk Lewandowski’s contribution in this volume.
+[^18]: See also Dirk Lewandowski’s contribution in this volume: 'Why we Need an Independent Index of te Web'.
 
 [^19]: See, https://www.ixquick.com/eng/.
 
@@ -724,7 +740,7 @@ Notes
 
 [^21]: See, http://www.ecosia.org/.
 
-[^22]: Dirk Lewandowski’s contribution in this volume.
+[^22]: Lewandowski, 'Independent Index'.
 
 [^23]: Jon Swaine, 'Two Google Searches “Produce Same CO2 as Boiling a
     Kettle”', *The Telegraph*, 11 January 2009,
@@ -765,7 +781,7 @@ Notes
 [^33]: See, http://yacy.net/en/index.html.
 
 [^34]: In contrast to the peer-to-peer search project Seeks, which aims to
-    be a free software/ open source project, but uses commercial search
+    be a free software / open source project, but uses commercial search
     engines to generate its index too: http://www.seeks-project.info.
 
 [^35]: YaCy, 'Philosophy', http://yacy.net/en/Philosophy.html.
@@ -780,9 +796,9 @@ Notes
 
 [^38]: See, http://www.wolframalpha.com/about.html.
 
-[^39]: ^39^Astrid Mager, ‘Search Engines Matter: From Educating Users
+[^39]: Astrid Mager, ‘Search Engines Matter: From Educating Users
     Towards Engaging with Online Health Information Practices’, *Policy
-    & Internet* 4.2 (2012b): pp. 1-21.
+    & Internet* 4.2 (2012b): 1-21.
 
 [^40]: See, http://about.yossarianlives.com/index.html.
 
@@ -806,7 +822,7 @@ Notes
     2010,
     http://www.seo-chief.com/5950/the-market-share-of-google-in-various-countries.
 
-[^46]: See Dirk Lewandowski’s contribution in this volume.
+[^46]: Lewandowski, 'Independent Index'.
 
 
 
