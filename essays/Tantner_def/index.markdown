@@ -1,4 +1,4 @@
-1.  **Before Google: A Pre-History of Search Engines in Analogue Times**
+**Before Google: A Pre-History of Search Engines in Analogue Times**
     [^1]
 
 **Anton Tantner**
@@ -42,7 +42,7 @@ address are older. Thus, the extensive data collection campaigns of the
 Middle Ages and during the early modern period resulted, for example, in
 the making of the Domesday Book of medieval England, the so-called
 *Relaciones topográficas* composed during the reign of the Spanish king
-Philipp II, the *enquêtes* by French minister Colbert, and the
+Philip II, the *enquêtes* by French minister Colbert, and the
 ‘Political Remarks of the Imperial War Council’ during the Hapsburg
 monarchy in 1770-1772, all which may be compared to the ‘crawlers’ sent
 out by current search engines to ‘harvest’ information. Their intention
@@ -65,7 +65,7 @@ in the analogue age. This historical overview should not only provide
 new insights about the past, but should also be useful to those who
 study today’s search engines.
 
-1.  **Disposition and Indexation of Knowledge**
+***Disposition and Indexation of Knowledge***
 
 How were books and bodies of knowledge arranged in order to facilitate
 searching for them? We need to distinguish systematic disposition on the
@@ -75,7 +75,7 @@ libraries – and, on the other hand, alphabetical organization, in which
 books are registered according to the name of the author or, in a
 subject catalog, according to keywords assigned by the librarian.
 
-1.  *Systematic Organization: Dewey’s Decimal Classification*
+****Systematic Organization: Dewey’s Decimal Classification****
 
 For centuries, the systematic organization of books was pursued as an
 ideal. Already during the 17th century, numbers were used for
@@ -98,7 +98,7 @@ medical science, and serves as an organizing pattern for systematic
 library catalogs, the shelving of books, and the compilation of
 bibliographies.[^9]
 
-1.  *Alphabetical Organization*
+****Alphabetical Organization****
 
 According to Peter Burke, alphabetical order was first introduced in the
 ‘Suidas’, a Byzantine encyclopedia from the 11th century, and
@@ -125,8 +125,8 @@ moment, they were replaced by another system of rules, the system of
 alphabetical cataloging that is usually identified by its German acronym
 ‘RAK’.[^12]
 
-1.  *‘Search Engines’ in Books: Registers, Indices, Marginalia, Verse
-    Numbers*
+****‘Search Engines’ in Books: Registers, Indices, Marginalia, Verse
+    Numbers****
 
 For the location of contents in a book, too, adequate resources needed
 to be invented. Important tools that help a person gain an overview of a
@@ -154,7 +154,7 @@ texts more user-friendly by allowing non-serial access. This
 user-friendliness was, however, often paid for by a more restrictions to
 individual interpretation.[^15]
 
-1.  *From Bibliometric Citation Indices to Google’s PageRank*
+****From Bibliometric Citation Indices to Google’s PageRank****
 
 One way of arranging and rating books that was invented in the 20th
 century is so-called bibliometric, or citation indices. By means of this
@@ -186,7 +186,7 @@ ranking of a website. In the case of Google, this principle is called
 ‘PageRank’ – its name also being a pun, as ‘Page’ is the name of one of
 Google’s founders, Larry Page.[^18]
 
-Encyclopedias as Repositories of Knowledge
+****Encyclopedias as Repositories of Knowledge****
 
 Another form of knowledge storage and indexing that may be regarded as
 characteristic of early modern times is the major encyclopedia projects,
@@ -206,7 +206,7 @@ was rarely employed elsewhere; some of the *Encyclopédie Anarchiste*'s
 funding came from the famous Spanish anarchist Buenaventura Durutti, who
 had seized the money from bank robberies.[^21]
 
-1.  **Human Information Brokering Institutions**
+***Human Information Brokering Institutions***
 
 Werner Faulstich identifies those media that work without necessarily
 using technology as ‘primary media’ or ‘human media’, such as the
@@ -215,14 +215,14 @@ refer to institutions such as contact brokers, agents, or go-betweens,
 as well as domestics and loan lackeys, servants, and concierges, as
 ‘human search engines’.
 
-1.  *Contact Brokers, Servant Agents, Go-betweens*
+****Contact Brokers, Servant Agents, Go-Betweens****
 
 The term *Beziehungsmakler* (contact broker) refers to the concept of a
 broker, a term that today is mostly used in connection with stock
 exchange brokers. According to a definition provided by Christoph
 Windler,
 
-brokers’ arrange contacts with individuals who themselves control needed
+>brokers’ arrange contacts with individuals who themselves control needed
 resources or can on their part establish further contacts […]. They
 supervise critical connections between a local system and a broader
 whole […]. Their position crucially depends on the importance of the
@@ -243,7 +243,7 @@ they were related to the sale of goods. When a foreign tradesman entered
 a city, he was able to turn to such a go-between, who would help him
 find resellers against a commission.[^25]
 
-1.  *Servants and Loan Lackeys*
+****Servants and Loan Lackeys*****
 
 Servants, too, may be regarded as search engines. Here, we may
 differentiate between those who worked in one household for a longer
@@ -279,13 +279,13 @@ had found rooms for rent with the help of such a loan
 lackey.[^28] A travel guide of Prague dated 1817
 contains the following advice:
 
-When [the stranger] wants to be instructed about the places he wishes to
+>When [the stranger] wants to be instructed about the places he wishes to
 visit, he should turn to the attendant at the tavern, in general called
 a loan lackey, who will accompany the guest to his desired destination.
 The loan lackey will also make all provisions so the stranger will be
 supplied with all the articles he asks for.[^29]
 
-1.  *Concierges*
+****Concierges****
 
 Another type of ‘human search engine’ in larger towns and cities were
 concierges; in a travel report by Friedrich Nicolai from Vienna in the
@@ -316,7 +316,7 @@ the police in a reciprocal relationship. The police were informed about
 suspect tenants, and the concierge got advance information about
 prospective tenants.[^33]
 
-1.  **Institutions of Information Brokerage**
+***Institutions of Information Brokerage***
 
 Archives, libraries, and museums, as well as schools and universities,
 are the classic sites of occidental knowledge and information
@@ -326,13 +326,13 @@ informed our understanding of searching and finding for centuries.
 Manuscript catalogs in book form, which for a long time had been the
 ideal, were only replaced by index cards in the course of the 19th
 century, before online electronic catalogs were established at the end
-of the 20th^^century.[^34]
+of the 20th century.[^34]
 
 By contrast, those sites and institutions that served to broker everyday
 information have attracted less interest. A selection of these will be
 presented in this article.
 
-1.  *Inns and Coffee Houses*
+****Inns and Coffee Houses****
 
 The activities of inns and coffee houses extended far beyond serving
 drinks and offering food. Historians of these public houses report
@@ -358,14 +358,14 @@ Theodor Johann Quistorp asserted that ‘a coffee house was as it were a
 political stock exchange, where the bravest and most spirited heads from
 all cities converged’.[^37]
 
-1.  *Intelligence Offices: the Example of the Paris Bureau d’Adresse,
-    1630-1643*
+****Intelligence Offices: the Example of the Paris Bureau d’Adresse,
+    1630-1643****
 
 Emerging in the 17th century and lasting until the early 19th century,
 so-called intelligence offices were another specific type of information
 exchange in addition to inns and coffee houses. These institutions
 brokered employment, apartments, wares, and money against a fee, and
-occasionally published advertisers.
+occasionally published advertisers.[^38]
 
 The earliest and at the same time most famous of these intelligence
 offices was the *Bureau d’adresse*established by Théophraste Renaudot in
@@ -407,7 +407,7 @@ which covered a number of different subjects, such as medicine, physical
 phenomena, or economics. On 3 February 1642, a question was discussed
 that famously has been of tremendous interest to humanity since time
 immemorial: ‘What was made first, the egg or the
-chicken?’[^38]
+chicken?’[^39]
 
 Because of the extensive activities of the *bureau*, it repeatedly ran
 afoul of individuals whose business it interfered with. Thus, the
@@ -418,17 +418,17 @@ medical faculty that took action against the *bureau*, especially when
 Renaudot wanted to further extend his medical counseling activities.
 Nevertheless, Renaudot’s adversaries only succeeded when his protector,
 Cardinal Richelieu, died. In 1643, Renaudot’s *Bureau d’adresse*had to
-abandon most of its activities.[^39]
+abandon most of its activities.[^40]
 
-The Universal Register Office, London 1750
+****The Universal Register Office, London 1750****
 
 One successor of the Bureau d’Adresse was the Universal Register Office
 founded by the Fielding brothers in 1750. According to its
 self-description the office’s declared aim was ‘to bring the World […]
-together into one place’.[^40] This sounds quite
+together into one place’.[^41] This sounds quite
 similar to the well-known self-description of Google: ‘Google’s mission
 is to organize the world's information and make it universally
-accessible and useful.’[^41] The self-description of
+accessible and useful.’[^42] The self-description of
 the Universal Register Office continues: ‘In large and populous cities
 […] every human Talent is dispersed somewhere or other among the
 Members; and consequently every Person who stands in Need of that
@@ -437,7 +437,7 @@ this is the Difficulty, and this Difficulty still encreases with the
 Largeness of the Society.’ The Fielding brothers’ Universal Register
 Office promised to afford remedy: It would bring together buyers and
 sellers, teachers and pupils, tradesmen and their partners, finally
-masters and apprentices or servants.[^42]
+masters and apprentices or servants.[^43]
 
 Like its Parisian predecessor the Universal Register Office served as a
 sales agency, a labor office, a pawnshop and also a travel agency.
@@ -451,18 +451,18 @@ servant would be registered who seemed suspicious or who was living in a
 disreputable place. Dismissed servants would not be registered any
 longer if the former masters informed the office. By doing so the
 Universal Register Office would be a ‘public eye’ concerning
-servants.[^43] In addition the methods adopted by the
+servants.[^44] In addition the methods adopted by the
 Fielding brothers were also directed at crime prevention by protecting
 newcomers from the countryside from fraud. To that end, Henry Fielding
 set up an information office exclusively concerned with uncovering
 crimes: All facts on fraud and crimes, all criminals, every robbery
 committed, any object lost were to be gathered at one place, and the
 names and descriptions of offenders recorded in a
-register;[^44] so the Universal Register Office was
+register;[^45] so the Universal Register Office was
 also designed as a government utopia contributing to a surveillance
 society.
 
-1.  *The*Anfrage- und Auskunftscomptoir*, Vienna, 1819*
+****The *Anfrage- und Auskunftscomptoir*, Vienna, 1819****
 
 An institution similar to the information offices developed at the
 beginning of the 19th century, namely the offices of inquiry and
@@ -473,7 +473,7 @@ Auskunftscomptoir*in Vienna in 1819, and they offered its services by
 arguing, amongst others reasons, that loan servants were unreliable. An
 1822 travel guide has the following to say:
 
-For a modest fee of 20 kr[euzer]. to 1 fl. [guilder], the managers [of
+>For a modest fee of 20 kr[euzer]. to 1 fl. [guilder], the managers [of
 this establishment] offer information on resident citizens and
 foreigners, doctors of medicine and of the law, about civil servants,
 scholars, artists etc., on local affairs and the facilities of public
@@ -484,53 +484,53 @@ for travel; on employers and domestics looking for employment; on
 purchases and leases of houses, realties etc., on apartments,
 warehouses, stables, factories etc., in short, on all civil and social
 dealings and affairs, of which knowledge is
-permitted.[^45]
+permitted.[^46]
 
 A satire aimed at this information office was published in *Eipeldauer*
 magazine in 1820:
 
-About the *Auskunftscomptoir,* which fortunately was established in
+>About the *Auskunftscomptoir,* which fortunately was established in
 Vienna a short while ago, I happen to know a few anecdotes. For one day,
-a Hungarian hay farmer went there and said: ‘Gentlemen, would I like to
+a Hungarian hay farmer went there and said: ""Gentlemen, I would like to
 know, if my young wife, while I am in Vienna and sell my hay, is
 faithful to me in my Hungarian land! So please, be so kind, and look it
-up.’ Another came and wanted to know whether his rich cousin in Günz was
+up."" Another came and wanted to know whether his rich cousin in Günz was
 going to die this year, and make him his heir. Oh my lord and cousin, if
 only the gentlemen at the *Comptoir* could find all such things, they
 would undoubtedly be even busier. I for my part, I would have looked up
 whether the public will be satisfied with me for long, and whether the
 *Eipeldauer* will continue to increase its
-readership.[^46]
+readership.[^47]
 
 – Here, the *Comptoir* was alleged to be able to supply information
 about the future; as is often the case, a new medium triggered utopias
 of omniscience.
 
-1.  *Press Clipping Services*
+****Press Clipping Services****
 
 Press clipping services constitute an additional specialized institution
-of information exchange.[^47] The initial problem
+of information exchange.[^48] The initial problem
 these institutions promised to redress was quite clear and was expressed
 for example by one of Dostoyevsky’s characters at the beginning of the
 1870s. There was a mass of newspapers appearing daily that reported on a
 number of interesting events, but finding them after some time was
-nearly impossible.[^48] Press clipping services were
+nearly impossible.[^49] Press clipping services were
 finally created not for retrospective use, but for searching for a
 subject at the current moment in time. The first such office to become
 famous was founded under the name *Argus de la Presse* in Paris in 1879.
 According to its founding legend, its inventor, Comte
 François-Gaston-Auguste de Chambure, often watched artists while they
 were looking through the newspapers at newsstands for articles about
-their work. de Chambure proceeded to cut reviews from a few newspapers
+their work. De Chambure proceeded to cut reviews from a few newspapers
 and to forward them to the respective artists, and this evolved into a
 real enterprise. From Paris, press clipping services spread to other
 cities. For example, an employee of the *Argus de la Presse*, the writer
 and journalist Max Karfunkel, established this service for
-Berlin.[^49] From a description of the early days of
+Berlin.[^50] From a description of the early days of
 these services, it appears that the job of reading the newspapers was
 mostly done by women:
 
-Finally, 60 young women sat in Romeike’s New York house, bowed over
+>Finally, 60 young women sat in Romeike’s New York house, bowed over
 1,090 newspapers and 5,000 magazines. Whenever they raise their eyes
 from the columns, they are caught by the list of names and subjects they
 have to consider; but this list contains only those which are most
@@ -540,37 +540,35 @@ eyes for all clients. Twice a day, a bell sounds, an overseer appears
 and reads off new customers and subjects. These girls don’t cut out,
 they only mark with a pencil. The cutting is done by a group of boys.
 Then there is another group of girls who sort the clippings into
-pigeonholes.[^50]
+pigeonholes.[^51]
 
-1.  **Conclusion**
+***Conclusion***
 
 Obviously, this historical overview is far from complete; one could for
 example add the finding aids used for people search, such as address
 books including Nicolas de Blegny’s *Livre Commode* dating from
 1691/1692, state calendars, or the Red Cross Tracing Service dedicated
 to the search for missing people after the world
-wars.[^51] What this survey has clearly shown,
+wars.[^52] What this survey has clearly shown,
 however, is that although the tools for searching can be very useful,
 they are not innocent. Loan lackeys and concierges provided their
 clients with helpful information but sometimes revealed their desires to
 police officers. Intelligence offices facilitated the exchange of goods
 but were suspected of making public what should stay secret within the
-families.[^52]
+families.[^53]
 
-Concerning this ambivalence, internet historian Mercedes Bunz uses the
-
-term ‘frenemy’ to describe the oscillation of applications such as
+Concerning this ambivalence, internet historian Mercedes Bunz uses the term ‘frenemy’ to describe the oscillation of applications such as
 Google between friendly usefulness and hostile control of users’
 desires:
 
-Because of their dangerously detailed knowledge, net companies possess a
+>Because of their dangerously detailed knowledge, net companies possess a
 new form of power – it is not for nothing that Google is described as a
 ‘frenemy’. These internet companies are dangerous like enemies because
 of their knowledge – and knowledge is power, today more than ever – but
 they appear to be friends. They make life easier. They are no rulers in
 a Hegelian sense. Theirs is a different form of power, and this power is
 dangerous – but it is not automatically subjugating, bad or
-evil.[^53]
+evil.[^54]
 
 It appears that this Janus-faced quality can already be demonstrated of
 the search aids of the ‘analogue age’, which explains why they were
@@ -579,7 +577,7 @@ offices, and the like are situated in the contested field between
 private utilization and the authorities’ claims, which are re-negotiated
 with the appearance of each new search aid.
 
-1.  **References**
+**References**
 
 Allen, Woody. ‘Nanny Dearest’, in Woody Allen, Mere Anarchy, New York:
 Random House, 2007, pp. 55-64.
@@ -654,16 +652,16 @@ France sous l’ancien régime (1630-1788),* Oxford: Oxford University
 Press, 2000.
 
 Fielding, Henry. ‘A Plan of the Universal Register-Office’, in Bertrand
-A. Goldgar (ed.), *The Covent-Garden Journal and A Plan of the Universal
+A. Goldgar (ed.) *The Covent-Garden Journal and A Plan of the Universal
 Register-Office*, Oxford: Clarendon Press, 1988, pp. 3-10.
 
-Gierl, Martin. ‚Enzyklopädie’, in Friedrich Jaeger (ed.) *Enzyklopädie
+Gierl, Martin. 'Enzyklopädie’, in Friedrich Jaeger (ed.) *Enzyklopädie
 der Neuzeit,* Stuttgart et al.: Metzler, 2005 et sequ., vol. 3, 2006,
 col. 344-356.
 
 Giesecke, Michael. *Der Buchdruck in der frühen Neuzeit. Eine
 historische Fallstudie über die Durchsetzung neuer Informations- und
-Kommunikationstechnologien,* 4^th^ edition, Frankfurt am Main: Suhrkamp,
+Kommunikationstechnologien,* 4th edition, Frankfurt am Main: Suhrkamp,
 2006.
 
 Groebner, Valentin. ‘Mobile Werte, informelle Ökonomie. Zur ‘Kultur’ der
@@ -673,13 +671,13 @@ Armut in der spätmittelalterlichen Stadt’, in Otto Gerhard Oexle (ed.)
 Gugerli, David. *Suchmaschinen. Die Welt als Datenbank,* Frankfurt am
 Main: Suhrkamp eu 19, 2009.
 
-Hacker, Rupert. *Bibliothekarisches Grundwissen,* 4^th^ edition,
+Hacker, Rupert. *Bibliothekarisches Grundwissen,* 4th edition,
 München: Saur, 2000.
 
 Heesen, Anke te. *Der Zeitungsausschnitt. Ein Papierobjekt der Moderne,*
 Frankfurt am Main: Fischer, 2006.
 
-Hochedlinger, Michael and Tantner, Anton (eds). *‘... Der größte Teil
+Hochedlinger, Michael and Anton Tantner (eds). *‘... Der größte Teil
 der Untertanen lebt elend und mühselig’. Die Berichte des Hofkriegsrates
 zur sozialen und wirtschaftlichen Lage der Habsburgermonarchie
 1770-1771,* Innsbruck-Wien-Bozen: Studienverlag, 2005 (Mitteilungen des
@@ -746,12 +744,12 @@ Petschar, Ernst Strouhal and Heimo Zobernig (eds) *Der Zettelkatalog.
 Ein historisches System geistiger Ordnung,* Wien-New York: Springer,
 1999, pp. 17-42.
 
-Pezzl, Johann. *Neueste Beschreibung von Wien,* 6^th^ edition, Wien:
+Pezzl, Johann. *Neueste Beschreibung von Wien,* 6th edition, Wien:
 Armbruster, n.d. (1822).
 
 Pradel, Abraham (=Blegny, Nicolas de). *Les Adresses de la Ville de
 Paris avec le Tresor des Almanachs. Livre Commode En tous lieux, en tous
-temps, & en toutes conditions,* Paris: n.p., 1691; reprint of the 2^nd^
+temps, & en toutes conditions,* Paris: n.p., 1691; reprint of the 2nd
 edition 1692: Abraham du Pradel (= Nicolas de Blegny), *Le livre commode
 des adresses de Paris pour 1692,* Édouard Fournier (ed.) Vol. 1-2,
 Paris: Paul Daffis, 1878.
@@ -791,10 +789,10 @@ Suchmaschine im analogen Zeitalter,* Bielefeld: Transcript, 2012, pp.
 223-252.
 
 Riesbeck, Johann Kaspar. *Briefe eines Reisenden Franzosen über
-Deutschland an seinen Bruder zu Paris,* 2 volumes, 2^nd^ edition, s.l.:
+Deutschland an seinen Bruder zu Paris,* 2 volumes, 2nd edition, s.l.:
 n.p., 1784.
 
-Scheutz, Martin. ‘'hab ichs auch im würthshauß da und dort gehört [...]’
+Scheutz, Martin. '"hab ichs auch im würthshauß da und dort gehört [...]"
 Gaststätten als multifunktionale öffentliche Orte im 18. Jahrhundert’,
 in Martin Scheutz, Wolfgang Schmale and Dana Štefanová (eds) *Orte des
 Wissens,* (Jahrbuch der österreichischen Gesellschaft zur Erforschung
@@ -816,10 +814,10 @@ Princeton: Princeton University Press, 1972.
 Stagl, Justin. *A History of Curiosity: The Theory of Travel, 1550-1800*
 (Studies in Anthropology and History), London-New York: Routledge, 1995.
 
-Stalder, Felix and Mayer, Christine. ‘ The Second Index. Search Engines,
+Stalder, Felix and Christine Mayer. ‘ The Second Index. Search Engines,
 Personalization and Surveillance ’, in Konrad Becker, Felix Stalder
-(eds), Deep Search. The Politics of Search Beyond Google,
-Innsbruck-Wien-Bozen: Studienverlag, 2009, distributed by Transaction
+(eds) *Deep Search: The Politics of Search Beyond Google*,
+Innsbruck: Studienverlag, 2009, distributed by Transaction
 Publishers, New Jersey, pp. 98-115.
 
 Statistisches Departement im k.k. Handelsministerium (ed.), *Die
@@ -837,7 +835,7 @@ Bibliothekare,* 64 (2011): 42-69.
 Vise, David and Malseed, Mark. *The Google Story,* New York: Delacorte
 Press, 2005.
 
-Weidner, Daniel. ‘‘Wende sie um und um, denn alles ist in ihr.’ Über das
+Weidner, Daniel. ‘"Wende sie um und um, denn alles ist in ihr." Über das
 Suchen in heiligen Texten’, in Thomas Brandstetter et al. (eds) *Vor
 Google. Eine Mediengeschichte der Suchmaschine im analogen Zeitalter,*
 Bielefeld: Transcript, 2012, pp. 41-72.
@@ -863,8 +861,7 @@ Zwahr, Helmut. ‘Das deutsche Stadtadreßbuch als orts- und
 sozialgeschichtliche Quelle’, in *Jahrbuch für Regionalgeschichte* 3
 (1968): 204-229.
 
-Notes
-=====
+**Notes**
 
 [^1]: Translated by Brita Pohl, www.bricolangue.at.
 
@@ -882,7 +879,7 @@ Notes
     Markus Krajewski, *Der Diener. Mediengeschichte einer Figur zwischen
     König und Klient,* Frankfurt am Main: S. Fischer, 2010; David
     Gugerli, *Suchmaschinen. Die Welt als Datenbank,* Frankfurt am Main:
-    Suhrkamp eu 19, 2009. For an overview of many of the issues touched
+    Suhrkamp edition unseld 19, 2009. For an overview of many of the issues touched
     upon in this article, see Peter Burke, *A Social History of
     Knowledge: from Gutenberg to Diderot,* Cambridge: Polity Press,
     2000.
@@ -895,8 +892,8 @@ Notes
 [^5]: Anton Tantner, ‘Suchen und finden vor Google. Eine Skizze’, in
     *Mitteilungen der Vereinigung österreichischer Bibliothekarinnen &
     Bibliothekare* 64 (2011): 42-69; Thomas Brandstetter, Thomas Hübel,
-    and Anton Tantner, (eds), *Vor Google. Eine Mediengeschichte der
-    Suchmaschine im analogen Zeitalter,*Bielefeld: Transcript, 2012; the
+    and Anton Tantner (eds) *Vor Google. Eine Mediengeschichte der
+    Suchmaschine im analogen Zeitalter*, Bielefeld: Transcript, 2012; the
     present article is based on these two last publications.
 
 [^6]: Peter Burke, *The Historical Anthropology of Early Modern Italy.
@@ -920,7 +917,7 @@ Notes
 [^8]: Felix Stalder and Christine Mayer, ‘The Second Index. Search
     Engines, Personalization and Surveillance’, in Konrad Becker, Felix
     Stalder (eds), *Deep Search. The Politics of Search Beyond Google,*
-    Innsbruck-Wien-Bozen: Studienverlag, 2009, p. 98.
+    Innsbruck: Studienverlag, 2009, p. 98.
 
 [^9]: Harald Jele, *Wissenschaftliches Arbeiten in Bibliotheken.
     Einführung für StudentInnen,* München-Wien: Oldenbourg, 1999, pp.
@@ -954,7 +951,7 @@ Notes
     Berlin: Akademie, 2004 (Colloquia Augustana 18), pp. 193 (citation)
     and 201.
 
-[^14]: Daniel Weidner, ‘‘Wende sie um und um, denn alles ist in ihr.’ Über
+[^14]: Daniel Weidner, ‘"Wende sie um und um, denn alles ist in ihr." Über
     das Suchen in heiligen Texten’, in Thomas Brandstetter et al. (eds)
     *Vor Google*, pp. 41-72.
 
@@ -962,7 +959,7 @@ Notes
 
 [^16]: Bernhard Rieder, ‘Zentralität und Sichtbarkeit. Mathematik als
     Hierarchisierungsinstrument am Beispiel der frühen Bibliometrie’, in
-    Thomas Brandstetter et al. (eds), *Vor Google*, p. 223–252.
+    Thomas Brandstetter et al. (eds) *Vor Google*, p. 223–252.
 
 [^17]: For further information on the ERIH, see
     http://www.esf.org/hosting-experts/scientific-review-groups/humanities/erih-european-reference-index-for-the-humanities.html.
@@ -993,7 +990,7 @@ Notes
     see Valentin Groebner, ‘Mobile Werte, informelle Ökonomie. Zur
     ‘Kultur’ der Armut in der spätmittelalterlichen Stadt’, in Otto
     Gerhard Oexle (ed.) *Armut im Mittelalter,* Ostfildern: Thorbecke,
-    2004, pp. 175–180.
+    2004, pp. 175-180.
 
 [^24]: Statistisches Departement im k.k. Handelsministerium (ed.) *Die
     Arbeitsvermittlung in Österreich,* Wien: n.p., 1898, p. 26.
@@ -1001,7 +998,7 @@ Notes
 [^25]: Eberhard Schmieder, ‘Unterkäufer im Mittelalter. Ein Beitrag zur
     Wirtschafts- und Handelsgeschichte vornehmlich Süddeutschlands’, in
     *Vierteljahrsschrift für Sozial- und Wirtschaftsgeschichte* 30
-    (1937): 229–260.
+    (1937): 229-260.
 
 [^26]: Markus Krajewski, ‘Ask Jeeves. Servants as Search Engines’, trans.
     Charles Marcrum, *Grey Room*38 (Winter 2010): 6-19.
@@ -1015,7 +1012,7 @@ Notes
 
 [^29]: *Prager Wegweiser zum Unterricht und Bequemlichkeit der Fremden und
     Kenntniß der Einheimischen (…),* Prague: Betterl v. Wildenbrunn,
-    1817, p 19: ‘Wenn derselbe {der Fremde, AT} von den Oertern, die er
+    1817, p 19: ‘Wenn derselbe [der Fremde, AT] von den Oertern, die er
     besuchen will, unterrichtet zu werden wünscht, so verwendet er sich
     an den Aufwärter des Gasthauses, insgemein Lehnlaquai genannt,
     welcher den Gast nach dem Bestimmungsorte begleitet. Dieser
@@ -1060,7 +1057,7 @@ Notes
     Melville and Hans Vorländer (eds) *Geltungsgeschichten. Über die
     Stabilisierung und Legitimierung institutioneller Ordnungen,*
     Köln-Weimar-Wien: Böhlau, 2002, pp. 181, 186, 190, 199; Martin
-    Scheutz, ‘‘hab ichs auch im würthshauß da und dort gehört [...]’
+    Scheutz, ‘"hab ichs auch im würthshauß da und dort gehört [...]"
     Gaststätten als multifunktionale öffentliche Orte im 18.
     Jahrhundert’, in Martin Scheutz, Wolfgang Schmale, and Dana
     Štefanová (eds), *Orte des Wissens,* (Jahrbuch der österreichischen
@@ -1076,12 +1073,14 @@ Notes
     72: ‘daß ein Cafféhaus gleichsam eine politische Börse sey, wo die
     wackersten und witzigsten Köpfe aus allen Ständen zusammenkommen’.
 
-[^38]: 'Qui a esté le premier fait de L’Oeuf ou de la Poule?', in Eusèbe
+[^38]: For an overview on address bureaus: Astrid Blome, ‘Offices of Intelligence and Expanding Social Spaces’, in Brendan Dooley (ed.) *The Dissemination of News and the Emergence of Contemporaneity in Early Modern Europe*, Farnham: Ashgate, 2010, pp. 207-222; Anton Tantner: *Adressbüros*.
+
+[^39]: 'Qui a esté le premier fait de L’Oeuf ou de la Poule?', in Eusèbe
     Renaudot (ed.) *Cinquiesme et dernier tome du Recueil général des
     questions traittées ès conférences du Bureau d’addresse (…),* Paris:
     Besogne, 1655, pp. 91-94.
 
-[^39]: On Renaudot and his *Bureau d’adresse* see: Howard M. Solomon,
+[^40]: On Renaudot and his *Bureau d’adresse* see: Howard M. Solomon,
     *Public Welfare, Science and Propaganda in Seventeenth Century
     France: The Innovations of Théophraste Renaudot*. Princeton:
     Princeton University Press, 1972; Justin Stagl, *Eine Geschichte der
@@ -1091,22 +1090,22 @@ Notes
     (ed.) *Père des journalistes et médecin des pauvres. Théophraste
     Renaudot (1586 – 1653),* Paris: Champion, 2005.
 
-[^40]: Henry Fielding, ‘A Plan of the Universal Register-Office’, in
-    Bertrand A. Goldgar (ed.), pp. 201-230, 295-302.*The Covent-Garden
+[^41]: Henry Fielding, ‘A Plan of the Universal Register-Office’, in
+    Bertrand A. Goldgar (ed.) pp. 201-230, 295-302.*The Covent-Garden
     Journal and A Plan of the Universal Register-Office*, Oxford:
     Clarendon Press, 1988, pp. 3-10; on this institution see also Miles
     Ogborn, *Spaces of Modernity. London’s Geographies 1680-1780*, New
     York/London: Guilford Press, 1998,
 
-[^41]: See, http://www.google.com/corporate/.
+[^42]: See, http://www.google.com/corporate/.
 
-[^42]: Fielding, ‘A Plan’, pp. 3-6.
+[^43]: Fielding, ‘A Plan’, pp. 3-6.
 
-[^43]: Ogborn, p. 217.*Spaces*,
+[^44]: Ogborn, p. 217.*Spaces*,
 
-[^44]: Ogborn, *Spaces*, pp. 219–221.
+[^45]: Ogborn, *Spaces*, pp. 219-221.
 
-[^45]: Johann Pezzl, *Neueste Beschreibung von Wien,* 6th edition, Wien:
+[^46]: Johann Pezzl, *Neueste Beschreibung von Wien,* 6th edition, Wien:
     Armbruster, n.d. (1822), p. 166: ‘Die Unternehmer [dieser Anstalt]
     geben, gegen das mäßige Honorar von 20. kr. bis zu 1 fl. Auskunft
     über hier sich aufhaltende In- und Ausländer, über Doctoren der
@@ -1120,15 +1119,15 @@ Notes
     Fabriken tc., kurz, über alle bürgerliche und gesellschaftliche
     Geschäfte und Verhältnisse, welche zu wissen erlaubt ist.’
 
-[^46]: [Adolph Bäuerle], *Briefe des jüngsten Eipeldauers an seinen Herrn
+[^47]: [Adolph Bäuerle], *Briefe des jüngsten Eipeldauers an seinen Herrn
     Vettern in Kakran*, 5th issue, Wien: n.p. 1820, p. 230 et sequ.:
     ‘Von dem in Wien seit einiger Zeit, mit sehr vielem Glück
     bestehenden Auskunfts-Comptoir weiß ich auch ein Paar Anekdoten. Da
     ist nämlich die Tag ein ungarischer Heubauer hinkommen und hat
-    g’sagt: ‚Meine Herren, möchte ich gern wissen, ob mein junges
+    g’sagt: "Meine Herren, möchte ich gern wissen, ob mein junges
     Weibel, während ich in Wien bin und mein Heu verkauf, mir in
     Ungerland treu ist! Gehen’s seyn’s so gut und schlagens einmal
-    nach.’ Wieder ein anderer ist kommen, der gern hat wissen wollen, ob
+    nach."" Wieder ein anderer ist kommen, der gern hat wissen wollen, ob
     sein reicher Vetter in Günz heuer noch stirbt, und ihn, zum Erben
     einsetzt. O mein Herr Vetter, wann die Herren in dem Comptoir lauter
     solche Sachen auffinden könnten, sie müßten noch mehr zu thun
@@ -1136,22 +1135,22 @@ Notes
     recht lang zufrieden seyn, und ob der Eipeldauer immer mehr und mehr
     Leser bekommen wird’.
 
-[^47]: Anke te Heesen, *Der Zeitungsausschnitt. Ein Papierobjekt der
+[^48]: Anke te Heesen, *Der Zeitungsausschnitt. Ein Papierobjekt der
     Moderne,* Frankfurt am Main: Fischer, 2006.
 
-[^48]: Fyodor Dostoyevsky, *Demons*, trans. Richard Pevear and Larissa
+[^49]: Fyodor Dostoyevsky, *Demons*, trans. Richard Pevear and Larissa
     Volkhonsky, New York: Vintage Classics, 1995 (1872), p. 128f.
 
-[^49]: Anke te Heesen, *Der Zeitungsausschnitt*, pp. 78-80.
+[^50]: Anke te Heesen, *Der Zeitungsausschnitt*, pp. 78-80.
 
-[^50]: P.A., ‘Herr der tausend Scheren. Der Letzte der Romeikes,
+[^51]: P.A., ‘Herr der tausend Scheren. Der Letzte der Romeikes,
     Zeitungsausschnitt’, in *Sammlung Feldhaus*, Akten 7253, I.
     Depositum 40 Feldhaus, Blatt 1-3; my thanks to Anke te Heesen for
-    giving me access to photocopies; the source given by te Heesen, p 82
+    giving me access to photocopies; the source given by te Heesen, p. 82
     et sequ. – *Daheim* 36 (1899/1900), no 28, p. 22 et sequ. – is
     unfortunately erroneous.
 
-[^51]: Abraham Pradel, (= Nicolas de Blegny), *Les Adresses de la Ville de
+[^52]: Abraham Pradel, (= Nicolas de Blegny), *Les Adresses de la Ville de
     Paris avec le Tresor des Almanachs. Livre Commode En tous lieux, en
     tous temps, & en toutes conditions,* Paris: n.p., 1691; Reprint of
     the 2nd edition 1692: Abraham du Pradel (= Nicolas de Blegny), *Le
@@ -1161,8 +1160,8 @@ Notes
     http://gallica2.bnf.fr/ark:/12148/bpt6k278248; Volker Bauer,
     ‘Herrschaftsordnung, Datenordnung, Suchoptionen.
     Recherchemöglichkeiten in Staatskalendern und Staatshandbüchern des
-    18. Jahrhunderts’, in Thomas Brandstetter et al. (eds), *Vor
-    Google*, pp. 85–108; for a bibliography on the Red Cross Tracing
+    18. Jahrhunderts’, in Thomas Brandstetter et al. (eds) *Vor
+    Google*, pp. 85-108; for a bibliography on the Red Cross Tracing
     Service compiled by three students in my seminar ‘Digitale Medien in
     der Geschichtswissenschaft. Suchmaschinen im analogen Zeitalter’
     during the winter term of 2008/09, see:
