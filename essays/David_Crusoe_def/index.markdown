@@ -1,7 +1,6 @@
-Educating for Search: Understanding the Past and Present Search
-Technology to Teach for Future Resilience
+##Educating for Search: Understanding the Past and Present Search Technology to Teach for Future Resilience
 
-Dave Crusoe
+##Dave Crusoe
 
 Who taught you web search? What do you remember learning? My formal
 introduction to web search was made in the mid 1990s, when I was in high
@@ -18,8 +17,7 @@ as written notation, may be part of a high school math
 class.[^1]
 
 [IMG1]
-
-[caption] Fig 1. Venn diagram
+("Fig. 1. Venn diagram.")
 
 Central tenants of Boolean algebra and set theory were adopted and
 applied by computer scientists in their quest to solve problems
@@ -54,7 +52,7 @@ engages educators in cognitive dissonance over the nature of the topical
 education we provide, with the hope that a stronger educational
 experience will emerge.
 
-A Starting Point: Boolean in the Digital Space
+###A Starting Point: Boolean in the Digital Space
 
 To have a productive discussion about the use of Boolean logic in the
 digital space, it’s important that we share an understanding of what
@@ -68,7 +66,7 @@ There are also a number of logic operations that may be less familiar,
 save to programmers. Some search engines may still utilize precedence
 grouping, which we know as brackets (and). Bracketing allows certain set
 operations to happen before other set operations. Another operation, a
-logical disjunction, (‘XOR’, expressed symbolically as ∧), indicates
+logical disjunction, (‘XOR’, expressed symbolically as &oplus;), indicates
 that an operation validates as true if A or B are true, but not both A
 and B simultaneously. Other logic structures in Boolean Algebra include
 equivalence, tautology, and contradiction. However, the user-facing
@@ -110,7 +108,7 @@ pretend that we’re searching a simple literary database for books by
 Jules Verne. As that query translates directly into MySQL, a popular
 database engine, it might look something like this:
 
-Select title,year,dewey-id from books where author = (Jules Verne AND
+>Select title,year,dewey-id from books where author = (Jules Verne AND
 language = English)
 
 In this case, we’re asking the database to tell us the title, year, and
@@ -124,7 +122,7 @@ programmers have crafted their algorithms not only to show us all strict
 matches, but also those matches that sound the same. Their algorithms
 automatically translate our query into something like:
 
-Select title,year,dewey-id from big-search-database where
+>Select title,year,dewey-id from big-search-database where
 SOUNDEX(author) = SOUNDEX(Julez Vern)
 
 This is, of course, a *gross oversimplification* of how a search engine
@@ -136,7 +134,7 @@ forced the relationship between information seeking practices and search
 to evolve past the ‘Boolean’ phase. In this next section, we’ll
 investigate those pressures.
 
-Evolution: Pressures to ‘Do Better’
+###Evolution: Pressures to ‘Do Better’
 
 Perhaps the most fundamental goal of any engine is to provide users
 quickly with high quality content that responds accurately to the
@@ -223,9 +221,9 @@ that a user has entered – the search provider wants to understand and
 interpret what the user really wants *to know*. What the provider
 utilizes to produce this portrait of intent is called *signals*.
 
-The Result: From Interpreting a Query to Interpreting Intent
+###The Result: From Interpreting a Query to Interpreting Intent
 
-Writing about the future of search, a 2002 research team proposed that
+Writing about the future of search, a 2002 research team proposed:
 ‘We need a new generation of web searching tools based upon a more
 thorough understanding of human information behaviors. Such tools would
 assist users with query construction and modification, spelling, and
@@ -255,7 +253,7 @@ historical figure, this tailoring could be helpful – particularly if it
 were to help me refine my keywords (the syntax I’d enter). For example,
 Google
 
-[...] now considers over 200 factors in assessing site quality and
+>[…] now considers over 200 factors in assessing site quality and
 relevance. When a user types a query into Google Search, Google’s
 proprietary technology analyzes these signals to provide a determination
 as to what the user is looking for. Google uses this ever-improving
@@ -264,7 +262,7 @@ users. Google’s search results are ultimately a *scientific opinion* as
 to what information users will find most useful.[^10]
 [emphasis added]
 
-We can interpret this to mean that the language we use to express our
+We can read this to mean that the language we use to express our
 query, whether typed, spoken, or otherwise communicated, may not be
 interpreted literally. Search engines take into account a variety of
 linguistic devices to better match our intent with quality results.
@@ -316,14 +314,14 @@ sum of all signals we send to the engine. In sum, *we must think of the
 query as the sum of all signals we send to the engine* and not simply
 the words that we type into the search box.
 
-Search Education in a Signals World
+###Search Education in a Signals World
 
 To respond to these shifts, search education must focus on what’s
 appropriate, of high value, and leads learners to develop an
 understanding responsive and resilient to technological change. Where is
 instructional time best spent?
 
-First: Teach About How Search Engines Work
+*First: Teach About How Search Engines Work*
 
 First and most fundamentally, it’s important for searchers to possess a
 basic understanding of what a search engine is and how it works. It’s
@@ -339,15 +337,15 @@ understand what a search engine is, how it works, and how and where to
 learn more about it, we provide them with tools to adapt more easily to
 the unforeseen.
 
-Second: Teach Learners to Use Keywords, Phrases, or Sentences Likely to
-Occur in a Page
+*Second: Teach Learners to Use Keywords, Phrases, or Sentences Likely to
+Occur in a Page*
 
 On major search engines, keywords are the primary signal a user shares
 with the search engine to drive the search engine’s results. But what
 should those keywords be for any particular search? How do we know? In
 some engines, particularly in academic engines like EBSCO, keywords may
 have to match pre-defined keywords that relate to an article or specific
-entry fields.[^16] [^17] But these
+entry fields.[^16] But these
 keywords are decreasingly correlated with success when using major
 search technologies. In the case of Google and other providers, it’s
 more important that keywords or phrases target the language that a web
@@ -359,15 +357,15 @@ and NOT? It is decreasingly important that we educators teach young
 people specific keyword syntax, and much more important to teach about
 the overall technological function that search engines fulfill.
 
-Third: Teach Patience and Refinement
+*Third: Teach Patience and Refinement*
 
 Educators must also teach patience. Fellow educators and I have
-described this as *refinement thinking.* [^18] It’s
+described this as *refinement thinking.* [^17] It’s
 quite common for searchers to select one of the first four options on a
 page, but far less frequent for one of the first four options to be ‘the
 best’ or ‘the only’. Social psychologists call this ‘cognitive
 miserism’, in which ‘the basic idea is that people do not like to take a
-lot of trouble thinking if they do not have to’.[^19]
+lot of trouble thinking if they do not have to’.[^18]
 Yet it’s an important habit to break, particularly because the quick
 path is so very quick. How often have you observed the same practices?
 What were your responses, and how might they be improved?
@@ -392,7 +390,7 @@ institutions. Yet we must recognize and differentiate between the
 instruction required for success in one ‘code’, that of web engines, and
 the other, or older Boolean-based databases.
 
-Fourth: Teach About Content Sources
+*Fourth: Teach About Content Sources*
 
 No discussion would be complete without relaying the importance of
 recognizing high-quality sources. High-quality sources for information
@@ -420,7 +418,7 @@ if it were an assignment to improve upon resources that had already been
 identified? Perhaps, as educators, we could work harder to engage
 learners in critiquing their own sources – and at an earlier age.
 
-Conclusions
+###Conclusions
 
 In the past decade, search engine technology has become immeasurably
 more sophisticated. Paradigms that were once helpful, including the user
@@ -448,17 +446,16 @@ critique the sources they’ve already found. As a whole, these practices,
 well learned, will enable future researchers to thrive now and to be
 resilient through inevitable technological evolution.
 
-Special thanks to Mary Roth, IBM Research, and Sara Armstrong, OnCUE,
-for their feedback.
+*Special thanks to Mary Roth, IBM Research, and Sara Armstrong, OnCUE,
+for their feedback.*
 
-References
+###References
 
-Broder, Andrei. 'A taxonomy of web search', ACM Sigir forum 36.2 (2002):
+Broder, Andrei. 'A Taxonomy of Web Search', *ACM Sigir Forum* 36.2 (2002):
 3-10.
 
 EBSCO, ‘Advanced Search Guided-Style Find Fields – Help Sheet’,
-[http://support.epnet.com/knowledge\_base/detail.php?id=3821](http://support.epnet.com/knowledge_base/detail.php?id=3821)
-.
+[http://support.epnet.com/knowledge\_base/detail.php?id=3821](http://support.epnet.com/knowledge_base/detail.php?id=3821).
 
 EBSCO, ‘Searching with Boolean Operators – Help Sheet’,
 http://support.ebsco.com/knowledge\_base/detail.php?id=3883.
@@ -468,39 +465,33 @@ Social Psychology*, New York: McGraw-Hill, 1995, pp. 145-194.
 
 Fox, Vanessa. ‘Google’s New Indexing Structure “Caffeine” Now Live’,
 Search Engine Land weblog, 8 June 2010,
-[http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891](http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891)
-.
+[http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891](http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891).
 
 \_\_\_\_\_. ‘Is Google’s Synonym Matching Increasing? How Searchers and
-Brands Can Be Both Helped and Hurt By Evolving Understanding Of Intent’,
+Brands Can Be Both Helped and Hurt by Evolving Understanding Of Intent’,
 Search Engine Land weblog, 27 August 2012,
-[http://searchengineland.com/is-googles-synonym-matching-increasing-how-searchers-and-brands-can-be-both-helped-and-hurt-131504](http://searchengineland.com/is-googles-synonym-matching-increasing-how-searchers-and-brands-can-be-both-helped-and-hurt-131504)
-.
+[http://searchengineland.com/is-googles-synonym-matching-increasing-how-searchers-and-brands-can-be-both-helped-and-hurt-131504](http://searchengineland.com/is-googles-synonym-matching-increasing-how-searchers-and-brands-can-be-both-helped-and-hurt-131504).
 
 Google. ‘Search for Exact Words or Phrases’,
-[http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130](http://support.google.com/websearch/bin/answer.py?hl=en&p=g_verb&answer=1734130)
-.
+[http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130](http://support.google.com/websearch/bin/answer.py?hl=en&p=g_verb&answer=1734130).
 
 \_\_\_\_\_. ‘Verbatim Tool’,
-[http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130](http://support.google.com/websearch/bin/answer.py?hl=en&p=g_verb&answer=1734130)
-.
+[http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130](http://support.google.com/websearch/bin/answer.py?hl=en&p=g_verb&answer=1734130).
 
 Hu, Victor, Maria Stone, Jane Pedersen, and Ryen W. White. ‘Effects of
-search success on search engine re-use’, in Bettina Berendt, Arjen de
+Search Success on Search Engine Re-Use’, in Bettina Berendt, Arjen de
 Vries, Wenfei Fan, Craig Macdonald, Iadh Ounis, and Ian Ruthven (eds)
-Proceedings of the 20th ACM International Conference on Information and
-Knowledge Management (CIKM '11), New York: ACM, 2011, pp. 1841-1846.
+*Proceedings of the 20th ACM International Conference on Information and
+Knowledge Management (CIKM '11)*, New York: ACM, 2011, pp. 1841-1846.
 
 Schmidt, Eric. ‘Testimony of Eric Schmidt, Executive Chairman, Google
 Inc. before the Senate Committee on Judiciary Subcommittee on the
 Antitrust, Competition Policy and Consumer Rights’ 21 September 2001,
-[http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf](http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf)
-.
+[http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf](http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf).
 
 Schwartz, Barry. ‘Google Removes the + Search Command’, Search Engine
 Land weblog, 24 October 2011,
-[http://searchengineland.com/google-sunsets-search-operator-98189](http://searchengineland.com/google-sunsets-search-operator-98189)
-.
+[http://searchengineland.com/google-sunsets-search-operator-98189](http://searchengineland.com/google-sunsets-search-operator-98189).
 
 Spink, Amanda, Bernard J. Jansen, Dietmar Wolfram, and Tefko Saracevic.
 ‘From E-Sex to E-Commerce: Web Search Changes’, IEEE Computer, 35.3
@@ -514,67 +505,63 @@ Way Back Machine, 21 November 1996, archive of ‘How to Use Excite
 Search’,
 http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.
 
-Notes
-=====
+###Notes
 
-[^1]: ^^The Common Core references algebraic set theory in its high school
+[^1]: The Common Core references algebraic set theory in its high school
     appendices. See
     http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf
     for more information.
 
-[^2]: ^^Way Back Machine, 21 November 1996 archive of ‘How to Use Excite
+[^2]: Way Back Machine, 21 November 1996 archive of ‘How to Use Excite
     Search’,
     http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.
 
-[^3]: ^^Anthony Stuart, ‘Re: Boolean + Operator Removed? Why?’ posting to
+[^3]: Anthony Stuart, ‘Re: Boolean + Operator Removed? Why?’ posting to
     Google Search Forum, 5 November 2011,
     http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ.
 
-[^4]: ^^Victor Hu, Maria Stone, Jan Pedersen, and Ryen W. White, ‘Effects
+[^4]: Victor Hu, Maria Stone, Jan Pedersen, and Ryen W. White, ‘Effects
     of Search Success on Search Engine Re-use’, in Bettina Berendt,
     Arjen de Vries, Wenfei Fan, Craig Macdonald, Iadh Ounis, and Ian
-    Ruthven (eds) Proceedings of the 20th ACM International Conference
-    on Information and Knowledge Management (CIKM '11), New York: ACM,
+    Ruthven (eds) *Proceedings of the 20th ACM International Conference
+    on Information and Knowledge Management (CIKM '11)*, New York: ACM,
     2011.
 
-[^5]: ^^ Vanessa Fox, ‘Google’s New Indexing Structure “Caffeine” Now
+[^5]: Vanessa Fox, ‘Google’s New Indexing Structure “Caffeine” Now
     Live’, Search Engine Land weblog, 8 June 2010,
-    http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891
-    .
+    http://searchengineland.com/googles-new-indexing-infrastructure-caffeine-now-live-43891.
 
-[^6]: ^^Andrei Broder, 'A Taxonomy of Web Search', ACM Sigir forum 36.2
+[^6]: Andrei Broder, 'A Taxonomy of Web Search', *ACM Sigir Forum* 36.2
     (2002): 3-10.
 
-[^7]: ^^ Eric Schmidt, ‘Testimony of Eric Schmidt, Executive Chairman,
+[^7]: Eric Schmidt, ‘Testimony of Eric Schmidt, Executive Chairman,
     Google Inc. before the Senate Committee on Judiciary Subcommittee on
     the Antitrust, Competition Policy and Consumer Rights’, retrieved
     from Search Engine Land weblog, 21 September 2001,
-    http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf
-    .
+    http://searchengineland.com/figz/wp-content/seloads/2011/09/Eric-Schmidt-Testimony.pdf.
 
-[^8]: ^^Amanda Spink, Bernard J. Jansen, Dietmar Wolfram, and Tefko
-    Saracevic, ‘From E-Sex to E-Commerce: Web Search Changes’, IEEE
-    Computer, 35.3 (2002): 107-109.
+[^8]: Amanda Spink, Bernard J. Jansen, Dietmar Wolfram, and Tefko
+    Saracevic, ‘From E-Sex to E-Commerce: Web Search Changes’, *IEEE
+    Computer* 35.3 (2002): 107-109.
 
-[^9]: ^^ Google, ‘Verbatim Tool’,
-    http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130
-    .
+[^9]: Google, ‘Verbatim Tool’,
+    http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130.
 
-[^10]: ^^Schmidt, ‘Testimony of Eric Schmidt’.
+[^10]: Schmidt, ‘Testimony of Eric Schmidt’.
 
-[^11]: ^^Vanessa Fox, ‘Is Google’s Synonym Matching Increasing? How
+[^11]: Vanessa Fox, ‘Is Google’s Synonym Matching Increasing? How
     Searchers & Brands Can Be Both Helped and Hurt By Evolving
     Understanding Of Intent’, Search Engine Land weblog, 27 August 2012,
     http://searchengineland.com/is-googles-synonym-matching-increasing-how-searchers-and-brands-can-be-both-helped-and-hurt-131504.
 
-[^12]: ^^Barry Schwartz, ‘Google Removes the + Search Command’, Search
+[^12]: Barry Schwartz, ‘Google Removes the + Search Command’, Search
     Engine Land weblog, 24 October 2011,
     http://searchengineland.com/google-sunsets-search-operator-98189.
 
-[^13]: ^^Google, ‘Search for Exact Words or Phrases’,
+[^13]: Google, ‘Search for Exact Words or Phrases’,
     http://support.google.com/websearch/bin/answer.py?hl=en&p=g\_verb&answer=1734130.
 
-[^14]: ^^ For example, at one point the help text of the Google Basic
+[^14]: For example, at one point the help text of the Google Basic
     Search page was amended to read: 'A particular word might not appear
     on a page in your results if there is sufficient other evidence that
     the page is relevant. ' This change was cited by respondents in help
@@ -582,21 +569,18 @@ Notes
     http://productforums.google.com/forum/\#!topic/websearch/x3Pt5XB29Pc
     .
 
-[^15]: ^^Microsoft Bing, ‘Phrase’,
+[^15]: Microsoft Bing, ‘Phrase’,
     http://msdn.microsoft.com/en-us/library/ff795609.aspx.
 
-[^16]: ^^EBSCO, ‘Advanced Search Guided-Style Find Fields – Help Sheet’,
+[^16]: EBSCO, ‘Advanced Search Guided-Style Find Fields – Help Sheet’,
     http://support.epnet.com/knowledge\_base/detail.php?id=3821 and
     EBSCO, ‘Searching with Boolean Operators – Help Sheet’,
     http://support.ebsco.com/knowledge\_base/detail.php?id=3883.
 
-[^17]: ^^EBSCO, ‘Searching with Boolean Operators – Help Sheet’,
-    http://support.ebsco.com/knowledge\_base/detail.php?id=3883.
-
-[^18]: ^^This term emerged through discussions with D. Abilock and others
+[^17]: This term emerged through discussions with D. Abilock and others
     on the ALA’s Information Literacy listserv.
 
-[^19]: ^^Susan T. Fiske, ‘Social Cognition’, in Abraham Tesser (ed.)
+[^18]: Susan T. Fiske, ‘Social Cognition’, in Abraham Tesser (ed.)
     *Advanced Social Psychology*, New York: McGraw-Hill, 1995, p. 154.
 
 

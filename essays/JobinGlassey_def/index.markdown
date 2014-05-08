@@ -1,7 +1,6 @@
-‘I Am Not A Web Search Result! I Am A Free Word’: The Categorization and
-Commodification of ‘Switzerland’ by Google
+##‘I Am Not A Web Search Result! I Am A Free Word’: The Categorization and Commodification of ‘Switzerland’ by Google
 
-Anna Jobin and Olivier Glassey
+##Anna Jobin and Olivier Glassey
 
 Imagine a world in which all your questions meet calculated answers
 defined and achieved by an opaque process. A place where your various
@@ -47,7 +46,8 @@ of a new world where he has been abducted, a tidy seaside holiday
 village apparently controlled by a secret organization, the goal of
 which is to extract the information of intelligence agents.
 
-[IMG00] [Caption: Googling The Prisoner]
+[IMG00] 
+("Fig. 1. Googling *The Prisoner*.")
 
 Like many successful science fiction stories, this work has become, over
 time, a generic metaphor used to deconstruct different forms of
@@ -63,14 +63,14 @@ regard to accessing content through this service. We begin not from a
 small village but from a word, in order to understand how it is
 processed by passing through the ‘mills’ of Google.
 
-Why Words Matter for Google
+###Why Words Matter for Google
 
 Google’s search algorithms determine the relevance of websites for
 particular search terms. More specifically, they determine which search
-results (links, pictures, videos etc.) seem to be most relevant for
+results (links, pictures, videos, etc.) seem to be most relevant for
 particular search terms for a particular user.[^3] And
-while other attributes, such as technical specificities of a website or
-geographical location, are taken into account, Google depends heavily on
+while other attributes such as technical specificities of a website or
+geographical location are taken into account, Google depends heavily on
 words because they are the base of any query.[^4] The
 query terms trigger search results, which are links to webpages that
 have been evaluated according to keywords as well as to the words in the
@@ -90,11 +90,11 @@ meta-text, etc. Nothing in this world, supposedly, escapes the
 possibility of being represented with words. The underlying paradigm of
 the way Google works is a ‘semantic determinism’: the vision of a world
 where everything that exists can and will be expressed through the
-symbolic form of words…and then be indexed by Google.
+symbolic form of words… and then be indexed by Google.
 
 But Google does not only depend on words for the constitution of its
 index. Words are also a *commodity* the company earns money with,
-because Google has *commodified* words by offering advertisers the
+because Google has commodified words by offering advertisers the
 opportunity to bid on certain search terms with which they want their
 ads associated.[^6] Indeed, the entire company, Google
 Inc., owes almost its entire revenue – tens of billions of dollars each
@@ -103,18 +103,18 @@ AdWords that advertisers are presented with a price-list for search
 terms they could potentially associate their ad with.
 
 The very same search terms that trigger previously indexed web search
-results (websites, links, pictures, videos etc.) *also* trigger ads that
+results (websites, links, pictures, videos, etc.) *also* trigger ads that
 are displayed at the same time. These ads have been esteemed ‘relevant’
 with regard to the search terms by advertisers who have bid on these
 words, as well as by Google, which evaluates relevance within the
 *Quality Score* attributed algorithmically to each
-ad.[^8] ^^The process of commodification of words is
+ad.[^8] The process of commodification of words is
 thus not only the transformation of words into monetary value; it is
 also the (re-)production of representations by linking words and
 meaning. And, words have the highest value for Google when their meaning
 can unambiguously be determined and commodified.
 
-What is 'Switzerland'?
+###What is 'Switzerland'?
 
 We have decided to explore how ‘meaning’ is attributed to a word by
 undertaking a case study of the (in-)visibility of the categorization of
@@ -130,7 +130,7 @@ disambiguation page already lists about a dozen possibilities to begin
 with. Then, consider how a particular meaning of Switzerland may or may
 not be equivalently expressed by e.g. *Schweiz* (in German) or *Suisse*
 (in French). Finally, think of all the different meanings Switzerland
-can have for individual people...
+can have for individual people.
 
 If one types 'Switzerland' into Google’s search query field, there is no
 disambiguation – only web search results and ads. (Plus search options,
@@ -147,7 +147,7 @@ symptom of a complex dispositive based on linking words and their
 meaning: a symptom of a semantically determined lifeworld imposed on us,
 without transparency, on various levels.
 
-**'Switzerland'** **in Switzerland**
+###'Switzerland' in Switzerland
 
 What happens if you search for the word 'Switzerland' in Switzerland?
 Well, it depends. Switzerland is a polyglot country. There are four
@@ -166,8 +166,9 @@ language. Let’s first search for 'Switzerland' on Google Switzerland,
 the English version of google.ch, because there are many plausible
 scenarios where someone’s language settings are set to English.
 
-[IMG02] [Caption: Search results for 'Switzerland' on Google Switzerland
-(i.e. google.ch in English)]
+[IMG02] 
+("Fig. 2. Search results for 'Switzerland' on Google Switzerland
+(i.e. google.ch in English).")
 
 Further, let’s see what happens when the language settings were set to
 German, French, Italian, or Romansh, and search again for 'Switzerland'
@@ -180,7 +181,7 @@ According to Google’s web search results, the word Switzerland is most
 closely related to tourism (MySwitzerland, Lonely Planet), a
 geographical entity (map), and a Wikipedia entry. The google.ch in
 French and German puts links to MySwitzerland on top, whereas in other
-languages Wikipedia is first. And you may have noted that the SERP of
+languages Wikipedia is first. The SERP of
 Google Switzerland features ‘News for Switzerland’, a different set of
 results than the general ‘web results’ (including all results from any
 country, any time, as the settings to the left indicate). ‘News for
@@ -209,8 +210,7 @@ Google Schweiz if they did not privilege German language results?
 
 There are at least two problems with this reasoning:
 
-​1. It is not true!
-
+*​1. It is not true!*
 The assumption that language settings always state individual language
 preference is simply wrong. In Switzerland, a small polyglot country
 with four co-existing official languages, plus English being the lingua
@@ -228,8 +228,7 @@ information when googling Switzerland depending on which computer she is
 using? Neither geographical location nor language settings can
 unambiguously predict a user’s actual language preference.
 
-​2. It is patronizing and misleading! 
-
+*​2. It is patronizing and misleading!*
 Have you noticed the settings to the left of the SERPs? Whatever
 language setting is enabled, the search settings state that the results
 come from the ‘web’, without limitation. Furthermore, it is mentioned
@@ -249,7 +248,7 @@ German google.ch is striking. Again, to the left of the results Google
 suggests that these results have not yet been filtered based on language
 nor on country of origin.[^14]
 
-'Switzerland' in Switzerland in Swiss Languages
+###'Switzerland' in Switzerland in Swiss Languages
 
 Up to this point, we have been searching for a single word:
 'Switzerland'. Already, search results for the word's English expression
@@ -272,13 +271,14 @@ Svizzera displays news only from Italian (!) media. Yet another very
 different world is the one of Google Svizra: most of the results are
 websites of national media stations.
 
-[IMG14] [Caption: Searching for 'Svizra' on Google Svizra (i.e.
-google.ch in Romansh)]
+[IMG14] 
+("Fig. 3. Searching for 'Svizra' on Google Svizra (i.e.
+google.ch in Romansh).")
 
 Maybe we should not be surprised to get different results. Ethan
 Zuckerman writes:
 
-When we look for information through most search engines, the language
+>When we look for information through most search engines, the language
 we use to build a query limits the results we get. Search Google in the
 United States for “apple” and you won’t get the same results as you
 would get by searching for the Spanish equivalent, “*manzana*,” on
@@ -296,19 +296,20 @@ without privileging one over the others – is it acceptable that citizens
 of the *same* country get different information depending on the
 language they use?
 
-What Is in Switzerland Stays in Switzerland
+###What Is in Switzerland Stays in Switzerland
 
 ‘So what?’ you might say. If we are looking for different pieces of
 information than we are presented with, all we have to do is search
-again, search differently...But in practice, our next search will most
+again, search differently… But in practice, our next search will most
 probably not be independent of our first query, even without taking into
 account filter bubble issues. If our keywords do not trigger the results
 we expect, we will adjust our search by modifying or adding a keyword.
 We might not even have to type; Google’s ‘Related Searches’ are just a
 click away.
 
-[IMG15] [Caption: Related searches to 'Switzerland' on Google
-Switzerland]
+[IMG15] 
+("Fig. 4. Related searches to 'Switzerland' on Google
+Switzerland.")
 
 Have you ever misspelled a word in the search query field? Google’s
 algorithms will immediately ask ‘Did you mean…?’ and suggest the
@@ -319,9 +320,10 @@ these algorithms mediate semantically between what we *mean* and which
 ‘linguistic prosthesis’, potentially impacting the written expression of
 our thoughts.[^16]
 
-[IMG16] [Caption: An excerpt of autocompletion retrievals why typing
-'Switzerland' (right to the coma are Google’s autosuggestions for the
-expression to the left]
+[IMG16] 
+("Fig. 5. An excerpt of autocompletion retrievals why typing
+'Switzerland' (to the right of the comma are Google’s autosuggestions for the
+expression on the left).")
 
 Just as Rover, the big white balloon, prevents the Prisoner from leaving
 the village, algorithms may prevent a user’s potential search queries
@@ -331,7 +333,7 @@ impose their own invisible hermeneutics by interpreting words, reframing
 queries, and shaping entire semantic fields according to their own
 rules-based associations of words and their meaning.
 
-Behind the Scenes: How Words Are Grouped and Sold
+###Behind the Scenes: How Words Are Grouped and Sold
 
 Remember how a Google search triggers not only search results but also
 ads? On Google AdWords, advertisers can consult Google’s ranking of
@@ -387,7 +389,7 @@ preference, constantly confronted with supposedly relevant meanings
 established through algorithmic procedures. No disambiguation, no
 freedom, and no accountability, only conformity.
 
-The ‘Word Selling’ Business Becomes a Trade of ‘Meaning’
+###The ‘Word Selling’ Business Becomes a Trade of ‘Meaning’
 
 *The Prisoner* illustrates with astonishing accuracy our relationship
 with Google by raising crucial questions: What processes are shaping our
@@ -424,7 +426,7 @@ mirror the collective actions of its users, sets an asymmetric power
 relationship. This discourse constructed and maintained through
 practices operates like a mega-machine:
 
-The perception of the system as providing the limits to action (and
+>The perception of the system as providing the limits to action (and
 possibility) rather than an actual (locatable) ruler, helps authority
 defuse most of the resistance from democratic technics. This is not to
 argue there are not individuals or groups with power in society but,
@@ -475,16 +477,16 @@ the (re-)production of meaning is not subordinated to economic
 interests. At this point it’s important to remember how the search
 engine operates between us and our words.
 
-NB: All data form Google (i.e. screenshots of SERPs, autocompletion,
+*NB: All data from Google (i.e. screenshots of SERPs, autocompletion,
 Keyword Planner data) were retrieved on 11 September 2013, between
-11.30am and 2pm, from Lausanne, Switzerland.
+11.30am and 2pm, from Lausanne, Switzerland.*
 
-References
+###References
 
 Barocas, Solon, Sophie Hood, and Malte Ziewitz. ‘Governing Algorithms: A
 Provocation Piece’, *SSRN Scholarly Paper*, Rochester, NY: Social
 Science Research Network (2013), http://ssrn.com/abstract=2245322 or
-http://dx.doi.org/10.2139/ssrn.2245322
+http://dx.doi.org/10.2139/ssrn.2245322.
 
 Cain Miller, Claire. ‘Google Is Exploring an Alternative to Cookies for
 Ad Tracking’, *The New York Times Bits Blog*, 19 September 2013,
@@ -499,7 +501,7 @@ Fuchs, Christian. ‘A Contribution to the Critique of the Political
 Economy of Google’, *Fast Capitalism* 8.1 (October 2011),
 http://www.uta.edu/huma/agger/fastcapitalism/8\_1/fuchs8\_1.html.
 
-Google.com, Check and Understand Quality Score - AdWords Help,
+Google.com. Check and Understand Quality Score - AdWords Help,
 https://support.google.com/adwords/answer/2454010?hl=en.
 
 Grimmelmann, James. ‘The Google Dilemma’, *New York Law School Law
@@ -509,12 +511,12 @@ Jobin, Anna and Frederic Kaplan. ‘Are Google’s Linguistic Prosthesis
 Biased Towards Commercially More Interesting Expressions? A Preliminary
 Study on the Linguistic Effects of Autocompletion Algorithms’, *Digital
 Humanities 2013 Conference Abstracts*, Lincoln, NE: Center for Digital
-Research in the Humanities, 2013, p. 245–248.
+Research in the Humanities, 2013, p. 245-248.
 
 Lee, Micky. *Free Information? The Case Against Google,* Champaign:
 Common Ground Publishing, 2010.
 
-Lewandowski, Dirk (ed). *Web Search Engine Research,* Bingley: Emerald
+Lewandowski, Dirk (ed.). *Web Search Engine Research*, Bingley: Emerald
 Group Publishing Ltd., 2012.
 
 Manovich, Lev. *Software Takes Command: Extending the Language of New
@@ -523,7 +525,7 @@ Media,* New York; London: Bloomsbury, 2013.
 May, Christopher. ‘The Information Society as Mega-Machine’,
 *Information, Communication & Society* 3.2 (2000): 241-265.
 
-Pariser, Eli. *The Filter Bubble. What the Internet Is Hiding from You,*
+Pariser, Eli. *The Filter Bubble: What the Internet Is Hiding from You,*
 London: Penguin Books Ltd., 2011.
 
 Röhle, Theo. *Der Google-Komplex: Über Macht Im Zeitalter Des
@@ -532,7 +534,7 @@ Internets,* Kultur- Und Medientheorie, Bielefeld: Transcript, 2010.
 Sérisier, Pierre. *Le prisonnier: sommes-nous tous des numéros?* Paris:
 PUF, 2013.
 
-Vaidhyanathan, Siva. *The Googlization of Everything: (and Why We Should
+Vaidhyanathan, Siva. *The Googlization of Everything (And Why We Should
 Worry)*, Berkeley: University of California Press, 2011.
 
 Viltar, Yves. ‘L’étrange carrière du concept foucaldien d’épistémè en
@@ -545,10 +547,9 @@ trans. Joachim Lompscher and Georg Rückriem, Weinheim; Basel: Beltz,
 Zuckerman, Ethan. *Rewire: Digital Cosmopolitans in the Age of
 Connection*, New York: W.W. Norton & Company, 2013.
 
-Notes
-=====
+###Notes
 
-[^1]: Siva Vaidhyanathan, *The Googlization of Everything: (and Why We
+[^1]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
     Should Worry),* Berkeley: University of California Press, 2011.
 
 [^2]: Pierre Sérisier, *Le prisonnier: sommes-nous tous des
@@ -559,7 +560,7 @@ Notes
     http://works.bepress.com/james\_grimmelmann/19. Or Martin Feuz,
     Matthew Fuller, and Felix Stalder, ‘Personal Web Searching in the
     Age of Semantic Capitalism: Diagnosing the Mechanisms of
-    Personalisation’ *First Monday*16.2 (July, 2011),
+    Personalisation’, *First Monday* 16.2 (July, 2011),
     http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3344/2766.
 
 [^4]: Admittedly with the exception of image search based on an existing
@@ -569,7 +570,7 @@ Notes
     in Dirk Lewandowski (ed.) *Web Search Engine Research*, Bingley:
     Emerald Group Publishing, 2012, p. 4.
 
-[^6]: Cf. Micky Lee, *Free Information? The Case Against Google,*
+[^6]: Cf. Micky Lee, *Free Information? The Case Against Google*,
     Champaign: Common Ground Publishing, 2010. And Theo Röhle. *Der
     Google-Komplex: Über Macht Im Zeitalter Des Internets*, Bielefeld:
     Transcript, 2010.
@@ -578,7 +579,7 @@ Notes
     Economy of Google’, *Fast Capitalism*8.1 (October, 2011),
     http://www.uta.edu/huma/agger/fastcapitalism/8\_1/fuchs8\_1.html.
 
-[^8]: Check and Understand Quality Score - AdWords Help, Google,
+[^8]: Check and Understand Quality Score — AdWords Help, Google,
     https://support.google.com/adwords/answer/2454010?hl=en.
 
 [^9]: Lev S. Vygotskij, *Denken und Sprechen: psychologische
@@ -599,9 +600,9 @@ Notes
 
 [^13]: Even distinct regional defaults would provide no solution because
     many Swiss IP addresses are generated dynamically and thus indicate
-    the internet provider's, not the location of a Google user.
+    the internet provider's, not the location of a user.
 
-[^14]: See the screenshot on networkcultures.org/publications for a
+[^14]: See the screenshots on networkcultures.org/publications for a
     side-by-side comparison.
 
 [^15]: Ethan Zuckerman, *Rewire: Digital Cosmopolitans in the Age of
@@ -626,7 +627,7 @@ Notes
     Scholarly Paper , Rochester, NY: Social Science Research Network
     (2013), http://ssrn.com/abstract=2245322 or
     http://dx.doi.org/10.2139/ssrn.2245322 ) that the study of software
-    and, more fundamentally, algorithms deserve our utmost attention.
+    and, more fundamentally, algorithms deserves our utmost attention.
 
 [^19]: Christopher May, ‘The Information Society as Mega-Machine’,
     *Information, Communication & Society* 3 (2000): 251.

@@ -1,7 +1,6 @@
-Exploratory Search and Extended Cognition in Health Information
-Interaction
+##Exploratory Search and Extended Cognition in Health Information Interaction
 
-Martin Feuz
+##Martin Feuz
 
 While researching expert Tetris players, cognitive scientists David
 Kirsh and Paul Maglio made the following interesting observation: these
@@ -15,7 +14,7 @@ actions in the world than by performing computational actions in the
 head alone.’[^1]
 
 What does epistemic action have to do with search interaction, you may
-ask? Actually, a lot! Search for health information is conducted in high
+ask? Actually, a lot! Search for information about health, for example, is conducted in high
 volumes and affects people’s decision-making processes, so we should
 take it seriously. Health search interactions are of an exploratory
 nature and different in kind from other searches. Current black-boxed
@@ -26,7 +25,7 @@ interactivity and cognitive processes from an information processing
 model of mind towards understanding cognition as extending into and
 performing through the artifactual and social environment.
 
-The Context: Health Search and Search Engines
+###The Context: Health Search and Search Engines
 
 According to Pew Research from June 2009, 57 percent of adults turn to
 the internet as a source of health information; for 60 percent,
@@ -75,7 +74,7 @@ often than not, it was a strenuous effort to find useful, relevant
 search results.
 
 While the front end of most search engines has not seemed to change much
-in recent years[^4], the back end has changed
+in recent years,[^4] the back end has changed
 substantially. Search results for a given search query are nowadays
 automatically filtered by a number of variables that remain hidden from
 immediate user interaction. The goal of this filtering is to further
@@ -87,7 +86,7 @@ the user is looking for a restaurant within the city she currently
 accesses the internet from. This geographic sensitivity may obviously be
 useful in some cases but largely depends on context. However, a more
 substantial and unidentifiable change to the ranking mechanism began
-some time ago when Google, among others, began personalizing users´
+some time ago when Google, among others, began personalizing users'
 search results, promising to deliver more relevant results to the user
 whose query is now contextualized by her search history and other data
 previously compiled into a personal profile. In order to produce this
@@ -98,7 +97,7 @@ comprehensive, detailed, or up-to-date. Google for example, compiles
 personal profiles in three dimensions: the knowledge person (what an
 individual is interested in, based on search and click-stream
 histories), the social person (whom an individual is connected to, via
-e-mail, social networks, and other communication tools), and the
+email, social networks, and other communication tools), and the
 embodied person (where an individual is located in physical space and
 the states of the body).[^5] Together, these three
 profiles promise to provide a detailed, comprehensive, up-to-date
@@ -141,14 +140,13 @@ intention to move beyond already familiar knowledge and explore novel
 terrain. Thus, the analysis and argument I develop will focus on this
 type of search interaction.
 
-Exploratory Search
+###Exploratory Search
 
 Recently researchers have developed and characterized the notion of
 informational search as ‘exploratory search’,[^12]
 which is the term I will use from now on.
 
-\
-Exploratory search can be used to describe an information-seeking
+>Exploratory search can be used to describe an information-seeking
 problem context that is open-ended, persistent, and multi-faceted; and
 to describe information-seeking processes that are opportunistic,
 iterative, and multi-tactical. In the first sense, exploratory search is
@@ -171,9 +169,9 @@ only evolve and become clearer through a process of learning about a
 specific knowledge domain, its concepts, and actors within it. Given
 these characteristics, the exploratory search process typically develops
 over the course of multiple sessions, which may last days, weeks, or
-month.
+months.
 
-The Interface and Models of Interaction
+###The Interface and Models of Interaction
 
 Many search engine interfaces are typically built on a ‘commonly
 accepted’ set of action grammars and handles suggested by the Human
@@ -198,8 +196,7 @@ earlier. The computation-intensive processes for approaching
 comprehensiveness and accuracy require Google and other popular
 universal search engine providers to invest massively in hardware and
 human expertise. This appears to be an increasingly high entry barrier
-for potential competitors entering the global search engine sector (see
-Dirk Lewandowski´s text in this reader). Danny Hillis, a well-known
+for potential competitors entering the global search engine sector. Danny Hillis, a well-known
 supercomputing pioneer and founder of the Long Now Foundation, has
 argued in *The New York Times* that ‘Google has constructed the biggest
 computer in the world, and it’s a hidden asset’.[^15]
@@ -221,9 +218,8 @@ including iterative aspects of the process, including learning and
 shifting focus and goals.
 
 [IMG1]
-
-Fig. 1 – Berrypicking Model (Bates). Source: Peter Morville,
-http://www.flickr.com/photos/morville/2314377945/sizes/o/in/photostream/.
+("Fig. 1. Berrypicking Model (Bates). Source: Peter Morville,
+http://www.flickr.com/photos/morville/2314377945/sizes/o/in/photostream/.")
 
 While the model itself seems a bit formal, Bates more recently clarified
 her perspective by stating: ‘In my view, our understanding of
@@ -235,7 +231,7 @@ arguments about why models with a more embodied understanding and style
 of interactivity are particularly desirable in the realms of health
 search interaction will be developed in the next section.
 
-Methods and Issues of Evidence-Based Medicine
+###Methods and Issues of Evidence-Based Medicine
 
 In order to appreciate why a lack of supporting exploratory types of
 search interaction is particularly problematic when searching for health
@@ -252,7 +248,7 @@ adoption of EBM-methods, such as randomized controlled trials in
 mainstream medical research.[^19] Greenhalgh and
 Donald define Evidence-Based Medicine as follows:
 
-The use of mathematical estimates of the risk of benefit and harm,
+>The use of mathematical estimates of the risk of benefit and harm,
 derived from high-quality research on population samples, to inform
 clinical decision-making in the diagnosis, investigation or management
 of individual patients.[^20]
@@ -302,7 +298,7 @@ interaction would, for example, support the identification of central
 and peripheral actors in a knowledge domain and thus provide
 multifarious means of assessing contextual relevancy.
 
-Cognitive Conceptions of Human Decision-Making
+###Cognitive Conceptions of Human Decision-Making
 
 Having briefly reflected on the methods and issues underlying
 contemporary evidence-based medicine, I posit that a more open-ended and
@@ -312,8 +308,7 @@ kinds of lives that are deemed valuable and desirable to
 live,[^27] and on the other hand for allowing more
 engaged patient participation. Decision-making, and the ways in which it
 can be supported, thus figures as a core element within interactivity.
-We can turn to shared decision-making (SDM)
-processes[^28] that aim to support exploratory
+We can turn to shared decision-making processes[^28] that aim to support exploratory
 interaction and decision-making. This approach will also allow us to
 illustrate the cognitive assumptions underlying the design of decision
 support provisioning, which also informs much contemporary human
@@ -350,8 +345,8 @@ how administrators decide so much as a description of how good
 administrators decide’.[^29] Coupled with such
 normative formalisms are his conceptions of rationality, which in this
 context he sees as means-ends chains ‘concerned with the selection of
-preferred behaviour alternatives in terms of some system of values
-whereby the consequences of behaviour can be
+preferred behavior alternatives in terms of some system of values
+whereby the consequences of behavior can be
 evaluated’.[^30] He proposes the concept of bounded
 rationality: instead of maximizing strategies in light of pre-given sets
 of choices, human individual decision-makers follow satisficing
@@ -399,7 +394,7 @@ experimentation. Furthermore, typically the brain is conceptualized as a
 machine-like device that is the sole and sufficient locus of human
 cognition.[^34]
 
-Rethinking Cognition in Exploratory Healthcare Information Interaction
+###Rethinking Cognition in Exploratory Healthcare Information Interaction
 
 Crucially, and in contrast to classic cognitive theories discussed
 above, from the perspective of the Extended Mind Thesis (EMT) cognition
@@ -450,7 +445,7 @@ that a traditional model cannot.’[^38]
 Similar types of epistemic action can easily be imagined as useful
 interactions in the context of exploratory search – for example, the
 ability to explore the sources of authority a given search result entry
-enjoys, or its dominance as a search result on a timeline.^4^ Such
+enjoys, or its dominance as a search result on a timeline. Such
 epistemic actions would provide multifarious means to make sense of
 search results and assess their contextual relevancy, or, as Venturini
 puts it, to gain a second-degree objectivity.[^39]
@@ -498,9 +493,9 @@ these areas with EMT in mind reopens problem- and design-spaces and
 raises interesting questions about the relationship of action to
 cognition in these specific areas, along with how we might approach the
 challenge to redesign interfaces that match the potential for the web’s
-complexity.[^44] \
+complexity.[^44]
 
-References
+###References
 
 Bates, Marcia J. ‘Toward an Integrated Model of Information Seeking and
 Searching’, *The New Review of Information Behaviour Research* 3 (2002):
@@ -510,7 +505,7 @@ Broder, Andrei. ‘A Taxonomy of Web Search’, *ACM SIGIR Forum* 36.2
 (2002): 3-10.
 
 Castiglione, Chris. 'Matthew Fuller: Search Engine Alternatives',
-Institute of Network Cultures blog, 14 November 2009,
+Institute of Network Cultures, 14 November 2009,
 http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/.
 
 Clark, Andy. *Supersizing the Mind: Embodiment, Action, and Cognitive
@@ -520,7 +515,7 @@ Feuz, Martin, Matthew Fuller and Felix Stalder. ‘Personal Web Searching
 in the Age of Semantic Capitalism: Diagnosing the Mechanisms of
 Personalisation’, *First Monday* 16.2 (2011).
 
-Fox, Susannah and Sydney Jones. The Social Life of Health Information,
+Fox, Susannah and Sydney Jones. *The Social Life of Health Information*,
 Pew Research Center, 2009.
 
 Freedman, David H. ‘Lies, Damned Lies, and Medical Science’, *The
@@ -552,7 +547,7 @@ Toward a New Foundation for Human-Computer Interaction Research’, *ACM
 Transactions on Computer-Human Interaction*7.2 (2000): 174-196.
 
 Introna, Lucas and Helen Nissenbaum. ‘Shaping the Web: Why the Politics
-of Search Engines Matters’, *The Information Society*16.3 (2000):
+of Search Engines Matters’, *The Information Society* 16.3 (2000):
 169-180.
 
 Ioannidis, John P. ‘Contradicted and Initially Stronger Effects in
@@ -570,7 +565,7 @@ You Find’, *International Journal of Human Computer Interaction* 23.3
 (2007): 205-237.
 
 Markoff, John and Saul Hansell. 'Hiding in Plain Sight, Google Seeks
-More Power', *New York Times,* 14 June 2006,
+More Power', *New York Times*, 14 June 2006,
 http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&\_r=1.
 
 McPherson, Klim, John E. Wennberg, Ole B. Hovind, and Peter Clifford.
@@ -578,7 +573,7 @@ McPherson, Klim, John E. Wennberg, Ole B. Hovind, and Peter Clifford.
 International Comparison of New England, England, and Norway’, *The New
 England journal of medicine* 307.21 (1982): 1310-4.
 
-Noë, Alva.*Out of Our Heads*, New York: Farrar, Straus and Giroux, 2009.
+Noë, Alva. *Out of Our Heads*, New York: Farrar, Straus and Giroux, 2009.
 
 Pan, Bing, Helen Hembrooke, Thorsten Joachims, Lori Lorigo, Gery Gay,
 Laura Granka. ‘In Google We Trust: Users’ Decisions on Rank, Position,
@@ -590,7 +585,7 @@ London: Penguin UK, 2011.
 
 Pratt, Craig M. and Lemuel A. Moye. ‘The Cardiac Arrhythmia Suppression
 Trial: Background, Interim Results and Implications’, *The American
-journal of cardiology*, 65.4 (1990): 20-29,
+Journal of cCrdiology*, 65.4 (1990): 20-29,
 http://circ.ahajournals.org/content/91/1/245.short.
 
 Rogers, Richard. *Digital Methods*, Cambridge: MIT Press, 2013.
@@ -607,8 +602,8 @@ Sunstein, Cass. *Echo Chambers: Bush v. Gore, Impeachment, and Beyond*,
 Princeton: Princeton University Press, 2001.
 
 Stalder, Felix and Christine Mayer. ‘The Second Index. Search Engines,
-Personalization and Surveillance’, in: K. Becker and F. Stalder (eds)
-*Deep Search: The Politics of Search Beyond Google,* Vienna:
+Personalization and Surveillance’, in K. Becker and F. Stalder (eds)
+*Deep Search: The Politics of Search Beyond Google*, Innsbruck:
 Studienverlag, 2009.
 
 Studdert, David M., et al. ‘Defensive Medicine Among High-Risk
@@ -619,7 +614,7 @@ Thaler, Richard H. and Cass R. Sunstein. *Nudge: Improving Decisions
 about Health, Wealth, and Happiness*, London: Penguin Books, 2009.
 
 Timmermans, Stefan and Marc Berg. *The Gold Standard: The Challenge of
-Evidence-Based Medicine and Standardization in Health Care,*
+Evidence-Based Medicine and Standardization in Health Care*,
 Philadelphia: Temple University Press, 2003.
 
 Venturini, Tommaso. ‘What Is Second-Degree Objectivity and How Could it
@@ -633,13 +628,12 @@ Retrieval, and Services* 1.1 (2009): 1-98.
 Zickuhr, Kathryn.*Generations 2010*, Pew Research Center, 16 December
 2010.
 
-Notes
-=====
+###Notes
 
 [^1]: David Kirsh and Paul Maglio, ‘On Distinguishing Epistemic from
-    Pragmatic Action’, *Cognitive science* 18 (1994): 513-549.
+    Pragmatic Action’, *Cognitive science* 18 (1994): 513.
 
-[^2]: Susannah Fox, and Sydney Jones, *The Social Life of Health
+[^2]: Susannah Fox and Sydney Jones, *The Social Life of Health
     Information*, Pew Research Center, 11 June 2009.
 
 [^3]: Kathryn Zickuhr,*Generations 2010*, Pew Research Center, 16 December
@@ -648,15 +642,15 @@ Notes
 [^4]: Richard Rogers, *Digital Methods*, Cambridge: MIT Press, 2013.
 
 [^5]: Felix Stalder and Christine Mayer, ‘The Second Index. Search
-    Engines, Personalization and Surveillance’, in: Konrad Becker and
+    Engines, Personalization and Surveillance’, in Konrad Becker and
     Felix Stalder (eds) *Deep Search: The Politics of Search Beyond
-    Google,* Vienna: Studienverlag, 2009.
+    Google*, Innsbruck: Studienverlag, 2009.
 
 [^6]: Lucas Introna and Helen Nissenbaum, ‘Shaping the Web: Why the
     Politics of Search Engines Matters’, *The Information Society*16.3
     (2000): 169-180.
 
-[^7]: Martin Feuz, Matthew Fuller and Felix Stalder ‘Personal Web
+[^7]: Martin Feuz, Matthew Fuller and Felix Stalder, ‘Personal Web
     Searching in the Age of Semantic Capitalism: Diagnosing the
     Mechanisms of Personalisation’, *First Monday* 16.2 (2011).
 
@@ -686,7 +680,7 @@ Notes
     design metaphors suggested by the professional Human Computer
     Interaction domain.
 
-[^15]: John Markoff and Saul Hansell., 'Hiding in Plain Site, Google Seeks
+[^15]: John Markoff and Saul Hansell, 'Hiding in Plain Site, Google Seeks
     More Power', *New York Times*, 14 June 2006,
     http://www.nytimes.com/2006/06/14/technology/14search.html?pagewanted=1&\_r=1.
 
@@ -726,10 +720,10 @@ Notes
 
 [^26]: Craig M. Pratt and Lemuel A. Moye, ‘The Cardiac Arrhythmia
     Suppression Trial: Background, Interim Results and Implications’
-    *The American journal of cardiology*, 65.4 (1990): 20-29,
+    *The American Journal of Cardiology*, 65.4 (1990): 20-29,
     http://circ.ahajournals.org/content/91/1/245.short.
 
-[^27]: Nikolas Rose, *Politics of Life itself*, Woodstock: Princeton
+[^27]: Nikolas Rose, *Politics of Life Itself*, Woodstock: Princeton
     University Press, 2006.
 
 [^28]: Klim McPherson, John E. Wennberg, Ole B. Hovind, and Peter Clifford,
@@ -738,17 +732,17 @@ Notes
     New England Journal of Medicine*, 307.21 (1982): 1310.
 
 [^29]: Herbert A. Simon, *Administrative Behavior*, New York: Free Press,
-    1976.
+    1976, p. 73.
 
-[^30]: Simon, *Administrative Behavior*.
+[^30]: Simon, *Administrative Behavior*, p. 84.
 
-[^31]: Simon, *Administrative Behavior*.
+[^31]: Simon, *Administrative Behavior*, p. 119.
 
 [^32]: Studdert et al., ‘Defensive Medicine Among High-Risk Specialist
     Physicians in a Volatile Malpractice Environment’, *JAMA* 293.21
     (2005): 2609-2617.
 
-[^33]: Simon, *Administrative Behavior*.
+[^33]: Simon, *Administrative Behavior*, p. 120.
 
 [^34]: Robert M. Harnish and Denise D. Cummins, *Minds, Brains, and
     Computers: A Historical Introduction to the Foundations of Cognitive
@@ -761,17 +755,17 @@ Notes
     Pragmatic Action’, *Cognitive science* 18 (1994): 513-549.
 
 [^37]: Kirsh and Maglio, ‘On Distinguishing Epistemic from Pragmatic
-    Action’.
+    Action’: 513.
 
 [^38]: Kirsh and Maglio, ‘On Distinguishing Epistemic from Pragmatic
-    Action’.
+    Action’: 513.
 
 [^39]: Tommaso Venturini, ‘What is Second-Degree Objectivity and How Could
     It Be Represented’,
     http://www.medialab.sciences-po.fr/publications/Venturini-Second\_Degree\_Objectivity\_draft1.pdf.
 
 [^40]: Richard H. Thaler and Cass R. Sunstein, *Nudge: Improving Decisions
-    about Health, Wealth, and Happyiess*, London: Penguin Books, 2009.
+    about Health, Wealth, and Happiness*, London: Penguin Books, 2009.
 
 [^41]: Tim Harford, ‘Why We Do What We Do‘, *Financial Times*, 28 January
     2011.
@@ -782,12 +776,12 @@ Notes
 
 [^43]: James Hollan, Edwin Hutchins, and David Kirsh, ‘Distributed
     Cognition: Toward a New Foundation for Human-Computer Interaction
-    Research’, *ACM Transactions on Computer-Human Interaction*7.2
-    (2000), 174-196.
+    Research’, *ACM Transactions on Computer-Human Interaction* 7.2
+    (2000): 174-196.
 
 [^44]: See Matthew Fuller's presentation at Society of the Query Conference
     2009. Chris Castiglione, 'Matthew Fuller: Search Engine
-    Alternatives', Institute of Network Cultures blog, 14 November 2009,
+    Alternatives', Institute of Network Cultures, 14 November 2009,
     http://networkcultures.org/wpmu/query/2009/11/14/matthew-fuller-search-engine-alternatives/.
 
 
