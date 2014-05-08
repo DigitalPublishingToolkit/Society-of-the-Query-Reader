@@ -49,7 +49,7 @@ mandate content filtering by commercial operators within its borders.
 So, Baidu filters too, but its filtering patterns are much subtler and
 more nuanced than that performed by the Great Firewall.
 
-IMG1
+[IMG1]
 ("Table 1. Distribution of Baidu and Google’s Link Accessibility (2011).")
 
 Second, in terms of search results overlapping and ranking, I found

@@ -34,7 +34,7 @@ the business landscape has led to a swell in litigious claims and a
 growing jurisprudence on search engine liability, much of which relates
 to questions of trademark infringement arising from the use of third
 party trademarks as keywords in the online advertising services offered
-by web search engines. ^^
+by web search engines.
 
 The following discussion will explore the judicial response to such
 claims in Europe, the United States, and Australia, but with a
@@ -56,8 +56,8 @@ Understanding Keyword Advertising
 Keyword advertising enables search providers and their advertisers to
 deliver relevant, tailored, consumer-specific ads to internet users. It
 also allows search engine operators to generate substantial revenue from
-the sale of keyword advertising. For example , in 2012 the global
-internet advertising market was worth U.S. \$100.2 billion, representing
+the sale of keyword advertising. For example, in 2012 the global
+internet advertising market was worth U.S. $100.2 billion, representing
 a year-on-year growth of 17 percent, and a 20 percent share of the total
 global advertising market. [^3] Given its profitability,
 some search engines operate on a pay for placement basis only, where
@@ -79,7 +79,7 @@ Sponsored links on the other hand, are a form of advertising, created by
 advertisers who pay the relevant search provider each time a user clicks
 on it. With respect to the Google search engine, sponsored links are
 displayed separately from organic search results and can appear in a box
-marked ‘Ad’ or ‘Ad/s related to…’ usually above the organic search
+marked ‘Ad’ or ‘Ads related to…’ usually above the organic search
 results. Significantly, the order and ranking of sponsored links and
 whether they will appear at all in response to a user query is
 determined by Google’s AdWords program and not the Google web search
@@ -115,7 +115,7 @@ search results and sponsored links, as well as Google Knowledge Graph.
 
 [IMG1]
 
-Fig. 1: Google Search Engine Response to Keyword Search for LACOSTE
+("Fig. 1. Google Search Engine Response to Keyword Search for LACOSTE")
 
 Returning to sponsored links, advertisers using AdWords are able to
 specify each part of the three-part sponsored link. The advertiser can
@@ -1003,7 +1003,7 @@ Notes
 [^53]: Section 85(3) of the Trade Practices Act 1974 (Cth), now 251 of the
     ACL.
 
-[^54]: **Google Inc v Australian Competition and Consumer Commission [2013]
+[^54]: Google Inc v Australian Competition and Consumer Commission [2013]
     HCA 1 at 75 per French CJ, Crennan and Kiefel JJ.
 
 [^55]: Such as the contextual approach to trademark infringement as
@@ -1015,12 +1015,12 @@ Notes
 [^57]: That is, accept that liability should fall on the ‘cheapest cost
     avoider’, being the party that could have avoided the harm most
     cheaply. On this, see Guido Calabresi, ‘Some Thoughts on Risk
-    Distribution and the Law of Tort’, *Yale Law Journal*70
-    (1961):**499-533 and Guido Calabresi and Jon T. Hirchshoff, ‘Towards
+    Distribution and the Law of Tort’, *Yale Law Journal* 70
+    (1961): 499-533 and Guido Calabresi and Jon T. Hirchshoff, ‘Towards
     a Test for Strict Liability in Torts’, *Yale Law Journal*81 (1972):
     1055-1085. For a discussion of the application of this principle in
     the search engine context, see generally Megan Richardson, ‘Before
-    the High Court’,**587-598.
+    the High Court’, 587-598.
 
 [^58]: Eric Goldman, ‘Deregulating Relevancy in Internet Trademark Law’,
     509.
