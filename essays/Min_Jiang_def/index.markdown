@@ -1,6 +1,6 @@
-Search Control in China
+##Search Control in China##
 
-Min Jiang and Vicențiu Dîngă
+##Min Jiang and Vicențiu Dîngă##
 
 Min Jiang is an Associate Professor of Communication at UNC Charlotte
 and an affiliate researcher at the Center for Global Communication
@@ -10,12 +10,12 @@ November 2013. She participated in the session called ‘Search Across the
 Border’, where she talked about borders on web search in China,
 expanding on her previous research on search results in China.
 
-**Vicențiu Dîngă**: **Firstly, I’d like to talk about your work
+**Vicențiu Dîngă: Firstly, I’d like to talk about your work
 involving the comparative study of Baidu and Google’s search results in
 China. Could you tell me more about this research?**
 
 Min Jiang: The impetus for this research came from my own varied
-experiences with search engines in China, the US and elsewhere. How is
+experiences with search engines in China, the U.S. and elsewhere. How is
 search experienced differently became a question that I wanted to
 explore. Search engines are interesting media to me. They are an
 important interface between the user and available knowledge and
@@ -49,50 +49,8 @@ mandate content filtering by commercial operators within its borders.
 So, Baidu filters too, but its filtering patterns are much subtler and
 more nuanced than that performed by the Great Firewall.
 
- 
-
-Baidu
-
-Google
-
-Total number of links
-
-3160
-
-3160
-
-Links inaccessible from China
-
-171
-
-400
-
-Bad links
-
-125
-
-91
-
-Links inaccessible due to search engine filtering
-
-22 (partial filtering or blockpage by Baidu)
-
-10 (by Google SafeSearch auto-block)
-
-Links inaccessible from China but accessible from the U.S. (blocked by
-GFW)
-
-24
-
-299 (among them, 180 ‘connection reset’)
-
-Links inaccessible due to GFW blocking
-
-24
-
-299
-
-Table 1. Distribution of Baidu and Google’s Link Accessibility (2011).
+IMG1
+("Table 1. Distribution of Baidu and Google’s Link Accessibility (2011).")
 
 Second, in terms of search results overlapping and ranking, I found
 Google and Baidu are actually quite different. Based on the search
@@ -138,7 +96,7 @@ China’s political and market situation may be somewhat unique, search
 bias and unfair business practices can occur in every information
 society and market.
 
-VD: How do these search engines behave throughout China?
+**VD: How do these search engines behave throughout China?**
 
 MJ: Although search results can vary for a variety of reasons, regional
 differences are notable. Search results in Hong Kong, Taiwan, and Macau,
@@ -168,9 +126,9 @@ discusses the different patterns of search results that one gets in
 Chinese-speaking regions including mainland China, Hong Kong and
 Taiwan.[^3]
 
-VD: In your presentation for the Society of the Query conference you
+**VD: In your presentation for the Society of the Query conference you
 stated that ‘the popular depiction of the search engine as a borderless,
-global medium is an illusion’. Can you expand on that?
+global medium is an illusion’. Can you expand on that?**
 
 MJ: Yes. I believe there is a huge gap between what we think search can
 offer versus how we use it in reality. We have this dream, almost a
@@ -231,7 +189,7 @@ general, a variety of factors aside from personal idiosyncrasies –
 linguistic/cultural, political, technological and economic – have come
 to shape our search results to be more local or parochial.
 
-**VD:** **You mentioned that possible alternatives could be offered to
+**VD: You mentioned that possible alternatives could be offered to
 reimagine what search engines could become. What possible alternatives
 do you have in mind?**
 
@@ -285,12 +243,12 @@ Baudrillardian sense. Yet, we can still compare search engines and
 reveal their preferences or prejudices, and in some cases even abuses of
 their surveillance and monopolist power.
 
-VD: What about the Chinese state search engines, how do they perform?
+**VD: What about the Chinese state search engines, how do they perform?**
 
-MJ:****In China, there are three state-run search engines. One of them
+MJ: In China, there are three state-run search engines. One of them
 is well known as the first national Chinese search engine. It’s called
 Jike, which in Chinese means ‘instant’ or ‘immediate’. Some call it
-‘geek’. Its parent company is *People’s Daily* *Online*, which is
+‘geek’. Its parent company is *People’s Daily Online*, which is
 publicly listed on Shanghai Stock Exchange. Another one is Panguso; it’s
 a search engine backed by Xinhua News Agency (a state news agency) and
 China Mobile (also a state-owned enterprise publicly listed on both the
@@ -302,7 +260,7 @@ into financial troubles and has merged with Panguso.
 So diverse parties of interest are at play here and the reasoning behind
 state-sponsored search engines is quite complex and convoluted. I
 explored the phenomenon of ‘national search engines’ in a paper that
-will appear in *Policy & Internet.*First, security was a major concern.
+will appear in *Policy & Internet*. First, security was a major concern.
 All three state-backed search engines were put into play immediately
 after Google left mainland China as a response to Secretary Hilary
 Clinton’s ‘Internet freedom’ speech. It was clear from publicly
@@ -349,10 +307,10 @@ search engine experiments in China. After Jike’s merger with Panguso,
 the future of state search engines remains highly uncertain but is
 undoubtedly subject to both politics and competition.
 
-VD: You mentioned the Great Firewall of China, and I remember reading
+**VD: You mentioned the Great Firewall of China, and I remember reading
 somewhere that it is suspected that regimes such as Cuba, Zimbabwe, or
 Belarus have obtained surveillance technology from China. So it seems
-that China actually exports this kind of approach.
+that China actually exports this kind of approach.**
 
 MJ: That’s right. When we talk about Chinese search engines or the
 Chinese internet in general, we tend to neglect or underestimate China’s
@@ -376,9 +334,9 @@ poorest areas in Africa, South America, and Asia, it is also competing
 against other Western companies in selling filtering technologies to
 authoritarian regimes.
 
-VD: What do we know about the way that users deal with these censorship
+**VD: What do we know about the way that users deal with these censorship
 regimes? Is there research being done on how they try to counteract
-this?
+this?**
 
 MJ: This issue has attracted the attention of a lot of Western countries
 and reporters. Sure, some Chinese users are aware that their search
@@ -401,7 +359,7 @@ circumvention tools on a more regular basis.
 
 **VD: We talked about Google and Baidu, the biggest players in China. I
 recently read that Bing was reportedly censoring results from searches
-conducted in simplified Chinese** [^5] **, so the one
+conducted in simplified Chinese[^5], so the ones
 used in mainland China, but not the ones in traditional Chinese
 characters used in Hong Kong, Taiwan, or Macau.**
 
@@ -414,12 +372,12 @@ regulations. But it would be interesting to learn, for instance, if
 mainland searchers using traditional Chinese for their queries might get
 uncensored results. In many ways, censorship is a language game.
 
-VD: One more thing: what is your opinion on the importance of search
+**VD: One more thing: what is your opinion on the importance of search
 engines? Can Google and other search engines substitute knowledge
 somehow? Or are they more like a tool that shapes and distributes
 knowledge through their rankings and mechanisms? And if these search
 engine mechanisms can be controlled by political authorities and
-interest groups, how does that affect knowledge?
+interest groups, how does that affect knowledge?**
 
 MJ: Many people equate search engines with knowledge, and probably most
 search engines want people to think that way. A lot of us use search
@@ -453,7 +411,7 @@ knowledge, we take comfort in the fantasy that the world’s information
 and knowledge is at our fingertips. The linear progression
 ‘data-information-knowledge-wisdom’, to me, represents our wishful
 thinking rather than a real process of acquiring knowledge that is
-always messier, harder and more serendipitous. This is not the deny the
+always messier, harder and more serendipitous. This is not to deny the
 usefulness of search, but to point out knowledge is much more than
 search filtering and algorithms.
 
@@ -470,7 +428,7 @@ and knowledge productions. Much needs to be done to open dialogues and
 increase access to information and knowledge without losing sight of the
 need to preserve user privacy and integrity.
 
-References
+##References
 
 Cashmore, Pete. ‘Bing Accused of Censoring Simplified Chinese Language
 Searches’, Mashable.com, 21 November 2009,
@@ -478,7 +436,7 @@ http://mashable.com/2009/11/21/bing-chinese-queries/.
 
 Jiang, Min. ‘The Business and Politics of Search Engines: A Comparative
 Study of Baidu’s and Google’s Search Results of Internet Events in
-China’,*New Media & Society*, 22 April 2012,
+China’, *New Media & Society*, 22 April 2012,
 http://nms.sagepub.com/content/early/2013/04/18/1461444813481196.full.
 
 Jiang, Min. ‘Search Concentration, Bias, and Parochialism: A Comparative
@@ -491,17 +449,10 @@ Liao, Han-Teng. ‘“Wikipedias” (or its Copycat) Dominate “Chinese” Sear
 Engine Result Pages (SERPs)’, 6 May 2013,
 http://people.oii.ox.ac.uk/hanteng/2013/05/06/wikipedias-or-its-copycat-dominate-chinese-search-engine-result-pages-serps/.
 
-Pariser, Eli. *The Filter Bubble. What the Internet Is Hiding from You*,
+Pariser, Eli. *The Filter Bubble: What the Internet Is Hiding from You*,
 New York: Penguin, 2011.
 
- 
-
- 
-
- 
-
-Notes
-=====
+##Notes
 
 [^1]: Min Jiang, ‘The Business and Politics of Search Engines: A
     Comparative Study of Baidu’s and Google’s Search Results of Internet
@@ -518,7 +469,7 @@ Notes
     Search Engine Result Pages (SERPs)’, 6 May 2013,
     http://people.oii.ox.ac.uk/hanteng/2013/05/06/wikipedias-or-its-copycat-dominate-chinese-search-engine-result-pages-serps/.
 
-[^4]: Eli Pariser, *The Filter Bubble. What the Internet Is Hiding from
+[^4]: Eli Pariser, *The Filter Bubble: What the Internet Is Hiding from
     You*, New York: Penguin, 2011.
 
 [^5]: Pete Cashmore, ‘Bing Accused of Censoring Simplified Chinese

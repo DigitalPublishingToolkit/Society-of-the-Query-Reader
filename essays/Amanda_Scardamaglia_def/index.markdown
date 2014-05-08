@@ -1,7 +1,6 @@
-Keywords, Trademarks and Search Engine Liability
-================================================
+##Keywords, Trademarks and Search Engine Liability##
 
-Amanda Scardamaglia
+##Amanda Scardamaglia##
 
 In 2012 the Language Council of Sweden added the word ‘ungoogleable’ to
 its annual list of Swedish words that are not in the Swedish dictionary
@@ -25,8 +24,7 @@ for Google of course, with trademark owners equally concerned about any
 use of their trademarks by internet intermediaries and their
 advertisers.
 
-So how did we get here?
------------------------
+###So how did we get here?###
 
 The proliferation of information available on the internet and the
 growth of internet-related businesses has resulted in an exponential

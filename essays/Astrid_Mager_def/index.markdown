@@ -1,6 +1,6 @@
-**Is Small Really Beautiful? Big Search and Its Alternatives**
+##Is Small Really Beautiful? Big Search and Its Alternatives
 
-**Astrid Mager**
+##Astrid Mager
 
 Google is big in many ways. The company offers a myriad of services and
 products ranging from basic keyword search to futuristic glass
@@ -40,7 +40,7 @@ about green search engines? Can peer-to-peer search engines such as YaCy
 be interpreted as communist search engines? Could search be seen as a
 scientific endeavor as Wolfram|Alpha suggests?
 
-***Big Search and Its Algorithmic Ideology***
+###Big Search and Its Algorithmic Ideology
 
 In my previous work,[^3] I argue that algorithms, like
 all other technologies, should not be understood as merely technical,
@@ -132,7 +132,7 @@ experts, is because there are no real alternatives. But is that actually
 the case? What about all the other search projects trying to challenge
 Google and provide an alternative style of search?
 
-***Small Search and Its Ideological Inner Life***
+###Small Search and Its Ideological Inner Life
 
 There are a number of so-called alternative search engines that are not
 as big as Google, Bing, or Yahoo! and that lead their lives at the
@@ -160,7 +160,7 @@ technical level or whether their search results are better than those of
 their bigger relatives can only partly be answered since this would go
 beyond the scope of this article.
 
-****Privacy First****
+####Privacy First
 
 The first search engine in the analysis is DuckDuckGo, because it
     claims to be a privacy-concerned search engine. DuckDuckGo was
@@ -243,7 +243,7 @@ So even if DuckDuckGo provides encrypted search and does not
     still would not be able to exist without their data-collecting
     counterparts.
 
-****Green Search****
+####Green Search
 Another model of ideological search is green search. Green search
     engines offer the possibility to support ecological projects
     financially by using their search services. Ecosia, for instance,
@@ -316,7 +316,7 @@ Their fate hence exemplifies the difficulty that comes with
     steering the green ship through the rough sea of online search after
     all.
 
-****The Commons****
+####The Commons
 
 Aside from search engines with a centralized web index, there are projects that try to provide decentralized search, following the principle of file-sharing networks such as the PirateBay. The most popular proponent of such decentralized search projects is the peer-to-peer network YaCy, created by the German free software enthusiast Michael Christen. While reading through the YaCy website, the major goal and ideological ambition of the search engine jumps out at you right away: ‘We want to achieve freedom of information through a free, distributed web search which is powered by the world's users.’[^33] The image that is displayed in their 'About Us' section clearly shows that the search engine characterizes itself as a true alternative to centralized search engines such as Google or Bing and their capitalist ideology:
 
@@ -379,7 +379,7 @@ The communist manifesto is not on the list of references that
     argumentation YaCy may even be seen as closer to the communist
     spirit than to capitalist ideology.
 
-****Knowledge Engines****
+####Knowledge Engines
 
 Finally, to round off the picture, knowledge engines are worth
     mentioning in terms of alternative search projects. Knowledge
@@ -459,7 +459,7 @@ Taking this seriously would mean that Wolfram|Alpha**holds a
     be entitled to credit for their calculations, as the free software
     activist Richard Stallman argues.[^44]
 
-***Conclusions***
+###Conclusions
 
 When considering alternative search projects in the limelight of
 ideology, we can see that the capitalist spirit is by far not the only
@@ -536,7 +536,7 @@ search engines in the future, this article has shown that there are
 still certain barriers to be conquered on the road towards alternative
 search both in terms of technology and ideology.
 
-***Acknowledgements***
+###Acknowledgements
 
 The analysis of alternative search engines was conducted as part of the
 research project 'GLOCAL SEARCH. Search technology at the intersection
@@ -546,7 +546,7 @@ number 14702). I would like to thank the Society of the Query #2
 conference participants and the editors of this volume for their helpful
 comments and feedback.
 
-**References**
+###References
 
 Allhutter, Doris and Roswitha Hoffmann. ‘Deconstructive Design as an
 Approach for Opening Trading Zones’, in Jordi Vallverdú (ed.) *Thinking
@@ -650,9 +650,9 @@ http://www.telegraph.co.uk/technology/google/4217055/Two-Google-searches-produce
 Thrift, Nigel. *Non-Representational Theory. Space, Politics, Affect*,
 London: Routledge, 2008.
 
-**Notes**
+###Notes
 
-[^1]: ^^For more information on accused collaborations between the NSA and
+[^1]: For more information on accused collaborations between the NSA and
     IT companies leaked by Edward Snowden see, for example: Glenn
     Greenwald and Ewen MacAskill, ‘NSA Prism Program Taps into User Data
     of Apple, Google and Others’, *The Guardian*, 6 June 2013,
@@ -662,7 +662,7 @@ London: Routledge, 2008.
     (ed.) *A Sociology of Monsters: Essays on Power, Technology and
     Domination*, New York and London: Routledge, 1991, pp. 103-131.
 
-[^3]: ^^Astrid Mager, ‘Algorithmic Ideology: How Capitalist Society Shapes
+[^3]: Astrid Mager, ‘Algorithmic Ideology: How Capitalist Society Shapes
     Search**Engines’, *Information, Communication & Society* 15.5
     (2012a): 1-19.
 
@@ -720,7 +720,7 @@ London: Routledge, 2008.
     Element of Choice*, Dordrecht, Heidelberg, London, New York:
     Springer, 2011, pp. 139-171.
 
-[^15]: ^^Walter Peissl, ‘Information Privacy in Europe from a TA
+[^15]: Walter Peissl, ‘Information Privacy in Europe from a TA
     Perspective’, Serge Gutwirth, Yves Poullet and Paul De Hert (eds.)
     *Data Protection in a Profiled World,*Dordrecht, Heidelberg, London,
     New York: Springer, 2010, pp. 247-257.
@@ -755,8 +755,8 @@ London: Routledge, 2008.
 
 [^25]: See, http://www.greenplanetsearch.com.
 
-[^26]: Jutta Haider, ‘ The Environment on Holidays or How a Recycling Bin
-    Informs Us on the Environment ’, Journal of Documentation 67.5
+[^26]: Jutta Haider, ‘The Environment on Holidays or How a Recycling Bin
+    Informs Us on the Environment’, *Journal of Documentation* 67.5
     (2011): 823-839.
 
 [^27]: Noortje Marres, ‘The Costs of Public Involvement: Everyday Devices
