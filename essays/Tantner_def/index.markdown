@@ -1,7 +1,6 @@
-**Before Google: A Pre-History of Search Engines in Analogue Times**
-    [^1]
+##Before Google: A Pre-History of Search Engines in Analogue Times[^1]
 
-**Anton Tantner**
+##Anton Tantner
 
 Googling – that is, searching the internet using the Google search
 engine, which was developed in 1997[^2] – is by now
@@ -65,7 +64,7 @@ in the analogue age. This historical overview should not only provide
 new insights about the past, but should also be useful to those who
 study today’s search engines.
 
-***Disposition and Indexation of Knowledge***
+###Disposition and Indexation of Knowledge
 
 How were books and bodies of knowledge arranged in order to facilitate
 searching for them? We need to distinguish systematic disposition on the
@@ -75,7 +74,7 @@ libraries – and, on the other hand, alphabetical organization, in which
 books are registered according to the name of the author or, in a
 subject catalog, according to keywords assigned by the librarian.
 
-****Systematic Organization: Dewey’s Decimal Classification****
+####Systematic Organization: Dewey’s Decimal Classification
 
 For centuries, the systematic organization of books was pursued as an
 ideal. Already during the 17th century, numbers were used for
@@ -98,7 +97,7 @@ medical science, and serves as an organizing pattern for systematic
 library catalogs, the shelving of books, and the compilation of
 bibliographies.[^9]
 
-****Alphabetical Organization****
+####Alphabetical Organization
 
 According to Peter Burke, alphabetical order was first introduced in the
 ‘Suidas’, a Byzantine encyclopedia from the 11th century, and
@@ -125,8 +124,7 @@ moment, they were replaced by another system of rules, the system of
 alphabetical cataloging that is usually identified by its German acronym
 ‘RAK’.[^12]
 
-****‘Search Engines’ in Books: Registers, Indices, Marginalia, Verse
-    Numbers****
+####‘Search Engines’ in Books: Registers, Indices, Marginalia, Verse Numbers
 
 For the location of contents in a book, too, adequate resources needed
 to be invented. Important tools that help a person gain an overview of a
@@ -154,7 +152,7 @@ texts more user-friendly by allowing non-serial access. This
 user-friendliness was, however, often paid for by a more restrictions to
 individual interpretation.[^15]
 
-****From Bibliometric Citation Indices to Google’s PageRank****
+####From Bibliometric Citation Indices to Google’s PageRank
 
 One way of arranging and rating books that was invented in the 20th
 century is so-called bibliometric, or citation indices. By means of this
@@ -186,7 +184,7 @@ ranking of a website. In the case of Google, this principle is called
 ‘PageRank’ – its name also being a pun, as ‘Page’ is the name of one of
 Google’s founders, Larry Page.[^18]
 
-****Encyclopedias as Repositories of Knowledge****
+####Encyclopedias as Repositories of Knowledge
 
 Another form of knowledge storage and indexing that may be regarded as
 characteristic of early modern times is the major encyclopedia projects,
@@ -206,7 +204,7 @@ was rarely employed elsewhere; some of the *Encyclopédie Anarchiste*'s
 funding came from the famous Spanish anarchist Buenaventura Durutti, who
 had seized the money from bank robberies.[^21]
 
-***Human Information Brokering Institutions***
+###Human Information Brokering Institutions
 
 Werner Faulstich identifies those media that work without necessarily
 using technology as ‘primary media’ or ‘human media’, such as the
@@ -215,7 +213,7 @@ refer to institutions such as contact brokers, agents, or go-betweens,
 as well as domestics and loan lackeys, servants, and concierges, as
 ‘human search engines’.
 
-****Contact Brokers, Servant Agents, Go-Betweens****
+####Contact Brokers, Servant Agents, Go-Betweens
 
 The term *Beziehungsmakler* (contact broker) refers to the concept of a
 broker, a term that today is mostly used in connection with stock
@@ -243,7 +241,7 @@ they were related to the sale of goods. When a foreign tradesman entered
 a city, he was able to turn to such a go-between, who would help him
 find resellers against a commission.[^25]
 
-****Servants and Loan Lackeys*****
+####Servants and Loan Lackeys
 
 Servants, too, may be regarded as search engines. Here, we may
 differentiate between those who worked in one household for a longer
@@ -285,7 +283,7 @@ a loan lackey, who will accompany the guest to his desired destination.
 The loan lackey will also make all provisions so the stranger will be
 supplied with all the articles he asks for.[^29]
 
-****Concierges****
+####Concierges
 
 Another type of ‘human search engine’ in larger towns and cities were
 concierges; in a travel report by Friedrich Nicolai from Vienna in the
@@ -316,7 +314,7 @@ the police in a reciprocal relationship. The police were informed about
 suspect tenants, and the concierge got advance information about
 prospective tenants.[^33]
 
-***Institutions of Information Brokerage***
+###Institutions of Information Brokerage
 
 Archives, libraries, and museums, as well as schools and universities,
 are the classic sites of occidental knowledge and information
@@ -332,7 +330,7 @@ By contrast, those sites and institutions that served to broker everyday
 information have attracted less interest. A selection of these will be
 presented in this article.
 
-****Inns and Coffee Houses****
+####Inns and Coffee Houses
 
 The activities of inns and coffee houses extended far beyond serving
 drinks and offering food. Historians of these public houses report
@@ -358,8 +356,7 @@ Theodor Johann Quistorp asserted that ‘a coffee house was as it were a
 political stock exchange, where the bravest and most spirited heads from
 all cities converged’.[^37]
 
-****Intelligence Offices: the Example of the Paris Bureau d’Adresse,
-    1630-1643****
+####Intelligence Offices: the Example of the Paris Bureau d’Adresse, 1630-1643
 
 Emerging in the 17th century and lasting until the early 19th century,
 so-called intelligence offices were another specific type of information
@@ -420,7 +417,7 @@ Nevertheless, Renaudot’s adversaries only succeeded when his protector,
 Cardinal Richelieu, died. In 1643, Renaudot’s *Bureau d’adresse*had to
 abandon most of its activities.[^40]
 
-****The Universal Register Office, London 1750****
+####The Universal Register Office, London 1750
 
 One successor of the Bureau d’Adresse was the Universal Register Office
 founded by the Fielding brothers in 1750. According to its
@@ -462,7 +459,7 @@ register;[^45] so the Universal Register Office was
 also designed as a government utopia contributing to a surveillance
 society.
 
-****The *Anfrage- und Auskunftscomptoir*, Vienna, 1819****
+####The *Anfrage- und Auskunftscomptoir*, Vienna, 1819
 
 An institution similar to the information offices developed at the
 beginning of the 19th century, namely the offices of inquiry and
@@ -506,7 +503,7 @@ readership.[^47]
 about the future; as is often the case, a new medium triggered utopias
 of omniscience.
 
-****Press Clipping Services****
+####Press Clipping Services
 
 Press clipping services constitute an additional specialized institution
 of information exchange.[^48] The initial problem
@@ -542,7 +539,7 @@ they only mark with a pencil. The cutting is done by a group of boys.
 Then there is another group of girls who sort the clippings into
 pigeonholes.[^51]
 
-***Conclusion***
+###Conclusion
 
 Obviously, this historical overview is far from complete; one could for
 example add the finding aids used for people search, such as address
@@ -577,9 +574,9 @@ offices, and the like are situated in the contested field between
 private utilization and the authorities’ claims, which are re-negotiated
 with the appearance of each new search aid.
 
-**References**
+###References
 
-Allen, Woody. ‘Nanny Dearest’, in Woody Allen, Mere Anarchy, New York:
+Allen, Woody. ‘Nanny Dearest’, in Woody Allen, *Mere Anarchy*, New York:
 Random House, 2007, pp. 55-64.
 
 Bauer, Volker (ed.). *Repertorium territorialer Amtskalender und
@@ -861,7 +858,7 @@ Zwahr, Helmut. ‘Das deutsche Stadtadreßbuch als orts- und
 sozialgeschichtliche Quelle’, in *Jahrbuch für Regionalgeschichte* 3
 (1968): 204-229.
 
-**Notes**
+###Notes
 
 [^1]: Translated by Brita Pohl, www.bricolangue.at.
 

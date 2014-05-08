@@ -1,10 +1,10 @@
-**The Dark Side of Google: Pre-Afterword – Social Media Times**
+##The Dark Side of Google: Pre-Afterword – Social Media Times
 
-**Ippolita**
+##Ippolita
 
 The following text is the new forword to the translation by Patrice Riemens of Ippolita's *The Dark Side of Google*, Amsterdam: Instititute of Network Cultures, 2013.**
 
-***Performance Societies in the Clouds***
+###Performance Societies in the Clouds
 
 Many years have passed since Ippolita first addressed the need to
 distinguish between the Free Software movement and the Open Source
@@ -113,7 +113,7 @@ the devices are getting smaller and less capacious, it is easy to
 predict that an explosion of the storage of online personal data will
 soon take place.
 
-***From the File to the Cloud***
+###From the File to the Cloud
 
 >If we want things to stay as they are, things will have to change.
 >Tomasi di Lamedusa [^3]
@@ -241,7 +241,7 @@ contrast to other web languages, JavaScript describes the ‘logic’ of
 sites and applications. The better its performance, the greater the
 speed of execution of the service we are using.
 
-***HTML5, W3C: Standards, Architectural Dominance, and Control Methods***
+###HTML5, W3C: Standards, Architectural Dominance, and Control Methods
 
 In the highly complex world that is the internet, some elements need to
 be shared in as universal a manner as possible. In order to make
@@ -286,7 +286,7 @@ easy to understand how browsers and HTML are of primary importance for
 building a worldwide computing hegemony – both from an economic and
 political point of view.
 
-***Open Is Not Free, and Published Is Not Public***
+###Open Is Not Free, and Published Is Not Public
 
 And here we are today. Unlike the times in which Ippolita was one of the
 few shouting about how we don’t have to put everything on Google –
@@ -422,7 +422,7 @@ are not technical matters: the better algorithms will not automagically
 create better societies, and radical transparency is a totalitarian
 nightmare.
 
-***Participation Myth Corollaries: We Are the 99 Percent***
+###Participation Myth Corollaries: We Are the 99 Percent
 
 Digital activism could be framed as an interesting corollary to the
 online mass participation myth, and the claim that 'social networks
@@ -579,7 +579,7 @@ September, 2013
 
 Download *The Dark Side of Google* for free from http://networkcultures.org/publications.
 
-**References**
+###References
 
 Agamben, Giorgio. 'What Is the Contemporary', in *What is an Apparatus?
 and Other Essays,* Stanford: Stanford University Press, 2009, pp. 39-56.
@@ -630,10 +630,10 @@ Loneliness*, New York: Prometheus Book, 2012.
 Vaidhyanathan, Siva. *The Googlization of Everything (And Why We Should
 Worry),* Berkeley: University of California Press, 2011.
 
-**Notes**
+##Notes
 
 [^1]: Ippolita, *Open Non è Free: Comunità Digitali tra Etica Hacker e
-    Mercato Global,*Milano: Elèuthera, 2005.
+    Mercato Global*, Milano: Elèuthera, 2005.
 
 [^2]: This description is a very brief summary of Humberto R. Maturana and
     Francisco J. Varela's idea of autopoiesis (from *Autopoiesis and
