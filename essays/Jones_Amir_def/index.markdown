@@ -1,6 +1,6 @@
-Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges
+##Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges
 
-A Conversation between Phil Jones and Aharon Amir
+##Phil Jones and Aharon Amir
 
 Artists Phil Jones [^1] and Aharon Amir
 [^2] created the Narcissus Search Engine for N.E.W.S. in
@@ -37,7 +37,7 @@ unabridged transcriptions of the dialogues are available and searchable
 via Narcissus itself, [^6] and the original recordings
 are also available. [^7]
 
-About Narcissus
+###About Narcissus
 
 Aharon Amir: I think Narcissus asks you to search within yourself how to
 imagine a search filter, by being confronted with a visibly changing
@@ -95,7 +95,7 @@ that key. With a phone it’s different because it's connected; you don't
 need to remember where the phone is, you just need to find someone with
 the number of that phone, and they can call it.
 
-PJ: Externalized memory. Interestingly, Google Mine wants to catalogue
+PJ: Externalized memory. Interestingly, Google Mine wants to catalog
 all your stuff (including your keys?). [^8] But to
 return to my earlier point, sometimes we aren't searching for the same
 thing as part of externalized memory but doing a one-off.
@@ -125,7 +125,7 @@ AA: It doesn't give you the false sense of eliminating the filter by
 making your own filter that isn't a filter but is actually a filter. It
 doesn't do that. Narcissus doesn't do this pseudo-shit.
 
-Filter Bubbles
+###Filter Bubbles
 
 AA: I think ‘Search Art’, and Narcissus for a start, is interesting in
 that it's the beginning of a different way of imagining. By ‘Search Art’
@@ -237,7 +237,7 @@ That's a very interesting question I think, both in terms of the NSA and
 the fact that people will use technology not just because it makes them
 feel like they do stuff quicker, but because it makes them feel secure.
 
-Search and Research
+###Search and Research
 
 PJ: So are people scared of search? Is it about a sort of fear? We
 mustn't go off the ‘beaten track’ or we'll get lost and won't find what
@@ -246,7 +246,7 @@ we're looking for.
 AA: We don't know in terms of general people. But I’d say people tend
 towards research: ‘I want to know who did this or that film.’ Or why we
 call ‘orange’ an ‘orange’. I think people limit themselves to a range of
-queries, rather than go on a ‘search’ that is open, where they say,
+queries, rather than go on a ‘search’ that is open, where they say:
 ‘Let's check out what we might bump into by colliding with elements’.
 
 A practical example: one of the search-art activities I did recently, at
@@ -291,7 +291,7 @@ query terms, are being narcissistic. Looking for similarities,
 reflections of the term. Is this a difference between language of
 research and search?
 
-A Language of Search
+###A Language of Search
 
 PJ: You talk of ‘giving as a search’. For example, there is a
 pedagogical technique where you give students an exercise to work out,
@@ -382,7 +382,7 @@ AA: Even a simple search in Google is multi-dimensional. You need at
 least three actors. I call it a sequence. BTW, when you have a minute,
 watch this SharkWheel video? [^16]
 
-Skateboarding and Search
+###Skateboarding and Search
 
 PJ: Yes, talking of wheels and surfaces, skateboarding. You were
 searching for the Gasworks Gallery.
@@ -394,9 +394,9 @@ PJ: Do you think this is the same kind of work as in the Barbican?
 
 AA: Well I didn't expect it, OK? I kind of bump into things rather than
 expect. There's always a collision, and what comes out of it. I can say,
-considering it beforehand, I thought, ‘Somebody is going to beat me up’.
+considering it beforehand, I thought, ‘somebody is going to beat me up’.
 That didn't happen, but I did think this might be a possibility. Because
-I said, ‘Look, I know where Gasworks is, and I'm not going there. I'm
+I said: ‘Look, I know where Gasworks is, and I'm not going there. I'm
 just wondering if you would know where it is.’ It was basically asking
 if a person has a clue where Gasworks Gallery might be. And (initially)
 how many pushes of the skateboard I would have to do until I bump into
@@ -448,7 +448,7 @@ looked at me like ‘what do you mean?' [Laughs]
 PJ: Well if they're not skateboarders they may not know the kinds of
 pushes.
 
-Search and Spectacle
+###Search and Spectacle
 
 PJ: What is the connection between search and spectacle?
 
@@ -518,14 +518,14 @@ can't tell you ‘this is red’ (and want you to remember ‘this is red’).
 I'm being more humble. I don't know what is important. But I know this
 sequence is interesting. Well, I don't know if it's interesting to you.
 
-PJ: The point for the Situationists was that dérive, drifting, was a
+PJ: The point for the Situationists was that *dérive*, drifting, was a
 strategy of resistance against the spectacle. For you, you're always
 talking about it as being something that's provided to us. One can
 present something ‘as spectacle’ or ‘as search’, but it's something the
 artist or society does to the others. This is different from the
 psycho-geographic thing where drifting is something you take. Something
 you go and do. With Narcissus, we were talking about us as artists
-giving search to the viewer. When we talk about the dérive we're talking
+giving search to the viewer. When we talk about the *dérive* we're talking
 about someone going to a city and saying ‘I will do my own drifting in
 the city’. Not that architects give us that.
 
@@ -545,7 +545,7 @@ desire that we have. I accept that. That's what happens. But I am saying
 that if you do drifting, let's not make a spectacle. This in itself has
 a difficulty – how do you transfer from one person to another? This is
 an innate thing for us. We share things. We say ‘have you seen this?’ or
-‘Hey, I drifted yesterday. That was great fun.’ This is the problem. How
+‘hey, I drifted yesterday, that was great fun.’ This is the problem. How
 do I give you something similar to that? I'm your friend, I'd like to
 share it with you. How do I do that? The only way we know how to is
 through making a spectacle out of stuff – drifting included.
@@ -607,7 +607,7 @@ PJ: HUH??!!
 AA: Yes. I always carry oranges onboard planes. They let me do that, and
 oranges explode very easily. [^22]
 
-References
+###References
 
 Amir, Aharon. ‘Hissbhgrb’, 1 November 2013,
 http://aharonic.net/blog/hissbhgrb.
@@ -633,11 +633,10 @@ http://searchnarcissus.net/narcissus\_pseudo\_code.pdf.
 Tomasello, Michael. The Cultural Origins of Human Cognition, Cambridge,
 MA: Oxford University Press, 2000.
 
-Wikipedia contributors, 'Whitelist',
+Wikipedia contributors. 'Whitelist',
 http://en.wikipedia.org/wiki/Whitelist, accessed 5 January 2014.
 
-Notes
-=====
+###Notes
 
 [^1]: See, http://synaesmedia.net.
 
@@ -691,8 +690,8 @@ Notes
     Also see TrackMeNot, https://cs.nyu.edu/trackmenot/.
 
 [^20]: The views are in relation to possible misreadings and
-    interpretations of Michael Tomasello's book The Cultural Origins of
-    Human Cognition, Cambridge, MA: Oxford University Press, 2000.
+    interpretations of Michael Tomasello's book *The Cultural Origins of
+    Human Cognition*, Cambridge, MA: Oxford University Press, 2000.
 
 [^21]: Aharon Amir, ‘How to Imagine Aesthetics of Living-Dead Fireflies’,
     30 March 2013, http://www.arty.li/firefly-aesthetics-search.

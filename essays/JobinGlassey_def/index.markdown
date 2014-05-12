@@ -1,4 +1,4 @@
-##‘I Am Not A Web Search Result! I Am A Free Word’: The Categorization and Commodification of ‘Switzerland’ by Google
+##‘I Am not a Web Search Result! I Am a Free Word’: The Categorization and Commodification of ‘Switzerland’ by Google
 
 ##Anna Jobin and Olivier Glassey
 

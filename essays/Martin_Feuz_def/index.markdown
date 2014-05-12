@@ -218,8 +218,7 @@ including iterative aspects of the process, including learning and
 shifting focus and goals.
 
 [IMG1]
-("Fig. 1. Berrypicking Model (Bates). Source: Peter Morville,
-http://www.flickr.com/photos/morville/2314377945/sizes/o/in/photostream/.")
+("Fig. 1. Berrypicking Model (Bates).")
 
 While the model itself seems a bit formal, Bates more recently clarified
 her perspective by stating: ‘In my view, our understanding of

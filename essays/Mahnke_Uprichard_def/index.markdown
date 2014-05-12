@@ -1,8 +1,8 @@
-Algorithming the Algorithm
+##Algorithming the Algorithm
 
-Martina Mahnke and Emma Uprichard
+##Martina Mahnke and Emma Uprichard
 
-\#hello
+###&#35;hello
 
 Imagine sailing across the ocean. The sun is shining, vastness all
 around you. And suddenly [BOOM] you’ve hit an invisible wall. Welcome to
@@ -19,13 +19,13 @@ can instigate and facilitate imagination, creativity, and frivolity,
 while saying something that is simultaneously old and new, always almost
 repeating what was before but never quite returning. We show this by
 threading together stimulating quotes and screenshots from Google’s
-autocomplete algorithms. In doing so, *we invite the reader to
+autocomplete algorithms. In doing so, we invite the reader to
 re-explore Google’s autocomplete algorithms in a creative, playful, and
-reflexive way*, thereby rendering more visible some of the excitement
+reflexive way, thereby rendering more visible some of the excitement
 and frivolity that comes from being and becoming part of the riddling
 rhythm of the algorithmic everyday life.
 
-\#warning
+###&#35;warning
 
 We’ve adopted an alternative textual style, which may annoy and confuse
 some readers, though hopefully also amuse and intrigue others. Therefore
@@ -36,11 +36,11 @@ sake of it. Instead, what we do is experimental and reflects some of the
 unexpected landings, spontaneity, and at times insanity of our
 algorithmically-linked travels into (new and old) media spaces.
 
-\#searching
+###&#35;searching
 
 [IMG1]
 
-Fig. 1: I Google, therefore I am
+("Fig. 1. I Google, therefore I am.")
 
 Search engines in general, and Google in particular, have become entry
 points to the internet. We use Google to verify information, to verify
@@ -88,7 +88,7 @@ imagination, creativity, and frivolity, if we allow them to. And all of
 a sudden we might learn: their power is mutable, once we start playing
 around.
 
-\#perspectives
+###&#35;perspectives
 
 From a mathematical perspective, algorithms have been around for
 centuries. As Charbert summarizes in simple terms,[^8]
@@ -138,7 +138,7 @@ creating, and playing with what is there already in the present and what
 will be in the future. In other words, autocomplete instigates and
 facilitates imagination, creativity, and frivolity.
 
-\#whatalgorithmsdo
+###&#35;whatalgorithmsdo
 
 Through their rule-based simplicity, algorithms enable a space, place,
 and time to re-do the old and new simultaneously, nonlinearly, in an
@@ -190,7 +190,7 @@ down. Ordering disorder. Always and everywhere. This or that. In short:
 sorting is all about *matching* and *ranking*. Two items are matched
 against each other and displayed in a ranked (dis)order.
 
-\#diggingintothealgorithm
+###&#35;diggingintothealgorithm
 
 In order to dig into Google’s autocomplete algorithm a little further,
 we took screenshots and combined them with citations. We joined
@@ -204,13 +204,13 @@ write. Understanding the internet as a *digging place* for
 archaeological excavation. And using the internet to dig through the
 autocompleted links.
 
-\>Start [enter]
+###>start [enter]
 
 [IMG 2]
 
-Fig. 2: Same but different
+("Fig. 2. Same but different.")
 
-\#thinkingmachines
+###&#35;thinkingmachines
 
 What’s the difference between human and machine? Is there a difference?
 Daniel Dennett [I’m feeling lucky ENTER] argues: ‘It is that special
@@ -226,7 +226,7 @@ quite getting there?
 
 As can be seen in Figure 2, a quick search for ‘Can machines think?’,
 typed in a sloppy everyday way, not caring about upper and lower cases
-and exclamation marks, in Denmark and the U.K., produces slightly
+and question marks, in Denmark and the U.K., produces slightly
 similar, but still different autocomplete terms. Yet, in Figure 3 we
 notice it is not only that the autocompleted terms differ across
 countries, but also across time. That is to say, the same search terms
@@ -241,19 +241,19 @@ of Google’s autocomplete that we are offered alternative ways of
 ‘playing’ with and against Google itself. Moreover, it is in making
 visible these different and similar affordances that Google’s
 autocomplete algorithm becomes both a site and a mechanism whereby
-*imagination, creativity, and frivolity* produce accessibility. **
+*imagination, creativity, and frivolity* produce accessibility.
 
 [IMG 3]
 
-Fig. 3: Difference in time and space
+("Fig. 3. Difference in time and space.")
 
 [IMG 4]
 
-Fig. 4: Growing an ‘imagination tree’
+("Fig. 4. Growing an ‘imagination tree’.")
 
-\> End [stop]
+###>end [stop]
 
-\#imagination
+###&#35;imagination
 
 Imagination is a way of seeing, knowing, and learning; it asks us to
 look beyond what we take for granted.[^16] Imagination
@@ -300,7 +300,7 @@ to the search sucks us back into an almost never-ending quest to find
 the answers to the questions we have never searched. However, this
 search also allows us to maintain a sense of creativity.
 
-\#creativity
+###&#35;creativity
 
 Creativity is process. Creativity constitutes. To view Google’s
 autocomplete creatively can help us learn and think in new ways. The
@@ -333,9 +333,9 @@ with Google’s autocomplete in ways that are similar to activist
 movements. If Google can *shape* our views, perhaps we can use Google to
 *change* our views?
 
-\#frivolity
+###&#35;frivolity
 
-Frivolity is considered a harmless, unproductive activity outside the
+>Frivolity is considered a harmless, unproductive activity outside the
 more structured activity of play. Huizinga (1950) in Homo Ludens notes
 that play is a 'free activity standing quite consciously outside of
 “ordinary” life as not being serious, but at the same time absorbing the
@@ -343,7 +343,7 @@ player intensely and utterly.' Frivolity, on the other hand, is more
 transitory and generally without rules or order.^^
 [^20]
 
-In *The Archaeology of the Frivolous’,* Jacques Derrida argues, among
+In *The Archaeology of the Frivolous* Jacques Derrida argues, among
 other things, that frivolity is always seen as ‘bad’ and ‘dangerous’ and
 that we can use it to disturb and deconstruct views that are taken for
 granted.[^21] Indeed, one of the key points we want to
@@ -360,7 +360,7 @@ reinstate them, as Desrosières argues in his excellent book, *The
 Politics of Large Numbers*.[^22] Indeed, we go so far
 as to say that search algorithms are constructions just as are objects
 in science. As Collins and Pinch point out in their classic book, *The
-Golem: What You Should Know About Science,* [^23] it
+Golem: What You Should Know About Science*, [^23] it
 is not science that is ‘good’ or ‘bad’. Rather, what is done with and to
 the world in the name of ‘science’ is what can be judged as good or bad.
 
@@ -384,7 +384,7 @@ new tales, and new futures. Daily, mundanely. Juggling with hyperlinks
 and autocorrect. Everyday. Every day. ‘Taming the algorithmic tiger’
 with a smile, with frivolity, creativity, and imaginary rhythms.
 
-\#lessonstolearn
+###&#35;lessonstolearn
 
 ‘Ceci n’est pas une pipe’ – ‘this is not a pipe’. Magritte shows us that
 things are not always what they appear to be. We live in a world in
@@ -428,15 +428,17 @@ sense of the world and ourselves in that world. Search is a verb.
 ‘Searching’ implies that the ‘searcher’ knows something about what they
 are looking for. Indeed, we might say that:
 
-Search      =       Being curious.
+Search
+
+      =      Being curious.
 
       =      Looking for answers.
 
-      =       Looking for the unknown.
+      =      Looking for the unknown.
 
       =      Finding.
 
-=      Finding the known.
+      =      Finding the known.
 
       =      Finding the unknown.
 
@@ -455,12 +457,12 @@ Search      =       Being curious.
       =      A social practice that finds the same in different places
 in different times.
 
-      =       Searching for searches and finding searches.
+      =      Searching for searches and finding searches.
 
-      =       Jack-in-a-box, always and never a surprise, predictably
+      =      Jack-in-a-box, always and never a surprise, predictably
 unpredictable.
 
-\#thestorybehind
+###&#35;thestorybehind
 
 The story started on Facebook in May 2013. Martina (author one) had set
 up a new Facebook page and invited friends to ‘like’ the page. Emma
@@ -474,7 +476,7 @@ page, Emma sent a silly message asking about the change of title (Figure
 
 [IMG 5]
 
-Fig. 5: Facebook conversation
+("Fig. 5. Facebook conversation.")
 
 This is how algorithms brought us together, just as they bring so much
 of our world together, and they do so across time and space, everyday
@@ -482,16 +484,16 @@ of our world together, and they do so across time and space, everyday
 
 [IMG 6]
 
-Fig. 6: How the authors are related in time and space
+("Fig. 6. How the authors are related in time and space.")
 
-\#thanks
+###&#35;thanks
 
 We’d like to thank Philipp Lenssen ( http://outer-court.com ) for kindly
 allowing us to use his image in the \#searching section. We have titled
 it ‘I Google, therefore I am’. It’s not the original title. We further
 like to thank Miriam Rasch and René König for their editorial effort.
 
-\#references
+###&#35;references
 
 Alexander, Christopher. *Note on the Synthesis of Form*, Cambridge, MA:
 Harvard University Press, 1964.
@@ -519,15 +521,15 @@ of Invisibility on Facebook’, *New Media & Society* 14.7 (November
 Chabert, Jean-Luc. *A History of Algorithms*, Berlin, Heidelberg:
 Springer, 1999.
 
-Collins, Harry and Trevor Pinch. *The Golem at Large: What You Should
-Know about Technology*, Cambridge, U.K.: Cambridge University Press,
+Collins, Harry and Trevor Pinch. *The Golem: What You Should
+Know about Science*, Cambridge, U.K.: Cambridge University Press,
 1998.
 
-Corman, Thomas H., Charles E. Leiserson, Ronald L. Rivest and Clifford
-Stein. *Introduction to Algorithms*, Cambridge MA: MIT Press
+Corman, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford
+Stein. *Introduction to Algorithms*, Cambridge MA: MIT Press, 2009.
 
-Dennett, Daniel. ‘Can Machines Think?’ In Christof Teuscher (ed.) *Alan
-Turing: Life and Legacy of a Great Thinker*, Berlin: Springer, 2004
+Dennett, Daniel. ‘Can Machines Think?’ in Christof Teuscher (ed.) *Alan
+Turing: Life and Legacy of a Great Thinker*, Berlin: Springer, 2004.
 
 Derrida, Jacques. *The Archeology of the Frivolous*, trans. J. Leavey
 Jr., Pittsburg: Duquesne University Press, 1973.
@@ -541,7 +543,7 @@ Years*, Chicago: The University of Chicago Press, 1992.
 
 Gillespie, Tarleton. ‘Can an Algorithm Be Wrong? Twitter Trends, the
 Specter of Censorship, and Our Faith in the Algorithms Around Us’,
-Culture Digitally Blog, 19 October 2011, http://culture
+Culture Digitally blog, 19 October 2011, http://culture
 digitally.org/2011/10/can-an-algorithm-be-wrong/.
 
 Knuth, Donald. *Fundamental Algorithms,*vol. 1 of *The Art of Computer
@@ -558,12 +560,11 @@ Naughton, John. 'How Algorithms Secretly Shape the Way We Behave', *The
 Guardian*, 15 December 2012,
 http://www.guardian.co.uk/technology/2012/dec/16/networker-algorithms-john-naughton.
 
-Pariser, Eli.*The Filter Bubble*, London: Penguin Press, 2011.
+Pariser, Eli.*The Filter Bubble: What the Internet is Hiding from You*, London: Penguin Press, 2011.
 
 Rieder, Bernhard. ‘Democratizing Search? From Critique to
 Society-oriented Design’, in Konrad Becker and Felix Stalder (eds) *Deep
-Search. The Politics of Search beyond Google*, StudienVerlag/Transaction
-Publishers, 2009, pp. 133-151.
+Search. The Politics of Search beyond Google*, Innsbruck: Studienverlag, 2009, pp. 133-151.
 
 \_\_\_\_\_. ‘Networked Control: Search Engines and the Symmetry of
 Confidence’, *International Review of Information Ethics* 3.1 (2005):
@@ -571,13 +572,13 @@ Confidence’, *International Review of Information Ethics* 3.1 (2005):
 
 Skiena, Steven. *The Algorithm Design Manual*, London: Springer, 2008.
 
-Slavin, Kevin. 'How Algorithms Shape Our World', Ted Talks, July 2011
+Slavin, Kevin. 'How Algorithms Shape Our World', TED Talks, July 2011
 http://www.ted.com/talks/kevin\_slavin\_how\_algorithms\_shape\_our\_world.html.
 
 Steiner, Christopher. *Automate This: How Algorithms Came to Rule Our
 World*, New York, NY: Portfolio/Penguin, 2012.
 
-Turing, Alan. ‘Computing Machinery and Intelligence’, in: Paul A. Meyer
+Turing, Alan. ‘Computing Machinery and Intelligence’, in Paul A. Meyer
 (ed.) *Computer Media and Communication: A Reader*, Oxford: Oxford
 University Press, 1999, p. 37-58.
 
@@ -588,12 +589,11 @@ Political Science, London, U.K., 2009.
 Waldrop, M. Mitchell. *Complexity: The Emerging Science at the Edge of
 Order and Chaos*, New York: Simon and Schuster, 1992.
 
-Notes
-=====
+###&#35;notes
 
-[^1]: 1 Eli Pariser, *The Filter Bubble,*London: Penguin Press, 2011.
+[^1]: 1 Eli Pariser, *The Filter Bubble: What the Internet is Hiding from You*, London: Penguin Press, 2011.
 
-[^2]: 2 Kevin Salvin, 'How Algorithms Shape Our World', Ted Talks, July
+[^2]: 2 Kevin Salvin, 'How Algorithms Shape Our World', TED Talks, July
     2011,
     http://www.ted.com/talks/kevin\_slavin\_how\_algorithms\_shape\_our\_world.html;
     John Naughton, 'How Algorithms Secretly Shape the Way We Behave',
@@ -607,14 +607,14 @@ Notes
     Media & Society*14.7 (November 2012): 1164-1180; Tarleton Gillespie,
     ‘Can an Algorithm Be Wrong? Twitter Trends, the Specter of
     Censorship, and Our Faith in the Algorithms Around Us’, Culture
-    Digitally Blog, 19 October 2011, http://culture
+    Digitally blog, 19 October 2011, http://culture
     digitally.org/2011/10/can-an-algorithm-be-wrong/; Bernhard Rieder,
     ‘Democratizing Search? From Critique to Society-oriented Design’, in
     Konrad Becker and Felix Stalder (eds) *Deep Search. The Politics of
-    Search beyond Google,* StudienVerlag/Transaction Publishers, 2009,
+    Search beyond Google,* Innsbruck: Studienverlag, 2009,
     pp. 133-151; Bernhard Rieder. ‘Networked Control: Search Engines and
     the Symmetry of Confidence’, *International Review of Information
-    Ethics*3.1 (2005): 26-32; Christopher Steiner, *Automate This: How
+    Ethics* 3.1 (2005): 26-32; Christopher Steiner, *Automate This: How
     Algorithms Came to Rule Our World,* New York, NY: Portfolio/Penguin,
     2012.
 
@@ -650,12 +650,12 @@ Notes
 [^13]: Steven Skiena, *The Algorithm Design Manual*, London: Springer,
     2008.
 
-[^14]: 14 Daniel Dennett, ‘Can Machines Think?’ In Christof Teuscher (ed.)
-    *Alan Turing: Life and Legacy of a Great Thinker,*Berlin: Springer,
+[^14]: Daniel Dennett, ‘Can Machines Think?’ In Christof Teuscher (ed.)
+    *Alan Turing: Life and Legacy of a Great Thinker*, Berlin: Springer,
     2004, p. 313.
 
-[^15]: 15 Margaret A. Boden, ‘The Social Impact of Thinking Machines’ in
-    Tom Forester (ed.)*The Information Technology Revolution,*Oxford:
+[^15]: Margaret A. Boden, ‘The Social Impact of Thinking Machines’ in
+    Tom Forester (ed.)*The Information Technology Revolution*, Oxford:
     Basil Blackwell, 1985, pp. 95-103.
 
 [^16]: Kieran Egan, *Imagination in Teaching and Learning: The Middle
@@ -683,11 +683,11 @@ Notes
     Statistical Reasoning*, trans. Camille Naish, Cambridge, MA: Harvard
     University Press, 1998.
 
-[^23]: Harry Collins and Trevor Pinch, *The Golem at Large: What You Should
-    Know about Technology,* Cambridge, U.K.: Cambridge University Press,
+[^23]: Harry Collins and Trevor Pinch, *The Golem: What You Should
+    Know about Science,* Cambridge, U.K.: Cambridge University Press,
     1998.
 
-[^24]: See \#intro.
+[^24]: See #intro.
 
 
 

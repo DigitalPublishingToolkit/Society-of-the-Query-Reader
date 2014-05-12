@@ -2,12 +2,12 @@ Polluted and Predictive, in 133 Words
 
 Mél Hogan and M.E. Luka
 
-Never forget that Google collects data for a commercial purpose. It is
+>*Never forget that Google collects data for a commercial purpose. It is
 not a public archive. Besides this, the Google search engine is getting
 more and more ‘polluted’, coming up with useless and predictable search
-outcomes. - Geert Lovink [^1]
+outcomes.* - Geert Lovink [^1]
 
-For the Society of the Query Reader, we present here segments of a
+For the *Society of the Query Reader*, we present here segments of a
 conversation done via email, inspired by interventions into Google
 ‘suggestions’, collected and compared over time. The discussion is
 between communications and media consultant and doctoral scholar M.E.
@@ -29,12 +29,9 @@ Conceived for the web, an earlier iteration of this interview can also
 be found in a ‘clickable’ version online at melhogan.com and
 http://moreartculturemediaplease.com/interview-mel-hogan-and-google-query.
 
-[let op, regel hieronder hoort bij tabel die doorloopt op volgende p. –
-zelfde geval verderop]
-
 2013
 
-woman is:
+**woman is:**
 
 the future of man
 
@@ -56,7 +53,7 @@ a devil
 
 beheaded
 
-M.E. Luka: What is Google Suggest?
+**M.E. Luka: What is Google Suggest?**
 
 Mél Hogan: Though refined over the years, Google Suggest has been an
 experimental feature since 2004. Currently, not every user is privy to
@@ -85,8 +82,8 @@ it generates, I want our conversation to go in an exploratory direction
 and expose some of Google’s suggestions over the course of the last four
 years.
 
-ML: OK, then let’s start with the words. You really picked 133 words?
-Why 133? What are they? Are they thematic?
+**ML: OK, then let’s start with the words. You really picked 133 words?
+Why 133? What are they? Are they thematic?**
 
 MH: By way of free association and without counting how many words were
 going to be part of this archive, the 133 words I selected to track in
@@ -117,7 +114,7 @@ were the words I chose for this collection. At the time I had a few of
 these collections going, but this particular thread is the one I kept
 collecting over the past four years.
 
-ML: Why these words, in particular?
+**ML: Why these words, in particular?**
 
 MH: I think the words and the searches they suggest point to things
 people are searching out in private. Real questions. Real worries. It
@@ -130,13 +127,13 @@ others? Can Google suggestions become a way to suss out what others are
 experiencing? Is it where we go to feel normal, even if that normal is
 twisted?
 
-ML: Hmm. I don’t know. There’s something about the creepily fast
+**ML: Hmm. I don’t know. There’s something about the creepily fast
 predictive suggestions that kind of freaks me out. But maybe, yes, it
 could be a way to combine with others, emotionally, about shared topics.
 To have a conversation without having to engage in actual, live
 dialogue. I found the lists really compelling. And I found myself
 comparing the lists from one year to the next, because you gave them to
-me in a way that was easy to compare.
+me in a way that was easy to compare.**
 
 2010
 
@@ -320,10 +317,10 @@ distant
 
 gay
 
-What’s more, when I see each of the columns of phrases typed up formally
+**What’s more, when I see each of the columns of phrases typed up formally
 in a table (rather than just as screen grabs), they seem to gain
 authority, and I find myself fighting emotionally with the meanings
-thrown at me by the lists. Does every word cause this to happen?
+thrown at me by the lists. Does every word cause this to happen?**
 
 MH: Not every word produces a result, so in that way this social
 experiment is biased to words that generate results, popular enough
@@ -509,7 +506,7 @@ collect and document for different reasons. People came to the hilarity
 ways. For (a recent) example, I just came across this Twitter hashtag
 for \#sadgooglesearches. [^6]
 
-ML: Hilarious. There’s so much action on this front that there’s a
+**ML: Hilarious. There’s so much action on this front that there’s a
 Twitter hashtag about it. When I was looking through the
 \#sadgooglesearches posts, I noticed there were hundreds of them on 14
 August 2013. And then I found a commentary on the twitter hashtag
@@ -519,15 +516,15 @@ spent years and billions on perfecting, in order to have the speediest
 \#sadgooglesearches? How is this helping humankind? What kind of social
 values are we involved in generating? Also, on a more mundane level, I’m
 curious to know – are Sad Google Searches the equivalent of cat videos
-on YouTube?
+on YouTube?**
 
 MH: I think we're back to ‘sad’ as the agreed upon state of the search
 archive…
 
-ML: It feels like a terribly sad loss of potential to me. Is there a way
+**ML: It feels like a terribly sad loss of potential to me. Is there a way
 to look at this that could be a little more optimistic? What about the
 predictive elements of this particular conundrum? Do you see Google as
-an oracle? [^8]
+an oracle? [^8]**
 
 MH: Ha! No. It’s the opposite. Actually, I don’t know, maybe it is.
 We’re going to look back on all this one day and see how messed up we
@@ -536,13 +533,13 @@ is far ahead of any culturally agreed upon norms. If we’re following
 technology, and that’s what’s documented here, then it’s an oracle that
 is reductively predictive and polluted. We may look back on this in a
 decade or two and be embarrassed by our paltry beginning efforts. But
-chances are most traces of these searches will be long gone…which is why
+chances are most traces of these searches will be long gone… which is why
 art projects like this become important, right?
 
-ML: Yes! So if you do enough iterations, the danger might be that the
+**ML: Yes! So if you do enough iterations, the danger might be that the
 searches only take us down increasingly narrow or reprehensible paths.
 But the upside (to use a horrible corporate term) is that there will
-actually be traces of these searches.
+actually be traces of these searches.**
 
 MH: I’m not sure how to describe what it produces exactly, but in terms
 of content alone, it often points to books, movies, and music, popular
@@ -584,7 +581,7 @@ White in 2013 because of the 2013 Great Gatsby film (also a remake)
 soundtrack. [^13] So all of this is very much a
 commentary on popular culture.
 
-ML: Popular culture, or the vernacular – this is the very foundation of
+**ML: Popular culture, or the vernacular – this is the very foundation of
 the nation-state, according to Benedict Anderson.
 [^14] How we construct our social selves and
 articulate shared values: these are critical markers. We imagine
@@ -592,7 +589,7 @@ ourselves into existence. Music, poetry, journalism. Metaphor,
 imagination, love, loss. I don’t like to think that Google
 Search/Suggest might one day lead us to the Republic of Google Nation.
 But, oh right, it already has. In fact, more than one Google Nation.
-[^15]
+[^15]**
 
 [IMG2: DEATH IS 2013] [either picture 1 or 2, whichever fits best]
 
@@ -634,12 +631,12 @@ life. The greatest loss is what dies inside us while we live.’
 the greatest loss in life. The greatest loss is what dies inside while
 still alive. Never surrender.’ [^20]
 
-ML: Or, as long as we have a place to go to assert that we are alive, we
+**ML: Or, as long as we have a place to go to assert that we are alive, we
 can survive death. As Banana Yoshimoto suggests: ‘When I’m dead worn
 out, in a reverie, I often think that when it comes time to die, I want
 to breathe my last in a kitchen. Whether it’s cold and I’m all alone, or
 somebody’s there and it’s warm, I’ll stare death fearlessly in the eye.’
-[^21]
+[^21]**
 
 2013
 
@@ -786,12 +783,12 @@ like an iceberg
 
 Then there are sequences that are harder to qualify: ‘culture is like an
 iceberg’, which becomes really interesting when you follow the Google
-suggestion all the way through to the query … what happened in 2013 to
+suggestion all the way through to the query… what happened in 2013 to
 make culture be like an iceberg?
 
-ML: The power of metaphor and simile at our fingertips through Google
+**ML: The power of metaphor and simile at our fingertips through Google
 Search/Suggest. ‘Culture is an iceberg’ is a quote from a 1976 book no
-longer in print, Orientations to Intercultural Communication, by Sharon
+longer in print, *Orientations to Intercultural Communication*, by Sharon
 Ruhly. [^31] It has persisted so strongly that a
 recent blog post by another intercultural communications scholar, Milton
 Bennett, goes to great lengths to insist that such communication is a
@@ -800,7 +797,7 @@ process, not an object understandable through this metaphor.
 that is shaken into existence by the ritualistic repetition of ‘xxx is
 ...’. Or even better, through the plaintive addition of ‘why?’, as in
 ‘Why is the measure of love loss?’ [^33] So ... why do
-you collect?
+you collect?**
 
 MH: In the case of this Google Suggestion project, collecting
 screengrabs was the only way to record a search and to document it over
@@ -817,16 +814,12 @@ favorite; [^35] I've collected desktop screengrabs.
 [^36] This collection of people’s desktop was selected
 to be in the next exhibition for the Screen Saver Gallery project, a
 contemporary digital art gallery of screensavers run by Czech artists
-Barbora Trnková and Tomáš Javůrek. [^37]
-
-And of course, the Google Suggestion searches we’re talking about now.
+Barbora Trnková and Tomáš Javůrek. [^37] And of course, the Google Suggestion searches we’re talking about now.
 [^38]
 
 During grad school, I also took a photo of myself every day, for more
 than seven years, to see time pass. To see myself fall apart because of
-stress.
-
-So I think this urge to collect is a form of meditative hoarding, which
+stress. So I think this urge to collect is a form of meditative hoarding, which
 speaks to my academic work on digital archives [^39]
 and my production work on collections management as well.
 [^40] It all really comes together when you account
@@ -845,11 +838,11 @@ collector.
 Conceptually, I collect because word objects start to make more sense in
 relation to one another; they give each other context(s).
 
-ML: Do you mean – dialogic? Conversational? Perhaps this is generated
+**ML: Do you mean – dialogic? Conversational? Perhaps this is generated
 simply through juxtaposition? Or maybe the self-focused (sometimes
 self-centered, or self-ish) nature of the comments don’t allow for
 dialogue at all. No responsibility to others, just a delight in hearing
-one’s own voice in the ether.
+one’s own voice in the ether.**
 
 MH: The Comments Collection project I did in 2010 was about collecting
 comments on YouTube videos, ones about the anticipated 2012 end of the
@@ -858,14 +851,14 @@ reorganize these bits of texts, usually in PowerPoint, so that it tells
 its own story, without additional contextual information. As in, you can
 just read it and get it.
 
-ML: I remember when you did this project. Definitely, I found the level
+**ML: I remember when you did this project. Definitely, I found the level
 of violence in the commentary disturbing. No real space for compassion.
-But I also like to think about the People this 2012 shit is hype piece
+But I also like to think about the *People this 2012 shit is hype* piece
 in tandem with your 52-pickup project on the end of the world.
 [^43] Which I think is brilliant, optimistic, funny,
-and conversational. I believe that’s because you are at the heart of it,
+and *conversational*. I believe that’s because you are at the heart of it,
 prompting discussion and thoughtful (and/or hilarious) responses to the
-question you posed about the end of the world. [^44]
+question you posed about the end of the world. [^44]**
 
 MH: With the Comments Collection, assembling the story from other
 peoples’ comments worked really well. I did about 20,
@@ -882,20 +875,18 @@ commentary on the mode of documentation (whether the screen grab or
 PowerPoint, copy and paste) as it is about the contents. For me, the
 simplicity of the tools for collection and display are really important.
 I rarely think of what to make of the collection. I just like to collect
-and make ‘lists’ and organize the content into a story.
-
-Collecting is the best way for me to document web phenomena and
+and make ‘lists’ and organize the content into a story. Collecting is the best way for me to document web phenomena and
 simultaneously comment on web cultures. There's something in the gesture
 of collecting that’s in itself a means to expose meaning.
 
-ML: How is collecting different from the massive growth in self-tracking
+**ML: How is collecting different from the massive growth in self-tracking
 through digital technology (e.g. on Facebook, through fitness apps
 etc.)? For example, technology journalist Nora Young explores
-self-tracking in her new book, The Virtual Self: How Our Digital Lives
-Are Altering the World Around Us, [^46] though she
+self-tracking in her new book, *The Virtual Self: How Our Digital Lives
+Are Altering the World Around Us*, [^46] though she
 doesn’t see it as a narcissistic practice – more as a meditation. The
 repetitive nature of the collection is what is important, i.e. a kind of
-processing or transforming ourselves while doing.
+processing or transforming ourselves while doing.**
 
 MH: I haven’t read Young’s work but I do believe there’s a correlation.
 I think that the NSA debacles since the summer have more than proven
@@ -908,14 +899,14 @@ motivation. Facebook is also profile focused and serves to link data to
 specific individuals within a network. Google Search and Suggestion
 mashes us all together!
 
-ML: Web-based practices are often referred to as ‘virtual’ practices.
+**ML: Web-based practices are often referred to as ‘virtual’ practices.
 This term – ‘virtual’ – is tantalizingly close to the terms ‘virtuous’
 (be-good), and ‘virtuosity’ (display excellence and expertise). Are your
 interventions virtuous rummagings into the dominance of Google-as-web?
 Why are you seeking virtuosity in your practice – if you are? And/or why
 are you probing to see whether and how Google’s Cache and Search
 functions are performing a kind of virtuosity in predictive
-‘pollutability’ themselves?
+‘pollutability’ themselves?**
 
 MH: For my collection, I became interested in the process of documenting
 searches via screen grabs over a period of a few years. The results will
@@ -955,10 +946,10 @@ conversation gets at: Google is not a public archive. But in a sense, if
 thought of as an archive – the possibilities for creative intervention
 are endless.
 
-ML: Ok, I’m all for this – generating endless creative possibilities.
+**ML: OK, I’m all for this – generating endless creative possibilities.
 But let’s think it through on a theoretical level as well as through the
 research-creation you’ve undertaken. Does the theory match what you are
-finding in your collections?
+finding in your collections?**
 
 MH: Google is now highly synonymous with the web, as the main search
 tool and for browsing the web (rivaled in its ubiquity only by the likes
@@ -983,7 +974,7 @@ you want’, according to Google co-founder Larry Page.
 [^49]
 
 However, this notion of the search is complicated by Siva Vaidhyanathan,
-who argues in his book, The Googlization of Everything that ‘search’ in
+who argues in his book, *The Googlization of Everything* that ‘search’ in
 Google is as much about what is concealed as what is revealed.
 [^50] Google’s process is based on four elements:
 relevance, comprehensiveness, freshness, and speed. Combined, these are
@@ -1003,9 +994,9 @@ making consumption (online shopping) more effective, not research that
 relies on consistency in primary and secondary sources.
 [^51]
 
-ML: Aha. So Google searches are simultaneously about: shopping, random
-but funneled research, seeking specific kinds of solutions, and ...
-something else entirely.
+**ML: Aha. So Google searches are simultaneously about: shopping, random
+but funneled research, seeking specific kinds of solutions, and…
+something else entirely.**
 
 MH: Google aims to index all media and formats, and to do so
 continually, eventually moving into what they call ‘Realtime Search’.
@@ -1028,15 +1019,13 @@ strategy. Furthermore, given Google’s super servers, a site can often be
 accessed more rapidly through the cached version than the ‘live’ page
 itself – and this is important as it effectively thwarts the notion of
 an original source and any idea of a singular ‘present’ moment or site
-as point of reference.
-
-As Google indexes content on the web to provide its search tool, it
+as point of reference. As Google indexes content on the web to provide its search tool, it
 simultaneously makes copies of every document in the index (the Google
 index is roughly 100 million gigabytes). [^55]
 
-ML: That is mind-blowing. But, not entirely ‘real’, right? You talk
+**ML: That is mind-blowing. But, not entirely ‘real’, right? You talk
 about the significant role played by caches and caching as a key element
-of data management.
+of data management.**
 
 MH: In their on-site documentation, Google glosses over the fact that
 their index and archive is limited to files at 101 kilobytes of text;
@@ -1051,7 +1040,7 @@ appeared when it was indexed, which is not necessarily a reflection of
 the present or most current page. Website owners can opt out of the
 index, but their site is still likely to be cached despite the ‘cache’
 button and access to the cached version being omitted from the interface
-(made invisible). As John Battelle dramatizes in The Search, Google
+(made invisible). As John Battelle dramatizes in *The Search*, Google
 creates ‘a world in which every click can be preserved forever’.
 [^57] The default of multiplying remains even if the
 cached version is hidden or made inaccessible to the general public;
@@ -1072,12 +1061,12 @@ becomes more valuable for it. [^58] This brings
 attention to the ways the online realm is not accessible or ‘open’
 simply by virtue of being online.
 
-ML: I think this is an important observation, and brings us back to a
+**ML: I think this is an important observation, and brings us back to a
 consideration of these patterns and limits as invariably sad (but not
 tragic) and ultimately violent (though sometimes life-affirming) in a
 disconcertingly Foucauldian way [^59] (the Panopticon?
 Who’s in charge here? Who’s surveilling whom?) – but on a societal
-scale, and not always discouragingly.
+scale, and not always discouragingly.**
 
 MH: Unlike formal archives, Google Cache rejects the notion and impetus
 for creating a permanent historical record of the web. Instead, when
@@ -1088,7 +1077,7 @@ are only occasional clicks on the ‘cache’ button – and this for a search
 engine that gets in the order of a few billion hits each day.
 [^61]
 
-ML: So – we are in the process of exponentially generating and
+**ML: So – we are in the process of exponentially generating and
 simultaneously eliminating our histories, though the evidence in the
 archives suggests that we ought to remain hopeful: there are traces
 after all, and we persist in trying to find and understand them. Right?
@@ -1102,27 +1091,23 @@ sharing of culture – are transformative. Even (perhaps especially)
 through the widely shared Google Suggest experience. How reaffirming to
 see so many hundreds of thousands of others who have asked your question
 before you. And yet, your own questions – and answers/responses – may be
-entirely different.
+entirely different.**
 
-Big thank you to Andrea Zeffiro with help formatting footnotes and works
-cited for this piece.
+*Big thank you to Andrea Zeffiro with help formatting footnotes and works
+cited for this piece.*
 
-References
+###References
 
 Anderson, Benedict. Imagined Communities, London and New York: Verso,
 2006 (1983).
 
-Battelle, John. The Search:
+Battelle, John. *The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture*, London: Nicholas Brealey Publishing, 2005.
 
 Beall, Jeffrey. 'How Google Uses Metadata to Improve Search Results',
-The Serials
-
-Librarian 59.1 (2010): 40-530.
+*The Serials Librarian* 59.1 (2010): 40-530.
 
 Bennett, Milton. 'Culture is Not Like an Iceberg', IDR Institute blog, 6
-May 2013,
-
-http://www.idrinstitute.org/page.asp?menu1=14.
+May 2013, http://www.idrinstitute.org/page.asp?menu1=14.
 
 'Billy Graham', BrainyQuote.com, Xplore Inc, 24 December 2013,
 http://www.brainyquote.com/quotes/quotes/b/billygraha113622.html .
@@ -1184,14 +1169,11 @@ Elizabeth Luka', No More Potlucks, Vol. 25 (January/February 2013).
 Huffer, Lynne and Elizabeth Wilson. 'Mad for Foucault: A Conversation',
 Theory, Culture & Society 27 (2010): 324-338.
 
-Lovink, Geert. 'Back from Gent: Notes On Memories of the Future', 26
-June 2010, The Institute of Network Cultures blog,
+Lovink, Geert. 'Back from Gent: Notes On Memories of the Future', Net Critique blog, 26 June 2010,
 http://networkcultures.org/wpmu/geert/2010/06/26/back-from-gent-notes-on-memories-of-the-future.
 
 Olsen, Stefanie. 'Google Cache Raises Copyright Concerns’, CNET News, 9
-July 2003,
-
-http://news.cnet.com/2100-1038\_3-1024234.html.
+July 2003, http://news.cnet.com/2100-1038\_3-1024234.html.
 
 Paine, Jake. 'Webbie “Savage Life 4Ever” Release Date, Trill Fam
 “Respect Is A Must Tour” Dates', Hip Hop DX, 27 June 2013,
@@ -1212,7 +1194,7 @@ Sullivan, Danny. 'What Is Real Time Search? Definitions & Players',
 Search Engine Land, 9 July 2009,
 http://searchengineland.com/what-is-real-time-search-definitions-players-22172.
 
-Vaidhyanathan, Siva. The Googlization of Everything: (And Why We Should
+Vaidhyanathan, Siva. The Googlization of Everything (And Why We Should
 Worry), Berkley: University of California Press, 2011.
 
 Winterson, Jeannette. Written on the Body, Toronto: Random House of
@@ -1224,11 +1206,10 @@ Square Press/Simon & Schuster Inc., 1993 (1988).
 Young, Nora. The Virtual Self: How Our Digital Lives Are Altering the
 World Around Us, Toronto: McClelland & Stewart, 2012.
 
-Notes
-=====
+###Notes
 
 [^1]: Geert Lovink, 'Back from Gent: Notes on Memories of the Future', 26
-    June 2010,
+    June 2010, Net Critique blog,
     http://networkcultures.org/wpmu/geert/2010/06/26/back-from-gent-notes-on-memories-of-the-future/.
 
 [^2]: For example, Korsakow workshops held at the Brakhage Center at the
@@ -1271,7 +1252,7 @@ Notes
 [^13]: See, for example, the Jack White music video on Vimeo,
     http://vimeo.com/69265782.
 
-[^14]: Benedict Anderson, Imagined Communities, London and New York: Verso,
+[^14]: Benedict Anderson, *Imagined Communities*, London and New York: Verso,
     2006 (1983).
 
 [^15]: See an iteration of Google nation here:
@@ -1291,7 +1272,7 @@ Notes
 [^20]: See,
     http://www.goodreads.com/quotes/80268-death-is-not-the-greatest-loss-in-life-the-greatest.
 
-[^21]: Banana Yoshimoto, Kitchen, trans. Megan Backus, New York: Washington
+[^21]: Banana Yoshimoto, *Kitchen*, trans. Megan Backus, New York: Washington
     Square Press/Simon & Schuster Inc., 1993 (1988), p. 4.
 
 [^22]: See, http://www.imdb.com/title/tt0772168/.
@@ -1319,14 +1300,14 @@ Notes
 [^30]: 'Billy Graham', BrainyQuote.com, Xplore Inc, 24 December 2013,
     http://www.brainyquote.com/quotes/quotes/b/billygraha113622.html .
 
-[^31]: Sharon Ruhly, Orientations to Intercultural Communication, Chicago:
+[^31]: Sharon Ruhly, *Orientations to Intercultural Communication*, Chicago:
     Science Research Associates, 1976.
 
 [^32]: Milton Bennett, 'Culture is Not Like an Iceberg', IDR Institute
     blog, 6 May 2013,
     http://www.idrinstitute.org/page.asp?menu1=14&post=1&page=1.
 
-[^33]: Jeannette Winterson, Written on the Body, Toronto: Random House of
+[^33]: Jeannette Winterson, *Written on the Body*, Toronto: Random House of
     Canada, 1992, p. 9.
 
 [^34]: See, http://spectrum.library.concordia.ca/973890/.
@@ -1350,8 +1331,8 @@ Notes
 [^38]: See,
     http://melhogan.com/website/google-suggestions-archive-of-human-sense.
 
-[^39]: Mél Hogan, Crashing the Archive: A Research-Creation Intervention
-    into the SAW Video Mediatheque, PhD thesis, Concordia University,
+[^39]: Mél Hogan, *Crashing the Archive: A Research-Creation Intervention
+    into the SAW Video Mediatheque*, PhD thesis, Concordia University,
     201 2, http://spectrum.library.concordia.ca/973890/.
 
 [^40]: See, http://archinodes.com/.
@@ -1371,8 +1352,8 @@ Notes
     and
     http://melhogan.com/website/comment-collection-les-sources-de-quoi-cheri/.
 
-[^46]: Nora Young, The Virtual Self: How Our Digital Lives Are Altering the
-    World Around Us, Toronto: McClelland & Stewart, 2012. Also see
+[^46]: Nora Young, *The Virtual Self: How Our Digital Lives Are Altering the
+    World Around Us*, Toronto: McClelland & Stewart, 2012. Also see
     http://norayoung.ca/.
 
 [^47]: See Google Annual Search Statistics at
@@ -1382,8 +1363,8 @@ Notes
 
 [^49]: See , http://www.google.com/corporate/tech.html.
 
-[^50]: Siva Vaidhyanathan, The Googlization of Everything: (And Why We
-    Should Worry), Berkley: University of California Press, 2011.       
+[^50]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
+    Should Worry)*, Berkley: University of California Press, 2011.       
 
 [^51]: Despite this trend, or direction, Vaidhyanathan points out that for
     the last decade, Google has provided an efficient tool for searches
@@ -1407,19 +1388,19 @@ Notes
 [^56]: Nancy Blachman and Jerry Peek, 'Cached Pages', Google Guide,
     http://www.googleguide.com/cached\_pages.html.
 
-[^57]: John Battelle, The Search:
+[^57]: John Battelle, *The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture*, London: Nicholas Brealey Publishing, 2005.
 
 [^58]: Jeffrey Beall argues this in 'How Google Uses Metadata to Improve
-    Search Results', The Serials Librarian 59.1 (2010): 40-53.
+    Search Results', *The Serials Librarian* 59.1 (2010): 40-53.
 
 [^59]: A similar discussion about Foucault and society is found in Lynne
     Huffer and Elizabeth Wilson, ‘Mad for Foucault: A Conversation’,
-    Theory, Culture & Society 27 (2010): 324-338.
+    *Theory, Culture & Society* 27 (2010): 324-338.
 
-[^60]: Stefanie Olsen, Google Cache Raises Copyright Concerns, CNET News, 9
+[^60]: Stefanie Olsen, 'Google Cache Raises Copyright Concerns', CNET News, 9
     July 2003 ^,^ http://news.cnet.com/2100-1038\_3-1024234.html.
 
-[^61]: Olsen, Google Cache Raises Copyright Concerns.
+[^61]: Olsen, 'Google Cache Raises Copyright Concerns'.
 
 
 

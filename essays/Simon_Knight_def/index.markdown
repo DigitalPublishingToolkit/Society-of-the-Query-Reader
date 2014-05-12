@@ -1,11 +1,8 @@
-Finding Knowledge: What Is It to ‘Know’ When We Search?
+##Finding Knowledge: What Is It to ‘Know’ When We Search?
 
-Simon Knight
+##Simon Knight
 
- 
-=
-
-You walk into the exam room, breathe a nervous sigh, sit down, and plug
+>*You walk into the exam room, breathe a nervous sigh, sit down, and plug
 your laptop in. The URL for the questions is sent out, and you are
 reminded that while you may search for information and browse pages as
 you wish, you may not communicate with any other person. You look at the
@@ -14,7 +11,7 @@ about, along with some brief historical context, and another source you
 have studied before. You are asked to draw comparisons between the
 perspectives of the sources, using your knowledge of the period.
 ‘Right,’ you think, as you open up a popular search engine, ‘what do I
-need to know…’
+need to know…’*
 
 Consider the preceding vignette; Andy Clark and David Chalmers propose
 that in such cases the external apparatus (the internet) fulfills the
@@ -30,9 +27,9 @@ post-technology practices.
 
 Such an analysis has profound implications in education, for example.
 Under what circumstances do we accept that students ‘know’ something?
-How do we**decide that they know something (that is, how do
-educators**claim knowledge of their student’s knowledge states) and also
-that such knowledge is important? Furthermore, how we think about the
+How do we decide that they know something (that is, how do
+educators claim knowledge of their student’s knowledge states) and also
+that such knowledge is important? Furthermore, how do we think about the
 future of technology and the ways that technology might change what we
 believe is important (for better or worse)?
 
@@ -87,8 +84,7 @@ first by discussing some issues regarding research on technological
 changes, then by asking what role search functions fulfill and how these
 functions affect our own understanding of ‘knowledge’.
 
-Researching Search
-------------------
+###Researching Search
 
 The impact of the internet on how we think has caught popular attention
 in the many articles – often critical.[^3] However, many
@@ -119,8 +115,7 @@ as books, with indexes, chapters, reference lists, and so on, present
 information in certain ways, so too does the internet and its tools of
 access, such as search engines, browsers, and social network sites.
 
-Search Engines as Informants
-----------------------------
+###Search Engines as Informants
 
 An interesting aspect of the Danish example is the prohibition of
 communication websites in examinations. Yet the line between search
@@ -193,8 +188,7 @@ and demographic characteristics filter SERPs to provide individuals with
 biased information, affirming prior beliefs. It is to this issue that I
 now turn.
 
-Search as an Epistemic Tool – More of What You Want
----------------------------------------------------
+###Search as an Epistemic Tool – More of What You Want
 
 The use of search engines to find information or sources of information
 is a common activity in which students must frequently engage. In a 2012
@@ -228,14 +222,12 @@ should consider:
     searching for ‘Al Gore inconvenient truth’ may bring up rather
     different results than ‘Al Gore liar’.
 -   SERPs may present bias for two reasons:
-
--   Bias will arise from personalization of results (this is broadly
-    *testimonial* *injustice*).
--   Bias will arise from an epistemically biased landscape – for
+    1. Bias will arise from personalization of results (this is broadly
+    *testimonial injustice*).
+    2. Bias will arise from an epistemically biased landscape – for
     example, language and gender dominance among Wikipedia articles and
-    editors (this is broadly *hermeneutical injustice*and may be more
+    editors (this is broadly *hermeneutical injustice* and may be more
     challenging for search engines to address).
-
 -   Social search is likely to present many of the same problems, but
     many non-personalized search engines will too.
 
@@ -243,14 +235,13 @@ It is worth considering the role of the search engine in epistemic
 inquiry, and how search engines could foreground their assumptions about
 searchers to fulfill their roles as informants.
 
-Testimonial Expertise
----------------------
+###Testimonial Expertise
 
-You’re conducting a school research project on a local Spanish festival
+>*You’re conducting a school research project on a local Spanish festival
 that happens to be a namesake of an English clothing brand. You ask your
 parents for some useful websites on the festival; they give you the
 details of a U.K. arts festival nearby, along with a link to a website
-with a primary school level English description of the clothing brand…
+with a primary school level English description of the clothing brand…*
 
 When we seek information we are interested in different things in
 different contexts. One of the challenges of the ‘semantic web’ is to
@@ -272,9 +263,9 @@ although we might expect some of these to be left implicit (e.g.
 geolocation of information) but not others (e.g. political leanings, or
 perhaps facets such as literacy level).
 
-Personalization
+###Personalization
 
-*A search function returns English results, and when you check
+>*A search function returns English results, and when you check
 quantities it defaults to metric, always using a base 10 numeric
 system.* [^12] *When you search for your morning news,
 a set of left-wing blogs you like to read are returned, along with a new
@@ -333,8 +324,7 @@ example of the socio-technical mediation of our understanding of
 information, before presenting a final challenge to the current status
 quo.
 
-When No Answer Is Answer Enough
--------------------------------
+###When No Answer Is Answer Enough
 
 An interesting, related problem concerning how we think about
 information comes in the form of the ‘testimony of silence’ – when the
@@ -382,13 +372,9 @@ the results they click, and the information they take away from chosen
 results. For example, recent evidence from Microsoft Research indicates
 that in the health domain, searchers favor positive over negative
 information *as do search engines*– thus creating a filter bubble based
-on a ‘testimony of silence’ around negative
-results.[^15] Importantly, this bias leads to the
-uptake of incorrect health information in many
-cases.[^16]
+on a ‘testimony of silence’ around negative results.[^15] Importantly, this bias leads to the uptake of incorrect health information in many cases.[^16]
 
-Diversity Aware Search
-----------------------
+###Diversity Aware Search
 
 In the preceding sections I have noted some concerns over how we look
 for information and why understanding the socio-technical factors
@@ -422,24 +408,24 @@ considering multiple perspectives. [^18] The ‘liquid
 publications’[^19] project for example developed a
 diversity-aware scholar search that can be used to avoid homophily in
 one’s academic network by down-ranking papers by authors with whom the
-searcher has co-authored in the past.[^20]
+searcher has co-authored in the past.
 
 Other solutions could be to look for diverse ways of clustering the same
 set of documents or present searchers with clusterings from different
-users;[^21] this could particularly work in cases
+users;[^20] this could particularly work in cases
 where the user is ‘exploring’ the information landscape and has no
-well-defined information need at initial stages. [^22]
+well-defined information need at initial stages. [^21]
 In this case, searchers may be unaware of alternative groupings and**of
 various ways their information need could be defined. Such approaches
 may foreground facets of personalization that usually remain hidden.
 
 An additional benefit of such diversity-aware search tools is that they
 offer the opportunity to address ‘content holes’ in a searcher’s
-knowledge. [^23] Indeed, such an approach may assist
+knowledge. [^22] Indeed, such an approach may assist
 in addressing some of the issues of ‘silence’ raised above. To give an
 example taken from Nadamoto et al., we might imagine a Mexican community
 in which swine flu in Mexico is widely discussed and
-known.[^24] However, if that community does not also
+known.[^23] However, if that community does not also
 relate to the wider global risk of swine flu, it has a content hole;
 such gaps might be identified in community discussions across blogs
 through comparisons with content on related Wikipedia pages.
@@ -447,7 +433,7 @@ through comparisons with content on related Wikipedia pages.
 It is interesting to note that such an approach might also lead to
 unintended consequences, for example insofar as some research indicates
 that exposure to opposing perspectives can reinforce one’s own
-viewpoint****(and prepare one for arguing against opposition).
+viewpoint (and prepare one for arguing against opposition).
 Furthermore, technical approaches that increase diversity by reducing
 redundancy (repetition of information) may lead a person to question an
 important credibility cue, given that repetition may be highly salient
@@ -460,15 +446,11 @@ diversity-aware is that the user will almost never learn how biased the
 retrieved information is. It would help if search engines would state
 what kind of filtering and interpretative steps they perform.
 
- 
-=
+###Conclusions
 
-Conclusions
-===========
-
-You are asked to draw a comparison among the perspectives in the
+>*You are asked to draw a comparison among the perspectives in the
 sources, using your knowledge of the time. ‘Right’, you think, as you
-open up a popular search engine, ‘what do I need to know…’
+open up a popular search engine, ‘what do I need to know…’*
 
 Access to external resources prompts us to consider what it means to
 ‘know’ something and what types of knowledge are important. Asking you
@@ -488,16 +470,15 @@ literature, involve ‘exploratory’ activities and credibility judgments
 of sources. Thinking about how best to represent results for these
 multiple purposes is complex (and indeed, Google is currently soliciting
 feedback on how it might improve in this
-respect[^25]). Even with technological improvements,
+respect[^24]). Even with technological improvements,
 we should raise awareness about the ways in which technology mediates
 our access to information, and education should reflect the importance
 of this awareness while also training our associated critical evaluation
 and credibility judgment skills.
 
-References
-==========
+###References
 
-Adams, Tim. 'G oogle and the Future of Search: Amit Singhal and the
+Adams, Tim. 'Google and the Future of Search: Amit Singhal and the
 Knowledge Graph', The Guardian , 19 January 2013,
 http://www.theguardian.com/technology/2013/jan/19/google-search-knowledge-graph-singhal-interview.
 
@@ -512,23 +493,19 @@ Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of
 Knowing,* Oxford: Oxford University Press, 2009.
 
 Garfield, Eugene. *When Is a Negative Search Result Positive? Essays of
-an Information Scientist* vol. 1, 12 August 1970, pp. 117–118,
+an Information Scientist* vol. 1, 12 August 1970,
 http://www.garfield.library.upenn.edu/essays/V1p117y1962-73.pdf.
 
-Giunchiglia, Fausto, Vincenzo Maltese, Anthony Baldry, and Biswanath
-Dutta. ‘Living Knowledge’, in press, 2012,
-http://eprints.biblio.unitn.it/3976/.
-
 Knight, Simon. ' Danish Use of Internet in Exams – Epistemology,
-Pedagogy, Assessment…' Finding Knowledge Blog, 23 July 2013,
+Pedagogy, Assessment…' Finding Knowledge blog, 23 July 2013,
 http://people.kmi.open.ac.uk/knight/2013/07/danish-use-of-internet-in-exams-epistemology-pedagogy-assessment/.
 
-\_\_\_\_\_. ' Is Google Making Me [Stupid|smarter]…How About Bing?'
-Finding Knowledge Blog, 23 January 2013,
+\_\_\_\_\_. ' Is Google Making Me [Stupid|smarter]… How About Bing?'
+Finding Knowledge blog, 23 January 2013,
 http://people.kmi.open.ac.uk/knight/2013/01/is-google-making-me-stupid-or-smarter-how-about-bing/.
 
 \_\_\_\_\_. 'The Pragmatic Web: More than Just Semantics
-Contextualized', Finding Knowledge Blog, 4 January 2014,
+Contextualized', Finding Knowledge blog, 4 January 2014,
 http://people.kmi.open.ac.uk/knight/2013/01/the-pragmatic-web-more-than-just-semantics-contextualised/.
 
 Knight, Simon and Neil Mercer, ‘The Role of Exploratory Talk in
@@ -543,7 +520,7 @@ http://dl.acm.org/citation.cfm?id=1806353.
 
 Resnick, Paul, R. Kelly Garrett, Travis Kriplean, Sean A. Munson, and
 Natalie Jomini Stroud. ‘Bursting Your (Filter) Bubble: Strategies for
-Promoting Diverse Exposure’, In *Proceedings of the 2013 Conference on
+Promoting Diverse Exposure’, in *Proceedings of the 2013 Conference on
 Computer Supported Cooperative Work Companion*, 95–100, 2013,
 http://dl.acm.org/citation.cfm?id=2441981.
 
@@ -552,7 +529,7 @@ Education', SearchReSearch blog, 1 August 2011,
 http://searchresearch1.blogspot.co.uk/2011/08/why-knowing-search-isnt-same-as-having.html.
 
 Simperl, Elena, Devika P. Madalli, Denny Vrandevcić, and Enrique
-Alfonseca. ‘DiversiWeb 2011’, In *ACM SIGIR Forum*, 45 (2011): 49–53,
+Alfonseca. ‘DiversiWeb 2011’, in *ACM SIGIR Forum*, 45 (2011): 49-53,
 http://dl.acm.org/citation.cfm?id=1988861.
 
 Simpson, Thomas W. ‘Evaluating Google as an Epistemic Tool’,
@@ -561,38 +538,37 @@ Simpson, Thomas W. ‘Evaluating Google as an Epistemic Tool’,
 Singh, Rahul, Ya-Wen Hsu, and Naureen Moon. ‘Multiple Perspective
 Interactive Search: a Paradigm for Exploratory Search and Information
 Retrieval on the Web’, *Multimedia Tools and Applications* 62.2 (2013):
-507–543.
+507-543.
 
 Patrick Thomas, 'Give Us Your Feedback on Search Policies', Inside
 Search blog, 23 August 2013,
 http://insidesearch.blogspot.co.uk/2013/08/give-us-your-feedback-on-search-policies.html.
 
 Verbeke, Mathias, Bettina Berendt, and Siegfried Nijssen. ‘Data Mining,
-Interactive Semantic Structuring, and Collaboration: A Diversity-aware
-Method for Sense-making in Search’, In *Proceedings of First
+Interactive Semantic Structuring, and Collaboration: A Diversity-Aware
+Method for Sense-Making in Search’, in *Proceedings of First
 International Workshop on Living Web, Collocated with the 8th
 International Semantic Web Conference (ISWC-2009). CEUR Workshop
 Proceedings, Washington, DC, USA*. Vol. 515, 2009,
 http://www.liacs.nl/home/snijssen/publications/iswc2009.pdf.
 
 White, Ryen W. ‘Beliefs and Biases in Web Search’, *SIGIR’13,* Dublin,
-Ireland, 28 July–1 August, 2013,
+Ireland, 28 July-1 August, 2013,
 http://research.microsoft.com/en-us/um/people/ryenw/papers/WhiteSIGIR2013.pdf.
 
-Notes
-=====
+###Notes
 
 [^1]: Andy Clark and David Chalmers, ‘The Extended Mind’, *Analysis* 58.1
     (1998): 7-19,
     http://www.philosophy.ed.ac.uk/people/clark/pubs/TheExtendedMind.pdf.
 
-[^2]: Simon Knight, ' Danish Use of Internet in Exams – Epistemology,
-    Pedagogy, Assessment…' Finding Knowledge Blog, 23 July 2013,
+[^2]: Simon Knight, 'Danish Use of Internet in Exams – Epistemology,
+    Pedagogy, Assessment…' Finding Knowledge blog, 23 July 2013,
     http://people.kmi.open.ac.uk/knight/2013/07/danish-use-of-internet-in-exams-epistemology-pedagogy-assessment/.
 
 [^3]: See for discussion and critique of these articles Simon Knight, ‘ Is
-    Google Making Me [Stupid|smarter]…How About Bing?' Finding Knowledge
-    Blog, 23 January 2013,
+    Google Making Me [Stupid|smarter]… How About Bing?' Finding Knowledge
+    blog, 23 January 2013,
     http://people.kmi.open.ac.uk/knight/2013/01/is-google-making-me-stupid-or-smarter-how-about-bing/.
 
 [^4]: Amongst others, Dan Russell discusses these issues: 'Why Knowing
@@ -614,14 +590,14 @@ Notes
     Ethics of Knowing , Oxford: Oxford University Press, 2009.
 
 [^9]: Thomas W. Simpson, ‘Evaluating Google as an Epistemic Tool’,
-    *Metaphilosophy* 43.4 (2012): 426–445,
+    *Metaphilosophy* 43.4 (2012): 426-445,
     http://people.ds.cam.ac.uk/tws21/preprints/2012\_Metaphilosophy\_Evaluating%20Google%20as%20an%20Epistemic%20Tool\_preprint.pdf.
 
 [^10]: Simpson, ‘Evaluating Google as an Epistemic Tool’, p. 439.
 
 [^11]: See for example this post and references on it in Simon Knight, 'The
     Pragmatic Web: More than Just Semantics Contextualized', Finding
-    Knowledge Blog, 4 January 2014,
+    Knowledge blog, 4 January 2014,
     http://people.kmi.open.ac.uk/knight/2013/01/the-pragmatic-web-more-than-just-semantics-contextualised/.
 
 [^12]: I am grateful to Rebecca Ferguson at the Open University for these
@@ -629,7 +605,7 @@ Notes
 
 [^13]: Interestingly Garfield discussed this in Eugene Garfield, *When Is a
     Negative Search Result Positive? Essays of an Information Scientist*
-    vol. 1, 12 August 1970, pp. 117–118,
+    vol. 1, 12 August 1970, pp. 117-118,
     http://www.garfield.library.upenn.edu/essays/V1p117y1962-73.pdf.
     According to Google Scholar (September 2013) that paper has been
     cited six times since then, most prominently by Marchionini
@@ -645,44 +621,40 @@ Notes
     Dublin, Ireland, 28 July-1 August, 2013,
     http://research.microsoft.com/e
 
-[^16]: See also Martin Feuz in this volume…..
+[^16]: See also Martin Feuz's article in this volume.
 
 [^17]: See for example, Elena Simperl et al., ‘DiversiWeb 2011’, In *ACM
-    SIGIR Forum*, 45 (2011): 49–53,
+    SIGIR Forum*, 45 (2011): 49-53,
     http://dl.acm.org/citation.cfm?id=1988861.
 
 [^18]: Paul Resnick et al., ‘Bursting Your (Filter) Bubble: Strategies for
-    Promoting Diverse Exposure’, In *Proceedings of the 2013 Conference
-    on Computer Supported Cooperative Work Companion*, 95–100, 2013,
+    Promoting Diverse Exposure’, in *Proceedings of the 2013 Conference
+    on Computer Supported Cooperative Work Companion*, 95-100, 2013,
     http://dl.acm.org/citation.cfm?id=2441981.
 
 [^19]: See, http://project.liquidpub.org/tools.
 
-[^20]: For another example of diversity aware search see the Narcissus
-    search engine described in the contribution by Phil Jones and Aharon
-    Amir in this Reader.
-
-[^21]: Mathias Verbeke, Bettina Berendt, and Siegfried Nijssen, ‘Data
+[^20]: Mathias Verbeke, Bettina Berendt, and Siegfried Nijssen, ‘Data
     Mining, Interactive Semantic Structuring, and Collaboration: A
-    Diversity-aware Method for Sense-making in Search’, In *Proceedings
+    Diversity-Aware Method for Sense-Making in Search’, In *Proceedings
     of First International Workshop on Living Web, Collocated with the
     8th International Semantic Web Conference (ISWC-2009). CEUR Workshop
     Proceedings, Washington, DC, USA*. Vol. 515, 2009,
     http://www.liacs.nl/home/snijssen/publications/iswc2009.pdf.
 
-[^22]: Rahul Singh, Ya-Wen Hsu, and Naureen Moon, ‘Multiple Perspective
+[^21]: Rahul Singh, Ya-Wen Hsu, and Naureen Moon, ‘Multiple Perspective
     Interactive Search: a Paradigm for Exploratory Search and
     Information Retrieval on the Web’, *Multimedia Tools and
-    Applications* 62.2 (2013): 507–543.
+    Applications* 62.2 (2013): 507-543.
 
-[^23]: Akiyo Nadamoto et al., ‘Content Hole Search in Community-type
-    Content Using Wikipedia’, In *Proceedings of the 11th International
+[^22]: Akiyo Nadamoto et al., ‘Content Hole Search in Community-type
+    Content Using Wikipedia’, in *Proceedings of the 11th International
     Conference on Information Integration and Web-based Applications &
     Services*, 25-32, 2009, http://dl.acm.org/citation.cfm?id=1806353.
 
-[^24]: Nadamoto et al., ‘Content Hole Search’.
+[^23]: Nadamoto et al., ‘Content Hole Search’.
 
-[^25]: Patrick Thomas, 'Give Us Your Feedback on Search Policies', Inside
+[^24]: Patrick Thomas, 'Give Us Your Feedback on Search Policies', Inside
     Search blog, 23 August 2013,
     http://insidesearch.blogspot.co.uk/2013/08/give-us-your-feedback-on-search-policies.html.
 
