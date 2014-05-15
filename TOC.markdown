@@ -1,7 +1,7 @@
 ## Contents ##
 
 * [ **René König and Miriam Rasch**  
-Reflect and Act! Introduction to the Society of the Query Reader ](essays/Intro_v_1_1.html)
+Reflect and Act! Introduction to the Society of the Query Reader ](essays/Introduction.html)
 
 
 ## Theorizing Web Search ##
