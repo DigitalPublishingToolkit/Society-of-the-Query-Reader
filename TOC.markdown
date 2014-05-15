@@ -49,7 +49,7 @@ Towards an Anthropology of Location-Based Recommendation and Search ](essays/Mar
 ## Research and Education ##
 
 * [ **Jacob Ørmen**  
-Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results ]()
+Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results ](essays/Jacob_Ormen.html)
 * [ **Martin Feuz**  
 Exploratory Search and Extended Cognition in Health Information Interaction ](essays/Martin_Feuz.html)
 * [ **Dave Crusoe**  
@@ -72,5 +72,6 @@ Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges ](essays/Jon
 
 * [ **Society of the Query Conferences**  
 Society of the Query I in Amsterdam  
-Society of the Query II in Amsterdam ]()
+Society of the Query II in Amsterdam ](essays/SotQ_Conferences.html)
 * [ **Author Biographies** ](essays/Author_Bios.html)
+* [ **Colophon** ](essays/colophon.html)

@@ -215,9 +215,8 @@ from some of Google’s vertical search rivals. Google Shopping is a
 service for which Google charges for inclusion, and so the rivals whose
 results will be displayed will be selected via the auction mechanism.
 
-[IMG1]
-
-("Fig. 1. Google’s specialized Shopping service. Source: European
+![Fig. 1. Google’s specialized Shopping service. Source: European
+Commission.](images/Angela_Daly/soq-image-1.png "Fig. 1. Google’s specialized Shopping service. Source: European
 Commission.")
 
 This would go further towards the ‘parity of appearance and placement’
@@ -236,9 +235,7 @@ Local Search service, for which Google does not charge a payment for
 inclusion and so the rivals whose results will be displayed will be
 selected using Google’s general search algorithm.
 
-[IMG2]
-
-("Fig. 2. Google’s Local Search service. Source: European Commission.")
+![Fig. 2. Google’s Local Search service. Source: European Commission.](images/Angela_Daly/soq-image-2.png "Fig. 2. Google’s Local Search service. Source: European Commission.")
 
 Here, the layout is somewhat different, with the rivals’ results placed
 at the top of the page but in a much smaller shaded area than Google’s

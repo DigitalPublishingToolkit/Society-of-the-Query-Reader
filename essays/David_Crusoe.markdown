@@ -16,8 +16,7 @@ Venn diagram in middle school. More sophisticated Boolean algebra, such
 as written notation, may be part of a high school math
 class.[^1]
 
-[IMG1]
-("Fig. 1. Venn diagram.")
+![Fig. 1. Venn diagram.](images/David_Crusoe/Boolean-Set-Image.png "Fig. 1. Venn diagram.")
 
 Central tenants of Boolean algebra and set theory were adopted and
 applied by computer scientists in their quest to solve problems

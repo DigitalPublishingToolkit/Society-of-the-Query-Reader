@@ -217,8 +217,7 @@ made very useful contributions to a more interactive style of search by
 including iterative aspects of the process, including learning and
 shifting focus and goals.
 
-[IMG1]
-("Fig. 1. Berrypicking Model (Bates).")
+![Fig. 1. Berrypicking Model (Bates).](images/Martin_Feuz/Feuz1_bates_berrypicking.png "Fig. 1. Berrypicking Model (Bates).")
 
 While the model itself seems a bit formal, Bates more recently clarified
 her perspective by stating: ‘In my view, our understanding of
