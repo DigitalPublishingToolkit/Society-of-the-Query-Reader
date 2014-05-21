@@ -1,7 +1,6 @@
-Historicizing Google Search: A Discussion of the Challenges Related to
-Archiving Search Results
+##Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results
 
-Jacob Ørmen
+##Jacob Ørmen
 
 Who would not want to know which results you would have gotten if you
 had entered the keyword ‘terrorism’ into Google’s search bar just before
@@ -62,7 +61,7 @@ pertinent challenges and suggest some ways forward. Hopefully, this
 analysis can shed some new light on how search results can be used as
 historical sources in future research.
 
-‘All Those Moments Will Be Lost in Time, Like Tears in Rain’
+###‘All Those Moments Will Be Lost in Time, Like Tears in Rain’
 
 The problem of irretrievable information is anything but new – in fact,
 the majority of communication has always been (and still is) lost for
@@ -174,7 +173,7 @@ documents:
     specific queries at regular intervals throughout time, researchers
     could compare the different search result constellations across
     queries and across time. This way it becomes easier to historicize
-    Google search.\
+    Google search.
 2.  *The short burst model*: Another approach would be to collect more
     material in shorter, yet more intensive, waves of documentation.
     This could be a relevant method if one suspects that a certain event
@@ -199,7 +198,7 @@ documents:
     establish a causal link between exogenous events and search result
     rankings. Nonetheless, this model can provide an interesting insight
     into the shifting constellations of search results during important
-    events. \
+    events.
 
 Of course it is possible to combine these models into a hybrid (see for
 example the Danish web archive[^13]), and the models
@@ -228,9 +227,9 @@ originally intended to provide empirical material for another article,
 but ended up being the cause for why I decided to write this article
 instead.
 
-The Cat and the Mouse in the Google Sphere
+###The Cat and the Mouse in the Google Sphere
 
-On 14^^October 2012 at about 12:08 MDT, some 38 kilometers above the
+On 14 October 2012 at about 12:08 MDT, some 38 kilometers above the
 face of the earth, Felix Baumgartner stepped out of the capsule that had
 carried him up there and jumped out into the stratosphere, thereby
 beginning his four minute long free-fall towards the ground. After about
@@ -257,7 +256,7 @@ archiving the searches in real time. The latter proved to be a
 frustrating yet enlightening game of cat and mouse, which started with
 the selection of relevant search queries.
 
-Finding the Right Key
+####Finding the Right Key
 
 I decided to map the Red Bull Stratos about a week before the event took
 place because it had already received quite a lot of attention from
@@ -312,7 +311,7 @@ have to be chosen with care. Here, pilot studies (simply trying
 different keywords in different contexts) and data from Google Trends
 are a tremendous help.
 
-Who Is the Subject and Who Is the Researcher?
+####Who Is the Subject and Who Is the Researcher?
 
 The hard part about studying Google Search on a systematic basis is that
 Google soon realizes that it is being studied. Even though the so-called
@@ -328,9 +327,9 @@ latter is shown in Figure 1, where the search engine detects suspicious
 behavior from the IP address and blocks further requests from that
 particular computer for a while.
 
-[IMG1 ABOUT HERE]
+[IMG1]
 
-[caption] Fig. 1 Google Search error message.
+("Fig. 1. Google Search error message.")
 
 Ethan Zuckerman has described two important ways Google might indirectly
 interfere. In the first, when Google receives a number of queries from
@@ -351,7 +350,7 @@ to this question is that we need to be aware of the settings used when
 searching, then accept that in the end we can never really know the
 causal relationship involved.
 
-We Know Where You Are... and What Language You Speak
+####We Know Where You Are... and What Language You Speak
 
 Two particular ranking factors that we need to be acutely aware of are
 the language settings and IP address. Picture 2 shows the outcome of an
@@ -369,9 +368,9 @@ change my IP address to a server in Germany and had Danish as my default
 language setting, it was quite likely that these factors informed the
 search engine’s decision to provide me with these search results.
 
-[IMG2 ABOUT HERE]
+[IMG2]
 
-[caption] Fig. 2 Search query ‘Felix Baumgartner’ on google.at.
+("Fig. 2. Search query ‘Felix Baumgartner’ on google.at.")
 
 To get a clearer idea of whether the language setting of the IP address
 influenced the constellation of search results, I conducted a
@@ -390,12 +389,12 @@ wants to appear as if coming from another country when searching Google,
 it is not enough simply to change the IP address. At a minimum it is
 required to change the language setting accordingly.
 
-[IMG3 ABOUT HERE]
+[IMG3]
 
-[caption] Fig. 3 Search on google.de with varying settings for language
-and IP-address.
+("Fig. 3. Search on google.de with varying settings for language
+and IP-address.")
 
-Personalization – the Known Unknowns of Search
+####Personalization – the Known Unknowns of Search
 
 Apart from the choice of keywords, language settings, and location-based
 results, there is of course the increasingly ‘black-boxed’ issue of
@@ -462,7 +461,7 @@ second-guessing Google is probably not the right way to proceed for
 research. Instead we should use the search results for a different
 purpose and in context with other information at hand.
 
-So What’s Next...?
+###So What’s Next...?
 
 As historians would know, relying on single sources is a haphazard
 affair that could lead to dangerous conclusions (who says that this one
@@ -527,7 +526,7 @@ material and embrace the uncertainties we must accept as researchers. I
 have suggested one way of doing this here. Maybe others can carry the
 torch a bit further.
 
-Bibliography
+###References
 
 Blake, Thomas, Chris Nosko, and Steven Tadelis. ‘Consumer Heterogeneity
 and Paid Search Effectiveness: A Large Scale Field Experiment’, The
@@ -601,8 +600,7 @@ Zuckerman, Ethan. ‘In Soviet Russia, Google Researches You!’, …My
 Heart’s in Accra Blog, 24 March 2011,
 http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches-you/.
 
-Notes
-=====
+###Notes
 
 [^1]: Ken Hillis, Michael Petit, and Kylie Jarrett, *Google and the
     Culture of Search,* New York, NY and Oxon, UK: Routledge, 2013.
@@ -653,9 +651,8 @@ Notes
     in Real-Time Social Research’, *Journal of Cultural Economy* 6.3
     (2012): 313-335.
 
-[^11]: Laura A. Granka, ‘The Politics of Search: A Decade Retrospective’,
-               .*The Information Society* 26.5 (September 27, 2010):
-    364.374.
+[^11]: Laura A. Granka, ‘The Politics of Search: A Decade Retrospective’, *The Information Society* 26.5 (September 27, 2010):
+    364-374.
 
 [^12]: Thomas Blake, Chris Nosko, and Steven Tadelis, ‘Consumer
     Heterogeneity and Paid Search Effectiveness: A Large Scale Field
@@ -724,7 +721,7 @@ Notes
     has its own fairly detailed subpage:
     https://support.google.com/accounts/answer/54041?hl=en.
 
-[^24]: Richard Rogers, *Digital Methods,*Cambridge, Mass.: MIT Press, 2013.
+[^24]: Richard Rogers, *Digital Methods*, Cambridge, Mass.: MIT Press, 2013.
 
 [^25]: Nahid Golafshani, ‘Understanding Reliability and Validity in
     Qualitative Research’, *The Qualitative Report* 8.4 (2003): 597-607.
