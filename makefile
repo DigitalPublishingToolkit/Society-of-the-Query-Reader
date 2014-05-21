@@ -8,7 +8,7 @@ derivedhtml = $(patsubst %.markdown,%.html,$(allmd))
 all : sotq.epub
 
 sotq.epub : $(derivedhtml)
-	ebook-convert TOC.html sotq.epub --cover images/cover.png --title "Society of the Query Reader"
+	ebook-convert TOC.html sotq.epub --cover images/SotQreader.jpg --title "Society of the Query Reader" --pubdate "22 May 2014" --publisher "Institute of Network Cultures"
 
 %.html: %.markdown
 	python scripts/chapter.py $< > $@

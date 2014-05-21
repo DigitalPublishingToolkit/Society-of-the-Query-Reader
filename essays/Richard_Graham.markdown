@@ -114,10 +114,7 @@ Consciously outlining the different ways in which we contextualize
 search engines can help us understand our implicit makeshift
 definitions, which in turn mould our behavior.
 
-[IMG1]
-
-("Fig. 1. An ad-hoc constellation of associations for technologies relating
-to remembering, learning and discovering (by the author).")
+![Fig. 1. An ad-hoc constellation of associations for technologies relating to remembering, learning and discovering (by the author).](images/Richard_Graham/image1.png "Fig. 1. An ad-hoc constellation of associations for technologies relating to remembering, learning and discovering [by the author].")
 
 Figure 1 shows a number of ideas, institutions, and technologies that
 relate to search engines. I could add more points of reference in the
@@ -186,8 +183,7 @@ Carr’s metaphor reflects an entire mentality about the internet: the
 feeling of a profound sense of distance between the time before search
 engines, hyperlinking, and the web, and our wholly futuristic
 contemporary situation. It is as if we have passed one of, if not *the*,
-major technological watersheds. Carr goes on to describe how the internet, 'an immeasurably powerful computing system, is subsuming most
-of our other intellectual technologies. It’s becoming our map and our
+major technological watersheds. Carr goes on to describe how the internet, 'an immeasurably powerful computing system, is subsuming most of our other intellectual technologies. It’s becoming our map and our
 clock, our printing press and our typewriter, our calculator and our
 telephone, and our radio and TV.'[^4]
 
@@ -249,8 +245,7 @@ lineage is based around tools for memory.
 To elaborate on the question of memory, I will now introduce a very old
 and culturally specific technology, the Quipu.
 
-[IMG2]
-("Fig. 2. An Inca quipu, from the Larco Museum in Lima (source: Wikipedia).")
+![Fig. 2. An Inca quipu, from the Larco Museum in Lima (source: Wikipedia).](images/Richard_Graham/image2.png "Fig. 2. An Inca quipu, from the Larco Museum in Lima [source: Wikipedia].")
 
 In ancient Andean South America, a particular technology called a Quipu
 was used in a number of different regions. This device, often described

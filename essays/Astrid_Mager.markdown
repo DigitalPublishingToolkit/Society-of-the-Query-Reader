@@ -320,10 +320,7 @@ Their fate hence exemplifies the difficulty that comes with
 
 Aside from search engines with a centralized web index, there are projects that try to provide decentralized search, following the principle of file-sharing networks such as the PirateBay. The most popular proponent of such decentralized search projects is the peer-to-peer network YaCy, created by the German free software enthusiast Michael Christen. While reading through the YaCy website, the major goal and ideological ambition of the search engine jumps out at you right away: ‘We want to achieve freedom of information through a free, distributed web search which is powered by the world's users.’[^33] The image that is displayed in their 'About Us' section clearly shows that the search engine characterizes itself as a true alternative to centralized search engines such as Google or Bing and their capitalist ideology:
 
-[IMG1]
-
-("Fig. 1. YaCy homepage, about YaCy")
-
+![Fig. 1. YaCy homepage, about YaCy](images/Astrid_Mager/mager_image.png "Fig. 1. YaCy homepage, about YaCy")
 
 
 Freedom and independence are put first. Rather than relying on

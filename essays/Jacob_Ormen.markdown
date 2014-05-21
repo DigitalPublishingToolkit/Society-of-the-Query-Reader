@@ -327,9 +327,7 @@ latter is shown in Figure 1, where the search engine detects suspicious
 behavior from the IP address and blocks further requests from that
 particular computer for a while.
 
-[IMG1]
-
-("Fig. 1. Google Search error message.")
+![Fig. 1. Google Search error message.](images/Jacob_Ormen/Ormen_IMG1.png "Fig. 1. Google Search error message.")
 
 Ethan Zuckerman has described two important ways Google might indirectly
 interfere. In the first, when Google receives a number of queries from
@@ -368,9 +366,7 @@ change my IP address to a server in Germany and had Danish as my default
 language setting, it was quite likely that these factors informed the
 search engine’s decision to provide me with these search results.
 
-[IMG2]
-
-("Fig. 2. Search query ‘Felix Baumgartner’ on google.at.")
+![Fig. 2. Search query ‘Felix Baumgartner’ on google.at.](images/Jacob_Ormen/Ormen_IMG2.png "Fig. 2. Search query ‘Felix Baumgartner’ on google.at.")
 
 To get a clearer idea of whether the language setting of the IP address
 influenced the constellation of search results, I conducted a
@@ -389,10 +385,7 @@ wants to appear as if coming from another country when searching Google,
 it is not enough simply to change the IP address. At a minimum it is
 required to change the language setting accordingly.
 
-[IMG3]
-
-("Fig. 3. Search on google.de with varying settings for language
-and IP-address.")
+![Fig. 3. Search on google.de with varying settings for language and IP-address.](images/Jacob_Ormen/Ormen_IMG3.png "Fig. 3. Search on google.de with varying settings for language and IP-address.")
 
 ####Personalization – the Known Unknowns of Search
 

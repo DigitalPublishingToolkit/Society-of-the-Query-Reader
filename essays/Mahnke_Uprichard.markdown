@@ -38,9 +38,7 @@ algorithmically-linked travels into (new and old) media spaces.
 
 ###&#35;searching
 
-[IMG1]
-
-("Fig. 1. I Google, therefore I am.")
+![Fig. 1. I Google, therefore I am.](images/Mahnke_Uprichard/figure-1.png "Fig. 1. I Google, therefore I am.")
 
 Search engines in general, and Google in particular, have become entry
 points to the internet. We use Google to verify information, to verify
@@ -206,9 +204,7 @@ autocompleted links.
 
 ###>start [enter]
 
-[IMG 2]
-
-("Fig. 2. Same but different.")
+![Fig. 2. Same but different.](images/Mahnke_Uprichard/figure-2.png "Fig. 2. Same but different.")
 
 ###&#35;thinkingmachines
 
@@ -243,13 +239,14 @@ visible these different and similar affordances that Google’s
 autocomplete algorithm becomes both a site and a mechanism whereby
 *imagination, creativity, and frivolity* produce accessibility.
 
-[IMG 3]
 
-("Fig. 3. Difference in time and space.")
+![Fig. 3. Difference in time and space.](images/Mahnke_Uprichard/figure-3.png "Fig. 3. Difference in time and space.")
 
-[IMG 4]
+()
 
-("Fig. 4. Growing an ‘imagination tree’.")
+![Fig. 4. Growing an ‘imagination tree’.](images/Mahnke_Uprichard/figure-4.png "Fig. 4. Growing an ‘imagination tree’.")
+
+()
 
 ###>end [stop]
 
@@ -474,17 +471,14 @@ changed to ‘Algorithmic Media’. Thinking that her friend had set up the
 page, Emma sent a silly message asking about the change of title (Figure
 5). ‘Algorithmic Media’, alias Martina, replied and explained.
 
-[IMG 5]
-
-("Fig. 5. Facebook conversation.")
+![Fig. 5. Facebook conversation.](images/Mahnke_Uprichard/figure-5.png "Fig. 5. Facebook conversation.")
 
 This is how algorithms brought us together, just as they bring so much
 of our world together, and they do so across time and space, everyday
 (Figure 6).
 
-[IMG 6]
+![Fig. 6. How the authors are related in time and space.](images/Mahnke_Uprichard/figure-6.png "Fig. 6. How the authors are related in time and space.")
 
-("Fig. 6. How the authors are related in time and space.")
 
 ###&#35;thanks
 

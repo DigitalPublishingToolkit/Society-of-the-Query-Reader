@@ -46,8 +46,7 @@ of a new world where he has been abducted, a tidy seaside holiday
 village apparently controlled by a secret organization, the goal of
 which is to extract the information of intelligence agents.
 
-[IMG00] 
-("Fig. 1. Googling *The Prisoner*.")
+![Fig. 1. Googling *The Prisoner*.](images/JobinGlassey/JobinGlassey_image00.png "Fig. 1. Googling *The Prisoner*.")
 
 Like many successful science fiction stories, this work has become, over
 time, a generic metaphor used to deconstruct different forms of
@@ -166,9 +165,7 @@ language. Let’s first search for 'Switzerland' on Google Switzerland,
 the English version of google.ch, because there are many plausible
 scenarios where someone’s language settings are set to English.
 
-[IMG02] 
-("Fig. 2. Search results for 'Switzerland' on Google Switzerland
-(i.e. google.ch in English).")
+![Fig. 2. Search results for 'Switzerland' on Google Switzerland (i.e. google.ch in English).](images/JobinGlassey/JobinGlassey_image02.png "Fig. 2. Search results for 'Switzerland' on Google Switzerland [i.e. google.ch in English].")
 
 Further, let’s see what happens when the language settings were set to
 German, French, Italian, or Romansh, and search again for 'Switzerland'
@@ -271,9 +268,7 @@ Svizzera displays news only from Italian (!) media. Yet another very
 different world is the one of Google Svizra: most of the results are
 websites of national media stations.
 
-[IMG14] 
-("Fig. 3. Searching for 'Svizra' on Google Svizra (i.e.
-google.ch in Romansh).")
+![Fig. 3. Searching for 'Svizra' on Google Svizra (i.e. google.ch in Romansh).](images/JobinGlassey/JobinGlassey_image14.png "Fig. 3. Searching for 'Svizra' on Google Svizra [i.e. google.ch in Romansh].")
 
 Maybe we should not be surprised to get different results. Ethan
 Zuckerman writes:
@@ -307,9 +302,7 @@ we expect, we will adjust our search by modifying or adding a keyword.
 We might not even have to type; Google’s ‘Related Searches’ are just a
 click away.
 
-[IMG15] 
-("Fig. 4. Related searches to 'Switzerland' on Google
-Switzerland.")
+![Fig. 4. Related searches to 'Switzerland' on Google Switzerland.](images/JobinGlassey/JobinGlassey_image15.png "Fig. 4. Related searches to 'Switzerland' on Google Switzerland.")
 
 Have you ever misspelled a word in the search query field? Google’s
 algorithms will immediately ask ‘Did you mean…?’ and suggest the
@@ -320,10 +313,7 @@ these algorithms mediate semantically between what we *mean* and which
 ‘linguistic prosthesis’, potentially impacting the written expression of
 our thoughts.[^16]
 
-[IMG16] 
-("Fig. 5. An excerpt of autocompletion retrievals why typing
-'Switzerland' (to the right of the comma are Google’s autosuggestions for the
-expression on the left).")
+![Fig. 5. An excerpt of autocompletion retrievals why typing 'Switzerland' (to the right of the comma are Google’s autosuggestions for the expression on the left).](images/JobinGlassey/JobinGlassey_image16.png "Fig. 5. An excerpt of autocompletion retrievals why typing 'Switzerland' [to the right of the comma are Google’s autosuggestions for the expression on the left].")
 
 Just as Rover, the big white balloon, prevents the Prisoner from leaving
 the village, algorithms may prevent a user’s potential search queries

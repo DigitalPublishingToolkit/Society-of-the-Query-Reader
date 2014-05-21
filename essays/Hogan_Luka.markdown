@@ -546,7 +546,7 @@ of content alone, it often points to books, movies, and music, popular
 lyrics and quotes. For example: love, death, grace, respect, and
 courage, when looked at more closely:
 
-[IMG1: LOVE IS 2013]
+![IMG1: LOVE IS 2013](images/Hogan-Luka/01-HOGAN-LOVE-IS-2013.png "IMG1: LOVE IS 2013")
 
 2013
 
@@ -591,7 +591,7 @@ Search/Suggest might one day lead us to the Republic of Google Nation.
 But, oh right, it already has. In fact, more than one Google Nation.
 [^15]**
 
-[IMG2: DEATH IS 2013] [either picture 1 or 2, whichever fits best]
+![IMG2: DEATH IS 2013](images/Hogan-Luka/02-HOGAN-DEATH-IS-2013.png "IMG2: DEATH IS 2013")
 
 2013
 
