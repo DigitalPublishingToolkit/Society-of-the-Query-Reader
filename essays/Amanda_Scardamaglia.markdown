@@ -1,4 +1,4 @@
-## Keywords, Trademarks and Search Engine Liability
+## Keywords, Trademarks, and Search Engine Liability
 
 ## Amanda Scardamaglia
 
@@ -50,7 +50,7 @@ undertake this analysis, it is necessary to first touch on the operation
 of internet search engines and their advertising services, including the
 use of keyword advertising.
 
-Understanding Keyword Advertising
+###Understanding Keyword Advertising
 
 Keyword advertising enables search providers and their advertisers to
 deliver relevant, tailored, consumer-specific ads to internet users. It
@@ -111,7 +111,7 @@ results page generated in Australia in response to a desktop search
 query using the LACOSTE trademark as a keyword, including both organic
 search results and sponsored links, as well as Google Knowledge Graph.
 
-![Fig. 1: Google Search Engine Response to Keyword Search for LACOSTE](images/Amanda_Scardamaglia/Figure-1.png "Fig. 1: Google Search Engine Response to Keyword Search for LACOSTE")
+![Fig. 1. Google Search Engine Response to Keyword Search for LACOSTE](images/Amanda_Scardamaglia/Figure-1.png "Fig. 1: Google Search Engine Response to Keyword Search for LACOSTE")
 
 Returning to sponsored links, advertisers using AdWords are able to
 specify each part of the three-part sponsored link. The advertiser can
@@ -157,7 +157,7 @@ for trademark infringement flowing from its sale of trademarks as
 keywords to third parties, although some trademark owners have also
 pursued the advertisers directly.
 
-Trademarks as Keywords and Trademark Infringement
+###Trademarks as Keywords and Trademark Infringement
 
 In most jurisdictions, trademark infringement is premised on the
 assessment of consumer confusion, which flows from the alleged
@@ -168,7 +168,7 @@ counterfeit, copy, or colorable imitation of a registered mark in
 connection with the sale, offering for sale, distribution, or
 advertising of any goods or services on or in connection with which such
 use is likely to cause confusion, or to cause mistake, or to deceive
-[…]’[^15] In order to succeed in a claim for
+[…]’.[^15] In order to succeed in a claim for
 infringement therefore, one must show (1) that the defendant has used
 (2) an identical or similar mark (3) in commerce (4) and that the
 defendant’s use is likely to confuse consumers.[^16]
@@ -234,12 +234,12 @@ carrying out commercial activity in the course of trade, these
 activities do not constitute use, as required for the purposes of
 trademark infringement:
 
-The fact of creating the technical conditions necessary for the use of a
+>The fact of creating the technical conditions necessary for the use of a
 sign and being paid for that service does not mean that the party
 offering the service itself uses the sign. To the extent to which it has
 permitted its client to make such a use of the sign, its role must, as
 necessary, be examined from the angle of rules of law other than Article
-5 […][^23]
+5 […].[^23]
 
 After determining that the use requirement could not be established, the
 ECJ terminated its inquiry at the first step of the above mentioned
@@ -268,7 +268,7 @@ others.[^26] More recently, Google was successful in
 defending a claim of trademark infringement, among a laundry list of
 other claims.[^27] As far as the trademark
 infringement claim was concerned, the matter was dismissed after the
-Court held the plaintiff’s trademark, Home Décor Center, was too generic
+Court held the plaintiff’s trademark, Home Decor Center, was too generic
 to warrant protection.
 
 Furthermore one cannot say definitively that Google has been victorious
@@ -298,7 +298,7 @@ not been established. Critically however, the court did not make any
 assessment as to the other elements of trademark infringement, including
 likelihood of confusion, much to the dismay of some:
 
-[…] the ECJ left open the door for future misbehaviour. For example,
+>[…] the ECJ left open the door for future misbehaviour. For example,
 suppose that, as a bonus for its most loyal clients, Google modified its
 natural search results so that on occasion the link to a trademark
 proprietor’s website diverts users to an advertiser’s page. This
@@ -356,10 +356,10 @@ their role in the sale of trademarks as keywords. To say that would be
 to ignore the potential scope and application of laws that govern
 against misleading and deceptive conduct in advertising – laws which in
 all likelihood, are better suited to regulating new and emerging market
-activities such as keyword advertising than trademark law has or ever
+activities such as keyword advertising than trademark law is or ever
 could be.
 
-Misleading and Deceptive Conduct and False Advertising
+###Misleading and Deceptive Conduct and False Advertising
 
 Some litigants have sought to test the legitimacy of Google’s AdWords
 facility under the laws regulating misleading and deceptive conduct and
@@ -398,7 +398,7 @@ advertising for four wheel drives). Thus, when a user entered the search
 terms 'Just 4x4s Magazine' into the Google search engine, they would be
 returned the following search result:
 
-![Fig. 2: Google Search Engine Response to Keyword Search for JUST 4X4S MAGAZINE](images/Amanda_Scardamaglia/Figure-2.png "Fig. 2: Google Search Engine Response to Keyword Search for JUST 4X4S MAGAZINE")
+![Fig. 2. Google Search Engine Response to Keyword Search for JUST 4X4S MAGAZINE](images/Amanda_Scardamaglia/Figure-2.png "Fig. 2: Google Search Engine Response to Keyword Search for JUST 4X4S MAGAZINE")
 
 The dispute, so far as it relates to Google, centered on its publishing
 the misleading and deceptive sponsored links, including the
@@ -436,7 +436,7 @@ advertising, including newspapers and television stations, finding that
 it had acted as more than a mere conduit and was the maker of the
 advertisements:
 
-The circumstance that the sponsored link is displayed as Google’s
+>The circumstance that the sponsored link is displayed as Google’s
 response to a user’s insertion of a search term into Google’s search
 engine prevents any analogy between this case and the case of the
 bill-board owner or the owner of a telephone network or the publisher of
@@ -458,7 +458,7 @@ appeal. Significant to this finding was the fact that the evidence
 against Google ‘[…] never rose so high as to prove that Google
 personnel, as distinct from the advertisers, had chosen the relevant
 keywords, or otherwise created, endorsed, or adopted the sponsored
-links.’ [^49] As such, Google was not liable as the
+links’.[^49] As such, Google was not liable as the
 maker of misleading and deceptive advertising content.
 
 Some consider the High Court’s decision a lost opportunity, since the
@@ -502,7 +502,7 @@ conduct, the High Court did not think it necessary to consider the
 relevance of this defense. The majority of French CJ, Crennan, and
 Kiefel JJ did however observe that:
 
-[…] an intermediary publisher who has endorsed or adopted a published
+>[…] an intermediary publisher who has endorsed or adopted a published
 representation of an advertiser without appreciating the capacity of
 that representation to mislead or deceive may have resort to the
 statutory defence. In those circumstances, recognising that its business
@@ -529,7 +529,7 @@ legislation, particularly in Australia, is also flexible enough for the
 courts to interpret broadly, so as to accommodate new and emerging
 commercial practices such as internet advertising.
 
-Where to From Here?
+###Where to From Here?
 
 Claims of search engine liability require carefully balancing a number
 of interests – the interests of trademark owners, consumers, and
@@ -542,7 +542,7 @@ the aforementioned Interflora**decision, where it was observed that ‘[…]
 keyword advertising is not inherently or inevitably objectionable from a
 trade mark perspective. On the contrary, the case law […] in this field
 recognises that, as a general rule, keyword advertising promotes
-competition [...]”[^56]
+competition […]'.[^56]
 
 As such, the courts have resisted applying a cheapest cost
 avoider[^57] interpretation to questions of search
@@ -550,7 +550,7 @@ engine liability and have instead recognized Google’s advertising
 service as a legitimate undertaking. Perhaps this is because the
 alternative would ‘[…] jeopardize the internet’s potential as an
 information resource and a catalyst for competition
-[…]’[^58] It may also have an undesirable chilling
+[…]’.[^58] It may also have an undesirable chilling
 effect in restricting the dissemination of truthful comparative
 advertising and unnecessarily sanctioning legitimate behavior by
 internet intermediaries.[^59] Thus, as Eric Goldman
@@ -575,13 +575,11 @@ therefore would more likely rest against the advertisers. And as to the
 laws relating to misleading and deceptive conduct or false advertising –
 well, in the absence of any statutory intervention, they seem the most
 viable and appropriate mechanism to regulate the conduct of both search
-engines and advertisers in this context into the future.
+engines and advertisers in this context in the future.
 
- 
+###References
 
-References
-
-1-800 Contacts Inc v WhenU.com Inc, 414 F 3d 400 (2d Cir, 2005)
+1-800 Contacts Inc v WhenU.com Inc, 414 F 3d 400 (2d Cir, 2005).
 
 1-800 Contacts Inc v Lens.com Inc , No. 11-4114, 11-4204, 11-4022 (10th
 Cir, 2013).
@@ -589,7 +587,7 @@ Cir, 2013).
 Allied Interstate LLC v Kimmel & Silverman PC, WL 4245987 (SDNY, 2013).
 
 Arthur, Charles. ‘Google Breaks 2005 Promise to Never Show Banner Ads on
-Search Results’, *The Guardian,*25 October 2013,
+Search Results’, *The Guardian*, 25 October 2013,
 http://www.theguardian.com/technology/2013/oct/24/google-breaks-promise-banner-ads-search-results.
 
 Australian Competition and Consumer Commission v Google Inc [2012] FCAFC
@@ -598,27 +596,27 @@ Australian Competition and Consumer Commission v Google Inc [2012] FCAFC
 Australian Competition and Consumer Commission v Trading Post [2011] FCA
 1086.
 
-Australian Gold Inc v Hatfield, 436 F 3d 1228 (10^th^ Cir, 2006).
+Australian Gold Inc v Hatfield, 436 F 3d 1228 (10th Cir, 2006).
 
 Bing Ads, ‘Intellectual Property Guidelines’,
 http://advertise.bingads.microsoft.com/en-us/editorial-intellectual-property-guidelines\#1.
 
 Bundesgerichtshof, I ZR 140/10 of 19 October 2011, *Vorschaubilder II*.
 
-Calabresi, Guido and Hirchshoff, Jon T. ‘Towards a Test for Strict
-Liability in Torts’, *Yale Law Journal*81 (1972): 1055-1085.
+Calabresi, Guido and Jon T. Hirchshoff. ‘Towards a Test for Strict
+Liability in Torts’, *Yale Law Journal* 81 (1972): 1055-1085.
 
 Calabresi, Guido. ‘Some Thoughts on Risk Distribution and the Law of
-Tort’, *Yale Law Journal*70 (1961):**499-533.
+Tort’, *Yale Law Journal*70 (1961): 499-533.
 
 Competition and Consumer Act 2010 (Cth).
 
-Dinwoodie, Graeme B and Janis, Mark D. ‘Confusion Over Use:
-Contextualism in Trademark Law’, *Iowa Law Review*92 (2007): 1597-1667.
+Dinwoodie, Graeme B. and Mark D. Janis. ‘Confusion Over Use:
+Contextualism in Trademark Law’, *Iowa Law Review* 92 (2007): 1597-1667.
 Also available from
 http://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1361&context=facpub.
 
-Dogan, Stacey L and Lemley, Mark A. ‘Trademark and Consumer Search Costs
+Dogan, Stacey L. and Mark A. Lemley. ‘Trademark and Consumer Search Costs
 on the Internet’, *Houston Law Review* 41 (2004): 777-838. Also
 available from
 http://www.houstonlawreview.org/archive/downloads/41-3\_pdf/dogan.pdf.
@@ -634,7 +632,7 @@ Ezzo v Google, 2:09-CV-00159 (MD Fla, 2010).
 First Council Directive 89/104/EEC of 21 December 1988 to Approximate
 the Law of the Member States Relating to Trade Marks.
 
-Franklyn, David J and Hyman, David A. ‘Trademarks as Search Engine
+Franklyn, David J. and Hyman, David A. ‘Trademarks as Search Engine
 Keywords: Much Ado About Something?’, *Harvard Journal of Law and
 Technology*26.2 (2013): 1-65.
 
@@ -648,7 +646,7 @@ Goldman, Eric. ‘Deregulating Relevancy in Internet Trademark Law’,
 Advertising’, Technology & Marketing Law Blog, 15 February 2011,
 http://blog.ericgoldman.org/archives/2011/02/microsoft\_adopt.htm.
 
-\_\_\_\_\_. ‘More Confirmation That Google Has Won the AdWords Trademark
+\_\_\_\_\_. ‘More Confirmation that Google Has Won the AdWords Trademark
 Battles Worldwide’, *Forbes*, 22 March 2013,
 http://www.forbes.com/sites/ericgoldman/2013/03/22/more-confirmation-that-google-has-won-the-adwords-trademark-battles-worldwide/.
 
@@ -668,7 +666,7 @@ Google Inc v Australian Competition and Consumer Commission [2013] HCA
 Google Inc, ‘Form 10-K: Annual Report’, 29 January 2013’,
 http://edgar.secdatabase.com/1404/119312513028362/filing-main.htm.
 
-GoTo.com v Walt Disney Co, 202 F 3d 1199 (9^th^ Cir, 2000).
+GoTo.com v Walt Disney Co, 202 F 3d 1199 (9th Cir, 2000).
 
 Home Decor Center Inc v Google Inc, CV 2:12-cv-05706-GW-SH (CD Cal,
 2013).
@@ -677,12 +675,12 @@ Interflora Inc v Marks and Spencer Plc [2013] EWHC 1291 (Ch).
 
 ‘Introducing the Knowledge Graph: Things not Strings’, Google Official
 Blog, 16 May 2012,
-http://googleblog.blogspot.com.au/2012/05/introducing-knowledge-graph-things-not.html
+http://googleblog.blogspot.com.au/2012/05/introducing-knowledge-graph-things-not.html.
 
 Jurin v Google Inc, WL 5011007 (ED Cal, 2012).
 
 Landes, William M. and Richard A. Posner. ‘Trademark Law: An Economic
-Perspective,’ *Journal of Law and Economics*30 (1987): 266–268.
+Perspective,’ *Journal of Law and Economics*30 (1987): 266-268.
 
 \_\_\_\_\_. *The Economic Structure* *of Intellectual Property*,
 Cambridge, MA: Harvard University Press,**2003.
@@ -690,7 +688,7 @@ Cambridge, MA: Harvard University Press,**2003.
 Language Council of Sweden, ‘Google Does Not Own the Language,’ 26 March
 2013, http://www.sprakradet.se/15922 (in Swedish).
 
-Lanham Act**15 USC**§1051 et seq. (2005)
+Lanham Act**15 USC**§1051 et seq. (2005).
 
 Marsoof, Althaf. ‘Online Service Providers and Third Party Trademark
 Infringement in Australia’, *International Journal of Law and
@@ -746,10 +744,8 @@ Trade Marks Act 1995 (Australia).
 
 Trkulja v Google Inc LLC & Anor (No 5) [2012] VSC 533.
 
- 
+###Notes
 
-Notes
-=====
 
 [^1]: See Language Council of Sweden, ‘Google Does Not Own the Language’,
     26 March 2013, http://www.sprakradet.se/15922 (in Swedish).
@@ -766,7 +762,7 @@ Notes
     significantly by the growth of the Chinese language search engine
     Baidu. See NetMarketShare, ‘Desktop Search Engine Market Share’,
     January2014,
-    http://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0..
+    http://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0.
 
 [^3]: In 2017 this figure is expected to grow to U.S. \$185 billion. See
     Pricewaterhouse Coopers, ‘Global Entertainment and Media Outlook:
@@ -869,7 +865,7 @@ Notes
     Intellectual Property*, Cambridge, MA: Harvard University
     Press,**2003.
 
-[^25]: Eric Goldman, ‘More Confirmation That Google Has Won the AdWords
+[^25]: Eric Goldman, ‘More Confirmation that Google Has Won the AdWords
     Trademark Battles Worldwide’, *Forbes*, 22 March 2013,
     http://www.forbes.com/sites/ericgoldman/2013/03/22/more-confirmation-that-google-has-won-the-adwords-trademark-battles-worldwide/.
 
@@ -910,7 +906,7 @@ Notes
     Cir, 2012), the District Court cited an internal Google study
     finding that even sophisticated consumers were sometimes unaware
     that sponsored links were advertisements. Compare this to the
-    findings set out in David J Franklyn and David A Hyman, ‘Trademarks
+    findings set out in David J. Franklyn and David A. Hyman, ‘Trademarks
     as Search Engine Keywords: Much Ado About Something?’, *Harvard
     Journal of Law and Technology*26.2 (2013): 1-65.
 
@@ -995,7 +991,7 @@ Notes
 
 [^55]: Such as the contextual approach to trademark infringement as
     suggested in Dinwoodie and Janis, ‘Confusion Over Use: Contextualism
-    in Trademark Law’, *Iowa Law Review* 92(2007): 1597-1667.
+    in Trademark Law’, *Iowa Law Review* 92 (2007): 1597-1667.
 
 [^56]: Interflora Inc v Marks and Spencer Plc [2013] EWHC 1291 at [288].
 

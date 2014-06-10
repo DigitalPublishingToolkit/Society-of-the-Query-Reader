@@ -44,7 +44,7 @@ we attend to how these search engines arrange, or mediate, information
 on the web in the form of ranked search results.
 
 Search results are however not easy to archive since the exact rankings
-of websites are reevaluated by proprietary and inaccessible algorithms
+of websites are re-evaluated by proprietary and inaccessible algorithms
 (including Google’s PageRank) for each query and thereby subject to
 change constantly. They are not documents in the same fashion as
 newspaper articles, tweets, or Facebook posts published online by
@@ -156,7 +156,7 @@ documents:
     would be to document certain keywords that retain salience in the
     popular mind (in other words: that get queried a lot over a longer
     period of time). Examples of keywords such as this could be
-    ‘terrorism’, ‘united states’, and ‘EU’. Here the goal would be too
+    ‘terrorism’, ‘United States’, and ‘EU’. Here the goal would be too
     look for associations between the keywords and websites, pictures,
     videos, discourses, or anything else one could find as relevant
     units of analysis. This approach, first of all, makes it possible to
@@ -348,10 +348,10 @@ to this question is that we need to be aware of the settings used when
 searching, then accept that in the end we can never really know the
 causal relationship involved.
 
-####We Know Where You Are... and What Language You Speak
+####We Know Where You Are… and What Language You Speak
 
 Two particular ranking factors that we need to be acutely aware of are
-the language settings and IP address. Picture 2 shows the outcome of an
+the language settings and IP address. Figure 2 shows the outcome of an
 attempt to query ‘Felix Baumgartner’ on google.at (the Austrian version
 of Google Search) to see the event from an Austrian perspective. Even
 though I specifically tried to avoid particular Danish search results by
@@ -401,7 +401,7 @@ of users have made this task very hard, if not
 impossible.[^22] There simply exists no vantage point
 from which the researcher can analyze the search results objectively. We
 know that the results are personalized (partly because Google confirms
-this repeatedly),[^23]but we don’t know exactly how.
+this repeatedly),[^23] but we don’t know exactly how.
 This fact forces scholars to give up on these strict quantitative
 designs and either abandon search studies altogether (as I sense quite a
 few have chosen to do) or work with these limitations actively in their
@@ -492,7 +492,7 @@ compile a pool of participants with characteristics as different as
 possible according to specified criteria. If search results vary little
 across this group of participants, one could establish a stronger case
 for the consistency of these particular results. As such, this approach
-to archival research resemble many traditional qualitative research
+to archival research resembles many traditional qualitative research
 designs.
 
 If reliable VPN servers are available, then it is possible to conduct
@@ -526,7 +526,7 @@ and Paid Search Effectiveness: A Large Scale Field Experiment’, The
 National Bureau of Economic Research Working Paper, 6 March 2013,
 http://conference.nber.org/confer/2013/EoDs13/Tadelis.pdf.
 
-Dayan, Daniel, and Elihu Katz. *Media Events: The Live Broadcasting of
+Dayan, Daniel and Elihu Katz. *Media Events: The Live Broadcasting of
 History,* Cambridge, Mass.: Harvard University Press, 1992.
 
 Edelman, Benjamin. ‘Hard-Coding Bias in Google “Algorithmic” Search
@@ -550,10 +550,10 @@ Hillis, Ken, Michael Petit, and Kylie Jarrett. *Google and the Culture
 of Search,* New York, NY and Oxon, UK: Routledge, 2013.
 
 Iorga, Catalina, ‘Erik Borra and René König Show Google Search
-Perspectives on 9/11’, Institute of Network Culture, 11 November 2013,
+Perspectives on 9/11’, Institute of Network Cultures, 11 November 2013,
 http://networkcultures.org/wpmu/query/2013/11/11/erik-borra-and-rene-konig-google-search-perspectives-on-911/.
 
-Jensen, Klaus Bruhn. ‘Meta-Media and Meta-Communication-Revisiting the
+Jensen, Klaus Bruhn. ‘Meta-Media and Meta-Communication: Revisiting the
 Concept of Genre in the Digital Media Environment’, *MedieKultur.
 Journal of Media and Communication Research* 51 (2011): 8-21.
 
@@ -565,10 +565,10 @@ Kuzel, Anton J, ‘Sampling in Qualitative Inquiry’, in Benjamin F.
 Crabtree and William L. Miller (eds) *Doing Qualitative Research*,
 Thousand Oaks, CA: Sage Publications, Inc, 1992, pp. 31-44.
 
-Levitt, Steven D, and John A List, ‘Was There Really a Hawthorne Effect
+Levitt, Steven D. and John A. List, ‘Was There Really a Hawthorne Effect
 at the Hawthorne Plant? An Analysis of the Original Illumination
 Experiments’, *American Economic Journal: Applied Economics. American
-Economic Association* 3.1 (January 2011): 224-38,
+Economic Association* 3.1 (January 2011): 224-238,
 http://www.nber.org/papers/w15016.
 
 Lewandowski, Dirk. ‘Web Searching, Search Engines and Information
@@ -590,7 +590,7 @@ Dimension of Online Search’, *New Media & Society* (29 April 2013):
 0-19.
 
 Zuckerman, Ethan. ‘In Soviet Russia, Google Researches You!’, …My
-Heart’s in Accra Blog, 24 March 2011,
+Heart’s in Accra blog, 24 March 2011,
 http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches-you/.
 
 ###Notes
@@ -603,7 +603,7 @@ http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches
     Cultural Dimension of Online Search’, *New Media & Society* (29
     April 2013): 0-19.
 
-[^3]: Klaus Bruhn Jensen, ‘Meta-Media and Meta-Communication-Revisiting
+[^3]: Klaus Bruhn Jensen, ‘Meta-Media and Meta-Communication: Revisiting
     the Concept of Genre in the Digital Media Environment’,
     *MedieKultur. Journal of Media and Communication Research* 51
     (2011): 8-21.
@@ -615,9 +615,9 @@ http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches
 
 [^5]: See, https://developers.google.com/custom-search/.
 
-[^6]: See, ‘Google Web Search API Deprecated – What Now?’ Stackoverflow,
+[^6]: See, ‘Google Web Search API Deprecated – What Now?’, Stackoverflow,
     http://stackoverflow.com/questions/4082966/google-web-search-api-deprecated-what-now,
-    or What Free Web Search APIs Are Available?’, Stackoverflow,
+    or 'What Free Web Search APIs Are Available?’, Stackoverflow,
     http://stackoverflow.com/questions/6084096/what-free-web-search-apis-are-available.
 
 [^7]: As Richard Rogers described how people view this kind of research in
@@ -691,7 +691,7 @@ http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches
     224-238, http://www.nber.org/papers/w15016.
 
 [^19]: Ethan Zuckerman, ‘In Soviet Russia, Google Researches You!’, …My
-    Heart’s in Accra Blog, 24 March 2011,
+    Heart’s in Accra blog, 24 March 2011,
     http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches-you/.
 
 [^20]: See e.g. Benjamin Edelman, ‘Hard-Coding Bias in Google “Algorithmic”
@@ -728,10 +728,10 @@ http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches
     reasons they provide for querying specific events.
 
 [^27]: Anton J. Kuzel, ‘Sampling in Qualitative Inquiry’, in Benjamin F.
-    Crabtree and William L. Miller (eds), *Doing Qualitative Research*,
+    Crabtree and William L. Miller (eds) *Doing Qualitative Research*,
     Thousand Oaks, CA: Sage Publications, Inc, 1992, pp. 31-44.
 
-[^28]: See.g. Rob Fishman, ‘Stories You Might Like: Join Our Beta Program
+[^28]: See e.g. Rob Fishman, ‘Stories You Might Like: Join Our Beta Program
     to Test HuffPost Recommendations’, *The Huffington Post*, 6 January
     2011,
     http://www.huffingtonpost.com/rob-fishman/stories-you-might-like-jo\_b\_800427.html.
