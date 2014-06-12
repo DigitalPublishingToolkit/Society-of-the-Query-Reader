@@ -1,6 +1,19 @@
-## Keywords, Trademarks, and Search Engine Liability
-
-## Amanda Scardamaglia
+---
+title: Keywords, Trademarks and Search Engine Liability
+author: Amanda Scardamaglia
+keywords: [nothing, nothingness]
+abstract: |
+    In 2012 the Language Council of Sweden added the word ‘ungoogleable’ to
+    its annual list of Swedish words that are not in the Swedish dictionary
+    but have become part of the common vernacular. The word, which in
+    Swedish translates to ‘ogooglebar’, was defined as something that cannot
+    be found on any search engine. Google objected and demanded the
+    definition be amended to refer specifically to its search engine,
+    incorporating a disclaimer stating that Google is a trademark of Google
+    Inc. The Swedish Language Council resisted, and, after observing that
+    language development and the protection of trademarks are anomalous, it
+    declared the word would not be included on its final list.
+---
 
 In 2012 the Language Council of Sweden added the word ‘ungoogleable’ to
 its annual list of Swedish words that are not in the Swedish dictionary
@@ -577,7 +590,7 @@ well, in the absence of any statutory intervention, they seem the most
 viable and appropriate mechanism to regulate the conduct of both search
 engines and advertisers in this context in the future.
 
-###References
+###References {.references}
 
 1-800 Contacts Inc v WhenU.com Inc, 414 F 3d 400 (2d Cir, 2005).
 
@@ -744,7 +757,7 @@ Trade Marks Act 1995 (Australia).
 
 Trkulja v Google Inc LLC & Anor (No 5) [2012] VSC 533.
 
-###Notes
+###Notes {.notes}
 
 
 [^1]: See Language Council of Sweden, ‘Google Does Not Own the Language’,
