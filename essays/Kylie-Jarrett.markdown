@@ -1,7 +1,7 @@
-##A Database of Intention?
-
-##Kylie Jarrett
-
+---
+Title: A Database of Intention?
+Author: [Kylie Jarrett]
+---
 In his 2005 study of Google, industry analyst John Battelle describes
 the company’s technology as a ‘database of intentions’, ‘a massive
 clickstream database of desires, needs, wants, and preferences that can
@@ -37,7 +37,7 @@ database of intention. The interrelated vignettes seek to explore some
 of the tensions of Google’s data-mapping in order to complicate our
 picture of the political economy of search.
 
-###Vignette One: Intention and Alienation
+##Vignette One: Intention and Alienation
 
 When U.S. National Security Agency employee Edward Snowden bravely
 released information about the U.S. government clandestine surveillance
@@ -176,7 +176,7 @@ intention. Its quotidian functioning as a mechanism for generating and
 perpetuating alienation is no less ideological and is as implicated in
 inequitable power dynamics, and it should concern us just as much.
 
-###Vignette Two: The Intentional Fallacy
+##Vignette Two: The Intentional Fallacy
 
 As part of a discussion on issues of censorship and in an attempt to
 demonstrate the capacities of algorithms to dictate information
@@ -299,7 +299,7 @@ capture the meaningful, inalienable aspects of my intention. These
 cannot be alienated from me. They cannot be expropriated from me. And
 that is a source of comfort.
 
-###Vignette Three: Preempting Intention
+##Vignette Three: Preempting Intention
 
 The austerity of Google’s home search page is often commended. The
 simplicity of the page speaks to the infinite potential of the web and
@@ -392,7 +392,7 @@ capture the affective desires that animate our searches, but the logic
 of its algorithms can become so entwined with how we articulate those
 into intentions that the distinction becomes null and void.
 
-###Vignette Four: Intentional Subjects
+##Vignette Four: Intentional Subjects
 
 In the vast architecture of Google’s collection of data is an
 ever-changing entity that is effectively ‘Me’. This is the version of
@@ -543,7 +543,7 @@ liberal politics, removed from civil discourse via the proprietary
 nature of many algorithms’ that these database subjects exemplify that
 should perhaps be giving us greatest pause.[^26]
 
-###A Database in Tension
+##A Database in Tension
 
 To pull the various threads of these reflections together is not simple.
 Each vignette informs the other, but there is an inherent contradiction
@@ -607,7 +607,7 @@ reform the algorithmic logic of powerful mediators such as Google. This
 type of intervention should be an intentional goal of our interrogation
 of search.
 
-###References
+##References {.references}
 
 Battelle, John. *The Search: How Google and Its Rivals Rewrote the Rules
 of Business and Transformed Our Culture*, New York: Penguin, 2005.
@@ -681,7 +681,7 @@ Navigational Media and the Traffic Commodity’, in Amanda Spink and
 Michael Zimmer (ed.) *Web Search: Multidisciplinary Perspectives*.
 Berlin: Springer-Verlag, 2008, 177-206.
 
-###Notes
+##Notes {.notes}
 
 [^1]: John Battelle, *The Search: How Google and Its Rivals Rewrote the
     Rules of Business and Transformed Our Culture*, New York: Penguin,

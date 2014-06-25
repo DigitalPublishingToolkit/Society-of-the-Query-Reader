@@ -1,6 +1,7 @@
-##Search Control in China##
-
-##Min Jiang and Vicențiu Dîngă##
+---
+Title: "Search Control in China"
+Author: "Min Jiang and Vicențiu Dîngă"
+---
 
 Min Jiang is an Associate Professor of Communication at UNC Charlotte
 and an affiliate researcher at the Center for Global Communication
@@ -428,7 +429,7 @@ and knowledge productions. Much needs to be done to open dialogues and
 increase access to information and knowledge without losing sight of the
 need to preserve user privacy and integrity.
 
-##References
+##References {.references}
 
 Cashmore, Pete. ‘Bing Accused of Censoring Simplified Chinese Language
 Searches’, Mashable.com, 21 November 2009,
@@ -452,7 +453,7 @@ http://people.oii.ox.ac.uk/hanteng/2013/05/06/wikipedias-or-its-copycat-dominate
 Pariser, Eli. *The Filter Bubble: What the Internet Is Hiding from You*,
 New York: Penguin, 2011.
 
-##Notes
+##Notes {.notes}
 
 [^1]: Min Jiang, ‘The Business and Politics of Search Engines: A
     Comparative Study of Baidu’s and Google’s Search Results of Internet

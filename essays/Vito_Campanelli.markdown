@@ -1,6 +1,7 @@
-##Frictionless Sharing: The Rise of Automatic Criticism
-
-##Vito Campanelli
+---
+Title: "Frictionless Sharing: The Rise of Automatic Criticism"
+Author: "Vito Campanelli"
+---
 
 In recent months, revelations about the existence of the surveillance
 program called PRISM and the consequent scandal (the ‘datagate’) that
@@ -114,7 +115,7 @@ been specifically designed for us. This trend provokes great alarm,
 because it ends up affecting our ability to choose how we want to spend
 our life.[^10]
 
-###Right to Say No
+##Right to Say No
 
 From the perspective of cultural critique, the problematic relationship
 of humans with machines that have the capacity to filter cultural
@@ -163,7 +164,7 @@ decisions, at the same time it opens the doors to the fundamental
 freedom whereby we can say no to telematics itself.
 [^15]
 
-###Freedom to Program
+##Freedom to Program
 
 Flusser's interrogation into the opportunity to reject telematics and
 reassert human intelligence over artificial ones is particularly
@@ -291,7 +292,7 @@ critic is condemned to remain an illusion until it is possible again to
 look inside our apparatuses, to understand how they work, and to share
 such knowledge. [^32]
 
-###References
+##References {.references}
 
 Becker, Konrad and Felix Stalder (eds). Deep Search: The Politics of
 Search beyond Google, Innsbruck: Studienverlag, 2009.
@@ -348,7 +349,7 @@ Randomness , Princeton: Princeton University Press, 1999.
 \_\_\_\_\_. Six Degrees: The Science of a Connected Age , New York:
 Norton, 2003.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Zuckerberg's expression was the following: 'real-time serendipity in
     a friction-less experience'. See Sheila Shayon, 'Facebook Unveils

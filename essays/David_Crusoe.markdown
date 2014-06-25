@@ -1,6 +1,7 @@
-##Educating for Search: Understanding the Past and Present Search Technology to Teach for Future Resilience
-
-##Dave Crusoe
+---
+Title: "Educating for Search: Understanding the Past and Present Search Technology to Teach for Future Resilience"
+Author: Dave Crusoe
+---
 
 Who taught you web search? What do you remember learning? My formal
 introduction to web search was made in the mid 1990s, when I was in high
@@ -51,7 +52,7 @@ engages educators in cognitive dissonance over the nature of the topical
 education we provide, with the hope that a stronger educational
 experience will emerge.
 
-###A Starting Point: Boolean in the Digital Space
+##A Starting Point: Boolean in the Digital Space
 
 To have a productive discussion about the use of Boolean logic in the
 digital space, it’s important that we share an understanding of what
@@ -133,7 +134,7 @@ forced the relationship between information seeking practices and search
 to evolve past the ‘Boolean’ phase. In this next section, we’ll
 investigate those pressures.
 
-###Evolution: Pressures to ‘Do Better’
+##Evolution: Pressures to ‘Do Better’
 
 Perhaps the most fundamental goal of any engine is to provide users
 quickly with high quality content that responds accurately to the
@@ -220,7 +221,7 @@ that a user has entered – the search provider wants to understand and
 interpret what the user really wants *to know*. What the provider
 utilizes to produce this portrait of intent is called *signals*.
 
-###The Result: From Interpreting a Query to Interpreting Intent
+##The Result: From Interpreting a Query to Interpreting Intent
 
 Writing about the future of search, a 2002 research team proposed:
 ‘We need a new generation of web searching tools based upon a more
@@ -313,7 +314,7 @@ sum of all signals we send to the engine. In sum, *we must think of the
 query as the sum of all signals we send to the engine* and not simply
 the words that we type into the search box.
 
-###Search Education in a Signals World
+##Search Education in a Signals World
 
 To respond to these shifts, search education must focus on what’s
 appropriate, of high value, and leads learners to develop an
@@ -417,7 +418,7 @@ if it were an assignment to improve upon resources that had already been
 identified? Perhaps, as educators, we could work harder to engage
 learners in critiquing their own sources – and at an earlier age.
 
-###Conclusions
+##Conclusions
 
 In the past decade, search engine technology has become immeasurably
 more sophisticated. Paradigms that were once helpful, including the user
@@ -448,7 +449,7 @@ resilient through inevitable technological evolution.
 *Special thanks to Mary Roth, IBM Research, and Sara Armstrong, OnCUE,
 for their feedback.*
 
-###References
+##References {.references}
 
 Broder, Andrei. 'A Taxonomy of Web Search', *ACM Sigir Forum* 36.2 (2002):
 3-10.
@@ -504,7 +505,7 @@ Way Back Machine, 21 November 1996, archive of ‘How to Use Excite
 Search’,
 http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.
 
-###Notes
+##Notes {.notes}
 
 [^1]: The Common Core references algebraic set theory in its high school
     appendices. See

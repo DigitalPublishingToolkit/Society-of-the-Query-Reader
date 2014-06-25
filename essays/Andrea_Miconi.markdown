@@ -1,8 +1,9 @@
-##Dialectic of Google
+---
+Title: Dialectic of Google
+Author: Andrea Miconi
+---
 
-##Andrea Miconi
-
-###Premise
+##Premise
 
 Let’s be honest: we don’t know exactly how Google works. However, we all
 use Google to get information, probably because everybody else does. And
@@ -50,7 +51,7 @@ free of charge tool, likely to enable people to look for almost
 everything they want. But what is the secret of Google’s success,
 information for information’s sake, or something more complicated?
 
-###The Kingdom of (Apparent) Neutrality
+##The Kingdom of (Apparent) Neutrality
 
 Apparent neutrality: this could be a good definition for this search
 engine’s industrial strategies. In other words, Google’s lack of
@@ -168,7 +169,7 @@ to challenge search engines, or question their reliability and
 transparency. If we consider that people now limit their consumption to
 *one* search engine, the problem suddenly becomes evident.
 
-###Google as Social Pattern
+##Google as Social Pattern
 
 I said earlier that people use only Google and so do I, but is this
 happening by accident or design? The reason why everybody uses Google
@@ -229,7 +230,7 @@ between ‘vertical’ and ‘horizontal’ media does not provide a serious
 understanding of power as it is now taking place within the new digital
 platforms.
 
-###The Bubble Will Have You
+##The Bubble Will Have You
 
 PageRank is simply the first stage in Google’s strategy. The second is
 characterized by the customization strategies through the use of
@@ -335,7 +336,7 @@ detected. Google’s action is therefore splitting into two different and
 almost opposite tendencies: the maximum degrees of standardization and
 individualization, which becomes quite a challenge for social studies.
 
-###Dialectic of Google
+##Dialectic of Google
 
 I’ve said the maximum degrees of standardization and individualization
 coexist in the same device. This seems to confirm Geert Lovink’s idea
@@ -464,7 +465,7 @@ digital market where there is no room for conflict. What a powerful
 device, and what an ideal habitus for the world order of late
 capitalism.
 
-###References
+##References {.references}
 
 Adorno, Theodor and Max Horkheimer. *Dialectic of Enlightenment* (1944),
 London: Verso, 1997.
@@ -551,7 +552,7 @@ Information Science and Technology* 54.8 (2003): 743-758.
 
 Weinberger, David. *Too Big to Know*, New York: Basic Books, 2011.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Data available at www.comscore.com.
 

@@ -1,6 +1,7 @@
-##Dominating Search: Google Before the Law
-
-##Angela Daly
+---
+Title:  "Dominating Search: Google Before the Law"
+Author: Angela Daly
+---
 
 For many, particularly in the Anglophone world and Western Europe, it
 may be obvious that Google has a monopoly over online search and
@@ -26,7 +27,7 @@ Google’s business model rests, at least partially, on them – especially
 the data collected about them. If they stop using Google, then Google is
 nothing.
 
-###The Case Against Google
+##The Case Against Google
 
 Google has been challenged on both sides of the northern Atlantic
 through competition investigations into the operation of its online
@@ -45,7 +46,7 @@ the ‘Quality Score’ of competitors’ sponsored links. This practice would
 make users more likely to click on Google’s services rather than its
 competitors’ vertical search services.
 
-####Google’s Dominance
+###Google’s Dominance
 
 Google is certainly the most prominent of the search engines in Europe
 and the US; it is the market leader in the overall European market for
@@ -90,7 +91,7 @@ addition, Google has built up a portfolio of related products and
 services from which it also harvests user data for its search business.
 [^7]
 
-####The Competition Investigations
+###The Competition Investigations
 
 The European Commission opened its investigation into Google in November
 2010 for an alleged abuse of its dominant position contrary to Art 102
@@ -280,7 +281,7 @@ consumers, not competitors, and that this proposal strikes the right
 balance between allowing Google to improve its services and giving users
 a ‘real choice between different options’.[^19]
 
-####Federal Trade Commission (FTC)
+###Federal Trade Commission (FTC)
 
 In the U.S., the Federal Trade Commission (FTC) also conducted an
 antitrust investigation into Google and came to a very different
@@ -313,7 +314,7 @@ the way in which it is presented.[^22] If the FTC had
 tried to impose regulations in this way, then Google may claim that it
 would be unconstitutional and thus illegal for them to do so.
 
-####The Users’ Perspective
+###The Users’ Perspective
 
 In any event, aside from how users might see and act on information in
 Google’s search results pages, the perspective of users vis-à-vis a
@@ -353,7 +354,7 @@ American context as exacerbated by concentrated search markets, since
 consumers are left without meaningful choices given few or no
 competitors.[^27]
 
-###Competition Law: Could Do Better?
+##Competition Law: Could Do Better?
 
 The result of the two investigations has been that in Europe, Google
 seems to have abused its dominant position regarding how it displays
@@ -513,7 +514,7 @@ they perceive as a monopoly. Nevertheless, it is clear that the
 Commission has not been overly ‘invasive’ of Google’s business
 practices, and particularly those which hold the most concern for users.
 
-###Can Other Areas of Law Help?
+##Can Other Areas of Law Help?
 
 Although competition law seems inadequate for properly addressing the
 issues created by Google’s dominant position for users, there are other
@@ -694,7 +695,7 @@ issue remains: the time it takes for law and regulation to be discussed,
 enacted, then implemented, which is at odds with the high speed of new
 technological markets that govern online search and advertising.
 
-###Extra-Legal Solutions
+##Extra-Legal Solutions
 
 Since the law and regulation, for various reasons listed above, seem
 inadequate, extra-legal solutions may be the most appropriate for
@@ -733,7 +734,7 @@ to that, these search engines cannot constantly update the quality of
 search by accessing data to improve their results as Google does, so
 their results are likely to be less ‘accurate’ or ‘relevant’.
 
-###References
+##References {.references}
 
 Almunia, Joaquin. ‘Statement on the Google investigation’ European
 Commission SPEECH/14/93, 5 February 2014.
@@ -883,7 +884,7 @@ Volokh, Eugene and Falk, Donald, M. ‘First Amendment Protection for
 Search Engine Search Results’, Google White Paper, 20 April 2012,
 http://www.volokh.com/wp-content/uploads/2012/05/SearchEngineFirstAmendment.pdf.
 
-###Notes
+##Notes {.notes}
 
 [^1]: ‘Antitrust’ is the U.S. term, whereas ‘competition’ is used in most
     other jurisdictions, including the United Kingdom and European

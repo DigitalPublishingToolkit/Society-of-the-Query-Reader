@@ -1,6 +1,7 @@
-##Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results
-
-##Jacob Ørmen
+---
+Title: "Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results"
+Author: "Jacob Ørmen"
+---
 
 Who would not want to know which results you would have gotten if you
 had entered the keyword ‘terrorism’ into Google’s search bar just before
@@ -61,7 +62,7 @@ pertinent challenges and suggest some ways forward. Hopefully, this
 analysis can shed some new light on how search results can be used as
 historical sources in future research.
 
-###‘All Those Moments Will Be Lost in Time, Like Tears in Rain’
+##‘All Those Moments Will Be Lost in Time, Like Tears in Rain’
 
 The problem of irretrievable information is anything but new – in fact,
 the majority of communication has always been (and still is) lost for
@@ -227,7 +228,7 @@ originally intended to provide empirical material for another article,
 but ended up being the cause for why I decided to write this article
 instead.
 
-###The Cat and the Mouse in the Google Sphere
+##The Cat and the Mouse in the Google Sphere
 
 On 14 October 2012 at about 12:08 MDT, some 38 kilometers above the
 face of the earth, Felix Baumgartner stepped out of the capsule that had
@@ -256,7 +257,7 @@ archiving the searches in real time. The latter proved to be a
 frustrating yet enlightening game of cat and mouse, which started with
 the selection of relevant search queries.
 
-####Finding the Right Key
+###Finding the Right Key
 
 I decided to map the Red Bull Stratos about a week before the event took
 place because it had already received quite a lot of attention from
@@ -311,7 +312,7 @@ have to be chosen with care. Here, pilot studies (simply trying
 different keywords in different contexts) and data from Google Trends
 are a tremendous help.
 
-####Who Is the Subject and Who Is the Researcher?
+###Who Is the Subject and Who Is the Researcher?
 
 The hard part about studying Google Search on a systematic basis is that
 Google soon realizes that it is being studied. Even though the so-called
@@ -348,7 +349,7 @@ to this question is that we need to be aware of the settings used when
 searching, then accept that in the end we can never really know the
 causal relationship involved.
 
-####We Know Where You Are… and What Language You Speak
+###We Know Where You Are… and What Language You Speak
 
 Two particular ranking factors that we need to be acutely aware of are
 the language settings and IP address. Figure 2 shows the outcome of an
@@ -387,7 +388,7 @@ required to change the language setting accordingly.
 
 ![Fig. 3. Search on google.de with varying settings for language and IP-address.](images/Jacob_Ormen/Ormen_IMG3.png "Fig. 3. Search on google.de with varying settings for language and IP-address.")
 
-####Personalization – the Known Unknowns of Search
+###Personalization – the Known Unknowns of Search
 
 Apart from the choice of keywords, language settings, and location-based
 results, there is of course the increasingly ‘black-boxed’ issue of
@@ -454,7 +455,7 @@ second-guessing Google is probably not the right way to proceed for
 research. Instead we should use the search results for a different
 purpose and in context with other information at hand.
 
-###So What’s Next...?
+##So What’s Next...?
 
 As historians would know, relying on single sources is a haphazard
 affair that could lead to dangerous conclusions (who says that this one
@@ -519,7 +520,7 @@ material and embrace the uncertainties we must accept as researchers. I
 have suggested one way of doing this here. Maybe others can carry the
 torch a bit further.
 
-###References
+##References {.references}
 
 Blake, Thomas, Chris Nosko, and Steven Tadelis. ‘Consumer Heterogeneity
 and Paid Search Effectiveness: A Large Scale Field Experiment’, The
@@ -593,7 +594,7 @@ Zuckerman, Ethan. ‘In Soviet Russia, Google Researches You!’, …My
 Heart’s in Accra blog, 24 March 2011,
 http://www.ethanzuckerman.com/blog/2011/03/24/in-soviet-russia-google-researches-you/.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Ken Hillis, Michael Petit, and Kylie Jarrett, *Google and the
     Culture of Search,* New York, NY and Oxon, UK: Routledge, 2013.

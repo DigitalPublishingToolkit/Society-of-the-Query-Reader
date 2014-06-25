@@ -1,6 +1,7 @@
-Polluted and Predictive, in 133 Words
-
-Mél Hogan and M.E. Luka
+---
+Title: "Polluted and Predictive, in 133 Words"
+Author: "Mél Hogan and M.E. Luka"
+---
 
 >*Never forget that Google collects data for a commercial purpose. It is
 not a public archive. Besides this, the Google search engine is getting
@@ -1096,7 +1097,7 @@ entirely different.**
 *Big thank you to Andrea Zeffiro with help formatting footnotes and works
 cited for this piece.*
 
-###References
+##References {.references}
 
 Anderson, Benedict. Imagined Communities, London and New York: Verso,
 2006 (1983).
@@ -1206,7 +1207,7 @@ Square Press/Simon & Schuster Inc., 1993 (1988).
 Young, Nora. The Virtual Self: How Our Digital Lives Are Altering the
 World Around Us, Toronto: McClelland & Stewart, 2012.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Geert Lovink, 'Back from Gent: Notes on Memories of the Future', 26
     June 2010, Net Critique blog,

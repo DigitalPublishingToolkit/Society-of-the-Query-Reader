@@ -1,6 +1,8 @@
-##Society of the Query Conferences
+---
+Title: Society of the Query Conferences
+---
 
-###SOCIETY OF THE QUERY I
+##SOCIETY OF THE QUERY I
 
 November 13-14, 2009, TrouwAmsterdam
 
@@ -74,7 +76,7 @@ Speakers: Florian Cramer (NL), Antoine Isaac, Steven Pemberton (NL)
 
 host: Michael Stevenson (NL)
 
-###SOCIETY OF THE QUERY II
+##SOCIETY OF THE QUERY II
 
 AMSTERDAM, THE NETHERLANDS
 

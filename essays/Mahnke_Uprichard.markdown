@@ -1,8 +1,9 @@
-##Algorithming the Algorithm
+---
+Title: "Algorithming the Algorithm"
+Author: Martina Mahnke and Emma Uprichard
+---
 
-##Martina Mahnke and Emma Uprichard
-
-###&#35;hello
+##&#35;hello
 
 Imagine sailing across the ocean. The sun is shining, vastness all
 around you. And suddenly [BOOM] you’ve hit an invisible wall. Welcome to
@@ -25,7 +26,7 @@ reflexive way, thereby rendering more visible some of the excitement
 and frivolity that comes from being and becoming part of the riddling
 rhythm of the algorithmic everyday life.
 
-###&#35;warning
+##&#35;warning
 
 We’ve adopted an alternative textual style, which may annoy and confuse
 some readers, though hopefully also amuse and intrigue others. Therefore
@@ -36,7 +37,7 @@ sake of it. Instead, what we do is experimental and reflects some of the
 unexpected landings, spontaneity, and at times insanity of our
 algorithmically-linked travels into (new and old) media spaces.
 
-###&#35;searching
+##&#35;searching
 
 ![Fig. 1. I Google, therefore I am.](images/Mahnke_Uprichard/figure-1.png "Fig. 1. I Google, therefore I am.")
 
@@ -86,7 +87,7 @@ imagination, creativity, and frivolity, if we allow them to. And all of
 a sudden we might learn: their power is mutable, once we start playing
 around.
 
-###&#35;perspectives
+##&#35;perspectives
 
 From a mathematical perspective, algorithms have been around for
 centuries. As Charbert summarizes in simple terms,[^8]
@@ -136,7 +137,7 @@ creating, and playing with what is there already in the present and what
 will be in the future. In other words, autocomplete instigates and
 facilitates imagination, creativity, and frivolity.
 
-###&#35;whatalgorithmsdo
+##&#35;whatalgorithmsdo
 
 Through their rule-based simplicity, algorithms enable a space, place,
 and time to re-do the old and new simultaneously, nonlinearly, in an
@@ -188,7 +189,7 @@ down. Ordering disorder. Always and everywhere. This or that. In short:
 sorting is all about *matching* and *ranking*. Two items are matched
 against each other and displayed in a ranked (dis)order.
 
-###&#35;diggingintothealgorithm
+##&#35;diggingintothealgorithm
 
 In order to dig into Google’s autocomplete algorithm a little further,
 we took screenshots and combined them with citations. We joined
@@ -202,11 +203,11 @@ write. Understanding the internet as a *digging place* for
 archaeological excavation. And using the internet to dig through the
 autocompleted links.
 
-###>start [enter]
+##>start [enter]
 
 ![Fig. 2. Same but different.](images/Mahnke_Uprichard/figure-2.png "Fig. 2. Same but different.")
 
-###&#35;thinkingmachines
+##&#35;thinkingmachines
 
 What’s the difference between human and machine? Is there a difference?
 Daniel Dennett [I’m feeling lucky ENTER] argues: ‘It is that special
@@ -248,9 +249,9 @@ autocomplete algorithm becomes both a site and a mechanism whereby
 
 ()
 
-###>end [stop]
+##>end [stop]
 
-###&#35;imagination
+##&#35;imagination
 
 Imagination is a way of seeing, knowing, and learning; it asks us to
 look beyond what we take for granted.[^16] Imagination
@@ -297,7 +298,7 @@ to the search sucks us back into an almost never-ending quest to find
 the answers to the questions we have never searched. However, this
 search also allows us to maintain a sense of creativity.
 
-###&#35;creativity
+##&#35;creativity
 
 Creativity is process. Creativity constitutes. To view Google’s
 autocomplete creatively can help us learn and think in new ways. The
@@ -330,7 +331,7 @@ with Google’s autocomplete in ways that are similar to activist
 movements. If Google can *shape* our views, perhaps we can use Google to
 *change* our views?
 
-###&#35;frivolity
+##&#35;frivolity
 
 >Frivolity is considered a harmless, unproductive activity outside the
 more structured activity of play. Huizinga (1950) in Homo Ludens notes
@@ -381,7 +382,7 @@ new tales, and new futures. Daily, mundanely. Juggling with hyperlinks
 and autocorrect. Everyday. Every day. ‘Taming the algorithmic tiger’
 with a smile, with frivolity, creativity, and imaginary rhythms.
 
-###&#35;lessonstolearn
+##&#35;lessonstolearn
 
 ‘Ceci n’est pas une pipe’ – ‘this is not a pipe’. Magritte shows us that
 things are not always what they appear to be. We live in a world in
@@ -459,7 +460,7 @@ in different times.
       =      Jack-in-a-box, always and never a surprise, predictably
 unpredictable.
 
-###&#35;thestorybehind
+##&#35;thestorybehind
 
 The story started on Facebook in May 2013. Martina (author one) had set
 up a new Facebook page and invited friends to ‘like’ the page. Emma
@@ -480,14 +481,14 @@ of our world together, and they do so across time and space, everyday
 ![Fig. 6. How the authors are related in time and space.](images/Mahnke_Uprichard/figure-6.png "Fig. 6. How the authors are related in time and space.")
 
 
-###&#35;thanks
+##&#35;thanks
 
 We’d like to thank Philipp Lenssen ( http://outer-court.com ) for kindly
 allowing us to use his image in the \#searching section. We have titled
 it ‘I Google, therefore I am’. It’s not the original title. We further
 like to thank Miriam Rasch and René König for their editorial effort.
 
-###&#35;references
+##&#35;references {.references}
 
 Alexander, Christopher. *Note on the Synthesis of Form*, Cambridge, MA:
 Harvard University Press, 1964.
@@ -583,7 +584,7 @@ Political Science, London, U.K., 2009.
 Waldrop, M. Mitchell. *Complexity: The Emerging Science at the Edge of
 Order and Chaos*, New York: Simon and Schuster, 1992.
 
-###&#35;notes
+##&#35;notes {.notes}
 
 [^1]: 1 Eli Pariser, *The Filter Bubble: What the Internet is Hiding from You*, London: Penguin Press, 2011.
 

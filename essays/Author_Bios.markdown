@@ -1,4 +1,6 @@
-##Author Biographies
+---
+Title: Author Biographies
+---
 
 **Aharon Amir** graduated from Brighton University’s visual & performing arts, and continued to question and practice performance in digital and network environments. Through time Aharon’s work moved from performative acts, to project making, and through to development of imagination and search technologies. Since late 80s, Aharon has presented in conferences and galleries (e.g., Conciousness-Reframed, Performance-Philosophy, Philadelphia ICA, Mediterranean Biennale); created and co-developed events and participation contexts (e.g., art and chat monthly, art-as-political-uselessnes ssymposium, future-of-production conference); co-created Narcissus (searchnarcissus.net) – award-winning search engine algorithm for dark data; developed events and projects with Interactive-TV, cultural websites, collaborative organisations, and educational organisations (e.g., Digihub, Lighthouse and Basekamp)
 

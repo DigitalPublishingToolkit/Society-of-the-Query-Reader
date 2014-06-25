@@ -1,6 +1,7 @@
-##‘I Am not a Web Search Result! I Am a Free Word’: The Categorization and Commodification of ‘Switzerland’ by Google
-
-##Anna Jobin and Olivier Glassey
+---
+Title: "‘I Am not a Web Search Result! I Am a Free Word’: The Categorization and Commodification of ‘Switzerland’ by Google"
+Author: Anna Jobin and Olivier Glassey
+---
 
 Imagine a world in which all your questions meet calculated answers
 defined and achieved by an opaque process. A place where your various
@@ -62,7 +63,7 @@ regard to accessing content through this service. We begin not from a
 small village but from a word, in order to understand how it is
 processed by passing through the ‘mills’ of Google.
 
-###Why Words Matter for Google
+##Why Words Matter for Google
 
 Google’s search algorithms determine the relevance of websites for
 particular search terms. More specifically, they determine which search
@@ -113,7 +114,7 @@ also the (re-)production of representations by linking words and
 meaning. And, words have the highest value for Google when their meaning
 can unambiguously be determined and commodified.
 
-###What is 'Switzerland'?
+##What is 'Switzerland'?
 
 We have decided to explore how ‘meaning’ is attributed to a word by
 undertaking a case study of the (in-)visibility of the categorization of
@@ -146,7 +147,7 @@ symptom of a complex dispositive based on linking words and their
 meaning: a symptom of a semantically determined lifeworld imposed on us,
 without transparency, on various levels.
 
-###'Switzerland' in Switzerland
+##'Switzerland' in Switzerland
 
 What happens if you search for the word 'Switzerland' in Switzerland?
 Well, it depends. Switzerland is a polyglot country. There are four
@@ -245,7 +246,7 @@ German google.ch is striking. Again, to the left of the results Google
 suggests that these results have not yet been filtered based on language
 nor on country of origin.[^14]
 
-###'Switzerland' in Switzerland in Swiss Languages
+##'Switzerland' in Switzerland in Swiss Languages
 
 Up to this point, we have been searching for a single word:
 'Switzerland'. Already, search results for the word's English expression
@@ -291,7 +292,7 @@ without privileging one over the others – is it acceptable that citizens
 of the *same* country get different information depending on the
 language they use?
 
-###What Is in Switzerland Stays in Switzerland
+##What Is in Switzerland Stays in Switzerland
 
 ‘So what?’ you might say. If we are looking for different pieces of
 information than we are presented with, all we have to do is search
@@ -323,7 +324,7 @@ impose their own invisible hermeneutics by interpreting words, reframing
 queries, and shaping entire semantic fields according to their own
 rules-based associations of words and their meaning.
 
-###Behind the Scenes: How Words Are Grouped and Sold
+##Behind the Scenes: How Words Are Grouped and Sold
 
 Remember how a Google search triggers not only search results but also
 ads? On Google AdWords, advertisers can consult Google’s ranking of
@@ -379,7 +380,7 @@ preference, constantly confronted with supposedly relevant meanings
 established through algorithmic procedures. No disambiguation, no
 freedom, and no accountability, only conformity.
 
-###The ‘Word Selling’ Business Becomes a Trade of ‘Meaning’
+##The ‘Word Selling’ Business Becomes a Trade of ‘Meaning’
 
 *The Prisoner* illustrates with astonishing accuracy our relationship
 with Google by raising crucial questions: What processes are shaping our
@@ -471,7 +472,7 @@ engine operates between us and our words.
 Keyword Planner data) were retrieved on 11 September 2013, between
 11.30am and 2pm, from Lausanne, Switzerland.*
 
-###References
+##References {.references}
 
 Barocas, Solon, Sophie Hood, and Malte Ziewitz. ‘Governing Algorithms: A
 Provocation Piece’, *SSRN Scholarly Paper*, Rochester, NY: Social
@@ -537,7 +538,7 @@ trans. Joachim Lompscher and Georg Rückriem, Weinheim; Basel: Beltz,
 Zuckerman, Ethan. *Rewire: Digital Cosmopolitans in the Age of
 Connection*, New York: W.W. Norton & Company, 2013.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Siva Vaidhyanathan, *The Googlization of Everything (And Why We
     Should Worry),* Berkeley: University of California Press, 2011.

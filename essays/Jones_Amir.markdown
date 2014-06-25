@@ -1,6 +1,7 @@
-##Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges
-
-##Phil Jones and Aharon Amir
+---
+Title: "Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges"
+Author: Phil Jones and Aharon Amir
+---
 
 Artists Phil Jones [^1] and Aharon Amir
 [^2] created the Narcissus Search Engine for N.E.W.S. in
@@ -37,7 +38,7 @@ unabridged transcriptions of the dialogues are available and searchable
 via Narcissus itself, [^6] and the original recordings
 are also available. [^7]
 
-###About Narcissus
+##About Narcissus
 
 Aharon Amir: I think Narcissus asks you to search within yourself how to
 imagine a search filter, by being confronted with a visibly changing
@@ -125,7 +126,7 @@ AA: It doesn't give you the false sense of eliminating the filter by
 making your own filter that isn't a filter but is actually a filter. It
 doesn't do that. Narcissus doesn't do this pseudo-shit.
 
-###Filter Bubbles
+##Filter Bubbles
 
 AA: I think ‘Search Art’, and Narcissus for a start, is interesting in
 that it's the beginning of a different way of imagining. By ‘Search Art’
@@ -237,7 +238,7 @@ That's a very interesting question I think, both in terms of the NSA and
 the fact that people will use technology not just because it makes them
 feel like they do stuff quicker, but because it makes them feel secure.
 
-###Search and Research
+##Search and Research
 
 PJ: So are people scared of search? Is it about a sort of fear? We
 mustn't go off the ‘beaten track’ or we'll get lost and won't find what
@@ -291,7 +292,7 @@ query terms, are being narcissistic. Looking for similarities,
 reflections of the term. Is this a difference between language of
 research and search?
 
-###A Language of Search
+##A Language of Search
 
 PJ: You talk of ‘giving as a search’. For example, there is a
 pedagogical technique where you give students an exercise to work out,
@@ -382,7 +383,7 @@ AA: Even a simple search in Google is multi-dimensional. You need at
 least three actors. I call it a sequence. BTW, when you have a minute,
 watch this SharkWheel video? [^16]
 
-###Skateboarding and Search
+##Skateboarding and Search
 
 PJ: Yes, talking of wheels and surfaces, skateboarding. You were
 searching for the Gasworks Gallery.
@@ -448,7 +449,7 @@ looked at me like ‘what do you mean?' [Laughs]
 PJ: Well if they're not skateboarders they may not know the kinds of
 pushes.
 
-###Search and Spectacle
+##Search and Spectacle
 
 PJ: What is the connection between search and spectacle?
 
@@ -607,7 +608,7 @@ PJ: HUH??!!
 AA: Yes. I always carry oranges onboard planes. They let me do that, and
 oranges explode very easily. [^22]
 
-###References
+##References {.references}
 
 Amir, Aharon. ‘Hissbhgrb’, 1 November 2013,
 http://aharonic.net/blog/hissbhgrb.
@@ -636,7 +637,7 @@ MA: Oxford University Press, 2000.
 Wikipedia contributors. 'Whitelist',
 http://en.wikipedia.org/wiki/Whitelist, accessed 5 January 2014.
 
-###Notes
+##Notes {.notes}
 
 [^1]: See, http://synaesmedia.net.
 

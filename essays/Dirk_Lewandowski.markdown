@@ -1,6 +1,7 @@
-##Why We Need an Independent Index of the Web
-
-##Dirk Lewandowski
+---
+Title: Why We Need an Independent Index of the Web
+Author: Dirk Lewandowski
+---
 
 Search engine indexes function as a ‘local copy of the
 web’[^1], forming the foundation of every search engine.
@@ -108,7 +109,7 @@ the merits of an independent index that is accessible to everyone and
 show that the lack of such an index can be viewed as a disincentive for
 investing in search.
 
-###Alternative Search Engine Indexes
+##Alternative Search Engine Indexes
 
 There are only a handful of search engines that operate their own
 indexes. Particularly among new search engine startups, it can
@@ -173,7 +174,7 @@ the more search result page ads are served. Consequently, large search
 engines with a comprehensive advertising network have an inherent
 advantage.[^11]
 
-###Access to Search Engine Indexes
+##Access to Search Engine Indexes
 
 The large search engine indexes can be accessed by means of what are
 known as application programming interfaces (APIs). The API allows
@@ -224,7 +225,7 @@ purpose of internet searching and analysis and more by whether or not it
 succeeds in generating awareness for the topic of publicly available web
 indexes.
 
-###Alternative Search Engines
+##Alternative Search Engines
 
 There have been efforts in the past to establish alternative search
 engines. But consensus is lacking on what constitutes an ‘alternative’.
@@ -310,7 +311,7 @@ not the search engine market is shared by two, three, or four
 participants. Only by establishing a considerable number of search
 engines can true diversity be achieved.
 
-###The Solution
+##The Solution
 
 The path to greater diversity, as we have seen, cannot be achieved by
 merely hoping for a new search engine (a Google killer), nor will
@@ -412,7 +413,7 @@ by everyone, ensures that the electrical grid is available to all, and
 generates and disseminates geodata. Making web data available is no
 different from these other public services.
 
-###References
+##References {.references}
 
 Bharat, Krishna and Andrei Broder. ‘A Technique For Measuring the
 Relative Size and Overlap of Public Web Search Engines’, *Computer
@@ -472,7 +473,7 @@ Schmidt, Holger. 'Googles Marktanteil steigt auf 96 Prozent in
 Deutschland', *Focus Online*, 12 March 2012,
 http://www.focus.de/digital/internet/netzoekonomie-blog/suchmaschinen-googles-marktanteil-steigt-auf-96-prozent-in-deutschland\_aid\_723240.html.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Knut Magne Risvik and Rolfe Michelsen, ‘Search Engines and Web
     Dynamics’, *Computer Networks* 39.3 (2002): 289-302.

@@ -1,6 +1,7 @@
-##Exploratory Search and Extended Cognition in Health Information Interaction
-
-##Martin Feuz
+---
+Title: "Exploratory Search and Extended Cognition in Health Information Interaction"
+Author: Martin Feuz
+---
 
 While researching expert Tetris players, cognitive scientists David
 Kirsh and Paul Maglio made the following interesting observation: these
@@ -25,7 +26,7 @@ interactivity and cognitive processes from an information processing
 model of mind towards understanding cognition as extending into and
 performing through the artifactual and social environment.
 
-###The Context: Health Search and Search Engines
+##The Context: Health Search and Search Engines
 
 According to Pew Research from June 2009, 57 percent of adults turn to
 the internet as a source of health information; for 60 percent,
@@ -140,7 +141,7 @@ intention to move beyond already familiar knowledge and explore novel
 terrain. Thus, the analysis and argument I develop will focus on this
 type of search interaction.
 
-###Exploratory Search
+##Exploratory Search
 
 Recently researchers have developed and characterized the notion of
 informational search as ‘exploratory search’,[^12]
@@ -171,7 +172,7 @@ these characteristics, the exploratory search process typically develops
 over the course of multiple sessions, which may last days, weeks, or
 months.
 
-###The Interface and Models of Interaction
+##The Interface and Models of Interaction
 
 Many search engine interfaces are typically built on a ‘commonly
 accepted’ set of action grammars and handles suggested by the Human
@@ -229,7 +230,7 @@ arguments about why models with a more embodied understanding and style
 of interactivity are particularly desirable in the realms of health
 search interaction will be developed in the next section.
 
-###Methods and Issues of Evidence-Based Medicine
+##Methods and Issues of Evidence-Based Medicine
 
 In order to appreciate why a lack of supporting exploratory types of
 search interaction is particularly problematic when searching for health
@@ -296,7 +297,7 @@ interaction would, for example, support the identification of central
 and peripheral actors in a knowledge domain and thus provide
 multifarious means of assessing contextual relevancy.
 
-###Cognitive Conceptions of Human Decision-Making
+##Cognitive Conceptions of Human Decision-Making
 
 Having briefly reflected on the methods and issues underlying
 contemporary evidence-based medicine, I posit that a more open-ended and
@@ -392,7 +393,7 @@ experimentation. Furthermore, typically the brain is conceptualized as a
 machine-like device that is the sole and sufficient locus of human
 cognition.[^34]
 
-###Rethinking Cognition in Exploratory Healthcare Information Interaction
+##Rethinking Cognition in Exploratory Healthcare Information Interaction
 
 Crucially, and in contrast to classic cognitive theories discussed
 above, from the perspective of the Extended Mind Thesis (EMT) cognition
@@ -493,7 +494,7 @@ cognition in these specific areas, along with how we might approach the
 challenge to redesign interfaces that match the potential for the web’s
 complexity.[^44]
 
-###References
+##References {.references}
 
 Bates, Marcia J. ‘Toward an Integrated Model of Information Seeking and
 Searching’, *The New Review of Information Behaviour Research* 3 (2002):
@@ -626,7 +627,7 @@ Retrieval, and Services* 1.1 (2009): 1-98.
 Zickuhr, Kathryn.*Generations 2010*, Pew Research Center, 16 December
 2010.
 
-###Notes
+##Notes {.notes}
 
 [^1]: David Kirsh and Paul Maglio, ‘On Distinguishing Epistemic from
     Pragmatic Action’, *Cognitive science* 18 (1994): 513.

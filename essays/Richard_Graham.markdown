@@ -1,6 +1,7 @@
-##A ‘History’ of Search Engines: Mapping Technologies of Memory, Learning, and Discovery
-
-##Richard Graham
+---
+Title: "A History of Search Engines: Mapping Technologies of Memory, Learning, and Discovery"
+Author: Richard Graham
+---
 
 Can we draw a timeline onto which search engines fit? This is at once an
 ordinary and odd question. We constantly contextualize technology,
@@ -151,7 +152,7 @@ set of connections to other technologies and also hopefully to shift
 some of the conceptions regarding the newness and exceptional nature of
 web search engines.
 
-###Remembering, (or More Accurately, Forgetting)
+##Remembering, (or More Accurately, Forgetting)
 
 >Knowledge is of two kinds. We know a subject ourselves, or we know where
 we can find information upon it. [^1]
@@ -398,7 +399,7 @@ individual use and development of certain capacities, both in isolated
 and social contexts. With the Quipus we can see that the constellation
 of *remembering* undermines itself.
 
-###Learning, (or Searching for Details)
+##Learning, (or Searching for Details)
 
 >At any point in history, institutions attempt to legitimate the current
 version of knowledge and truth by controlling the manner in which texts
@@ -544,7 +545,7 @@ technologies are required to strike between knowledge prerequisites for
 learning and open-ended discovery has been part of a much larger
 technological history than our modern search engine dilemmas.
 
-###Discovery (or Study Without End or Reason)
+##Discovery (or Study Without End or Reason)
 
 >Man would no longer need documentation if he were assimilated into an
 omniscient being – as with God himself. […] Everything in the universe,
@@ -685,7 +686,7 @@ decontextualize our technologies in order to see familiar ones in a new
 light. If search engines themselves do not respect traditional
 boundaries, then when we study them, why should we either?
 
-###References
+##References {.references}
 
 Baudin, Louis. A Socialist Empire: The Incas of Peru , New Jersey: D.
 Van Nostrand Company, 1961.
@@ -743,7 +744,7 @@ Inka Khipus’, *Ethnohistory* 45.3 (Summer, 1998): 409-438.
 Wright, Alex. *Glut: Mastering Information through the Ages*, New York:
 Cornell University Press, 2007.
 
-###Notes
+##Notes {.notes}
 
 [^1]: James Boswell, *The Life of Samuel Johnson Volume II*,**New York:
     Penguin, 1986 (1791), p. 257.

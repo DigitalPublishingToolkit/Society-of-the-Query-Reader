@@ -1,6 +1,7 @@
-##Finding Knowledge: What Is It to ‘Know’ When We Search?
-
-##Simon Knight
+---
+Title: "Finding Knowledge: What Is It to ‘Know’ When We Search?"
+Author: Simon Knight
+---
 
 >*You walk into the exam room, breathe a nervous sigh, sit down, and plug
 your laptop in. The URL for the questions is sent out, and you are
@@ -84,7 +85,7 @@ first by discussing some issues regarding research on technological
 changes, then by asking what role search functions fulfill and how these
 functions affect our own understanding of ‘knowledge’.
 
-###Researching Search
+##Researching Search
 
 The impact of the internet on how we think has caught popular attention
 in the many articles – often critical.[^3] However, many
@@ -115,7 +116,7 @@ as books, with indexes, chapters, reference lists, and so on, present
 information in certain ways, so too does the internet and its tools of
 access, such as search engines, browsers, and social network sites.
 
-###Search Engines as Informants
+##Search Engines as Informants
 
 An interesting aspect of the Danish example is the prohibition of
 communication websites in examinations. Yet the line between search
@@ -188,7 +189,7 @@ and demographic characteristics filter SERPs to provide individuals with
 biased information, affirming prior beliefs. It is to this issue that I
 now turn.
 
-###Search as an Epistemic Tool – More of What You Want
+##Search as an Epistemic Tool – More of What You Want
 
 The use of search engines to find information or sources of information
 is a common activity in which students must frequently engage. In a 2012
@@ -235,7 +236,7 @@ It is worth considering the role of the search engine in epistemic
 inquiry, and how search engines could foreground their assumptions about
 searchers to fulfill their roles as informants.
 
-###Testimonial Expertise
+##Testimonial Expertise
 
 >*You’re conducting a school research project on a local Spanish festival
 that happens to be a namesake of an English clothing brand. You ask your
@@ -263,7 +264,7 @@ although we might expect some of these to be left implicit (e.g.
 geolocation of information) but not others (e.g. political leanings, or
 perhaps facets such as literacy level).
 
-###Personalization
+##Personalization
 
 >*A search function returns English results, and when you check
 quantities it defaults to metric, always using a base 10 numeric
@@ -324,7 +325,7 @@ example of the socio-technical mediation of our understanding of
 information, before presenting a final challenge to the current status
 quo.
 
-###When No Answer Is Answer Enough
+##When No Answer Is Answer Enough
 
 An interesting, related problem concerning how we think about
 information comes in the form of the ‘testimony of silence’ – when the
@@ -374,7 +375,7 @@ that in the health domain, searchers favor positive over negative
 information *as do search engines*– thus creating a filter bubble based
 on a ‘testimony of silence’ around negative results.[^15] Importantly, this bias leads to the uptake of incorrect health information in many cases.[^16]
 
-###Diversity Aware Search
+##Diversity Aware Search
 
 In the preceding sections I have noted some concerns over how we look
 for information and why understanding the socio-technical factors
@@ -446,7 +447,7 @@ diversity-aware is that the user will almost never learn how biased the
 retrieved information is. It would help if search engines would state
 what kind of filtering and interpretative steps they perform.
 
-###Conclusions
+##Conclusions
 
 >*You are asked to draw a comparison among the perspectives in the
 sources, using your knowledge of the time. ‘Right’, you think, as you
@@ -476,7 +477,7 @@ our access to information, and education should reflect the importance
 of this awareness while also training our associated critical evaluation
 and credibility judgment skills.
 
-###References
+##References {.references}
 
 Adams, Tim. 'Google and the Future of Search: Amit Singhal and the
 Knowledge Graph', The Guardian , 19 January 2013,
@@ -556,7 +557,7 @@ White, Ryen W. ‘Beliefs and Biases in Web Search’, *SIGIR’13,* Dublin,
 Ireland, 28 July-1 August, 2013,
 http://research.microsoft.com/en-us/um/people/ryenw/papers/WhiteSIGIR2013.pdf.
 
-###Notes
+##Notes {.notes}
 
 [^1]: Andy Clark and David Chalmers, ‘The Extended Mind’, *Analysis* 58.1
     (1998): 7-19,
