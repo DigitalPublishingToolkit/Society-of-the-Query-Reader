@@ -34,6 +34,13 @@ productive for users. In light of big data, Google may be seen as *the*
 biggest method applied when trying to bring order to the web, to find
 answers to questions, to sift through the sea of information.
 
+| Search engine   | Ideology                    |
+| --------------- |:---------------------------:|
+| Google          | Capitalistic; monopoly      |
+| Bing            | Capitalistic; collaborative |
+| Yacy            | Distributed; decentralized  |
+| Wolfram\|Alpha  | Knowledge engine            |
+
 It is thus not surprising that Google is a flourishing company, and its
 algorithm incorporates and strengthens the capitalist ideology. Rather
 than blaming Google for doing evil, however, I suggest thinking of
@@ -330,7 +337,7 @@ clearly shows that the search engine characterizes itself as a true
 alternative to centralized search engines such as Google or Bing and
 their capitalist ideology:
 
-![Fig. 1. YaCy homepage, about YaCy](images/Author_name/mager_image1.png "Fig. 1. YaCy homepage, about YaCy")
+![Fig. 1. YaCy homepage, about YaCy](images/mager_image1.png "Fig. 1. YaCy homepage, about YaCy")
 
 Freedom and independence are put first. Rather than relying on big
 search engines, YaCy provides users with the possibility to run a search

@@ -1,8 +1,24 @@
-Is Small Really Beautiful? Big Search and Its Alternatives
-==========================================================
+--  
+Pr-id: Society of the Query  
+P-id: INC Readers  
+A-id: 9  
+Type: article  
+Book-type: anthology  
+Anthology item: article  
+Item-id: 00001  
+Article-title: Is Small Really Beautiful? Big Search and Its Alternatives  
+Article-status: accepted  
+Author: Astrid Mager  
+Author-email: info@astridmager.org  
+Author-bio: Astrid Mager, Dr. Phil, is a postdoctoral researcher at the Institute of Technology Assessement (ITA), Austrian Academy of Sciences, and a lecturer at the Department of Science and Technology Studies, University of Vienna. At present, she is leader of the project “Glocal Search. Search technology at the intersection of global capitalism and local socio-political cultures” (funded by the Jubiläumsfonds of the Oesterreichische Nationalbank (OeNB), project number 14702). Her theoretical background is in Science and Technology Studies (STS) and her primary research interests include internet and society, search engine politics, knowledge production, privacy, digital methods, and critical theory. Recent publications: “Technoscientific promotion and biofuel policy. How the press and search engines stage the biofuel controversy”, in Media, Culture & Society, 2013 (together with Jenny Eklöf), “Algorithmic ideology. How capitalist society shapes search engines”, in Information, Communication & Society, 2012, “Search engines matter: From educating users towards engaging with online health information practices, Policy & Internet, 2012. Visit http://www.astridmager.net.  
+Abstract: Astrid Mager discusses critically a selection of so-called alternative search engines and their ideological underpinnings. If Google embodies the capitalist ideology, what ideology do alternative search engines incorporate? Privacy-concerned search tools, green, scientific, and peer-to-peer search engines are examined.  
+Keywords: Institute of Network Cultures, Society of the Query, internet, search, search engines, web search, online search, Google, Astrid Mager, alternatives, ideology, green search, privacy, DuckDuckGo, Bing, Yahoo, data, technology, society, algorithm, user, algortihm, method, semantic search, metaphor, peer-to-peer, YaCy  
+Rights: Creative Commons  
 
-Astrid Mager
-============
+--
+
+#Title: Is Small Really Beautiful? Big Search and Its Alternatives
+#Author: Astrid Mager
 
 Google is big in many ways. The company offers a myriad of services and
 products ranging from basic keyword search to futuristic glass
@@ -17,6 +33,13 @@ argument is that big data needs big methods to be mined and made
 productive for users. In light of big data, Google may be seen as *the*
 biggest method applied when trying to bring order to the web, to find
 answers to questions, to sift through the sea of information.
+
+| Search engine   | Ideology                    |
+| --------------- |:---------------------------:|
+| Google          | Capitalistic; monopoly      |
+| Bing            | Capitalistic; collaborative |
+| Yacy            | Distributed; decentralized  |
+| Wolfram\|Alpha  | Knowledge engine            |
 
 It is thus not surprising that Google is a flourishing company, and its
 algorithm incorporates and strengthens the capitalist ideology. Rather
@@ -41,8 +64,7 @@ about green search engines? Can peer-to-peer search engines such as YaCy
 be interpreted as communist search engines? Could search be seen as a
 scientific endeavor as Wolfram|Alpha suggests?
 
-Big Search and Its Algorithmic Ideology 
-----------------------------------------
+##Big Search and Its Algorithmic Ideology 
 
 In my previous work,[^3] I argue that algorithms, like all other
 technologies, should not be understood as merely technical,
@@ -133,8 +155,7 @@ experts, is because there are no real alternatives. But is that actually
 the case? What about all the other search projects trying to challenge
 Google and provide an alternative style of search?
 
-Small Search and Its Ideological Inner Life
--------------------------------------------
+##Small Search and Its Ideological Inner Life
 
 There are a number of so-called alternative search engines that are not
 as big as Google, Bing, or Yahoo! and that lead their lives at the
@@ -316,9 +337,7 @@ clearly shows that the search engine characterizes itself as a true
 alternative to centralized search engines such as Google or Bing and
 their capitalist ideology:
 
-[IMG1]
-
-Fig 1. YaCy homepage, about YaCy
+![Fig. 1. YaCy homepage, about YaCy](images/mager_image1.png "Fig. 1. YaCy homepage, about YaCy")
 
 Freedom and independence are put first. Rather than relying on big
 search engines, YaCy provides users with the possibility to run a search
@@ -442,8 +461,7 @@ Serious trouble with copyright law may follow from this policy since
 computers should not be entitled to credit for their calculations, as
 the free software activist Richard Stallman argues.[^44]
 
-Conclusions
------------
+##Conclusions
 
 When considering alternative search projects in the limelight of
 ideology, we can see that the capitalist spirit is by far not the only
@@ -519,8 +537,7 @@ the future, this article has shown that there are still certain barriers
 to be conquered on the road towards alternative search both in terms of
 technology and ideology.
 
-Acknowledgements
-----------------
+##Acknowledgements
 
 The analysis of alternative search engines was conducted as part of the
 research project “GLOCAL SEARCH. Search technology at the intersection
@@ -530,8 +547,7 @@ number 14702). I would like to thank the Society of the Query 2\#
 conference participants and the editors of this volume for their helpful
 comments and feedback.
 
-References
-----------
+##References {.references}
 
 Allhutter, Doris and Roswitha Hoffmann. ‘Deconstructive Design as an
 Approach for Opening Trading Zones’, in Jordi Vallverdú (ed.) *Thinking
@@ -634,6 +650,8 @@ http://www.telegraph.co.uk/technology/google/4217055/Two-Google-searches-produce
 
 Thrift, Nigel. *Non-Representational Theory. Space, Politics, Affect*,
 London: Routledge, 2008.
+
+##Notes {.notes}
 
 [^1]: For more information on accused collaborations between the NSA and
     IT companies leaked by Edward Snowden see, for example: Glenn
