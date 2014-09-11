@@ -1,20 +1,20 @@
---
-Pr-id: project
-P-id: publication series
-A-id: number within the series
-Type (formerly called Item): type of the item
-Book-type: anthology or monograph
-Anthology item: TOC, article, index etc.
-Item-id: unique no.
-Article-title: title of the article
-Article-status: submitted, under review, accepted
-Author: name(s) of author(s)
-Author-email: corresponding address
-Author-bio: about the author
-Abstract: short description of the article (100 words)
-Keywords: 50 keywordsfor search and indexing
-Rights: Creative Commons etc.
---
+#Metadata
+Pr-id: project  
+P-id: publication series  
+A-id: number within the series  
+Type (formerly called Item): type of the item  
+Book-type: anthology or monograph  
+Anthology item: TOC, article, index etc.  
+Item-id: unique no.  
+Article-title: title of the article  
+Article-status: submitted, under review, accepted  
+Author: name(s) of author(s)  
+Author-email: corresponding address  
+Author-bio: about the author  
+Abstract: short description of the article (100 words)  
+Keywords: 50 keywordsfor search and indexing  
+Rights: Creative Commons etc.  
+
 
 #Title: Title of the Essay
 #Author: Jane Doe
