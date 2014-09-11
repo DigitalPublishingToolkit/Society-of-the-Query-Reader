@@ -1,4 +1,4 @@
---  
+---  
 Pr-id: Society of the Query  
 P-id: INC Readers  
 A-id: 9  
@@ -10,15 +10,13 @@ Article-title: Is Small Really Beautiful? Big Search and Its Alternatives
 Article-status: accepted  
 Author: Astrid Mager  
 Author-email: info@astridmager.org  
-Author-bio: Astrid Mager, Dr. Phil, is a postdoctoral researcher at the Institute of Technology Assessement (ITA), Austrian Academy of Sciences, and a lecturer at the Department of Science and Technology Studies, University of Vienna. At present, she is leader of the project “Glocal Search. Search technology at the intersection of global capitalism and local socio-political cultures” (funded by the Jubiläumsfonds of the Oesterreichische Nationalbank (OeNB), project number 14702). Her theoretical background is in Science and Technology Studies (STS) and her primary research interests include internet and society, search engine politics, knowledge production, privacy, digital methods, and critical theory. Recent publications: “Technoscientific promotion and biofuel policy. How the press and search engines stage the biofuel controversy”, in Media, Culture & Society, 2013 (together with Jenny Eklöf), “Algorithmic ideology. How capitalist society shapes search engines”, in Information, Communication & Society, 2012, “Search engines matter: From educating users towards engaging with online health information practices, Policy & Internet, 2012. Visit http://www.astridmager.net.  
-Abstract: Astrid Mager discusses critically a selection of so-called alternative search engines and their ideological underpinnings. If Google embodies the capitalist ideology, what ideology do alternative search engines incorporate? Privacy-concerned search tools, green, scientific, and peer-to-peer search engines are examined.  
+Author-bio: >
+    Astrid Mager, Dr. Phil, is a postdoctoral researcher at the Institute of Technology Assessement (ITA), Austrian Academy of Sciences, and a lecturer at the Department of Science and Technology Studies, University of Vienna. At present, she is leader of the project “Glocal Search. Search technology at the intersection of global capitalism and local socio-political cultures” (funded by the Jubiläumsfonds of the Oesterreichische Nationalbank (OeNB), project number 14702). Her theoretical background is in Science and Technology Studies (STS) and her primary research interests include internet and society, search engine politics, knowledge production, privacy, digital methods, and critical theory. Recent publications: “Technoscientific promotion and biofuel policy. How the press and search engines stage the biofuel controversy”, in Media, Culture & Society, 2013 (together with Jenny Eklöf), “Algorithmic ideology. How capitalist society shapes search engines”, in Information, Communication & Society, 2012, “Search engines matter: From educating users towards engaging with online health information practices, Policy & Internet, 2012. Visit http://www.astridmager.net.  
+Abstract: >
+    Astrid Mager discusses critically a selection of so-called alternative search engines and their ideological underpinnings. If Google embodies the capitalist ideology, what ideology do alternative search engines incorporate? Privacy-concerned search tools, green, scientific, and peer-to-peer search engines are examined.  
 Keywords: Institute of Network Cultures, Society of the Query, internet, search, search engines, web search, online search, Google, Astrid Mager, alternatives, ideology, green search, privacy, DuckDuckGo, Bing, Yahoo, data, technology, society, algorithm, user, algortihm, method, semantic search, metaphor, peer-to-peer, YaCy  
 Rights: Creative Commons  
-
---
-
-#Title: Is Small Really Beautiful? Big Search and Its Alternatives
-#Author: Astrid Mager
+---
 
 Google is big in many ways. The company offers a myriad of services and
 products ranging from basic keyword search to futuristic glass

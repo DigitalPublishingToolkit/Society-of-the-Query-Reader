@@ -16,7 +16,6 @@ Abstract: >
     Astrid Mager discusses critically a selection of so-called alternative search engines and their ideological underpinnings. If Google embodies the capitalist ideology, what ideology do alternative search engines incorporate? Privacy-concerned search tools, green, scientific, and peer-to-peer search engines are examined.  
 Keywords: Institute of Network Cultures, Society of the Query, internet, search, search engines, web search, online search, Google, Astrid Mager, alternatives, ideology, green search, privacy, DuckDuckGo, Bing, Yahoo, data, technology, society, algorithm, user, algortihm, method, semantic search, metaphor, peer-to-peer, YaCy  
 Rights: Creative Commons  
-
 ---
 
 Google is big in many ways. The company offers a myriad of services and
