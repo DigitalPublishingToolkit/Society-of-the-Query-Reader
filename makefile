@@ -10,7 +10,13 @@ all : SotQreader.epub
 print-%:
 	@echo '$*=$($*)'
 
-SotQreader.epub : $(buildmd)
+authors.xml : $(sourcemd)
+	python scripts/gathermetadata.py $(sourcemd) > authors.xml
+
+metadata.xml : authors.xml metadata.base.xml
+	cat metadata.base.xml authors.xml > metadata.xml
+
+SotQreader.epub : $(buildmd) metadata.xml
 	pandoc \
 	    --self-contained \
 	    --table-of-contents \
@@ -52,6 +58,9 @@ SotQreader.epub : $(buildmd)
 	    build/SotQ_Conferences.md \
 	    build/Author_Bios.md \
 	    build/colophon.md
+
+SotQreader.trailer.gif: SotQreader.epub
+	python scripts/epubtrailer.py SotQreader.epub SotQreader.trailer.gif
 
 build/%.md: source/%.md
 	if [ ! -d build ]; then mkdir build; fi
