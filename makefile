@@ -11,7 +11,7 @@ print-%:
 	@echo '$*=$($*)'
 
 authors.xml : $(sourcemd)
-	python scripts/gathermetadata.py $(sourcemd) > authors.xml
+	python scripts/dump_authors.py $(sourcemd) > authors.xml
 
 metadata.xml : authors.xml metadata.base.xml
 	cat metadata.base.xml authors.xml > metadata.xml
