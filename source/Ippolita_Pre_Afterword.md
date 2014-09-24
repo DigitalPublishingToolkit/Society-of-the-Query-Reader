@@ -3,7 +3,7 @@ Title: "The Dark Side of Google: Pre-Afterword – Social Media Times"
 Author: Ippolita
 ---
 
-The following text is the new forword to the translation by Patrice Riemens of Ippolita's *The Dark Side of Google*, Amsterdam: Instititute of Network Cultures, 2013.**
+The following text is the new foreword to the translation by Patrice Riemens of Ippolita's *The Dark Side of Google*, Amsterdam: Instititute of Network Cultures, 2013.**
 
 ##Performance Societies in the Clouds
 

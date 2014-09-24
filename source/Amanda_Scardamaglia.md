@@ -51,7 +51,7 @@ undertake this analysis, it is necessary to first touch on the operation
 of internet search engines and their advertising services, including the
 use of keyword advertising.
 
-##Understanding Keyword Advertising
+## Understanding Keyword Advertising
 
 Keyword advertising enables search providers and their advertisers to
 deliver relevant, tailored, consumer-specific ads to internet users. It
@@ -158,7 +158,7 @@ for trademark infringement flowing from its sale of trademarks as
 keywords to third parties, although some trademark owners have also
 pursued the advertisers directly.
 
-##Trademarks as Keywords and Trademark Infringement
+## Trademarks as Keywords and Trademark Infringement
 
 In most jurisdictions, trademark infringement is premised on the
 assessment of consumer confusion, which flows from the alleged
@@ -360,7 +360,7 @@ all likelihood, are better suited to regulating new and emerging market
 activities such as keyword advertising than trademark law is or ever
 could be.
 
-##Misleading and Deceptive Conduct and False Advertising
+## Misleading and Deceptive Conduct and False Advertising
 
 Some litigants have sought to test the legitimacy of Google’s AdWords
 facility under the laws regulating misleading and deceptive conduct and
@@ -530,7 +530,7 @@ legislation, particularly in Australia, is also flexible enough for the
 courts to interpret broadly, so as to accommodate new and emerging
 commercial practices such as internet advertising.
 
-##Where to From Here?
+## Where to From Here?
 
 Claims of search engine liability require carefully balancing a number
 of interests – the interests of trademark owners, consumers, and
@@ -578,7 +578,7 @@ well, in the absence of any statutory intervention, they seem the most
 viable and appropriate mechanism to regulate the conduct of both search
 engines and advertisers in this context in the future.
 
-##References {.references}
+## References {.references}
 
 1-800 Contacts Inc v WhenU.com Inc, 414 F 3d 400 (2d Cir, 2005).
 
@@ -745,8 +745,7 @@ Trade Marks Act 1995 (Australia).
 
 Trkulja v Google Inc LLC & Anor (No 5) [2012] VSC 533.
 
-##Notes {.notes}
-
+## Notes {.notes}
 
 [^1]: See Language Council of Sweden, ‘Google Does Not Own the Language’,
     26 March 2013, http://www.sprakradet.se/15922 (in Swedish).

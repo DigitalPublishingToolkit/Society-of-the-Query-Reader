@@ -3,7 +3,7 @@ Title: Dialectic of Google
 Author: Andrea Miconi
 ---
 
-##Premise
+## Premise
 
 Let’s be honest: we don’t know exactly how Google works. However, we all
 use Google to get information, probably because everybody else does. And
