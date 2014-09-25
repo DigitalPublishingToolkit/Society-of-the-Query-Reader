@@ -77,3 +77,17 @@ build/%.md: source/%.md
 
 clean:
 	rm -f $(buildmd)
+
+SotQreader.testing.md: $(shell scripts/expand_toc.py --list toc.md)
+	scripts/expand_toc.py toc.md --filter scripts/chapter.sh > $@
+
+SotQreader.testing.epub: SotQreader.testing.md
+	pandoc \
+	    --self-contained \
+	    --epub-chapter-level=2 \
+	    --epub-stylesheet=epub.css \
+	    --epub-cover-image=images/cover.png \
+	    --epub-metadata=metadata.xml \
+	    --toc-depth=2 \
+	    -o $@ \
+	    SotQreader.testing.md
