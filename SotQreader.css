@@ -1,0 +1,49 @@
+/* Fonts */
+@font-face {
+    font-family: 'FreeUniversal';
+        src: url('FreeUniversal-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FreeUniversal';
+        src: url('FreeUniversal-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'FreeUniversal';
+        src: url('FreeUniversal-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'FreeUniversal';
+        src: url('FreeUniversal-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body { margin: 5%; text-align: justify; font-size: medium; font-family: sans-serif; }
+h1,h2,h3,h4,h5 {
+   font-family: 'FreeUniversal',sans-serif;
+   font-weight: bold;
+   font-style: normal;
+} 
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+.title h2, div.author, div.separator { text-align: center; }
+div.separator { margin-top: 1em; margin-bottom: 1em; }
+div.author { margin-bottom: 2em; }
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px dotted blue;
+}
