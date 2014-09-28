@@ -572,7 +572,7 @@ Do you have any ideas? We have a few, so let us know!
 
 Ippolita.net
 
-info@ippolita.net 
+info@ippolita.net
 
 September, 2013
 
