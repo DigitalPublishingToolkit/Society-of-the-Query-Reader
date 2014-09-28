@@ -24,9 +24,10 @@ parser.add_argument('toc', help='toc file')
 parser.add_argument('--list', dest='list', action='store_true', help='output makefile friendly list of linked files')
 parser.add_argument('--ignore-missing', dest='ignoreMissing', action='store_true', help='')
 parser.add_argument('--filter', dest="filter", default="cat", help='script to run on each linked chapter')
-# parser.add_argument('--section-id', dest="sectionID", help='script to determine link ids')
-parser.add_argument('--section-level', help='level from which to generate sections')
-parser.add_argument('--section-template', help='template to generate sections')
+parser.add_argument('--section-pages', action='store_true', help='Output TOC headers as pages')
+
+# parser.add_argument('--section-level', help='level from which to generate sections')
+# parser.add_argument('--section-template', help='template to generate sections')
 
 args = parser.parse_args()
 
@@ -39,8 +40,8 @@ markdown_header_pattern = re.compile(r"^(#+)(.*)$", re.M)
 
 toc = args.toc
 with open(toc) as f:
-
     if args.list:
+        # OUTPUT LIST ONLY
         srcs = []
         toctext = f.read().decode("utf-8")
         for m in markdown_link_pattern.finditer(toctext):
@@ -54,13 +55,14 @@ with open(toc) as f:
             else:
                 print (s)
     else:
+        # OUTPUT TOC + BOOK
         toctext = f.read().decode("utf-8")
         split = markdown_header_pattern.split(toctext)
         split.insert(0, None)
         split.insert(0, None)
 
-        ## First pass, output the toc with mapped links,
-        ## cache the (filtered) sources
+        ## PART 1: Output the TOC with transformed headings & mapped links,
+        ## NB: Cache the (filtered) sources for PART 2
         sources_text = {}
 
         def id_for_source (src):
@@ -87,23 +89,22 @@ with open(toc) as f:
             if header:
                 # Up the h-level of > 1's by 1 (so 2 ==> 3)
                 n = len(header_hashes)
-                if n > 1:
-                    n += 1
-                print (((u"#"*n)+header).encode("utf-8"))
+                # if n > 1:
+                #     n += 1
+                # print (((u"#"*n)+header).encode("utf-8"))
+                print (u"""<div class="toc_h{0}">{1}</div>\n""".format(n,header.lstrip()).encode("utf-8"))
             # OUTPUT TEXT WITH REPLACED LINKS
             print (markdown_link_pattern.sub(toc_link_sub, text).encode("utf-8"))
         print ()
 
-        ## Second pass, output the (filtered) markdown in order
-        ## with toc headers at the right spots
+        ## PART 2: Output the (filtered) sections markdown in order
+        ## with TOC headers at the right spots (section pages)
         ##
         for header_hashes, header, text in grouped(split, 3):
-            if header:
+            if header and args.section_pages:
                 n = len(header_hashes)
-                if n > 1:
-                    n -= 1
-                    print (((u"#"*n)+header).encode("utf-8"))
-                    print ()
+                print (((u"#"*n)+header).encode("utf-8"))
+                print ()
             for m in markdown_link_pattern.finditer(text):
                 src = m.groups()[1]
                 print (sources_text[src])

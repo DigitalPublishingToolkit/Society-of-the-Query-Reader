@@ -15,7 +15,11 @@
 sources=$(shell scripts/expand_toc.py --list SotQreader.toc.md)
 
 # Default target (cause it's first): Make epub + trailer
-all: SotQreader.epub SotQreader-trailer.gif
+all: epub trailer
+
+epub: SotQreader.epub
+
+trailer: SotQreader-trailer.gif
 
 # Rule to extract authors names from the different sources
 SotQreader-auto-authors.xml: $(sources)
@@ -27,7 +31,7 @@ SotQreader-auto-metadata.xml: SotQreader-auto-authors.xml SotQreader-metadata.xm
 
 # Rule to build the entire book as a single markdown file from the table of contents file using expand_toc.py
 SotQreader.md: SotQreader.toc.md $(sources)
-	scripts/expand_toc.py SotQreader.toc.md --filter scripts/chapter.sh > $@
+	scripts/expand_toc.py SotQreader.toc.md --section-pages --filter scripts/chapter.sh > $@
 
 # Main Epub builder, use the files generated from above to create the final epub
 SotQreader.epub: SotQreader.md SotQreader-auto-metadata.xml SotQreader.css SotQreader-cover.png
@@ -43,6 +47,7 @@ SotQreader.epub: SotQreader.md SotQreader-auto-metadata.xml SotQreader.css SotQr
 		--toc-depth=2 \
 		-o SotQreader.epub \
 		SotQreader.md
+
 
 # Implicit rule to convert any epub into a trailer gif with epubtrailer.py
 %-trailer.gif: %.epub

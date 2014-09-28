@@ -4,7 +4,7 @@
 Reflect and Act! Introduction to the Society of the Query Reader ](source/Introduction.md)
 
 
-## Theorizing Web Search
+# Theorizing Web Search
 
 * [ **Kylie Jarrett**  
 A Database of Intention?](source/Kylie-Jarrett.md)
@@ -14,7 +14,7 @@ Dialectic of Google ](source/Andrea_Miconi.md)
 Frictionless Sharing: The Rise of Automatic Criticism ](source/Vito_Campanelli.md)
 
 
-## Politics of Search Engines
+# Politics of Search Engines
 
 * [ **Dirk Lewandowski**  
 Why We Need an Independent Index of the Web ](source/Dirk_Lewandowski.md)
@@ -26,7 +26,7 @@ The Dark Side of Google: Pre-Afterwork -- Social Media Times ](source/Ippolita_P
 Dominating Search: Google Before the Law ](source/Angela_Daly.md)
 
 
-## The History of Search
+# The History of Search
 
 * [ **Richard Graham**  
 A 'History' of Search Engines: Mapping Technologies of Memory, Learning and Discovery ](source/Richard_Graham.md)
@@ -34,7 +34,7 @@ A 'History' of Search Engines: Mapping Technologies of Memory, Learning and Disc
 Before Google: A Pre-History of Search Engines in Analogue Times ](source/Tantner.md)
 
 
-## Between Globalization and Localization
+# Between Globalization and Localization
 
 * [ **Min Jiang and Vicentju Dîngă**  
 Search Control in China](source/Min_Jiang.md)
@@ -46,7 +46,7 @@ Keywords, Trademarks, and Search Engine Liability ](source/Amanda_Scardamaglia.m
 Towards an Anthropology of Location-Based Recommendation and Search ](source/Martin-Reiche_Ulrich-Gehmann.md)
 
 
-## Research and Education
+# Research and Education
 
 * [ **Jacob Ørmen**  
 Historicizing Google Search: A Discussion of the Challenges Related to Archiving Search Results ](source/Jacob_Ormen.md)
@@ -58,7 +58,7 @@ Educating for Search: Understanding the Past and Present Search Technology to Te
 Finding Knowledge: What Is It To 'Know' When We Search?](source/Simon_Knight.md)
 
 
-## Creative Reflections
+# Creative Reflections
 
 * [ **M.E. Luka and Mél Hogan**  
 Polluted and Predictive, in 133 Words ](source/Hogan_Luka.md)
@@ -68,7 +68,7 @@ Algorithming the Algorithm ](source/Mahnke_Uprichard.md)
 Search-Art: The Narcissus Search Engine, Skateboarding, and Oranges ](source/Jones_Amir.md)
 
 
-## Appendices
+# Appendices
 
 * [ **Society of the Query Conferences**  
 Society of the Query I in Amsterdam  
