@@ -1,8 +1,18 @@
 #!/usr/bin/env python
 # Process a TOC to a set of links
+"""
+(C) 2014 Michael Murtaugh / contributors to the Digital Publishing Toolkit
+
+License: [GPL3](http://www.gnu.org/copyleft/gpl.html)
+
+This code has been developed as part of the [Digital Publishing Toolkit](http://digitalpublishingtoolkit.org).
+with the support of Institute for [Network Cultures](http://networkcultures.org)
+and [Creating 010](http://creating010.com).
+
+"""
 
 from __future__ import print_function
-import markdown, sys, html5lib, re, argparse, sys, os
+import sys, re, argparse, sys, os
 from subprocess import Popen, check_output, PIPE
 from itertools import izip
 
