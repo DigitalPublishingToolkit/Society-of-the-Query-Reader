@@ -4,7 +4,7 @@ title: "Hybrid workflow how-to: Making automated workflows, part 2"
 
 As part of the [INC subgroup][INC], we have been developing a workflow that allows a flexible production of different kinds of electronic outputs like EPUB, PDF, and [book trailers](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) from a sample collection of essays from the recently published [Society of the Query](http://networkcultures.org/query/) Reader.
 
-In part one of this tutorial, we create a shell script to compile multiple [markdown][markdown] sources into a EPUB-format Reader using [pandoc][pandoc]. We then use a helper script, expand-toc.py, to use a markdown-formatted table of contents to order the contents of the EPUB. Finally, we create a [makefile](http://digitalpublishingtoolkit.org/2014/10/make-book/) to fully automate the build process, and add an [EPUB trailer](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) as an output.
+In part two of this tutorial, we create a shell script to compile multiple [markdown][markdown] sources into a EPUB-format Reader using [pandoc][pandoc]. We then use a helper script, expand-toc.py, to use a markdown-formatted table of contents to order the contents of the EPUB. Finally, we create a [makefile](http://digitalpublishingtoolkit.org/2014/10/make-book/) to fully automate the build process, and add an [EPUB trailer](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) as an output.
 
 This tutorial is targeted for developers or people interested in creating automated workflows for producing EPUBs. It assumes basic familiarity with a commandline interface (such as the Terminal application on GNU/Linux or Mac OS X, or the command prompt in Windows).
 
