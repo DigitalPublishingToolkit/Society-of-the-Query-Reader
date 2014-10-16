@@ -1,15 +1,30 @@
 ---
-title: "Hybrid workflow how-to: Creating an automated workflow, Part 2"
+title: "Hybrid workflow how-to: Making automated workflows, part 2"
 ---
 
-As part of the [INC group][INC], we have been developing a workflow that allows a flexible production of different kinds of electronic outputs like EPUB, PDF, and [book trailers](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) from collection of essays from the [Society of the Query](http://networkcultures.org/query/).
+As part of the [INC subgroup][INC], we have been developing a workflow that allows a flexible production of different kinds of electronic outputs like EPUB, PDF, and [book trailers](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) from a sample collection of essays from the recently published [Society of the Query](http://networkcultures.org/query/) Reader.
+
+In part one of this tutorial, we create a shell script to compile multiple [markdown][markdown] sources into a EPUB-format Reader using [pandoc][pandoc].
+
+This tutorial is targeted for developers or people interested in creating automated workflows for producing EPUBs. It assumes basic familiarity with a commandline interface (such as the Terminal application on GNU/Linux or Mac OS X, or the command prompt in Windows).
+
+
+## Prepare your workspace & tools
+
+Unpack, checkout or copy the sample files from the [github repository](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader). Open the Terminal and use the cd command to enter the "part2" folder in the developer section of the how-to-tutorial files.
+
+```bash
+git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+
+cd how-to-tutorial/developer/part2
+```
 
 ## Use pandoc to convert multiple markdown source files to an EPUB
 
-When you give pandoc multiple input files, pandoc simply cuts and pastes the different texts together as if they were a single file. While this will sometimes just work, it creates some specific problems for the essays from the Society of the Query:
+Any filename given to pandoc on the commandline that is not preceded by an option (such as -o) is considered an input. When you give pandoc multiple input files, pandoc cuts and pastes the different texts together as if they were coming from a single file. While this will sometimes just work, it creates some specific problems for the essays from the Society of the Query:
 
 ```bash
-pandoc -o reader.epub essays/*.md
+pandoc -o reader.epub *.md
 ```
 
 Produces a lot of warnings:

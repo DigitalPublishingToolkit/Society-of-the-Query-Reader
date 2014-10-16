@@ -1,5 +1,5 @@
 ---
-title: "Hybrid workflow how-to: Creating an automated workflow, Part 1"
+title: "Hybrid workflow how-to: Making automated workflows, part 1"
 ---
 
 As part of the [INC subgroup][INC], we have been developing a workflow that allows a flexible production of different kinds of electronic outputs like EPUB, PDF, and [book trailers](http://digitalpublishingtoolkit.org/2014/10/epub-trailers/) from a sample collection of essays from the recently published [Society of the Query](http://networkcultures.org/query/) Reader.
@@ -33,7 +33,7 @@ cabal install pandoc
 
 ## Prepare your workspace & tools
 
-Unpack, checkout or copy the sample files from the github repository. Open the Terminal and use the cd command to enter the "part1" folder in the developer section of the how-to-tutorial files.
+Unpack, checkout or copy the sample files from the [github repository](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader). Open the Terminal and use the cd command to enter the "part1" folder in the developer section of the how-to-tutorial files.
 
 ```bash
 git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
