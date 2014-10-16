@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Hybrid workflow how-to: Making automated workflows, part 1</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; }
+code > span.dt { color: #902000; }
+code > span.dv { color: #40a070; }
+code > span.bn { color: #40a070; }
+code > span.fl { color: #40a070; }
+code > span.ch { color: #4070a0; }
+code > span.st { color: #4070a0; }
+code > span.co { color: #60a0b0; font-style: italic; }
+code > span.ot { color: #007020; }
+code > span.al { color: #ff0000; font-weight: bold; }
+code > span.fu { color: #06287e; }
+code > span.er { color: #ff0000; font-weight: bold; }
+  </style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Hybrid workflow how-to: Making automated workflows, part 1</h1>
+</div>
+<p>As part of the <a href="http://networkcultures.org">INC subgroup</a>, we have been developing a workflow that allows a flexible production of different kinds of electronic outputs like EPUB, PDF, and <a href="http://digitalpublishingtoolkit.org/2014/10/epub-trailers/">book trailers</a> from a sample collection of essays from the recently published <a href="http://networkcultures.org/query/">Society of the Query</a> Reader.</p>
+<h1 id="part-1">Part 1</h1>
+<p>In part one of this tutorial, we look at using the <a href="http://johnmacfarlane.net/pandoc/">pandoc</a> tool on the command line to convert a <a href="http://daringfireball.net/projects/markdown/">markdown</a> source that has been edited by an editor into HTML and EPUB outputs. In addition, we will add metadata and use pandoc templates and a stylesheet to customize the output.</p>
+<p>This tutorial is targeted for developers or people interested in creating automated workflows for producing EPUBs. It assumes basic familiarity with a commandline interface (such as the Terminal application on GNU/Linux or Mac OS X, or the command prompt in Windows). Introductions to the commandline such as the <a href="http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/">Designers guide to the OS X Command Prompt</a> can be very useful if the commandline is still new to you.</p>
+<h2 id="install-pandoc">Install pandoc</h2>
+<p>Instructions for installing pandoc on Mac, Windows, and Linux are given on the <a href="http://johnmacfarlane.net/pandoc/installing.html">pandoc website</a>.</p>
+<p>Mac: From the <a href="https://github.com/jgm/pandoc/releases">download page</a>, find the green button with a link that ends with &quot;osx.pkg&quot;. Download and install this.</p>
+<p>Debian/Ubuntu: Pandoc is available from your package manager:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">sudo</span> apt-get install pandoc</code></pre>
+<p>However, the version of pandoc is typically outdated. To compile the latest and greatest, follow the instructions on the <a href="http://johnmacfarlane.net/pandoc/installing.html">pandoc website</a> under &quot;All platforms&quot;. In a nutshell:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">sudo</span> apt-get install haskell-platform
+<span class="kw">cabal</span> update
+<span class="kw">cabal</span> install pandoc</code></pre>
+<h2 id="prepare-your-workspace-tools">Prepare your workspace &amp; tools</h2>
+<p>Unpack, checkout or copy the sample files from the <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader">github repository</a>. Open the Terminal and use the cd command to enter the &quot;part1&quot; folder in the developer section of the how-to-tutorial files.</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">git</span> clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+
+<span class="kw">cd</span> how-to-tutorial/developer/part1</code></pre>
+<p>As we will be working with different kinds of code (both markdown and HTML output), it is quite important to have a good code editor to work with. A code editor (as opposed to programs like &quot;Simple Text&quot; or Microsoft Word) provides features like language-specific syntax coloring and helpful keyboard shortcuts for say adding comments. Many code editors exist from classical commandline editors like vi and emacs, to graphical editors like gedit and <a href="http://www.sublimetext.com/">Sublime Text</a>. Though not Free Software, <a href="http://www.sublimetext.com/">Sublime Text</a> is an excellent cross-platform code editor with many advanced features, which is free of charge to use (in Trial mode) indefinitely and a good example of the state of the art of contemporary code editors in terms of features and usability.</p>
+<h2 id="use-pandoc-to-convert-a-single-markdown-source-file-to-html-epub">Use pandoc to convert a single markdown source file to HTML &amp; EPUB</h2>
+<p>As you may have seen in Step 5 of the <a href="http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-introduction-editing-steps/">Hybrid Workflow Howto for Editors</a>, you can use the pandoc program to convert from one file format to another (such as in that example from Word DOCX to Markdown). In this step we use pandoc to convert an edited markdown file as it would arrive from an editor into first HTML, and then to an EPUB.</p>
+<p>Open the file Kylie-Jarett.md in your editor, it begins:</p>
+<pre class="sourceCode markdown"><code class="sourceCode markdown"><span class="fu"># A Database of Intention?</span>
+
+Kylie Jarrett
+
+In his 2005 study of Google, industry analyst John Battelle describes
+the company’s technology as a ‘database of intentions’, ‘a massive
+clickstream database of desires, needs, wants, and preferences that can
+be discovered, subpoenaed, archived, tracked, and exploited for all
+sorts of ends’.<span class="ot">[^1]</span></code></pre>
+<p>In the terminal type the following. Note that once you type the K of the filename you should be able to press the tab key to &quot;auto-complete&quot; the name of the file:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md </code></pre>
+<p>By default pandoc will attempt to guess the type of the input file based on the file extension. In this case the &quot;.md&quot; means that pandoc assumes Markdown input. By default pandoc produces HTML and prints it to the terminal rather than saving it in a file. To save it to a file, you can use pandoc's -o option:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md -o test.html</code></pre>
+<p>You can also explicitly state input and output types with pandoc's --from and --to options. This can be useful if a filename misses a recognizable extension:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> --from markdown --to html Kylie-Jarrett.md -o test.html</code></pre>
+<p>In general the order of the parameter doesn't really matter, as long as the options precede their values, so the following would be the same:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> -o test.html --to html --from markdown Kylie-Jarrett.md</code></pre>
+<p>Use a web browser to open the resulting file (test.html) and check the output. It should appear as formatted HTML. However there are likely some glitches in the text. This is because pandoc's default HTML output is merely a fragment, and not a complete HTML document, and some information (such as the proper encoding of the text) is not included. If you open test.html in your editor, you see that the file begins:</p>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;h1</span><span class="ot"> id=</span><span class="st">&quot;a-database-of-intention&quot;</span><span class="kw">&gt;</span>A Database of Intention?<span class="kw">&lt;/h1&gt;</span>
+<span class="kw">&lt;p&gt;</span>Kylie Jarrett<span class="kw">&lt;/p&gt;</span>
+...</code></pre>
+<p>Note that pandoc automatically assigns an id to the header. This is useful when linking. Next, run pandoc again, this time adding the --standalone (or -s) option:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> essays/Kylie-Jarrett.md --standalone -o test.html</code></pre>
+<p>If you reload test.html in the browser, you should see that the character gliches are corrected. If you look at test.html in your editor, you see it now begins:</p>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;<span class="dt">&gt;</span>
+<span class="kw">&lt;html</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.w3.org/1999/xhtml&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;head&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/html; charset=utf-8&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Style-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/css&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;generator&quot;</span><span class="ot"> content=</span><span class="st">&quot;pandoc&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;title&gt;&lt;/title&gt;</span>
+  <span class="kw">&lt;style</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span><span class="kw">&gt;</span>code<span class="kw">{white-space:</span> <span class="dt">pre</span><span class="kw">;}&lt;/style&gt;</span>
+<span class="kw">&lt;/head&gt;</span>
+<span class="kw">&lt;body&gt;</span>
+<span class="kw">&lt;h1</span><span class="ot"> id=</span><span class="st">&quot;a-database-of-intention&quot;</span><span class="kw">&gt;</span>A Database of Intention?<span class="kw">&lt;/h1&gt;</span>
+...</code></pre>
+<p>The output now contains a proper HTML doctype and head section with, among other things a character set, which tells the browser to interpret the text as encoded in the utf-8 standard (Browsers by default assume the latin-1 character set when a document doesn't state it's encoding which is why the characters were being misinterpreted in the fragment).</p>
+<h2 id="add-metadata-to-your-document">Add metadata to your document</h2>
+<p>In the HTML output in the previous step, the title tag in the document is left blank. Even though the title of the essay is in the document, it's a level one header, pandoc doesn't make any assumptions that that is a title. Pandoc supports adding &quot;metadata&quot; (data about the document itself).</p>
+<p>Add the following to the first lines of the file &quot;essays/Kylie_Jarrett.md&quot;:</p>
+<pre class="sourceCode yaml"><code class="sourceCode yaml"><span class="ot">---</span>
+<span class="fu">title:</span> A Database of Intention?
+<span class="fu">author:</span> Kylie Jarrett
+<span class="ot">---</span></code></pre>
+<p>Now repeat the pandoc command to update the test output:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> essays/Kylie-Jarrett.md --standalone -o test.html</code></pre>
+<p>The resulting document now looks like this:</p>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;<span class="dt">&gt;</span>
+<span class="kw">&lt;html</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.w3.org/1999/xhtml&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;head&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/html; charset=utf-8&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Style-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/css&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;generator&quot;</span><span class="ot"> content=</span><span class="st">&quot;pandoc&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;author&quot;</span><span class="ot"> content=</span><span class="st">&quot;Kylie Jarrett&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;title&gt;</span>A Database of Intention?<span class="kw">&lt;/title&gt;</span>
+  <span class="kw">&lt;style</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span><span class="kw">&gt;</span>code<span class="kw">{white-space:</span> <span class="dt">pre</span><span class="kw">;}&lt;/style&gt;</span>
+<span class="kw">&lt;/head&gt;</span>
+<span class="kw">&lt;body&gt;</span>
+<span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;header&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;h1</span><span class="ot"> class=</span><span class="st">&quot;title&quot;</span><span class="kw">&gt;</span>A Database of Intention?<span class="kw">&lt;/h1&gt;</span>
+<span class="kw">&lt;h2</span><span class="ot"> class=</span><span class="st">&quot;author&quot;</span><span class="kw">&gt;</span>Kylie Jarrett<span class="kw">&lt;/h2&gt;</span>
+<span class="kw">&lt;/div&gt;</span>
+<span class="kw">&lt;h1</span><span class="ot"> id=</span><span class="st">&quot;a-database-of-intention&quot;</span><span class="kw">&gt;</span>A Database of Intention?<span class="kw">&lt;/h1&gt;</span>
+<span class="kw">&lt;p&gt;</span>Kylie Jarrett<span class="kw">&lt;/p&gt;</span>
+<span class="kw">&lt;p&gt;</span>In his 2005 study of Google, industry analyst John Battelle describes the </code></pre>
+<p>Pandoc detects the title and author settings in the metadata and automatically adds them to both the HTML header (as the title and a meta tag), as well as creating an h1 and h2 tag at the start of the document. The problem now is that the title and author's name appears twice. It's best to remove the title and author's name form the body of the document.</p>
+<p>Remove the original title &amp; author lines from Kylie-Jarrett.md so that it looks like this:</p>
+<pre class="sourceCode markdown"><code class="sourceCode markdown">---
+title: A Database of Intention?
+author: Kylie Jarrett
+---
+
+In his 2005 study of Google, industry analyst John Battelle describes
+the company’s technology as a ‘database of intentions’, ‘a massive
+clickstream database of desires, needs, wants, and preferences that can
+be discovered, subpoenaed, archived, tracked, and exploited for all
+sorts of ends’.<span class="ot">[^1]</span></code></pre>
+<p>And once again:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> essays/Kylie-Jarrett.md --standalone -o test.html</code></pre>
+<p>This should look better. In the next step we see how to use pandoc's template feature to customize how the metadata is displayed in the output. Using metadata in this way is a useful way to create a more flexible source document that can produce different kinds of outputs and tailored to different contexts.</p>
+<p>The format pandoc uses for metadata is called <a href="http://www.yaml.org/">YAML</a>. One important detail to note is that if a title includes a colon character (:), you need to put quotation marks around the title, as in:</p>
+<pre class="sourceCode yaml"><code class="sourceCode yaml"><span class="ot">---</span>
+<span class="fu">title:</span> <span class="st">&quot;Educating for Search: Understanding the Past and Present Search Technology to Teach for Future Resilience&quot;</span>
+<span class="fu">author:</span> Dave Crusoe
+<span class="ot">---</span></code></pre>
+<p>To give multiple authors, you can use a list by using square brackets and separating names with commas, as in:</p>
+<pre class="sourceCode yaml"><code class="sourceCode yaml"><span class="ot">---</span>
+<span class="fu">title:</span> <span class="st">&quot;Polluted and Predictive, in 133 Words&quot;</span>
+<span class="fu">author:</span> <span class="kw">[</span>Mél Hogan<span class="kw">,</span> M.E. Luka<span class="kw">]</span>
+<span class="ot">---</span></code></pre>
+<p>When converted to HTML produces:</p>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;<span class="dt">&gt;</span>
+<span class="kw">&lt;html</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.w3.org/1999/xhtml&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;head&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/html; charset=utf-8&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> http-equiv=</span><span class="st">&quot;Content-Style-Type&quot;</span><span class="ot"> content=</span><span class="st">&quot;text/css&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;generator&quot;</span><span class="ot"> content=</span><span class="st">&quot;pandoc&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;author&quot;</span><span class="ot"> content=</span><span class="st">&quot;Mél Hogan&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;author&quot;</span><span class="ot"> content=</span><span class="st">&quot;M.E. Luka&quot;</span> <span class="kw">/&gt;</span>
+  <span class="kw">&lt;title&gt;</span>Polluted and Predictive, in 133 Words<span class="kw">&lt;/title&gt;</span>
+  <span class="kw">&lt;style</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span><span class="kw">&gt;</span>code<span class="kw">{white-space:</span> <span class="dt">pre</span><span class="kw">;}&lt;/style&gt;</span>
+<span class="kw">&lt;/head&gt;</span></code></pre>
+<h2 id="customize-your-output-with-a-template-and-a-stylesheet">Customize your output with a template and a stylesheet</h2>
+<p>So how did pandoc know what to do with the title and author in your metadata? It turns out that <a href="http://johnmacfarlane.net/pandoc/README.html#templates">pandoc has a collection of standard templates</a>, or for each output format, which it uses to produce its output.</p>
+<p>To see pandoc's template for producing HTML output, type the command:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> -D html</code></pre>
+<p>The output (in part) shows:</p>
+<pre class="sourceCode html"><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;<span class="dt">&gt;</span>
+<span class="kw">&lt;html</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.w3.org/1999/xhtml&quot;</span><span class="er">$if(lang)$</span><span class="ot"> lang=</span><span class="st">&quot;$lang$&quot;</span><span class="ot"> xml:lang=</span><span class="st">&quot;$lang$&quot;</span><span class="er">$endif$</span><span class="kw">&gt;</span>
+<span class="kw">&lt;head&gt;</span>
+  ...
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;author&quot;</span><span class="ot"> content=</span><span class="st">&quot;$author-meta$&quot;</span> <span class="kw">/&gt;</span>
+$endfor$
+$if(date-meta)$
+  <span class="kw">&lt;meta</span><span class="ot"> name=</span><span class="st">&quot;date&quot;</span><span class="ot"> content=</span><span class="st">&quot;$date-meta$&quot;</span> <span class="kw">/&gt;</span>
+$endif$
+  <span class="kw">&lt;title&gt;</span>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$<span class="kw">&lt;/title&gt;</span>
+  ...
+$for(css)$
+  <span class="kw">&lt;link</span><span class="ot"> rel=</span><span class="st">&quot;stylesheet&quot;</span><span class="ot"> href=</span><span class="st">&quot;$css$&quot;</span> <span class="er">$if(html5)$$else$type</span><span class="ot">=</span><span class="st">&quot;text/css&quot;</span> <span class="er">$endif$</span><span class="kw">/&gt;</span>
+$endfor$
+<span class="kw">&lt;/head&gt;</span>
+<span class="kw">&lt;body&gt;</span>
+...
+$if(title)$
+<span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;$idprefix$header&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;h1</span><span class="ot"> class=</span><span class="st">&quot;title&quot;</span><span class="kw">&gt;</span>$title$<span class="kw">&lt;/h1&gt;</span>
+$if(subtitle)$
+<span class="kw">&lt;h1</span><span class="ot"> class=</span><span class="st">&quot;subtitle&quot;</span><span class="kw">&gt;</span>$subtitle$<span class="kw">&lt;/h1&gt;</span>
+$endif$
+$for(author)$
+<span class="kw">&lt;h2</span><span class="ot"> class=</span><span class="st">&quot;author&quot;</span><span class="kw">&gt;</span>$author$<span class="kw">&lt;/h2&gt;</span>
+$endfor$
+$if(date)$
+<span class="kw">&lt;h3</span><span class="ot"> class=</span><span class="st">&quot;date&quot;</span><span class="kw">&gt;</span>$date$<span class="kw">&lt;/h3&gt;</span>
+$endif$
+<span class="kw">&lt;/div&gt;</span>
+$endif$</code></pre>
+<p>In the template, you can see that pandoc provides some sophisticated tools like conditionals (if) and loops (for) to provide basic handling for optional elements and lists author names. To customize this standard template, make a copy of it named custom.html:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> -D html <span class="kw">&gt;</span> custom.html</code></pre>
+<p>Open the custom.html and change the display of the title and author to:</p>
+<pre class="sourceCode html"><code class="sourceCode html">$if(title)$
+<span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;$idprefix$header&quot;</span><span class="kw">&gt;</span>
+  <span class="kw">&lt;h1</span><span class="ot"> class=</span><span class="st">&quot;title&quot;</span><span class="kw">&gt;</span>$title$<span class="kw">&lt;/h1&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;authors&quot;</span><span class="kw">&gt;</span>
+    <span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;separator&quot;</span><span class="kw">&gt;</span><span class="dv">&amp;#172;</span><span class="kw">&lt;/div&gt;</span>
+    $for(author)$
+    <span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;author&quot;</span><span class="kw">&gt;</span>$author$<span class="kw">&lt;/div&gt;</span>
+    $endfor$
+  <span class="kw">&lt;/div&gt;</span>
+<span class="kw">&lt;/div&gt;</span>
+$endif$</code></pre>
+<p>You can also see in the template that pandoc provides a number of ways of adding custom stylesheets. The easiest is to use the --css option. So create a new file names &quot;styles.css&quot; with the following:</p>
+<pre class="sourceCode css"><code class="sourceCode css">body <span class="kw">{</span>
+  <span class="kw">font-family:</span> <span class="dt">sans-serif</span><span class="kw">;</span>
+<span class="kw">}</span>
+<span class="fl">#header</span> <span class="kw">{</span>
+    <span class="kw">text-align:</span> <span class="dt">center</span><span class="kw">;</span>
+<span class="kw">}</span>
+h1 <span class="kw">{</span>
+  <span class="kw">margin-bottom:</span> <span class="dt">0</span><span class="kw">;</span>
+<span class="kw">}</span>
+<span class="fl">.author</span> <span class="kw">{</span>
+  <span class="kw">font-weight:</span> <span class="dt">bold</span><span class="kw">;</span>
+<span class="kw">}</span></code></pre>
+<p>And now bring it all together with:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md --standalone --template custom.html --css styles.css -o Kylie-Jarrett.html</code></pre>
+<h2 id="produce-an-epub">Produce an EPUB</h2>
+<p>You can easily <a href="http://johnmacfarlane.net/pandoc/epub.html">produce an EPUB from a markdown source with pandoc</a> by simply specifying an EPUB extension to the output file. Note that the --standalone option is implicit with an EPUB:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md -o Kylie-Jarrett.epub </code></pre>
+<p>To specify custom CSS with an EPUB, use the --epub-stylesheet option:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md --epub-stylesheet styles.css -o Kylie-Jarrett.epub</code></pre>
+<p>Note that pandoc places an automatically generated table of contents as the last page, to move this to the front use the --table-of-contents option.</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> Kylie-Jarrett.md --epub-stylesheet styles.css -o Kylie-Jarrett.epub --table-of-contents</code></pre>
+<h1 id="part-2">Part 2</h1>
+<p>In part two of this tutorial, we create a shell script to compile multiple <a href="http://daringfireball.net/projects/markdown/">markdown</a> sources into a EPUB-format Reader using <a href="http://johnmacfarlane.net/pandoc/">pandoc</a>. We then use a helper script, expand-toc.py, to use a markdown-formatted table of contents to order the contents of the EPUB. Finally, we create a <a href="http://digitalpublishingtoolkit.org/2014/10/make-book/">makefile</a> to fully automate the build process, and add an <a href="http://digitalpublishingtoolkit.org/2014/10/epub-trailers/">EPUB trailer</a> as an output.</p>
+<p>This tutorial is targeted for developers or people interested in creating automated workflows for producing EPUBs. It assumes basic familiarity with a commandline interface (such as the Terminal application on GNU/Linux or Mac OS X, or the command prompt in Windows).</p>
+<h2 id="prepare-your-workspace-tools-1">Prepare your workspace &amp; tools</h2>
+<p>Unpack, checkout or copy the sample files from the <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader">github repository</a>. Open the Terminal and use the cd command to enter the &quot;part2&quot; folder in the developer section of the how-to-tutorial files.</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">git</span> clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+
+<span class="kw">cd</span> how-to-tutorial/developer/part2</code></pre>
+<h2 id="use-pandoc-to-tweak-a-markdown-document-to-be-combinable-with-others">Use pandoc to tweak a markdown document to be combinable with others</h2>
+<p>Any filename given to pandoc on the commandline that is not preceded by an option (such as -o) is considered an input. When you give pandoc multiple input files, pandoc cuts and pastes the different texts together as if they were coming from a single file. While this will sometimes just work, it creates some specific problems for the essays from the Society of the Query:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> -o reader.epub *.md</code></pre>
+<p>Produces a lot of warnings:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span>: Duplicate note reference <span class="kw">`3</span><span class="st">&#39; &quot;source&quot; (line 1582, column 1)</span>
+<span class="st">pandoc: Duplicate note reference `2&#39;</span> <span class="st">&quot;source&quot;</span> (line 1580, column 1)
+<span class="kw">pandoc</span>: Duplicate note reference <span class="kw">`</span>1<span class="st">&#39; &quot;source&quot; (line 1578, column 1)</span></code></pre>
+<p>This is because when treated as a single document, all the footnotes (which use numeric indexes) from the different essays can no longer be differentiated (reference 3 from which essay?).</p>
+<p>Besides overlapping footnotes, there may be problems with the hierarchy of the overall document. The individudal essays have been written with their title as level 1, and sections within the essay as level 2. This is fine, but for the final reader we may want to introduce higher level sections (at level one) to for instance group the essays thematically. In that case the essay levels should shift so that their title is level 2, and essay sections level 3. Luckily pandoc has an option to do just that called --base-header-level that (re)sets the &quot;topmost&quot; level of a document when outputting it.</p>
+<p>In general, a useful technique is to use pandoc in two passes, first individually on each essay to adjust it for compilation in the larger document. Each altered essay is then pasted in a new master markdown file containing the entire reader document and it is this file that is converted (again by pandoc) to EPUB.</p>
+<p>Try the following command:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> David_Crusoe.md --to markdown --id-prefix=David_Crusoe.md- --base-header-level 2</code></pre>
+<p>In the resulting markdown output, note the final Notes section:</p>
+<pre class="sourceCode markdown"><code class="sourceCode markdown"><span class="fu">### Notes {#notes .notes}</span>
+
+<span class="ot">[^David_Crusoe.md-1]</span>: The Common Core references algebraic set theory in
+<span class="bn">    its high school appendices. See</span>
+<span class="bn">    http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf</span>
+<span class="bn">    for more information.</span>
+
+<span class="ot">[^David_Crusoe.md-2]</span>: Way Back Machine, 21 November 1996 archive of ‘How
+<span class="bn">    to Use Excite Search’,</span>
+<span class="bn">    http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.</span>
+
+<span class="ot">[^David_Crusoe.md-3]</span>: Anthony Stuart, ‘Re: Boolean + Operator Removed?
+<span class="bn">    Why?’ posting to Google Search Forum, 5 November 2011,</span>
+<span class="bn">    http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ.</span></code></pre>
+<p>First the &quot;Notes&quot; header has shifted from a level 2 to level 3. The &quot;--base-header-level 2&quot; option basically shifts each level by one (in other words what was 1 becomes 2, was 2 becomes 3 and so on).</p>
+<p>Additionally, the footnote references now are preceded by the name of the document (and pandoc has changed the matching references in the text as well). This markdown will now combine well with other sources.</p>
+<p>Next, let's use a template (see essay-template01.md) to add a custom header and format the authors names:</p>
+<pre class="sourceCode markdown"><code class="sourceCode markdown"><span class="fu"># $title$ {.title}</span>
+
+&lt;div class=&quot;separator&quot;&gt;&amp;#172;&lt;/div&gt;
+$for(author)$
+&lt;div class=&quot;author&quot;&gt;$author$&lt;/div&gt;
+$endfor$
+
+$body$
+$for(include-after)$
+$include-after$
+$endfor$</code></pre>
+<p>Now putting it all together:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> David_Crusoe.md --to markdown --template essay-template-01.md --no-wrap --id-prefix=David_Crusoe.md- --base-header-level 2</code></pre>
+<p><em>Devilish detail</em>: Note the use of the --no-wrap option. This disables pandoc's automatic text wrapping feature when outputting, in this case, markdown. A subtle bug we discovered was that long titles were being line wrapped which would then break the h2 header in the template (where the <span class="math"><em>t</em><em>i</em><em>t</em><em>l</em><em>e</em></span> variable is expanded on a line starting with ## so that only the first line was considered part of the header). Thankfully this behaviour can be disabled with --no-wrap.</p>
+<h2 id="use-pandoc-to-convert-multiple-markdown-source-files-to-an-epub">Use pandoc to convert multiple markdown source files to an EPUB</h2>
+<p>Open the file build01.sh, it contains the following:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="co">#!/bin/bash</span>
+
+<span class="co"># blank the reader.md file</span>
+<span class="kw">&gt;</span> <span class="kw">reader.md</span>
+
+<span class="co"># process all the files listed in ESSAYS in a loop</span>
+<span class="co"># use &gt;&gt; to append each output to reader.md</span>
+<span class="kw">for</span> <span class="kw">i</span> in <span class="kw">`cat</span> ESSAYS<span class="kw">`</span>
+<span class="kw">do</span>
+<span class="kw">pandoc</span> <span class="st">&quot;</span><span class="ot">$i</span><span class="st">&quot;</span> \
+    <span class="kw">--to</span> markdown \
+    <span class="kw">--template</span> essay-template-01.md \
+    <span class="kw">--no-wrap</span> \
+    <span class="kw">--id-prefix</span>=<span class="st">&quot;</span><span class="ot">${i}</span><span class="st">-&quot;</span> \
+    <span class="kw">&gt;&gt;</span> <span class="kw">reader.md</span>
+
+<span class="co"># ensure a blank line at the end of each essay</span>
+<span class="kw">echo</span> <span class="kw">&gt;&gt;</span> reader.md
+
+<span class="kw">done</span>
+
+<span class="co"># Make the EPUB from reader.md</span>
+<span class="kw">pandoc</span> \
+    <span class="kw">--epub-chapter-level</span>=1 \
+    <span class="kw">--toc-depth</span>=1 \
+    <span class="kw">-o</span> reader.epub \
+    <span class="kw">reader.md</span></code></pre>
+<p>Run the build01 script by typing:</p>
+<pre><code>bash build01.sh</code></pre>
+<p><em>Devilish detail</em>: When combining all the markdown into a single document, all the footnotes would be merged together and displayed in one large section at the end of the EPUB. A crucial pandoc feature is the --epub-chapter-level option which in addition to splitting the source (back) into separate files (which makes the document lighter for an e-reader), it also puts footnotes back into each individual essay.</p>
+<h2 id="using-a-table-of-contents-to-order-the-epub">Using a Table of Contents to order the EPUB</h2>
+<p>In the step above, the names and order of the essays added to the EPUB output is set by using a simple text file (named ESSAYS).</p>
+<p>For the INC workflow, we created a custom script (expand-toc.py) that allows a table of contents file written in markdown format to order the contents of the EPUB. The script expects the name of a table of contents file containing (markdown formatted) links to the essays in the order they should appear.</p>
+<p>As an additional feature, the table of contents itself is output first allowing a customized table of contents display beyond the automatic table of contents feature of pandoc. To do this, the script remaps the links to the first id found in the linked-to file; for this reason it's important that the individual files (or at least their filtered output, see below) begin with a unique heading.</p>
+<p>To customize the output of each file to include alterations developed in the previous step (such as patching the footnotes &amp; using a custom template), the expand_toc script has a --filter option that should point to a bash script that receives the input filename as the first parameter and which should output to <em>stdout</em>.</p>
+<p>Finally, expand-toc.py has a --section-pages option that outputs separate pages for each section header in the table of contents.</p>
+<p>Open the file essay.sh, it should contain the following:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="co">#!/bin/bash</span>
+
+<span class="kw">pandoc</span> \
+    <span class="kw">--to</span> markdown \
+    <span class="kw">--template</span> essay-template-02.md \
+    <span class="kw">--no-wrap</span> \
+    <span class="kw">--base-header-level</span> 2 \
+    <span class="kw">--id-prefix</span>=<span class="ot">$1</span>- \
+    <span class="ot">$1</span></code></pre>
+<p>Make sure to make this script is executable:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">chmod</span> +x essay.sh</code></pre>
+<p>Now you can use the expand_toc script to create the compiled reader.md document:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">scripts/expand_toc.py</span> toc.md --filter ./essay.sh --section-pages <span class="kw">&gt;</span> reader.md</code></pre>
+<p>And convert this into an EPUB:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">pandoc</span> --self-contained --epub-chapter-level=2 --toc-depth=2 -o reader.epub reader.md</code></pre>
+<h2 id="installing-make">Installing make</h2>
+<p>The GNU <em>make</em> utility is a program that can help orchestrate your build scripts. See the <a href="http://digitalpublishingtoolkit.org/2014/10/make-book/">related blog post on how make has been used in the INC subgroup</a>.</p>
+<p>Mac: One way to install make is to install Apple's XCode development tools. This is either available on your Mac's original system discs, via the Apple App store, or via the Apple developers website. On recent systems, you can simply open the Terminal (in Applications/Utilities) and type:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">make</span></code></pre>
+<p>A message should then tell you how to install the program. If make is correctly installed you will see the message:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">make</span>: *** No targets specified and no makefile found.  Stop.</code></pre>
+<p>Ubuntu:</p>
+<p>You may need to install the &quot;build-essentials&quot; package:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">sudo</span> apt-get install build-essentials</code></pre>
+<p>Debian:</p>
+<p>Make is likely already installed, try running it from the commandline.</p>
+<h2 id="create-a-makefile">Create a makefile</h2>
+<p>A <em>Makefile</em> can be seen as a kind of <a href="http://zgp.org/static/scale12x/">executable notebook</a> that helps organize ad hoc build scripts into a format that understands how the pieces fit together as <em>targets</em> and <em>dependencies</em>.</p>
+<p>Open the file <em>makefile</em>, it contains the following:</p>
+<pre class="sourceCode makefile"><code class="sourceCode makefile"><span class="dt">sources</span><span class="ch">=$(</span><span class="kw">shell</span><span class="st"> scripts/expand_toc.py --list toc.md</span><span class="ch">)</span>
+
+<span class="dv">all:</span><span class="dt"> reader.epub</span>
+
+<span class="dv">reader.md:</span><span class="dt"> toc.md </span><span class="ch">$(</span><span class="dt">sources</span><span class="ch">)</span>
+    scripts/expand_toc.py toc.md --filter ./essay.sh --section-pages &gt; reader.md
+
+<span class="dv">reader.epub:</span><span class="dt"> reader.md styles.css metadata.xml</span>
+    pandoc <span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-self-contained </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-epub-chapter-level=2 </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-epub-stylesheet styles.css </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-epub-metadata metadata.xml </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-toc-depth=2 </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">o reader.epub </span><span class="ch">\</span>
+        reader.md</code></pre>
+<p><em>Devlish detail</em>: The indented lines of a makefile <em>must</em> use the tab character (and not spaces). In SublimeText, you can select text to &quot;show invisibles&quot;. You should see the long unbroken dash of a tab character before each command. Be careful when cutting and pasting code into a makefile that no spaces get introduced or make will starting inexplicably complaining.</p>
+<p>Note how the two command lines from the build02.sh script have been turned into rules of the form:</p>
+<pre class="sourceCode makefile"><code class="sourceCode makefile"><span class="dv">target:</span><span class="dt"> dependencies ...</span>
+    command(s) to build the target</code></pre>
+<p>To use the makefile, simple type:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">make</span></code></pre>
+<p>To trigger the build process. By default the all script will build creating first the reader.md, and then reader.epub.</p>
+<p>In the first line, the expand_toc.py script's --list option is used to produce the list of markdown sources in a format (one file per line) that is usable in the makefile. These sources are listed as a dependency to <em>reader.md</em>. If you alter one of the linked to markdown sources, <em>make</em> will know that it needs to rebuild first <em>reader.md</em> and then <em>reader.epub</em>. If you subsequently alter just the <em>styles.css</em> file, however, only the final step will be repeated to update <em>reader.epub</em>.</p>
+<h2 id="add-epub-trailers-as-a-target-to-the-makefile">Add EPUB trailers as a target to the makefile</h2>
+<p>A major benefit to using a makefile is the ability to produce a number of different outputs by creating multiple &quot;targets&quot; and rules based on the same sources. In this case we use the <a href="http://digitalpublishingtoolkit.org/2014/10/epub-trailers/">epubtrailer script</a> to take the epub resulting from pandoc, and create a GIF-format book trailer.</p>
+<p>To use the epubtrailer.py script, you will need the Python Image Library, as well as the images2gif python library. If you have installed the python package manager <em>pip</em>, you can install both with the command:</p>
+<pre><code>sudo pip install PIL images2gif</code></pre>
+<p>Now add the following lines to the end of your makefile:</p>
+<pre class="sourceCode makefile"><code class="sourceCode makefile"><span class="dv">reader-trailer.gif:</span><span class="dt"> reader.epub</span>
+    scripts/epubtrailer.py <span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-width 320 </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">-height 240 </span><span class="ch">\</span>
+        <span class="ch">-</span><span class="fu">o reader-trailer.gif </span><span class="ch">\</span>
+        reader.epub</code></pre>
+<p>As mentioned above (see <em>devlish detail</em>), make sure that you put an actual single tab character before &quot;scripts/epubtrailer.py&quot; (cutting and pasting from the web version will be using spaces!). Now type:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">make</span> reader-trailer.gif</code></pre>
+</body>
+</html>
