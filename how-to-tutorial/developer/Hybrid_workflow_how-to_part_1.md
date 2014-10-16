@@ -33,22 +33,22 @@ cabal install pandoc
 
 ## Prepare your workspace & tools
 
-Unpack, checkout or copy the sample files from the github repository. (TODO: give link)
+Unpack, checkout or copy the sample files from the github repository. Open the Terminal and use the cd command to enter the "part1" folder in the developer section of the how-to-tutorial files.
 
 ```bash
-cd Documents/tutorial
+git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+
+cd how-to-tutorial/developer/part1
 ```
 
-For the rest of the tutorial, the assumption is made that you have a Terminal open and that you have used the 'cd' command to navigate to the sample files you downloaded above.
-
-Finally as we will be working with different kinds of code (both markdown and HTML output), it is quite important to have a good code editor to work with. A code editor (as opposed to programs like "Simple Text" or Microsoft Word) provides features like language-specific syntax coloring and helpful keyboard shortcuts for say adding comments. Many code editors exist from classical commandline editors like vi and emacs, to graphical editors like gedit and [Sublime Text](http://www.sublimetext.com/). Though not Free Software, [Sublime Text](http://www.sublimetext.com/) is an excellent cross-platform code editor with many advanced features, which is free of charge to use (in Trial mode) indefinitely and a good example of the state of the art of contemporary code editors in terms of features and usability.
+As we will be working with different kinds of code (both markdown and HTML output), it is quite important to have a good code editor to work with. A code editor (as opposed to programs like "Simple Text" or Microsoft Word) provides features like language-specific syntax coloring and helpful keyboard shortcuts for say adding comments. Many code editors exist from classical commandline editors like vi and emacs, to graphical editors like gedit and [Sublime Text](http://www.sublimetext.com/). Though not Free Software, [Sublime Text](http://www.sublimetext.com/) is an excellent cross-platform code editor with many advanced features, which is free of charge to use (in Trial mode) indefinitely and a good example of the state of the art of contemporary code editors in terms of features and usability.
 
 
 ## Use pandoc to convert a single markdown source file to HTML & EPUB
 
-As you may have seen in Step 5 of the [Hybrid Workflow Howto for Editors](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-introduction-editing-steps/), you can use the pandoc program to convert from one file format to another (such as in that example from Word DOCX to Markdown). In this step we use pandoc to convert an already edited markdown file into first HTML, and then to an EPUB.
+As you may have seen in Step 5 of the [Hybrid Workflow Howto for Editors](http://digitalpublishingtoolkit.org/2014/10/hybrid-workflow-how-to-introduction-editing-steps/), you can use the pandoc program to convert from one file format to another (such as in that example from Word DOCX to Markdown). In this step we use pandoc to convert an edited markdown file as it would arrive from an editor into first HTML, and then to an EPUB.
 
-Open the file essays/Kyle-Jarett.md in your editor, it begins:
+Open the file Kylie-Jarett.md in your editor, it begins:
 
 ```markdown
 # A Database of Intention?
@@ -62,19 +62,30 @@ be discovered, subpoenaed, archived, tracked, and exploited for all
 sorts of ends’.[^1]
 ```
 
-In the terminal, and having used the *cd* command to get to the folder with the sample files, type the following:
+In the terminal type the following. Note that once you type the K of the filename you should be able to press the tab key to "auto-complete" the name of the file:
 
 ```bash
-pandoc essays/Kylie-Jarrett.md 
+pandoc Kylie-Jarrett.md 
 ```
 
-By default pandoc will attempt to guess the type of the input file based on the file extension. In this case the ".md" means that pandoc assumes Markdown input. By default pandoc output's HTML and dumps it to the terminal. To save it to a file, you can use pandoc's -o option:
+By default pandoc will attempt to guess the type of the input file based on the file extension. In this case the ".md" means that pandoc assumes Markdown input. By default pandoc produces HTML and prints it to the terminal rather than saving it in a file. To save it to a file, you can use pandoc's -o option:
 
 ```bash
-pandoc essays/Kylie-Jarrett.md  -o test.html
+pandoc Kylie-Jarrett.md -o test.html
 ```
 
-Use a web browser to open the resulting file (test.html) and check the output. It should appear as formatted HTML. However there are likely some glitches in the text. This is because pandoc's default HTML output is merely a fragment, not a complete HTML document, and some information (such as the proper encoding of the text) is not included. If you open test.html in your editor, you see that the file begins:
+You can also explicitly state input and output types with pandoc's --from and --to options. This can be useful if a filename misses a recognizable extension:
+
+```bash
+pandoc --from markdown --to html Kylie-Jarrett.md -o test.html
+```
+
+In general the order of the parameter doesn't really matter, as long as the options precede their values, so the following would be the same:
+
+```bash
+pandoc -o test.html --to html --from markdown Kylie-Jarrett.md
+```
+Use a web browser to open the resulting file (test.html) and check the output. It should appear as formatted HTML. However there are likely some glitches in the text. This is because pandoc's default HTML output is merely a fragment, and not a complete HTML document, and some information (such as the proper encoding of the text) is not included. If you open test.html in your editor, you see that the file begins:
 
 ```html
 <h1 id="a-database-of-intention">A Database of Intention?</h1>
@@ -82,13 +93,13 @@ Use a web browser to open the resulting file (test.html) and check the output. I
 ...
 ```
 
-Next, run pandoc again, this time adding the --standalone (or -s) option:
+Note that pandoc automatically assigns an id to the header. This is useful when linking. Next, run pandoc again, this time adding the --standalone (or -s) option:
 
 ```bash
 pandoc essays/Kylie-Jarrett.md --standalone -o test.html
 ```
 
-If you reload the page in the browser, you should see that the character gliches are corrected. If you look at test.html in your editor, you see it now begins:
+If you reload test.html in the browser, you should see that the character gliches are corrected. If you look at test.html in your editor, you see it now begins:
 
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -152,7 +163,7 @@ The resulting document now looks like this:
 
 Pandoc detects the title and author settings in the metadata and automatically adds them to both the HTML header (as the title and a meta tag), as well as creating an h1 and h2 tag at the start of the document. The problem now is that the title and author's name appears twice. It's best to remove the title and author's name form the body of the document.
 
-Alter the essay to begin like this:
+Remove the original title & author lines from  Kylie-Jarrett.md so that it looks like this:
 
 ```markdown
 ---
@@ -167,15 +178,15 @@ be discovered, subpoenaed, archived, tracked, and exploited for all
 sorts of ends’.[^1]
 ```
 
-And finally repeat the pandoc command to update the output:
+And once again:
 
 ```bash
 pandoc essays/Kylie-Jarrett.md --standalone -o test.html
 ```
 
-In the next step we see how to use pandoc's template feature to customize how metadata is displayed in the output.
+This should look better. In the next step we see how to use pandoc's template feature to customize how the metadata is displayed in the output. Using metadata in this way is a useful way to create a more flexible source document that can produce different kinds of outputs and tailored to different contexts.
 
-The format pandoc uses for metadata is called YAML. One important detail to note is that if a title includes a colon character (:), you need to put quotation marks around the title, as in:
+The format pandoc uses for metadata is called [YAML](http://www.yaml.org/). One important detail to note is that if a title includes a colon character (:), you need to put quotation marks around the title, as in:
 
 ```yaml
 ---
@@ -184,7 +195,7 @@ author: Dave Crusoe
 ---
 ```
 
-To give multiple authors, you can use a YAML list, as in:
+To give multiple authors, you can use a list by using square brackets and separating names with commas, as in:
 
 ```yaml
 ---
@@ -193,7 +204,7 @@ author: [Mél Hogan, M.E. Luka]
 ---
 ```
 
-When converted to HTML for instance:
+When converted to HTML produces:
 
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -296,33 +307,33 @@ h1 {
 And now bring it all together with:
 
 ```bash
-pandoc essays/Kylie-Jarrett.md --standalone --template custom.html --css styles.css -o test.html
+pandoc Kylie-Jarrett.md --standalone --template custom.html --css styles.css -o Kylie-Jarrett.html
 ```
 
 ## Produce an EPUB
 
-You can easily [produce an EPUB from a markdown source with pandoc](http://johnmacfarlane.net/pandoc/epub.html) by simply specifying an epub extension to the output file. Note that the standalone option is assumed with an epub so we can leave it off.
+You can easily [produce an EPUB from a markdown source with pandoc](http://johnmacfarlane.net/pandoc/epub.html) by simply specifying an EPUB extension to the output file. Note that the --standalone option is implicit with an EPUB:
 
 ```bash
-pandoc essays/Kylie-Jarrett.md -o test.epub 
+pandoc Kylie-Jarrett.md -o Kylie-Jarrett.epub 
 ```
 
-To specify custom CSS, use the epub-stylesheet option:
+To specify custom CSS with an EPUB, use the --epub-stylesheet option:
 
 ```bash
-pandoc essays/Kylie-Jarrett.md --epub-stylesheet styles.css -o test.epub
+pandoc Kylie-Jarrett.md --epub-stylesheet styles.css -o Kylie-Jarrett.epub
 ```
 
 Note that pandoc places an automatically generated table of contents as the last page, to move this to the front use the --table-of-contents option.
 
 
 ```bash
-pandoc essays/Kylie-Jarrett.md --epub-stylesheet styles.css -o test.epub --table-of-contents
+pandoc Kylie-Jarrett.md --epub-stylesheet styles.css -o Kylie-Jarrett.epub --table-of-contents
 ```
 
-## Next...
+## Next time...
 
-In part 2 of this tutorial, we will work on a collection of essays to produce a compiled reader, and create a makefile to help.
+In part 2 of this tutorial, we will work on a script to compile a collection of essays into a single Reader EPUB.
 
 
 [INC]: http://networkcultures.org
