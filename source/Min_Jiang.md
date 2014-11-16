@@ -50,8 +50,16 @@ mandate content filtering by commercial operators within its borders.
 So, Baidu filters too, but its filtering patterns are much subtler and
 more nuanced than that performed by the Great Firewall.
 
-[IMG1]
-("Table 1. Distribution of Baidu and Google’s Link Accessibility (2011).")
+||Baidu|Google
+---|---|---
+**Total number of links** | **3160** | **3160**
+**Links inaccessible from China** | **171** | **400**
+&nbsp;&nbsp;&nbsp; Bad links | 125 | 91
+&nbsp;&nbsp;&nbsp; Links inaccesible due to search engine filtering | 22 (partial filtering of blockpage by Baidu) | 10 (by Google SafeSearch auto-block)
+&nbsp;&nbsp;&nbsp; Links inacessible from China but accessible from the U.S. (blocked by GFW) | 24 | 299 (among them, 180 'connection reset')
+&nbsp;&nbsp;&nbsp; **Links inaccessible due to GFW blocking** | **24** | **299**
+
+Table 1. Distribution of Baidu and Google’s Link Accessibility (2011).
 
 Second, in terms of search results overlapping and ranking, I found
 Google and Baidu are actually quite different. Based on the search

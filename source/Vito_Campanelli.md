@@ -30,7 +30,7 @@ so-called ‘timeline’, a reorganization of the interface so that the
 history of users' activity is shown on their profile. Compared to such
 an authentic revolution in user experience, Zuckerberg's reference
 to**frictionless sharing slipped into the
-background.[^1] ^^Indeed, only the most attentive
+background.[^1] Indeed, only the most attentive
 participants caught the important implications of the approach
 underlying this conception.
 

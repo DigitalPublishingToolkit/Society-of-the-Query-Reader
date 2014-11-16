@@ -1168,14 +1168,14 @@ sozialgeschichtliche Quelle’, in *Jahrbuch für Regionalgeschichte* 3
     http://www.univie.ac.at/igl.geschichte/tantner/wiki
     /index.php?title=Suchdienst\_des\_Roten\_Kreuz.
 
-[^52]: This was the case for the poet François Colletet’s short-lived
+[^53]: This was the case for the poet François Colletet’s short-lived52
     Bureau d’adresse: Quatorzième Journal et Suite des Avis et des
     Affaires de Paris. [29.10.1676], in: *Le Journal de Colletet,
     premier Petit journal parisien (1676)*. Supplement to: *Le Moniteur
     du Bibliophile. Gazette littéraire, anecdotique et curieuse*,
     1.1878, p. 201.
 
-[^53]: Mercedes Bunz, ‘Sozial 2.0: Herr, Knecht, Feind, Freund. Soziale
+[^54]: Mercedes Bunz, ‘Sozial 2.0: Herr, Knecht, Feind, Freund. Soziale
     Netzwerke und die Ökonomie der Freundschaft’, in *De:Bug.
     Elektronische Lebensaspekte* 120 (11 March 2008),
     http://de-bug.de/mag/5422.html, short version reprinted in: *analyse
