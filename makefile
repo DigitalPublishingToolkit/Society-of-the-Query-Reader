@@ -32,8 +32,17 @@ SotQreader.epub: SotQreader.md SotQreader-auto-metadata.xml SotQreader.css SotQr
 		--epub-embed-font=fonts/FreeUniversal-Regular.ttf \
 		--epub-embed-font=fonts/FreeUniversal-Bold.ttf \
 		--toc-depth=2 \
+		--to epub3 \
 		-o SotQreader.epub \
 		SotQreader.md
+	mv SotQreader.epub SotQreader.tmp.epub
+	python scripts/epubutils.py open SotQreader.tmp.epub --output SotQreader
+	python scripts/patch_toc.py SotQreader
+	python scripts/epubutils.py zip SotQreader.epub --input SotQreader
+	rm SotQreader.tmp.epub
+	# rm -rf SotQreader
+	#	--table-of-contents \
+
 
 # PDF (via xelatex)
 SotQreader.pdf: SotQreader.md SotQreader-auto-metadata.xml
@@ -57,7 +66,10 @@ sources=$(shell scripts/expand_toc.py --list SotQreader.toc.md)
 
 # Rule to build the entire book as a single markdown file from the table of contents file using expand_toc.py
 SotQreader.md: SotQreader.toc.md $(sources)
-	scripts/expand_toc.py SotQreader.toc.md --section-pages --filter scripts/chapter.sh > $@
+	> $@
+	cat SotQreader.title.md >> $@
+	scripts/expand_toc.py SotQreader.toc.md --section-pages --filter scripts/chapter.sh | \
+	python scripts/enable_links_markdown.py >> $@
 
 # Rule to extract authors names from the different sources
 SotQreader-auto-authors.xml: $(sources)
@@ -89,3 +101,7 @@ clean:
 # special rule for debugging variable names in this makefile
 print-%:
 	@echo '$*=$($*)'
+
+
+upload:
+	scp SotQreader.epub kafka@pandoc.networkcultures.org:/var/www

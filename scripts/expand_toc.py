@@ -16,7 +16,36 @@ import sys, re, argparse, sys, os
 from subprocess import Popen, check_output, PIPE
 from itertools import izip
 
+"""
 
+sotq style:
+
+# Theorizing Web Search
+
+* [ **Kylie Jarrett**  
+A Database of Intention?](source/Kylie-Jarrett.md)
+* [ **Andrea Miconi**  
+Dialectic of Google ](source/Andrea_Miconi.md)
+* [ **Vito Campanelli**  
+Frictionless Sharing: The Rise of Automatic Criticism ](source/Vito_Campanelli.md)
+
+
+
+toolkit style:
+
+# [01 Introduction](docs/01_introduction.md)
+<!--status: Joost adds a few things, then it's ready for copy edit.-->
+
+## [Industry promises versus reality](#industry-promises-versus-reality)
+## [What this Toolkit provides](#what-this-toolkit-provides)
+
+
+Headers / Levels / Includes/Links
+1. Rewrite the TOC
+a. Headers to divs
+b. Link Header if not already <! new >, otherwise patch/include the link
+
+"""
 def pairwise(iterable):
     "s -> (s0,s1), (s2,s3), (s4, s5), ..."
     a = iter(iterable)
@@ -35,6 +64,7 @@ parser.add_argument('--list', dest='list', action='store_true', help='output mak
 parser.add_argument('--ignore-missing', dest='ignoreMissing', action='store_true', help='')
 parser.add_argument('--filter', dest="filter", default="cat", help='script to run on each linked chapter')
 parser.add_argument('--section-pages', action='store_true', help='Output TOC headers as pages')
+parser.add_argument('--no-toc', action='store_true', help='')
 
 # parser.add_argument('--section-level', help='level from which to generate sections')
 # parser.add_argument('--section-template', help='template to generate sections')
@@ -45,8 +75,15 @@ args = parser.parse_args()
 ## otherwise return toc with links replaced to links to titles
 
 markdown_link_pattern = re.compile(r"\[(.*?)\]\((.*?)\)", re.DOTALL)
-markdown_header_pattern = re.compile(r"^(#+)(.*)$", re.M)
+markdown_header_pattern = re.compile(r"^([ \t]*\*)(.*)$", re.M)
 
+def _join (a, b):
+    ret = u""
+    if a:
+        ret += a
+    if b:
+        ret += b
+    return ret
 
 toc = args.toc
 with open(toc) as f:
@@ -71,8 +108,6 @@ with open(toc) as f:
         split.insert(0, None)
         split.insert(0, None)
 
-        ## PART 1: Output the TOC with transformed headings & mapped links,
-        ## NB: Cache the (filtered) sources for PART 2
         sources_text = {}
 
         def id_for_source (src):
@@ -95,27 +130,37 @@ with open(toc) as f:
             label, link = m.groups()
             return u"[{0}]({1})".format(label,"#"+id_for_source(link))
 
+        ## PART 1: TOC
+        firstOutput = True
         for header_hashes, header, text in grouped(split, 3):
-            if header:
-                # Up the h-level of > 1's by 1 (so 2 ==> 3)
-                n = len(header_hashes)
-                # if n > 1:
-                #     n += 1
-                # print (((u"#"*n)+header).encode("utf-8"))
-                print (u"""<div class="toc_h{0}">{1}</div>\n""".format(n,header.lstrip()).encode("utf-8"))
+            # print ("HH", header_hashes)
+            # print ("HEADER", header)
+            # print ("-"*10)
+            # continue
+
+            # if header:
+            if header_hashes != None and not args.no_toc:
+                sys.stdout.write(header_hashes)
+                if firstOutput:
+                    firstOutput = False
             # OUTPUT TEXT WITH REPLACED LINKS
-            print (markdown_link_pattern.sub(toc_link_sub, text).encode("utf-8"))
-        print ()
+            repl = markdown_link_pattern.sub(toc_link_sub, _join(header, text))
+            if not args.no_toc:
+                sys.stdout.write(repl.encode("utf-8"))
+
+        if not args.no_toc:
+            sys.stdout.write("\n\n")
 
         ## PART 2: Output the (filtered) sections markdown in order
         ## with TOC headers at the right spots (section pages)
         ##
         for header_hashes, header, text in grouped(split, 3):
             if header and args.section_pages:
-                n = len(header_hashes)
-                print (((u"#"*n)+header).encode("utf-8"))
+                # MAP TOP LEVEL LIST ITEMS TO "Section" H1's
+                if header_hashes.startswith("*"):
+                    print(u"# {0}".format(header).encode("utf-8"))
                 print ()
-            for m in markdown_link_pattern.finditer(text):
+            for m in markdown_link_pattern.finditer(_join(header, text)):
                 src = m.groups()[1]
                 print (sources_text[src])
                 print () 

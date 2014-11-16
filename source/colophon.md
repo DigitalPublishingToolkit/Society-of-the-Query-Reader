@@ -12,6 +12,8 @@ Design: Katja van Stiphout
 
 Cover design: Studio Inherent
 
+EPUB design: Michael Murtaugh
+
 Printer: Joh. Enschedé, Amsterdam
 
 Publisher: Institute of Network Cultures, Amsterdam, 2014

@@ -198,8 +198,7 @@ provide a more positive counterbalance to Carr’s provocative arguments,
 Kosslyn reinforces the concept that, 'constant connectivity has posed
 various tradeoffs; nothing is without a price. But in this case – on
 balance – it’s a small price. I’m a better thinker now than I was before
-I integrated the internet into my mental and emotional processing.'^^
-[^5]
+I integrated the internet into my mental and emotional processing.'[^5]
 
 Even positive defences of the internet generally suffer from this kind
 of before and after television makeover-show metaphor. This type of

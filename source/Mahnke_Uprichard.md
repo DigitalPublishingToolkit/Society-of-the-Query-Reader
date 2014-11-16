@@ -338,8 +338,7 @@ more structured activity of play. Huizinga (1950) in Homo Ludens notes
 that play is a 'free activity standing quite consciously outside of
 “ordinary” life as not being serious, but at the same time absorbing the
 player intensely and utterly.' Frivolity, on the other hand, is more
-transitory and generally without rules or order.^^
-[^20]
+transitory and generally without rules or order.[^20]
 
 In *The Archaeology of the Frivolous* Jacques Derrida argues, among
 other things, that frivolity is always seen as ‘bad’ and ‘dangerous’ and

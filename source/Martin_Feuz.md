@@ -135,7 +135,7 @@ professional domain or learning more about a health issue, as is the
 focus of this text. From such a perspective it starts to become clear
 that search results personalization, with its self-referential
 mechanisms – termed by some an echo chamber[^10] or
-filter bubble[^11] ^^– is especially problematic for
+filter bubble[^11] – is especially problematic for
 informational search queries. This is because it is precisely the user's
 intention to move beyond already familiar knowledge and explore novel
 terrain. Thus, the analysis and argument I develop will focus on this

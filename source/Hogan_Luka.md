@@ -1259,7 +1259,7 @@ World Around Us, Toronto: McClelland & Stewart, 2012.
 [^15]: See an iteration of Google nation here:
     http://www.googlenation.net/.
 
-[^16]: ^^'Death is Nothing at all', Poemhunter.com, 28 November 2004,
+[^16]: 'Death is Nothing at all', Poemhunter.com, 28 November 2004,
     http://www.poemhunter.com/poem/death-is-nothing-at-all.
 
 [^17]: See, https://soundcloud.com/clint-mansell/death-is-the-road-to-awe.

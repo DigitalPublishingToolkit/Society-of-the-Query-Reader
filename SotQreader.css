@@ -47,21 +47,37 @@ a {
     text-decoration: none;
     border-bottom: 1px dotted blue;
 }
-a.footnoteRef {
-    padding: 0.4em;
-    font-size: 12px;
-    font-weight: bold;
-    text-transform: uppercase;
-    background: #CCC;
-    color: white;
-    border-bottom: none;
-    vertical-align: 0.4em;
+a.footnoteRef, a.footnote_backlink {
+    padding: 2px;
+    font-size: 60%;
+    border-bottom: 1px dotted blue;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    position: relative;
+    top: -0.1em;
+    color: blue;
+    white-space: nowrap;
 }
+
 a.footnoteRef sup {
     vertical-align: baseline;
-    font-size: 12px;
 }
+
 div.footnotes a {
     padding-left: 0.5em;
     padding-right: 0.5em;
+}
+
+nav ul {
+    list-style: none;
+}
+nav ul {
+    padding-left: 0;
+}
+nav li > ul {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+nav li {
+    margin-bottom: 1em;
 }

@@ -290,7 +290,7 @@ relevance created by the apps on the devices – and these foremost
 address a notion of relevance based on the pragmatic idea of increased
 user interaction resulting in more sales.
 
-##References {..references}
+##References {.references}
 
 Augé, Marc. *Non-Places: Introduction to an Anthropology of
 Supermodernity*, London/New York: Verso, 1995.
